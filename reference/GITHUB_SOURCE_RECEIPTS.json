@@ -1,0 +1,98 @@
+{
+  "checked_on": "2026-09-27",
+  "access": "public read-only; no token saved",
+  "records": [
+    {
+      "repo": "stark_heir",
+      "path": "MASTER_PROJECT_BIBLE.md",
+      "commit": "038b4ec2189e2408352bfa9acabfe0f050402133",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/stark_heir/038b4ec2189e2408352bfa9acabfe0f050402133/MASTER_PROJECT_BIBLE.md",
+      "bytes": 11786,
+      "sha256": "5d39119af7ff7ce663ae083d3ef4f79219163b600be6902507c5da6153c04c2f"
+    },
+    {
+      "repo": "stark_heir",
+      "path": "HANDOFF.md",
+      "commit": "038b4ec2189e2408352bfa9acabfe0f050402133",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/stark_heir/038b4ec2189e2408352bfa9acabfe0f050402133/HANDOFF.md",
+      "bytes": 2440,
+      "sha256": "4ff317b6d472206fa6de711c9dab857147e2f446303d898f08c3895b64fe19f0"
+    },
+    {
+      "repo": "stark_heir",
+      "path": "foundation/CROSS_PROJECT_LAW.md",
+      "commit": "038b4ec2189e2408352bfa9acabfe0f050402133",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/stark_heir/038b4ec2189e2408352bfa9acabfe0f050402133/foundation/CROSS_PROJECT_LAW.md",
+      "bytes": 10020,
+      "sha256": "0826ea3bdc39161406e5b77c8c0a2c26c277652acaaf56eee549e8fc88772dd5"
+    },
+    {
+      "repo": "stark_heir",
+      "path": "foundation/ADAPTATION_TALENT_STUDY.md",
+      "commit": "038b4ec2189e2408352bfa9acabfe0f050402133",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/stark_heir/038b4ec2189e2408352bfa9acabfe0f050402133/foundation/ADAPTATION_TALENT_STUDY.md",
+      "bytes": 7996,
+      "sha256": "20f5171b685f281e00c94dcaed7ad7127ef2afff922a8d5c117522bd54e7e0d2"
+    },
+    {
+      "repo": "stark_heir",
+      "path": "reference/talent_master_v2.md",
+      "commit": "038b4ec2189e2408352bfa9acabfe0f050402133",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/stark_heir/038b4ec2189e2408352bfa9acabfe0f050402133/reference/talent_master_v2.md",
+      "bytes": 150950,
+      "sha256": "eaced0a52af1ca30c54a4352487a08dc38fc8e39cac274b4ff336b713e723b85"
+    },
+    {
+      "repo": "stark_heir",
+      "path": "tools/mcu_verify.py",
+      "commit": "038b4ec2189e2408352bfa9acabfe0f050402133",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/stark_heir/038b4ec2189e2408352bfa9acabfe0f050402133/tools/mcu_verify.py",
+      "bytes": 13064,
+      "sha256": "1844bfc0cca3c2fc2725de46d98eab7983a88acedd4809a4db9600352f94d96b"
+    },
+    {
+      "repo": "soul-land-universal-kit",
+      "path": "AGENTS.md",
+      "commit": "4e0dbc06e12983f6a3ca5aab4e8166aedb327345",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/soul-land-universal-kit/4e0dbc06e12983f6a3ca5aab4e8166aedb327345/AGENTS.md",
+      "bytes": 3914,
+      "sha256": "d7044c6616e3aa6f77be9920f20e40868bee235741f5fcee619534c34e8c2941"
+    },
+    {
+      "repo": "soul-land-universal-kit",
+      "path": "SOUL_LAND_UNIVERSAL_KIT/00_START_HERE.md",
+      "commit": "4e0dbc06e12983f6a3ca5aab4e8166aedb327345",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/soul-land-universal-kit/4e0dbc06e12983f6a3ca5aab4e8166aedb327345/SOUL_LAND_UNIVERSAL_KIT/00_START_HERE.md",
+      "bytes": 5559,
+      "sha256": "99072a34da2773b3243029ab2c8448b04cfd1f48e622179e89243b86875511f1"
+    },
+    {
+      "repo": "soul-land-universal-kit",
+      "path": "SOUL_LAND_UNIVERSAL_KIT/10_HANDOFF_LAW.md",
+      "commit": "4e0dbc06e12983f6a3ca5aab4e8166aedb327345",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/soul-land-universal-kit/4e0dbc06e12983f6a3ca5aab4e8166aedb327345/SOUL_LAND_UNIVERSAL_KIT/10_HANDOFF_LAW.md",
+      "bytes": 4739,
+      "sha256": "7f55579e48de794830ef4c428beb5e9016f3ad2cbe2748c2c8f9d2f3f2f86569"
+    },
+    {
+      "repo": "lan_shen",
+      "path": "HANDOFF.md",
+      "commit": "e1166d574c289122ffdb0bddd45e7622aee3c50e",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/lan_shen/e1166d574c289122ffdb0bddd45e7622aee3c50e/HANDOFF.md",
+      "bytes": 24044,
+      "sha256": "ffc1803853ebe7c9613a1857703fa23e3e4f92ddf61c66ba10a2188ee3d2df04"
+    },
+    {
+      "repo": "lan_shen",
+      "path": "foundation/V2_EPOCH.md",
+      "commit": "e1166d574c289122ffdb0bddd45e7622aee3c50e",
+      "url": "https://raw.githubusercontent.com/gm5206663-bit/lan_shen/e1166d574c289122ffdb0bddd45e7622aee3c50e/foundation/V2_EPOCH.md",
+      "bytes": 1993,
+      "sha256": "2037d1724d1645b470a80d57121b4365188b200beac2f184be6d5a22be4bb590"
+    }
+  ],
+  "full_file_vendored": [
+    "stark_heir/reference/talent_master_v2.md"
+  ],
+  "other_files": "consulted, not mirrored"
+}

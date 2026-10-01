@@ -1,0 +1,6 @@
+Observed entry result, summarized from the executed tool call:
+Command: PYTHONDONTWRITEBYTECODE=1 python tools/run_all.py --ship 4
+Exit: 1
+FAIL: MIRROR: stale generated STATUS.md
+STRUCTURE: FAIL
+Suite stopped before self-tests/release. This file is a retrospective result summary, not original captured stdout.

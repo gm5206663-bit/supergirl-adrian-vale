@@ -1,0 +1,56 @@
+{
+  "status": "candidate_only",
+  "chapter": 8,
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_08_The_Woman_Who_Stayed_R1.md",
+  "draft_sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+  "depends_on": {
+    "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+    "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+    "status": "adopted_U32"
+  },
+  "source_span": "S01E05 intended Livewire — Thanksgiving, Eliza visit, Leslie Willis shock jock lightning powers, plus U31 Earth mother/sister figure Evelyn Hart visit and Kara misunderstanding",
+  "physical_endpoint": {
+    "adrian": "back in civilian life after private change/reseal; Evelyn visit Thanksgiving; identity protected; ordinary work continues",
+    "kara": "saves helicopter pilot and Leslie, lightning passes through to Leslie, hospital visit, CatCo Livewire attack elevator rescue, Cat bait radio show, water main short out Livewire, Thanksgiving leftovers with Winn, sees James/Lucy return, responds to new siren",
+    "evelyn_hart": "visits National City for Thanksgiving week, stays modest hotel, brings soup and theater mask magnet, mother/sister figure, not romantic, leaves after Thanksgiving leaving chipped mug",
+    "leslie_willis_livewire": "shock jock demoted to traffic chopper, helicopter lightning, powers electricity, alley discovery, blackouts city, CatCo attack, elevator drop, capacitor trap fails, water pipe short out comatose, DEO custody",
+    "eliza_danvers": "visits for Thanksgiving, tension Alex blame for letting Kara become Supergirl, flashback roof flight, Alex tells mother works for DEO not lab, makeup apology harder on Alex wanted better, confession Jeremiah worked for DEO under Hank to keep Kara from being studied, died mysterious",
+    "hank_henshaw": "Element X deduction, red-eye glimpse in chamber and corridor, disarm airport bomb earlier, suspicious",
+    "winn": "Friendsgiving Orphan Black Thai food, kisses Kara cheek awkward, father in prison",
+    "james_lucy": "return from Ojai trip, divert attention"
+  },
+  "candidate_knowledge": {
+    "kara": "Meets Evelyn Hart, initially misunderstands as romantic girlfriend due to close caring behavior, later clarified mother/sister figure who helped Adrian when he arrived and sealed power, important to him. Learns Evelyn knows Adrian has abilities and seal and wants ordinary life, not Kael name or Fort Rozz details.",
+    "adrian": "Evelyn knows he has abilities and seal, knows he wants ordinary life, knows CatCo job, does not know Kael name or mass-killing culpability or prisoner fear network. Considers her family.",
+    "evelyn_hart": "Knows Adrian as Adrian Vale private kind trying hard, knows he has unusual abilities and uses band/device to live human-level, knows he works for Cat Grant alongside Kara Danvers, meets Kara, notices Kara likes Adrian.",
+    "cat": "Demotes Leslie to traffic chopper instead of buying out contract, feels responsible for encouraging nastiness ratings, protective arm over Kara, offers self as bait via radio show where it all began.",
+    "leslie_willis": "Shock jock annual list not grateful Supergirl, vulgarity body/dress/sexuality, helicopter lightning powers, blackout, CatCo attack, elevator, water short out",
+    "alex": "Eliza blames for letting Kara become Supergirl, tells mother works for DEO, makeup, hears Jeremiah DEO deal",
+    "kara_alex": "Eliza confession Jeremiah worked for DEO under Hank to keep Kara from being studied, died mysterious, suspicious Hank red eyes",
+    "reader_only": "Evelyn mother/sister dynamic, theater mask magnet, chipped mug gift, Kara jealousy and clarification"
+  },
+  "power_sequence": [
+    "sealed ordinary work with Evelyn visit logistics",
+    "Kara rescues helicopter pilot and helicopter, grabs Leslie hand, lightning passes through Kara to Leslie (source beat)",
+    "Kara shields Cat from Livewire blast, catches elevator, fights Livewire",
+    "Kara uses x-ray vision to spot water main and shorts Livewire",
+    "Adrian remains sealed civilian support, no masked intervention needed, identity protected"
+  ],
+  "original_technology_scope": "Fictional drone not in this episode, Livewire electrical powers fictional, industrial capacitor trap Ghostbusters comparison fictional, water main short out fictional. No real electrical engineering guidance. Evelyn Hart original character, not imported.",
+  "source_outcomes_superseded": [
+    "No Adrian Earth support figure in source; added original character visit and Kara misunderstanding with human reaction",
+    "No masked helper at Livewire fights; Kara handles with Cat and water"
+  ],
+  "relationships": "Kara/Adrian trust, Kara misunderstands Evelyn as girlfriend then clarified sister family by staying, Evelyn perceptive warmth, Cat/Kara protective, Alex/Eliza mother-daughter tension and reconciliation, Eliza/Jeremiah DEO deal, Winn/Kara awkward kiss, James/Lucy Ojai return.",
+  "open_threads": [
+    "Astra/Non claims and wider prisoner network",
+    "Hank Henshaw red-eye secret and Jeremiah Danvers mystery",
+    "Lord testing and emotional connections knowledge",
+    "Livewire custody and possible return",
+    "Evelyn Hart future visits and Adrian support network",
+    "Kara/Adrian friendship and Kara feelings after misunderstanding"
+  ],
+  "romance_selection": null,
+  "next_source_order": "Intended order after Livewire: How Does She Do It? already done, next is Livewire (this chapter), then Red Faced, Human for a Day, etc. Research before prose."
+}

@@ -1,0 +1,29 @@
+{
+  "prior_manuscripts": {
+    "chapters/Chapter_01_Adrian_Vale.md": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+    "chapters/Chapter_02_A_Familiar_Face.md": "ca0c7914288a614e90c43beb187a5d5a2648a4e1671da6dcf98b49ccc35e8e0f",
+    "chapters/Chapter_03_The_Name_He_Feared.md": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+    "chapters/Chapter_04_What_Remains.md": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+    "chapters/Chapter_05_In_Plain_Sight.md": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+    "chapters/Chapter_06_Under_the_Headline.md": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+    "drafts/Chapter_01_Adrian_Vale_R1.md": "6dd0f07897db0573684077491298bb04c016852680f03eb1f6b63a7dc147569c",
+    "drafts/Chapter_01_Adrian_Vale_R2.md": "93176d3a49f1dfb22d2f3752132d8d06e7a971112f9cdba63ffe8be30e053983",
+    "drafts/Chapter_01_Adrian_Vale_R3.md": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+    "drafts/Chapter_02_A_Familiar_Face_R1.md": "a75d9c54b6b201e0202f2d2e5c6f0e9f2b4dfc17a23dcc6ac9e9323793c3bbc8",
+    "drafts/Chapter_02_A_Familiar_Face_R2.md": "ca0c7914288a614e90c43beb187a5d5a2648a4e1671da6dcf98b49ccc35e8e0f",
+    "drafts/Chapter_03_The_Name_He_Feared_R2.md": "7e54f52150d073fb1134c6efef95747eb826d6232ec21c34d1a8125cb7afbfeb",
+    "drafts/Chapter_03_The_Name_He_Feared_R3.md": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+    "drafts/Chapter_03_What_Came_With_Us_R1.md": "6361194474d150fec578fa2a5334ab18633a000c3503cf86fd3587a538abb1dc",
+    "drafts/Chapter_04_What_Remains_R1.md": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+    "drafts/Chapter_05_A_Place_in_the_Sky_R1.md": "5b6aecf12cda17bf0cfdb72707fcf9a6e95171818e8e9d6c062d0298e8e2bf17",
+    "drafts/Chapter_05_In_Plain_Sight_R2.md": "1041a148a6869ec3b5e20e3805cda813ceaaf213e96a7ed2f5e64f342859da3c",
+    "drafts/Chapter_05_In_Plain_Sight_R3.md": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+    "drafts/Chapter_06_Under_the_Headline_R1.md": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3"
+  },
+  "adopted7": {
+    "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+    "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed"
+  },
+  "talent_master_sha256": "eaced0a52af1ca30c54a4352487a08dc38fc8e39cac274b4ff336b713e723b85",
+  "approved_art_sha256": "e50f3c50c3a18b6689c81c0f8c973ada57d8549d29ad0008fd76c813515dfd9f"
+}

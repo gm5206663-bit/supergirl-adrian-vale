@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "chapter": 5,
+  "revision": "R2",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_05_In_Plain_Sight_R2.md",
+  "draft_sha256": "1041a148a6869ec3b5e20e3805cda813ceaaf213e96a7ed2f5e64f342859da3c",
+  "accepted": false,
+  "claimed_episode": "S01E02 — Stronger Together",
+  "span": "Brief labelled earlier-week Pilot bridge, then transformed Episode 2 arc through Cat interview setup.",
+  "sources": [
+    {
+      "id": "SRC-SG-E02-SHH",
+      "url": "https://www.superherohype.com/features/357567-supergirl-episode-2-recap-and-preview-for-next-week",
+      "title": "Supergirl Episode 2 Recap and Preview for Next Week — SuperHeroHype",
+      "accessed": "2026-09-29",
+      "verification": "Fresh chunks 0–1 this continuation: story-bearing narrative, not direct viewing. Cross-check death shorthand, Hank speculation and final-location conflict."
+    },
+    {
+      "id": "SRC-SG-E02-VULTURE",
+      "url": "https://www.vulture.com/2015/11/supergirl-recap-season-1-episode-2.html",
+      "title": "Supergirl Recap: Public Relations — Vulture",
+      "accessed": "2026-09-29",
+      "verification": "Fresh chunks 0–1 this continuation; corroborated training/harbor/Hellgrammite/Astra/AI/interview source functions. Secondary recap."
+    },
+    {
+      "id": "SRC-SG-03",
+      "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
+      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "accessed": "2026-09-29",
+      "verification": "Both chunks checked during prior audit; retained Pilot cape/cooperation source, not claimed refetched this continuation."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-P12A",
+      "status": "covered",
+      "reason": "Brief explicitly earlier-week cape from arrival blanket and James independence/support exchange; source origin Pilot.",
+      "source_ids": [
+        "SRC-SG-03"
+      ]
+    },
+    {
+      "id": "SG-P10C3",
+      "status": "changed_with_receipt",
+      "reason": "Brief practical cooperation/training arrangement after altered rescue aftermath; actual tests occur in Episode 2.",
+      "source_ids": [
+        "SRC-SG-03"
+      ]
+    },
+    {
+      "id": "SG-E02-01",
+      "status": "covered",
+      "reason": "DEO missile tests and Winn harbor alert; Kara shares destination with Alex.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-02",
+      "status": "changed_with_receipt",
+      "reason": "Breath worsens fire and hull starts dimpling; ordinary backup call brings Adrian, crew-directed towing prevents original cargo spill. Rescue exposes him publicly.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-03",
+      "status": "changed_with_receipt",
+      "reason": "Maxwell criticism targets actual fire/control risk, not nonexistent spill; Cat recognizes Adrian but still demands Supergirl’s own interview.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-04",
+      "status": "covered",
+      "reason": "Plastino guard killed/stinger evidence, Kara childhood Alura memory and species identification.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-05",
+      "status": "changed_with_receipt",
+      "reason": "Alex discloses emitters and obtains agreement after Chapter 4 warning promise; low-powered sparring teaches Kara technique.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-06",
+      "status": "changed_with_receipt",
+      "reason": "Cat encourages measured help; Winn/James learn each other knows, assist smaller rescues; James cannot promise Cat will never recognize Kara.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-07",
+      "status": "changed_with_receipt",
+      "reason": "Astra’s prisoner coercion changes when she sees public Kael footage: evacuation/surveillance, not unchanged kidnapping plan. Hellgrammite fears Kael explicitly.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-08",
+      "status": "changed_with_receipt",
+      "reason": "Alex links fictional chlorine biology/DDT food; convoy includes closed approaches, Kara cargo protection and pre-unsealed Adrian.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-09",
+      "status": "changed_with_receipt",
+      "reason": "Opening volley causes shallow graze/tire damage, but Adrian immediately stops the attacker. No Alex abduction.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-10",
+      "status": "changed_with_receipt",
+      "reason": "Live video from captured operative’s phone replaces warehouse duel; current Astra survival/association confirmed, aircraft-order question unanswered. Hellgrammite captured alive; no physical Astra fight.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-11",
+      "status": "changed_with_receipt",
+      "reason": "Training chosen within earlier lesson; interactive Alura introduced; reader-only Hank clue remains after Adrian reseals/leaves. No guaranteed AI answer yet.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-12",
+      "status": "changed_with_receipt",
+      "reason": "Astra relocates/reassesses before ambush in response to Kael. No wound/knife means source kryptonite discovery cannot occur unchanged.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    },
+    {
+      "id": "SG-E02-13",
+      "status": "covered",
+      "reason": "Kara chooses own interview and takes Cat’s car to nonspecific secluded location; full interview left to next episode.",
+      "source_ids": [
+        "SRC-SG-E02-SHH",
+        "SRC-SG-E02-VULTURE"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_05_R2_REVIEW.md",
+      "sha256": "aa6feafc70aaa170c6f302974e25834465bb0d4d4859552948f14dbad05f64c9"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_05_R2_REVIEW.md",
+      "sha256": "aa6feafc70aaa170c6f302974e25834465bb0d4d4859552948f14dbad05f64c9"
+    },
+    "power": {
+      "path": "audits/CHAPTER_05_R2_REVIEW.md",
+      "sha256": "aa6feafc70aaa170c6f302974e25834465bb0d4d4859552948f14dbad05f64c9"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_05_R2_REVIEW.md",
+      "sha256": "aa6feafc70aaa170c6f302974e25834465bb0d4d4859552948f14dbad05f64c9"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_05_R2_REVIEW.md",
+      "sha256": "aa6feafc70aaa170c6f302974e25834465bb0d4d4859552948f14dbad05f64c9"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [
+    {
+      "id": "D12",
+      "cause": "Accepted rescue, available powerful backup, explicit prisoner fear and real public cameras",
+      "effect": "Public Kael exposure, altered institutions/enemy plan, live remote aunt encounter instead of forced canon kidnapping/duel. See prewrite/review/endpoint."
+    }
+  ],
+  "notes": "Source functions accounted for through Episode 2 ending; not a shot-for-shot coverage claim. Candidate only. No romance selected.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 2,
+    "canon_title": "Stronger Together",
+    "chapter": 5,
+    "chapter_title": "In Plain Sight"
+  }
+}

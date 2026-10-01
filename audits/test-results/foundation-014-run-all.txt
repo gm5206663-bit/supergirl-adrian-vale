@@ -1,0 +1,60 @@
+NOTE: No full episode viewing, literary quality, or complete security audit is established by this script.
+STRUCTURE: PASS — layout, state, hashes, references and generated mirrors checked
+PASS: clean structural project passes
+PASS: unregistered interrupted draft caught
+PASS: missing required foundation caught
+PASS: invalid JSON caught
+PASS: wrong next chapter caught
+PASS: false accepted edge caught
+PASS: changed draft hash caught
+PASS: changed master reference caught
+PASS: opening identity knowledge leak caught
+PASS: opening foreknowledge leak caught
+PASS: stale epoch coverage caught
+PASS: unregistered accepted chapter caught
+PASS: accepted source-union mismatch caught
+PASS: competing state authority caught
+PASS: path traversal caught
+PASS: historical R1 release remains blocked
+PASS: unreviewed latest candidate cannot ship
+PASS: incomplete canon span caught
+PASS: missing review receipts caught
+PASS: complete synthetic release fixture passes
+PASS: complete synthetic accepted ledger passes
+PASS: missing acceptance receipt caught
+PASS: stale generated panel caught
+PASS: relationship entity reference checked
+PASS: unaccepted relationship event checked
+PASS: knowledge ledger cannot bypass opening lock
+PASS: chronology causal cycle checked
+PASS: locked family-loss/rampage order checked
+PASS: unresolved ability cannot be marked achieved
+PASS: design approval needs a receipt
+PASS: broadcast/story order distinction checked
+PASS: duplicate character IDs checked
+PASS: hybrid ancestry mirror checked
+PASS: obsolete pure-Kryptonian species label caught
+PASS: parental standing mirror checked
+PASS: obsolete accident background caught
+PASS: wrong catastrophe world caught
+PASS: obsolete accident chronology caught
+PASS: wrong catastrophe chronology world caught
+PASS: superseded family proposal cannot revive silently
+PASS: review flags do not clear a continuity conflict
+PASS: changed adopted chapter bytes caught
+PASS: relationship delta source receipt checked
+PASS: accepted knowledge source receipt checked
+PASS: accepted chronology source receipt checked
+PASS: Alura sentencing mirror cannot revert
+PASS: universal prisoner recognition cannot revert
+PASS: Vartox author knowledge cannot revert
+PASS: Astra acquaintance cannot become speculative
+PASS: Non acquaintance cannot disappear
+PASS: family recognition cannot become unknown
+
+SELFTEST: 51/51 passed; 0 failed
+NOTE: No full episode viewing, literary quality, or complete security audit is established by this script.
+STRUCTURE: PASS — layout, state, hashes, references and generated mirrors checked
+RELEASE: TECHNICALLY READY — recorded reviews present; author acceptance remains separate
+
+EXIT: 0

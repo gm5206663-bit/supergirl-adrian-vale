@@ -1,0 +1,6 @@
+JSON / Python AST: PASS
+PRESERVED: chapters/Chapter_02_A_Familiar_Face.md
+PRESERVED: drafts/Chapter_02_A_Familiar_Face_R2.md
+PRESERVED: drafts/Chapter_03_The_Name_He_Feared_R2.md
+CANDIDATE / DEPENDENCY HASHES AND ADOPTION BOUNDARY: PASS
+U17 execution: bleeding control; no full regeneration or foreign-body removal claimed

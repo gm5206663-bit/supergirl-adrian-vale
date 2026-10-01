@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "chapter": 4,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_04_What_Remains_R1.md",
+  "draft_sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+  "accepted": false,
+  "claimed_episode": "S01E01 — Pilot",
+  "span": "Power-plant departure through DEO consequences, evening sisters/Alura recording and closing Astra response; later James rooftop function remains pending.",
+  "sources": [
+    {
+      "id": "SRC-SG-03",
+      "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
+      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "accessed": "2026-09-28",
+      "verification": "Freshly fetched chunks 0 and 1 before Chapter 4 drafting: medical fragment/Alura explanation, pod projection, original rematch/suicide, later James/cape and Astra ending. Secondary recap, not direct viewing."
+    },
+    {
+      "id": "SRC-SG-02",
+      "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
+      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "accessed": "2026-09-28",
+      "verification": "Previously checked project corroboration, not freshly fetched for Chapter 4."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-P11B2",
+      "status": "changed_with_receipt",
+      "source_ids": [
+        "SRC-SG-03"
+      ],
+      "reason": "Deeper DEO examination removes blade fragment; Alex explains mother/prison connection. Prior precision bleeding control remains effective. New returned Kael record and fuller biography follow accepted rescue recognition."
+    },
+    {
+      "id": "SG-P11C1",
+      "status": "changed_with_receipt",
+      "source_ids": [
+        "SRC-SG-03"
+      ],
+      "reason": "Evening sister support and pod-derived Alura recording retained in changed circumstances of rescued Kara learning Adrian’s crime/Astra acquaintance; she chooses continued action and combat preparation."
+    },
+    {
+      "id": "SG-P11C2",
+      "status": "changed_with_receipt",
+      "source_ids": [
+        "SRC-SG-03"
+      ],
+      "reason": "Original rematch/suicide route replaced by secure custody, separation from weapon fragments and initial interrogation. Vartox remains alive and bargains/refuses; weapon findings and final prosecution unresolved."
+    },
+    {
+      "id": "SG-P12A",
+      "status": "outside_span",
+      "reason": "Following-day James rooftop explanation and Kryptonian-blanket cape have not occurred; no full-pilot completion claimed."
+    },
+    {
+      "id": "SG-P12B",
+      "status": "changed_with_receipt",
+      "source_ids": [
+        "SRC-SG-03"
+      ],
+      "reason": "Astra ending responds to missed check-in and observed human cleanup rather than original Vartox defeat report; she orders captor identification, unaware of Kael’s intervention."
+    },
+    {
+      "id": "SG-P10C3",
+      "status": "outside_span",
+      "reason": "Formal DEO recruitment/power assessment not completed merely because Kara asks Alex for training."
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_04_R1_REVIEW.md",
+      "sha256": "310bde7251eae7abad3343844065cd54df64921d8e0121d7980f6172ca829a4c"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_04_R1_REVIEW.md",
+      "sha256": "310bde7251eae7abad3343844065cd54df64921d8e0121d7980f6172ca829a4c"
+    },
+    "power": {
+      "path": "audits/CHAPTER_04_R1_REVIEW.md",
+      "sha256": "310bde7251eae7abad3343844065cd54df64921d8e0121d7980f6172ca829a4c"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_04_R1_REVIEW.md",
+      "sha256": "310bde7251eae7abad3343844065cd54df64921d8e0121d7980f6172ca829a4c"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_04_R1_REVIEW.md",
+      "sha256": "310bde7251eae7abad3343844065cd54df64921d8e0121d7980f6172ca829a4c"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [
+    {
+      "id": "D-C4-B01",
+      "cause": "Captured Vartox and field-revealed Kael identity",
+      "effect": "Separate prisoner transport, limited record inquiry and direct confirmation; no unchanged rematch/suicide."
+    },
+    {
+      "id": "D-C4-B02",
+      "cause": "Kara asks for fuller truth after rescue disclosure",
+      "effect": "Crime/family account and Astra/Non acquaintance disclosed with room monitoring explicit; gratitude and hurt coexist."
+    },
+    {
+      "id": "D-C4-B03",
+      "cause": "Medical-emergency absence from CatCo",
+      "effect": "Kara and Adrian notify Cat and hand off work; no alien-history disclosure."
+    },
+    {
+      "id": "D-C4-B04",
+      "cause": "Vartox misses check-in; observer sees cleanup but no clear participants",
+      "effect": "Astra investigates captors without knowing Kael is involved."
+    }
+  ],
+  "open_items": [
+    "O01",
+    "O02",
+    "O03",
+    "O04",
+    "O05",
+    "O06"
+  ],
+  "notes": "Original operational/record implementation D11; existing author facts preserved. Local review, not author acceptance or full-pilot verification.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 1,
+    "canon_title": "Pilot",
+    "chapter": 4,
+    "chapter_title": "What Remains"
+  }
+}

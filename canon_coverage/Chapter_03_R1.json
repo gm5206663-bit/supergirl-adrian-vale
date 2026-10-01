@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "chapter": 3,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_03_What_Came_With_Us_R1.md",
+  "draft_sha256": "6361194474d150fec578fa2a5334ab18633a000c3503cf86fd3587a538abb1dc",
+  "accepted": false,
+  "claimed_episode": "S01E01 — Pilot",
+  "span": "Continuation of private conversation through early-evening DEO contact; altered SG-P10C1/C2.",
+  "sources": [
+    {
+      "id": "SRC-SG-02",
+      "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
+      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "accessed": "2026-09-28",
+      "verification": "secondary recap; fetched chunk 0 before Chapter 3 drafting; source DEO route/disclosure read"
+    },
+    {
+      "id": "SRC-SG-03",
+      "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
+      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "accessed": "2026-09-28",
+      "verification": "secondary recap retained from earlier fetched pilot source; corroborating context, not a fresh fetch this turn"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-P10B",
+      "status": "outside_span",
+      "reason": "Costume trials and field responses are explicitly postponed when Kara contacts Alex about the confession. Future realization is not guaranteed unchanged."
+    },
+    {
+      "id": "SG-P10C1",
+      "status": "changed_with_receipt",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "reason": "Prior mutual disclosure leads to Adrian’s confession, Kara’s questions to Alex and voluntary escorted DEO access. The original fire/ambush/capture route does not occur."
+    },
+    {
+      "id": "SG-P10C2",
+      "status": "changed_with_receipt",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "reason": "Alex’s role, pod custody and prison/pod connection are disclosed through voluntary contact. Limited Kael record and alias inquiry are original additions."
+    },
+    {
+      "id": "SG-P10C3",
+      "status": "outside_span",
+      "reason": "Later recruitment assessment or pilot confrontation/resolution is not covered by the proposed off-site meeting."
+    },
+    {
+      "id": "SG-P11",
+      "status": "outside_span",
+      "reason": "Later recruitment assessment or pilot confrontation/resolution is not covered by the proposed off-site meeting."
+    },
+    {
+      "id": "SG-P12",
+      "status": "outside_span",
+      "reason": "Later recruitment assessment or pilot confrontation/resolution is not covered by the proposed off-site meeting."
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_03_R1_REVIEW.md",
+      "sha256": "891f72e4f3fe2cbf50eb2591d562a438668f49287afbc4b7a18a89277620a670"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_03_R1_REVIEW.md",
+      "sha256": "891f72e4f3fe2cbf50eb2591d562a438668f49287afbc4b7a18a89277620a670"
+    },
+    "power": {
+      "path": "audits/CHAPTER_03_R1_REVIEW.md",
+      "sha256": "891f72e4f3fe2cbf50eb2591d562a438668f49287afbc4b7a18a89277620a670"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_03_R1_REVIEW.md",
+      "sha256": "891f72e4f3fe2cbf50eb2591d562a438668f49287afbc4b7a18a89277620a670"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_03_R1_REVIEW.md",
+      "sha256": "891f72e4f3fe2cbf50eb2591d562a438668f49287afbc4b7a18a89277620a670"
+    }
+  },
+  "release_ready": false,
+  "continuity_conflicts": [
+    {
+      "id": "RC03",
+      "authority": [
+        "U15",
+        "U16"
+      ],
+      "description": "Confession-first route is superseded; old local review records are historical, not current clearance."
+    }
+  ],
+  "original_scene_amendments": [
+    {
+      "id": "D-C3-B01",
+      "cause": "Mutual disclosure in Chapter 2",
+      "effect": "Voluntary confession; Kara seeks verification and postpones costume plans."
+    },
+    {
+      "id": "D-C3-B02",
+      "cause": "Kara asks Alex about Fort Rozz",
+      "effect": "Earlier voluntary DEO introduction and reported Kael/Adrian alias link."
+    },
+    {
+      "id": "D-C3-B03",
+      "cause": "Footage remains in newsroom workflow",
+      "effect": "Cat sees the resemblance and questions James; no public confirmation yet."
+    }
+  ],
+  "open_items": [
+    "O01",
+    "O02",
+    "O03",
+    "O04",
+    "O05",
+    "O06"
+  ],
+  "notes": "Original implementation D09 is not a DC canon claim. Source access route changes rather than replaying a capture without its cause. Local reviews do not accept the chapter.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 1,
+    "canon_title": "Pilot",
+    "chapter": 3,
+    "chapter_title": "What Came With Us"
+  },
+  "status": "superseded_by_U15_U16"
+}

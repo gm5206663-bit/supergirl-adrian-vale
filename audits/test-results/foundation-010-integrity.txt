@@ -1,0 +1,12 @@
+JSON/AST: PASS
+IMMUTABLE HASH: PASS chapters/Chapter_01_Adrian_Vale.md
+IMMUTABLE HASH: PASS chapters/Chapter_02_A_Familiar_Face.md
+IMMUTABLE HASH: PASS drafts/Chapter_03_What_Came_With_Us_R1.md
+IMMUTABLE HASH: PASS reference/talent_master_v2.md
+HISTORICAL RELEASE BLOCK: canon_coverage/Chapter_01_R1.json ['SHIP_CONTINUITY: unresolved recorded continuity conflict', 'SHIP_READY: candidate is not marked review-complete', 'SHIP_BEATS: missing, partial, or unverified source coverage', 'SHIP_BEATS: no verified in-span beat', 'SHIP_REVIEW: canon review incomplete', 'SHIP_RECEIPT: missing canon evidence', 'SHIP_REVIEW: continuity review incomplete', 'SHIP_RECEIPT: missing continuity evidence', 'SHIP_REVIEW: power review incomplete', 'SHIP_RECEIPT: missing power evidence', 'SHIP_REVIEW: knowledge review incomplete', 'SHIP_RECEIPT: missing knowledge evidence', 'SHIP_REVIEW: prose review incomplete', 'SHIP_RECEIPT: missing prose evidence']
+HISTORICAL RELEASE BLOCK: canon_coverage/Chapter_03_R1.json ['SHIP_CONTINUITY: unresolved recorded continuity conflict', 'SHIP_READY: candidate is not marked review-complete']
+CANDIDATE DEPENDENCY HASHES: PASS
+EPISODE-FIRST HEADINGS: PASS drafts/Chapter_03_The_Name_He_Feared_R2.md 3313 words
+EPISODE-FIRST HEADINGS: PASS drafts/Chapter_02_A_Familiar_Face_R2.md 3871 words
+ADOPTION/ROMANCE BOUNDARIES: PASS
+REMOTE: unconfigured, no writes

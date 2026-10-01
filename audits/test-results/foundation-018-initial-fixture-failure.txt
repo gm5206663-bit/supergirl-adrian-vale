@@ -1,0 +1,6 @@
+Observed result summary, not raw captured stdout:
+First run_all.py --ship 6: structure PASS, selftest 52/53.
+FAIL: unresolved ability cannot be marked achieved []
+Cause: test mutated abilities[-1], now valid user-lock A11 rather than unresolved A10.
+Correction: stable A10 ID; inject provenance=open and development=confirmed explicitly in disposable test copy.
+Validator open/confirmed conflict rule unchanged. Subsequent executed full suite PASS.

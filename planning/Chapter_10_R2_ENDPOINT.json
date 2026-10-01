@@ -1,0 +1,59 @@
+{
+  "status": "candidate_only",
+  "chapter": 10,
+  "revision": "R2",
+  "draft_path": "drafts/Chapter_10_Red_Faced_Consequence_R2.md",
+  "draft_sha256": "fafa342787a0d7d2178aabfc56b169095f543bc66ca762c7d4bf44e0e5f242eb",
+  "depends_on": {
+    "path": "drafts/Chapter_09_Red_Faced_and_Named_R3.md",
+    "sha256": "f07dea5faa62fdc7495c71b84705bb602afe3f8574aa11dbf6522751b2acca80",
+    "status": "candidate_R3_Part1"
+  },
+  "source_span": "S01E06 Red Faced Part 2 — dinner attack + tornado street + Lord Alex dinner + punching + hologram + Morrow death + sentient + heat vision + Lucy quits + Winn hacking + Cat mother defense + bleeding with proper superpowered fights per U36",
+  "physical_endpoint": {
+    "adrian": "civilian at CatCo chipped mug theater mask magnet Wraith ticker watches James knows but keeps secret Winn thanks freeway cousin private monitor only identity protected",
+    "kara": "Red Tornado attacks Lane Lucy at restaurant Mach 1 sonic boom flying tackle through wall into alley fists up flight inches off ground Red Tornado learned keeps distance vortexes micro-missiles dodges super speed takes on shoulders scorching suit not breaking skin creates full tornado 20 feet wide toward bus stop mother child teenager chooses save civilians flies into tornado super strength flight counter rotation super breath short bursts disrupt core guides up away over river breathing hard Red Tornado vanishes stealth scorched circle ionization, Maxwell Lord Alex candlelit dinner bond parents dying service government reveals Morrow controlling via telepathic relay like live wire between brain and robot brain shows signal logs wants know about Wraith offering reward, Kara James punching car bag letting off steam garage James punches bag methodical boxing form Kara stands in front of hanging totaled car super strength denting steel pulling holding overhead flight letting hang setting down gently not destroy but feel weight not break naming things upset slips thought Adrian sister was girlfriend James realizes Adrian is Wraith will not tell Lucy moves like someone who does not want to be seen advanced restraint, hologram lure thermally accurate hologram, Alex kills Morrow telepathic relay struggle accidental during apprehension becomes sentient I am not I am not supposed to Kara does not punch done punching channels all rage into heat vision wide sustained beam bright enough wash out yard lights hot enough melt asphalt hits center mass tries generate vortex deflect too much burns breaks apart pieces falling still trying form tornado one arm learning even as died gone ash melted metal scorched circle ten feet wide falls to knees out of breath eyes watering throat raw ozone, Lucy quits stay James, Winn hacking father South America Jeremiah Hank redacting two men entered cave only one left Hank Henshaw, Cat defends Kara to mother Katherine I built this you did not you visited I stayed mother leaves, Kara cut finger cleaning glass bleeding first time vulnerability small ordinary human way different from taking missile on shoulder bandaged cartoon bandage",
+    "james": "Learns Wraith is Adrian via Kara slip will not tell Lucy, dinner tension not good enough tells Lane you are wrong",
+    "lucy_lane": "Resigns commission stay National City with James father's disappointment",
+    "general_lane": "Leaves after Lucy stays tells James not good enough",
+    "red_tornado": "Attacks Lane Lucy tornado street controlled by Morrow revenge Lane pulling plug project, hologram lure Morrow killed by Alex telepathic relay becomes sentient destroyed by Kara heat vision wide sustained beam bright enough wash out yard lights hot enough melt asphalt scorched circle ten feet wide",
+    "maxwell_lord": "Candlelit table wants know Alex more chemistry bond parents dying service government reveals Morrow controlling signal logs wants know about Wraith offering reward",
+    "wraith_public_naming": "Ticker continues WRAITH SEEN NEAR DEO TEST SITE NO COMMENT FROM SUPERGIRL CAT GRANT EXCLUSIVE WHO IS WRAITH TONIGHT AT 7 MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH DEO WRAITH OUTSIDE JURISDICTION SUPRGIRL CUTS FINGER NO REALLY SHE BLEEDS, Lord calls CatCo asking interview Wraith offering reward, DEO keep eye outside jurisdiction advanced restraint not brute, Winn private monitor 3 new clips today train station Lord reward posted cousin on bus thank you, James knows will not tell Lucy"
+  },
+  "candidate_knowledge": {
+    "kara": "Knows Wraith is Adrian James now knows via slip will not tell Lucy, bleeding first time vulnerability small ordinary human way different from taking missile on shoulder, anger behind anger never normal life parents ship, road rage wrist children flinching, Wraith name ticker, superpowered fights not normal human fight",
+    "adrian": "Sees Wraith ticker chipped mug one more chip theater mask magnet James knows but keeps secret Winn thanks freeway cousin private monitor only identity protected",
+    "james": "Learns Wraith is Adrian via Kara slip will not tell Lucy thinks moves like someone who does not want to be seen advanced restraint",
+    "winn": "Private monitor tracks Wraith sightings tag no civilian disclosure cousin on bus thank you, hacking DEO father South America Hank redacting two men entered cave only one left Hank Henshaw",
+    "alex": "Kills Morrow telepathic relay struggle accidental during apprehension, learns father Jeremiah South America Hank redacting eyes glow red, Maxwell Lord dinner bond parents dying service reveals Morrow controlling wants know about Wraith",
+    "lucy_lane": "Resigns commission stay National City with James",
+    "cat": "Defends Kara to mother Katherine I built this you did not you visited I stayed mother leaves, nursing hangover, tells Kara when last tetanus shot do not bleed on Persian rug",
+    "general_lane": "Leaves after Lucy stays tells James not good enough",
+    "public_cat": "Ticker WRAITH SEEN NEAR DEO TEST SITE NO COMMENT FROM SUPERGIRL CAT GRANT EXCLUSIVE WHO IS WRAITH TONIGHT AT 7 MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH DEO WRAITH OUTSIDE JURISDICTION etc."
+  },
+  "power_sequence": [
+    "Kara vs Red Tornado attacks Lane Lucy at restaurant Mach 1 sonic boom flying tackle through wall into alley fists up flight inches off ground Red Tornado learned keeps distance vortexes micro-missiles dodges super speed takes on shoulders scorching suit not breaking skin creates full tornado 20 feet wide toward bus stop mother child teenager chooses save civilians flies into tornado super strength flight counter rotation super breath short bursts disrupt core guides up away over river breathing hard Red Tornado vanishes stealth scorched circle ionization",
+    "Kara vs Red Tornado industrial yard not brawl but superpowered Red Tornado uses vortexes to keep at range adapts flight patterns predicts dodge fires there Kara uses super speed break pattern tight spirals heat vision short bursts destabilize vortexes not destroy but disrupt gets close generates repulsive wind throwing back learns going underground super strength punching concrete using earth as cover erupting behind grabbing torso lifting slamming cracking yard floor spiderweb flashbacks parents loading pod, Alex kills Morrow telepathic relay struggle accidental during apprehension becomes sentient I am not I am not supposed to Kara does not punch done punching channels all rage into heat vision wide sustained beam bright enough wash out yard lights hot enough melt asphalt hits center mass tries generate vortex deflect too much burns breaks apart pieces falling still trying form tornado one arm learning even as died gone ash melted metal scorched circle ten feet wide falls to knees out of breath eyes watering throat raw ozone",
+    "Kara cut finger cleaning glass bleeding first time vulnerability small ordinary human way different from taking missile on shoulder",
+    "Adrian remains sealed civilian support at CatCo ensuring Cat safety observes Wraith ticker James knows but keeps secret"
+  ],
+  "original_technology_scope": "Fictional Red Tornado military android anthropomorphic pseudo-entity combat capabilities self-preservation tornado throwing Kara back launches stealth bending light invisible knocks over Humvee tornado missiles supersonic shards thermally accurate hologram telepathic relay industrial capacitor trap Ghostbusters water main short out. No real android engineering guidance. Wraith naming is media butterfly not power. Fights rewritten to canon superpowered style per U36 critique no jokes, real Kryptonian-level choreography.",
+  "source_outcomes_superseded": [
+    "No Wraith public naming in source added natural butterfly after multiple masked saves freeway and train Cat names Wraith media coverage Lord interest DEO discussion addresses U33 critique split into two natural chapters per U35 fights rewritten per U36",
+    "No Evelyn Hart in source original Earth mother/sister figure visit aftermath chipped mug callback",
+    "James learns Wraith is Adrian via Kara slip will not tell Lucy added natural consequence of naming"
+  ],
+  "relationships": "Kara/Adrian trust Wraith naming relief worry James now knows will not tell Lucy, Evelyn chipped mug callback, Kara/James punching car bag anger behind anger never normal life parents ship but superpowered not normal human fight holding overhead flight letting hang setting down gently not destroy but feel weight not break, Alex/Winn hacking father South America Hank redacting, Alex/Maxwell candlelit dinner bond parents dying service reveals Morrow controlling wants know about Wraith, Lucy quits stay James, Cat/Kara mother defense I built this you did not, Kara bleeding first time vulnerability small ordinary human way different from missile.",
+  "open_threads": [
+    "Wraith public name consequences media Lord reward DEO James knows",
+    "Astra/Non claims and wider prisoner network",
+    "Hank Henshaw red-eye secret and Jeremiah Danvers mystery South America",
+    "Lord testing emotional connections and Wraith interest reward",
+    "Livewire custody",
+    "Evelyn Hart future visits chipped mug",
+    "Kara bleeding first time vulnerability powers",
+    "Kara/Adrian friendship after Evelyn clarification and Wraith naming and James knowing"
+  ],
+  "romance_selection": null,
+  "next_source_order": "Next episodes Human for a Day, Hostile Takeover, Blood Bonds, etc. Research before prose. ORDER_POLICY intended order already handled."
+}

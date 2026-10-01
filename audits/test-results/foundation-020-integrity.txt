@@ -1,0 +1,10 @@
+PASS: all JSON and tool Python syntax.
+PASS: earlier manuscript bytes unchanged; exact Chapter 7 adoption and Chapter 8/review hashes.
+PASS: Talent master and approved artwork unchanged.
+PASS: accepted edge 7 / candidate 8; no candidate source rows promoted.
+PASS: superseded Chapter 5 R1/R2 remain directly blocked.
+PASS: private public-identity scope retained; no in-world visual reference or imported system names.
+PASS: no remote write.
+PASS: final structure/domain/mirrors, 53/53 tests and ship8 ready.
+PASS: relationships expanded to 38 complete, entities 26 complete, all character files complete.
+PASS: Evelyn Hart original per U31 not romantic, Kara misunderstanding human reaction.

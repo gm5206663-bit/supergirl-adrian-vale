@@ -1,0 +1,43 @@
+{
+  "status": "superseded_historical_candidate",
+  "chapter": 3,
+  "draft_path": "drafts/Chapter_03_What_Came_With_Us_R1.md",
+  "draft_sha256": "6361194474d150fec578fa2a5334ab18633a000c3503cf86fd3587a538abb1dc",
+  "adrian": {
+    "seal": "engaged throughout",
+    "kara_knows_past": "yes, by his voluntary confession",
+    "alex_deo_role": "known by Alex’s call",
+    "prison_pod_connection": "not learned; no remote access to facility conversation",
+    "current_action": "leaves work; awaits proposed off-site meeting conditions, not agreed or attended"
+  },
+  "kara": {
+    "kael_identity": "known by confession, name linked to a limited childhood case memory",
+    "royal_mother": "known by his account; exact relation unassigned",
+    "parents_murder_and_city_crime": "known by confession; guilt not excused",
+    "fort_rozz_on_earth": "known by confession and DEO confirmation",
+    "alex_deo_role": "known",
+    "prison_pod_connection": "known by Henshaw’s explanation",
+    "romance": "no commitment or forgiveness; asks for distance and accurate verification"
+  },
+  "alex_and_deo": {
+    "kael_record": "limited recovered prisoner record exists",
+    "adrian_equals_kael": "reported by Kara, not previously linked; verification pending",
+    "seal": "claims known; untested",
+    "power_ceiling": "unknown; past red-sun catastrophe is a caution, not a current exact benchmark"
+  },
+  "cat": {
+    "kara_rescuer": "suspects resemblance from same clip, no explicit confirmation",
+    "adrian_history": "not disclosed"
+  },
+  "winn": {
+    "costume_session": "postponed; no crime details disclosed"
+  },
+  "unresolved": [
+    "meeting conditions/location/attendance",
+    "full record verification",
+    "court genealogy/city/date/Alura role",
+    "publication and Cat’s next inference",
+    "costume/field activity and later antagonist outcome"
+  ],
+  "superseded_by": "planning/Chapter_03_R2_ENDPOINT.json"
+}

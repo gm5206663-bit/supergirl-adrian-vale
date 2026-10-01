@@ -1,0 +1,6 @@
+PASS: all JSON parses; all tool Python syntax parses.
+PASS: all protected accepted/draft manuscripts and Talent master unchanged.
+PASS: accepted edge 3 / next unadopted chapter 4; U19 transaction pending.
+PASS: held Chapter 5 not accepted or release-ready.
+PASS: current structure and 51/51 defect tests; ship4 exit 0, ship5 deliberately blocked with exit 2.
+NOTE: first audit finishing helper incorrectly expected exit 1 for a blocked release; corrected to documented exit 2, with no change to the gate.

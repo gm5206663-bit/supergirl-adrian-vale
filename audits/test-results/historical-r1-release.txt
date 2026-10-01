@@ -1,0 +1,16 @@
+Historical Chapter 1 R1 release check:
+SHIP_CONTINUITY: unresolved recorded continuity conflict
+SHIP_READY: candidate is not marked review-complete
+SHIP_BEATS: missing, partial, or unverified source coverage
+SHIP_BEATS: no verified in-span beat
+SHIP_REVIEW: canon review incomplete
+SHIP_RECEIPT: missing canon evidence
+SHIP_REVIEW: continuity review incomplete
+SHIP_RECEIPT: missing continuity evidence
+SHIP_REVIEW: power review incomplete
+SHIP_RECEIPT: missing power evidence
+SHIP_REVIEW: knowledge review incomplete
+SHIP_RECEIPT: missing knowledge evidence
+SHIP_REVIEW: prose review incomplete
+SHIP_RECEIPT: missing prose evidence
+RESULT: BLOCKED

@@ -1,0 +1,161 @@
+{
+  "scope": "opening foundation; a design entity is not an accepted event",
+  "entities": [
+    {
+      "id": "adrian",
+      "name": "Adrian Vale / Kael-Varr",
+      "provenance": "original",
+      "profile": "bible/CHARACTER_ADRIAN_VALE.md"
+    },
+    {
+      "id": "kara",
+      "name": "Kara Danvers",
+      "provenance": "canon",
+      "profile": "codex/characters/KARA_DANVERS.md"
+    },
+    {
+      "id": "cat",
+      "name": "Cat Grant",
+      "provenance": "canon",
+      "profile": "codex/characters/CAT_GRANT.md"
+    },
+    {
+      "id": "alex",
+      "name": "Alex Danvers",
+      "provenance": "canon",
+      "profile": "codex/characters/ALEX_DANVERS.md"
+    },
+    {
+      "id": "winn",
+      "name": "Winn Schott",
+      "provenance": "canon",
+      "profile": "codex/characters/WINN_SCHOTT.md"
+    },
+    {
+      "id": "james",
+      "name": "James Olsen",
+      "provenance": "canon",
+      "profile": "codex/characters/JAMES_OLSEN.md"
+    },
+    {
+      "id": "hank",
+      "name": "Hank Henshaw / DEO director",
+      "provenance": "canon",
+      "profile": "codex/characters/HANK_AND_DEO.md"
+    },
+    {
+      "id": "vartox",
+      "name": "Vartox",
+      "provenance": "canon",
+      "profile": "codex/characters/ANTAGONIST_TRACK.md"
+    },
+    {
+      "id": "astra",
+      "name": "Astra",
+      "provenance": "canon",
+      "profile": "codex/characters/ANTAGONIST_TRACK.md"
+    },
+    {
+      "id": "non",
+      "name": "Non",
+      "provenance": "canon",
+      "profile": "codex/characters/ANTAGONIST_TRACK.md"
+    },
+    {
+      "id": "deo",
+      "name": "Department of Extranormal Operations",
+      "provenance": "organization",
+      "profile": "codex/ORGANIZATIONS.md"
+    },
+    {
+      "id": "catco",
+      "name": "CatCo",
+      "provenance": "organization",
+      "profile": "codex/ORGANIZATIONS.md"
+    },
+    {
+      "id": "daren",
+      "name": "Daren Varr",
+      "provenance": "working_design",
+      "profile": "bible/KRYPTON_HISTORY.md"
+    },
+    {
+      "id": "ilyra",
+      "name": "Ilyra Varr",
+      "provenance": "working_design",
+      "profile": "bible/KRYPTON_HISTORY.md"
+    },
+    {
+      "id": "mon_el",
+      "name": "Mon-El",
+      "provenance": "canon",
+      "profile": "codex/characters/DAXAM_ROYAL_FAMILY.md"
+    },
+    {
+      "id": "rhea",
+      "name": "Rhea",
+      "provenance": "canon",
+      "profile": "codex/characters/DAXAM_ROYAL_FAMILY.md"
+    },
+    {
+      "id": "lar_gand",
+      "name": "Lar Gand",
+      "provenance": "canon",
+      "profile": "codex/characters/DAXAM_ROYAL_FAMILY.md"
+    },
+    {
+      "id": "hellgrammite",
+      "name": "Unnamed Hellgrammite",
+      "provenance": "canon",
+      "profile": "codex/characters/HELLGRAMMITE.md"
+    },
+    {
+      "id": "reactron",
+      "name": "Ben Krull / Reactron",
+      "provenance": "canon",
+      "profile": "codex/characters/REACTRON.md"
+    },
+    {
+      "id": "maxwell",
+      "name": "Maxwell Lord",
+      "provenance": "canon",
+      "profile": "codex/characters/MAXWELL_LORD.md"
+    },
+    {
+      "id": "lucy",
+      "name": "Lucy Lane",
+      "provenance": "canon",
+      "profile": "codex/characters/LUCY_LANE.md"
+    },
+    {
+      "id": "evelyn",
+      "name": "Evelyn Hart",
+      "provenance": "original",
+      "profile": "codex/characters/EVELYN_HART.md"
+    },
+    {
+      "id": "carter",
+      "name": "Carter Grant",
+      "provenance": "canon",
+      "profile": "codex/characters/CARTER_GRANT.md"
+    },
+    {
+      "id": "livewire",
+      "name": "Leslie Willis / Livewire",
+      "provenance": "canon",
+      "profile": "codex/characters/LIVEWIRE.md"
+    },
+    {
+      "id": "eliza",
+      "name": "Eliza Danvers",
+      "provenance": "canon",
+      "profile": "codex/characters/ELIZA_DANVERS.md"
+    },
+    {
+      "id": "ethan",
+      "name": "Ethan Knox",
+      "provenance": "canon",
+      "profile": "codex/characters/ETHAN_KNOX.md"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "chapter": 1,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_01_Adrian_Vale_R1.md",
+  "draft_sha256": "6dd0f07897db0573684077491298bb04c016852680f03eb1f6b63a7dc147569c",
+  "accepted": false,
+  "claimed_episode": "S01E01 — Pilot",
+  "span": "opening through Alex arriving after the plane rescue; coverage incomplete",
+  "sources": [
+    {
+      "id": "SRC-SG-01",
+      "url": "https://arrow.fandom.com/wiki/Pilot_(Supergirl)",
+      "title": "Pilot (Supergirl)",
+      "accessed": "2026-09-27",
+      "verification": "secondary"
+    },
+    {
+      "id": "SRC-SG-02",
+      "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
+      "title": "Supergirl Pilot Recap",
+      "accessed": "2026-09-27",
+      "verification": "secondary"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-P01",
+      "status": "missing"
+    },
+    {
+      "id": "SG-P02",
+      "status": "missing"
+    },
+    {
+      "id": "SG-P03",
+      "status": "missing"
+    },
+    {
+      "id": "SG-P04",
+      "status": "partial"
+    },
+    {
+      "id": "SG-P05",
+      "status": "drafted_unverified"
+    },
+    {
+      "id": "SG-P06",
+      "status": "partial"
+    },
+    {
+      "id": "SG-P07",
+      "status": "drafted_unverified"
+    },
+    {
+      "id": "SG-P08",
+      "status": "partial"
+    },
+    {
+      "id": "SG-P09",
+      "status": "outside_span"
+    },
+    {
+      "id": "SG-P10",
+      "status": "outside_span"
+    },
+    {
+      "id": "SG-P11",
+      "status": "outside_span"
+    },
+    {
+      "id": "SG-P12",
+      "status": "outside_span"
+    }
+  ],
+  "reviews": {
+    "canon": "needs_revision",
+    "continuity": "needs_revision",
+    "power": "needs_review",
+    "knowledge": "needs_review",
+    "prose": "needs_review",
+    "author_acceptance": "not_requested_after_file_repair"
+  },
+  "release_ready": false,
+  "open_items": [
+    "O01",
+    "O02",
+    "O03",
+    "O04",
+    "O05",
+    "O06"
+  ],
+  "notes": "Retrospective record. It did not exist before the chat draft; do not backdate a predraft claim. U09/U10 supersede the accident premise in R1 lines 339/341; the draft is preserved unchanged, not accepted as current history.",
+  "format_revision": 2,
+  "heading": {
+    "season": 1,
+    "episode": 1,
+    "canon_title": "Pilot",
+    "chapter": 1,
+    "chapter_title": "Adrian Vale"
+  },
+  "continuity_conflicts": [
+    {
+      "id": "RC01",
+      "authority": [
+        "U09",
+        "U10"
+      ],
+      "description": "R1 lines 339 and 341 retain the former accident memory. Replace in a future authorized revision; do not treat it as current background."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "chapter": 2,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_02_A_Familiar_Face_R1.md",
+  "draft_sha256": "a75d9c54b6b201e0202f2d2e5c6f0e9f2b4dfc17a23dcc6ac9e9323793c3bbc8",
+  "accepted": true,
+  "claimed_episode": "S01E01 — Pilot",
+  "span": "Next morning through workday mutual disclosure; SG-P09 and SG-P10A. Original footage/disclosure branch added.",
+  "sources": [
+    {
+      "id": "SRC-SG-02",
+      "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
+      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "accessed": "2026-09-28",
+      "verification": "secondary recap; fetched chunk 0 before Chapter 2 drafting; relevant morning and antagonist scenes present"
+    },
+    {
+      "id": "SRC-SG-03",
+      "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
+      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "accessed": "2026-09-28",
+      "verification": "secondary recap; fetched chunk 0 before Chapter 2 drafting; relevant morning and antagonist scenes present"
+    },
+    {
+      "id": "SRC-SG-DAXAM-01",
+      "url": "https://www.denofgeek.com/tv/supergirl-season-2-episode-3-welcome-to-earth-review/",
+      "title": "Welcome to Earth review — inherited Daxam prejudice",
+      "accessed": "2026-09-28",
+      "verification": "earlier project research; characterization reference, not a pilot-era experience or fresh fetch this turn"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-P09",
+      "status": "covered",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Morning coverage, Cat’s Tribune hold, James/Superman connection and Winn rooftop revelation."
+    },
+    {
+      "id": "SG-P10A",
+      "status": "covered",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Diner, tanker transmission, Alura-related recognition and order against the rescuer."
+    },
+    {
+      "id": "SG-P10B",
+      "status": "outside_span",
+      "reason": "Chapter ends during the workday after the original mutual-disclosure scene. Planning sketches do not claim costume trials or later pilot events."
+    },
+    {
+      "id": "SG-P10C",
+      "status": "outside_span",
+      "reason": "Chapter ends during the workday after the original mutual-disclosure scene. Planning sketches do not claim costume trials or later pilot events."
+    },
+    {
+      "id": "SG-P11",
+      "status": "outside_span",
+      "reason": "Chapter ends during the workday after the original mutual-disclosure scene. Planning sketches do not claim costume trials or later pilot events."
+    },
+    {
+      "id": "SG-P12",
+      "status": "outside_span",
+      "reason": "Chapter ends during the workday after the original mutual-disclosure scene. Planning sketches do not claim costume trials or later pilot events."
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_02_R1_REVIEW.md",
+      "sha256": "989b5ea149eaa48fd9a131451f70de7ed6f180e6131cd963ddcc54440ccc9fa1"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_02_R1_REVIEW.md",
+      "sha256": "989b5ea149eaa48fd9a131451f70de7ed6f180e6131cd963ddcc54440ccc9fa1"
+    },
+    "power": {
+      "path": "audits/CHAPTER_02_R1_REVIEW.md",
+      "sha256": "989b5ea149eaa48fd9a131451f70de7ed6f180e6131cd963ddcc54440ccc9fa1"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_02_R1_REVIEW.md",
+      "sha256": "989b5ea149eaa48fd9a131451f70de7ed6f180e6131cd963ddcc54440ccc9fa1"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_02_R1_REVIEW.md",
+      "sha256": "989b5ea149eaa48fd9a131451f70de7ed6f180e6131cd963ddcc54440ccc9fa1"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [
+    {
+      "id": "D-C2-B01",
+      "cause": "Chapter 1 footage/licensing assignment",
+      "effect": "A fuller passenger recording prompts ordinary facial suspicion and private confirmation."
+    },
+    {
+      "id": "D-C2-B02",
+      "cause": "Kara confirms rescue and Kryptonian identity",
+      "effect": "Adrian reciprocates with mixed heritage and seal information; Kara elects to continue talking despite inherited assumptions."
+    }
+  ],
+  "open_items": [
+    "O01",
+    "O02",
+    "O03",
+    "O04",
+    "O05",
+    "O06"
+  ],
+  "notes": "Opening knowledge lock does not prohibit later evidence-based discovery. Original recording not attributed to source canon. Local review; author acceptance pending.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 1,
+    "canon_title": "Pilot",
+    "chapter": 2,
+    "chapter_title": "A Familiar Face"
+  },
+  "accepted_path": "chapters/Chapter_02_A_Familiar_Face.md",
+  "accepted_on": "2026-09-28",
+  "acceptance_receipt": "audits/CONTINUATION_Chapter_02.md — U14 continuation authorization"
+}

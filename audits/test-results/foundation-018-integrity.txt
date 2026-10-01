@@ -1,0 +1,8 @@
+PASS: all JSON and tool Python syntax.
+PASS: earlier manuscript bytes unchanged; exact Chapter 5 adoption and Chapter 6/review hashes.
+PASS: Talent master and approved artwork unchanged.
+PASS: accepted edge 5 / candidate 6; no candidate source rows promoted.
+PASS: superseded Chapter 5 R1/R2 remain directly blocked.
+PASS: private public-identity scope retained; no in-world visual reference or imported system names.
+PASS: no remote write in this task.
+PASS: final structure/domain/mirrors, 53/53 tests and ship6 ready.

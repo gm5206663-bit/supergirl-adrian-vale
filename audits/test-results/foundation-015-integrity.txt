@@ -1,0 +1,30 @@
+PASS: JSON/Python syntax.
+PASS: protected prior manuscripts and Talent master unchanged.
+PASS: R3/review hashes and 53/53 defect suite/release.
+PASS: R1/R2 directly blocked.
+PASS: edge 4/next 5; new events not adopted.
+PASS: no visual-reference name in R3; public identity fields false; no in-world reference.
+NOTE: field/token checks are not a semantic fiction review.
+{
+  "R1": [
+    "SHIP_CONTINUITY: unresolved recorded continuity conflict",
+    "SHIP_READY: candidate is not marked review-complete",
+    "SHIP_REVIEW: canon review incomplete",
+    "SHIP_RECEIPT: missing canon evidence",
+    "SHIP_REVIEW: continuity review incomplete",
+    "SHIP_RECEIPT: missing continuity evidence",
+    "SHIP_REVIEW: power review incomplete",
+    "SHIP_RECEIPT: missing power evidence",
+    "SHIP_REVIEW: knowledge review incomplete",
+    "SHIP_RECEIPT: missing knowledge evidence",
+    "SHIP_REVIEW: prose review incomplete",
+    "SHIP_RECEIPT: missing prose evidence"
+  ],
+  "R2": [
+    "SHIP_CONTINUITY: unresolved recorded continuity conflict",
+    "SHIP_READY: candidate is not marked review-complete",
+    "SHIP_REVIEW: continuity review incomplete",
+    "SHIP_REVIEW: knowledge review incomplete",
+    "SHIP_REVIEW: prose review incomplete"
+  ]
+}

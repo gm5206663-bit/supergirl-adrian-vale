@@ -1,0 +1,386 @@
+{
+  "date": "2026-09-27",
+  "locks": {
+    "setting": "Supergirl television series; begin Season 1 Episode 1",
+    "origin": "native-born male Kryptonian–Daxamite hybrid, not reincarnated or canon-aware",
+    "talent": "Adaptation Talent expressed through his own mixed Kryptonian–Daxamite physiology; existing qualitative powers preserved",
+    "canon_approach": "canon on-page with OC woven alongside; causal butterflies",
+    "kara_opening": "coworker only; does not know her Kryptonian identity",
+    "seal": "full human-level accessible powers; voluntary release",
+    "device_maker": "the protagonist built it himself",
+    "crime": "genuinely responsible for mass killing, not falsely accused",
+    "strength": "far above the show’s Kara and Superman when unsealed",
+    "power_timing": "already extraordinarily powerful before imprisonment",
+    "red_sun": "his own red-sun power development adversely affected his temperament",
+    "family": "Some Daxamites murdered his parents because of their cross-world union; replaces the unrelated accident.",
+    "rampage": "In rage after the murders, he destroyed a city on Krypton and killed its people; a major catastrophe with genuine responsibility.",
+    "capture": "advanced Kryptonian technology enabled capture and imprisonment",
+    "present_motive": "exhaustion with his former life; wants ordinary life, not an imposed redemption quest",
+    "employment": "works directly for Cat Grant, alongside Kara",
+    "appearance": "very handsome and attractive",
+    "identity_design": "author delegated creation of names and apparent age",
+    "delivery": "project files, foundations and workflow are required; chat-only prose is insufficient",
+    "chapter_heading": "Episode heading first: Season N, Episode N — canonical episode title. Then Chapter N — chapter title.",
+    "romance_direction": "Author is considering Adrian/Kara romance and requires canon-grounded pre-pilot butterfly analysis; no particular romantic baseline approved.",
+    "ancestry": {
+      "father": "Kryptonian",
+      "mother": "Daxamite"
+    },
+    "parental_status": {
+      "father": "influential Kryptonian house",
+      "mother": "collateral Daxam royal branch"
+    },
+    "family_death_kind": "murder",
+    "destroyed_city_world": "Krypton",
+    "parents_murder_world": "Krypton",
+    "kara_food_gestures": "Adrian should give Kara ice cream, glazed donuts and pastries she likes. Concrete flavors/timing and dialogue are scene implementation, not a selected romantic partnership.",
+    "rescue_reveal": "Adrian saves Kara from Vartox; consequential Kael-Varr/prison/power reveal arises during that rescue, not an earlier full confession.",
+    "prisoner_recognition": "All Fort Rozz prisoners know Kael-Varr and greatly fear him. This does not automatically identify his Earth alias or confer obedience.",
+    "sentencing_judge": "Alura Zor-El",
+    "astra_non_history": "Adrian personally met Astra and Non in prison; relationship is complicated, not automatic alliance.",
+    "kara_family_recognition": "During the early disclosure Adrian recognizes Kara Zor-El and her family history, not merely her powers; he deliberately withholds important history.",
+    "heat_vision_wound_care": "Adrian can use controlled heat vision to treat/control Kara’s injury (U17); R3 implements precise bleeding control, not instant full regeneration.",
+    "current_audit_request": "U21 audit completed and delivered; U22 resumes prose under its corrections.",
+    "pilot_pacing_correction": "U20 rejects stretching the Pilot into another full fifth chapter. Episode 2 progression is the correction direction; no rigid words-per-episode quota was selected.",
+    "public_identity_policy": {
+      "deliberate_concealment": true,
+      "complete_suit_and_mask": true,
+      "out_of_world_visual_reference": "Krrish",
+      "reference_exists_in_story": false,
+      "coincidental_resemblance": true
+    },
+    "physique_and_balanced_development": "U26: lean, harmonious, highly refined and defined athletic physique, not skinny/ordinary or bulky/bodybuilder. Strength, agility, flexibility and other capacities develop together; do not portray a slow brute or equate muscle size with established power.",
+    "approved_visual": "U27 approves art/Adrian_Vale_Balanced_Hero_R3.png: lean, balanced all-around development. Prior ordinary/bulky image designs rejected and deleted locally. Artwork approval is separate from story acceptance.",
+    "adrian_earth_support_figure": "U31 introduces original Earth friend: beautiful actress, mother/sister figure who helped Adrian when he arrived on Earth and sealed power, important to him. Not romantic, not imported character. Visit triggers Kara misunderstanding to be shown humanly."
+  },
+  "evidence": [
+    {
+      "id": "U01",
+      "kind": "typed",
+      "verbatim": "We follow from session 1 episode 1,oc is already very powerful literally very,he was criminal of Fort Rozz because in his past, there events dark things, but as came Earth, he decided to live normally so he use device to seal and hide his powers, he work on Cat Grant (although he is very handsome and attractive and others things)he doesn't know about kara because his power is seal he does"
+    },
+    {
+      "id": "U02",
+      "kind": "typed",
+      "verbatim": "1: create yourself \n\n2: because of course he have adaption telent he is Kryptonian so adaption telent how powerful it's it because it's depends on user,so because of this,red sun from he got powers of Kryptonian but it's effects personality badly because of accident his family died in anger he lose control and kill large amount people's almost a City of Krypton, so he imprisoned \n\n3:of course Kryptonians are not joke , they have advance technology even without yellow sun power's,so they do \n\n4:he built"
+    },
+    {
+      "id": "U03",
+      "kind": "option_selections",
+      "selected": [
+        "native",
+        "talent_plus",
+        "parallel",
+        "kryptonian",
+        "male",
+        "coworker_only",
+        "voluntary_full",
+        "guilty",
+        "above_show_kryptonians",
+        "cat_staff",
+        "exhaustion",
+        "before_prison",
+        "power_development",
+        "unrelated_accident"
+      ],
+      "note": "These are menu choices, not fabricated verbatim prose."
+    },
+    {
+      "id": "U04",
+      "kind": "typed",
+      "verbatim": "Where is all' file's and others All things,go check my GitHub"
+    },
+    {
+      "id": "U05",
+      "kind": "typed",
+      "verbatim": "Create all' files foundation, Codex, relationship, timeline, and others All"
+    },
+    {
+      "id": "U06",
+      "kind": "typed",
+      "verbatim": "Not like this, tital like this \n\n\"Session 1 episode 1 and......(Canon title of episode) then chapter 1 (and it's tital)"
+    },
+    {
+      "id": "U07",
+      "kind": "typed",
+      "date": "2026-09-28",
+      "verbatim": "Well it's very good but problem came in natural butterfly effects that' already happened, let's decide that, i have special problem with Adrian and Kara relationship ,i am thinking romantic"
+    },
+    {
+      "id": "U08",
+      "kind": "typed",
+      "date": "2026-09-28",
+      "verbatim": "No, you should check canon information and others things accordingly to make something because what you giving is simple and normal thing but i think it's not that how things work"
+    },
+    {
+      "id": "U09",
+      "kind": "typed",
+      "date": "2026-09-28",
+      "verbatim": "I want to change a thing,Adrian father was from Krypton and mother from Daxam, due to this some Daxam people's kill his parents,so in rage he destroy that City and people's,it was large thing, his parents was from royal family or top family of both"
+    },
+    {
+      "id": "U10",
+      "kind": "option_selections",
+      "date": "2026-09-28",
+      "selected": [
+        "krypton",
+        "elite_royal_branch"
+      ],
+      "questions_and_answers": [
+        {
+          "question": "Where was the city Adrian destroyed after his parents were murdered?",
+          "selection": "On Krypton",
+          "selected_description": "The attackers reach his family on Krypton; his retaliation destroys a Kryptonian city."
+        },
+        {
+          "question": "Which family arrangement do you want?",
+          "selection": "Kryptonian elite + Daxam royal branch",
+          "selected_description": "His father belongs to an influential original house; his mother belongs to a collateral royal branch, not automatically the reigning queen’s immediate family."
+        }
+      ],
+      "note": "Actual selected options, not fabricated verbatim dialogue."
+    },
+    {
+      "id": "U11",
+      "kind": "typed",
+      "date": "2026-09-28",
+      "verbatim": "Okay, now correct chapter 1"
+    },
+    {
+      "id": "U12",
+      "kind": "typed",
+      "date": "2026-09-28",
+      "verbatim": "Adrian should give Kara Ice Cream and Glazed Donuts &amp; Pastries she likes,"
+    },
+    {
+      "id": "U13",
+      "kind": "typed",
+      "date": "2026-09-28",
+      "verbatim": "Next chapter",
+      "interpretation": "Continuation authorization from the latest delivered Chapter 1 R3. Adopt that version as the preceding chapter; not blanket approval of other design proposals."
+    },
+    {
+      "id": "U14",
+      "kind": "typed",
+      "date": "2026-09-28",
+      "verbatim": "Next",
+      "interpretation": "Continue from the just-delivered Chapter 2 R1; adopt that version as the preceding chapter, without blanket approval of future proposals."
+    },
+    {
+      "id": "U15",
+      "kind": "recorded_summary",
+      "date": "2026-09-28",
+      "summary": "Author directs rescue-driven reveal: Adrian saves Kara from Vartox; Vartox and all Fort Rozz prisoners know and fear him.",
+      "note": "Summary retained from conversation; not presented as an exact quotation."
+    },
+    {
+      "id": "U16",
+      "kind": "custom_clarification",
+      "date": "2026-09-28",
+      "verbatim": "Adrian recognise Kara true identity, not just she have power's but her family and others things,of course he knows kara mother put him in prison, and Kara uncle and aunty he meet in prison and quite complicated relationship ,so of course he doesn't tell her that time everything",
+      "interpretation": "Alura sentenced him; actual complicated Astra/Non acquaintance. Keep limited ancestry/device disclosure as the announced implementation; no menu selection is fabricated."
+    },
+    {
+      "id": "U17",
+      "kind": "typed",
+      "date": "2026-09-28",
+      "verbatim": "Well about Kara hand injury ,Adrian can use his heat vision to heal or control it",
+      "interpretation": "Author permits heat-vision wound care. Current narrow execution controls bleeding in Kara’s existing upper-arm injury; full tissue regeneration is not assumed."
+    },
+    {
+      "id": "U18",
+      "kind": "typed",
+      "date": "2026-09-28",
+      "verbatim": "Next",
+      "interpretation": "Continue from latest delivered Chapter 3 R3 and its explicitly delivered Chapter 2 R2 dependency; adopt this branch for continuation, preserving original U14 receipt separately. Not approval of unwritten Chapter 4."
+    },
+    {
+      "id": "U19",
+      "kind": "typed",
+      "date": "2026-09-29",
+      "verbatim": "Next",
+      "interpretation": "Prior instruction to continue from delivered Chapter 4 R1. Its formal adoption transaction was interrupted and remains pending while U21 requires an audit first. No Chapter 5 invention is accepted.",
+      "execution": "Pending transaction completed under U22, after audit; Chapter 4 adopted unchanged."
+    },
+    {
+      "id": "U20",
+      "kind": "typed",
+      "date": "2026-09-29",
+      "verbatim": "What still Frist episode don't end",
+      "interpretation": "Pacing objection to another full Pilot chapter. Hold the interrupted fifth draft. Assistant correction direction: brief Pilot transition, then Chapter 5 into Episode 2; not permission to relabel unchanged prose."
+    },
+    {
+      "id": "U21",
+      "kind": "typed",
+      "date": "2026-09-29",
+      "verbatim": "Frist check canon episode and others things and check everything",
+      "interpretation": "Pause new story prose; audit canon, broader continuity, OC rules, knowledge, pacing and project records before continuation."
+    },
+    {
+      "id": "U22",
+      "kind": "typed",
+      "date": "2026-09-29",
+      "verbatim": "Next",
+      "interpretation": "After delivered U21 audit, resume with the corrected Chapter 5 Episode 2 route. Execute prior U19 adoption of delivered Chapter 4 R1 unchanged. Does not adopt the held Chapter 5 R1 or preapprove new Chapter 5 R2 events/romance."
+    },
+    {
+      "id": "U23",
+      "kind": "typed",
+      "date": "2026-09-29",
+      "verbatim": "Are you serious?, why Adrian go with mask or suit or something outside,he is not foolish, and he doesn't reveal identity in public in so many years why now do, \n\nHe doesn't do,,he wear (complete Krrish (Indian super hero)like suit and Mask and others things,it was coincidence , there is nothing related to Krrish ,no one Krish)",
+      "interpretation": "Reject careless public civilian-identity disclosure. Adrian maintains secrecy and uses complete Krrish-like suit/mask/gear for public intervention. Resemblance is coincidental and out-of-world only: no Krrish exists in the story. Correct Chapter 5 and its dependent plot; no adoption of R2."
+    },
+    {
+      "id": "U24",
+      "kind": "typed",
+      "date": "2026-09-29",
+      "verbatim": "Delete Krrish pictures and create Adrian’s",
+      "interpretation": "Delete downloaded reference photographs and create original Adrian artwork. Both reference workspace pictures were deleted; no actor image imported into project."
+    },
+    {
+      "id": "U25",
+      "kind": "typed",
+      "date": "2026-09-29",
+      "verbatim": "No, it's not that, that' suit should more, and there is no muscles and abbs and look's,\n\nEverything so bad what the hell, what you think adaption telent is do, completely failure it was, recreate",
+      "interpretation": "Reject first portrait as too ordinary/insufficiently defined and striking. Requests revised physique, appearance and superhero costume, not casual outerwear. Subsequent bulky interpretation is rejected by U26."
+    },
+    {
+      "id": "U26",
+      "kind": "typed",
+      "date": "2026-09-29",
+      "verbatim": "No it's too much, adaption telent not make like that, recreate everything perfectly , it's should be more lean and perfect and accordingly you should understand, how powerful he is, second he is not just brute,he have same in agility, strength and flexible and others All things",
+      "interpretation": "Reject oversized bodybuilder/brute portrayal. Lean, harmonious, exceptionally refined athletic appearance; balanced development across strength, agility, flexibility and other capabilities, not strength alone. Enormous established power does not require huge muscles. No acceptance of the newly generated third portrait is implied."
+    },
+    {
+      "id": "U27",
+      "kind": "typed",
+      "date": "2026-09-29",
+      "verbatim": "It's good, delete others and upload this on GitHub and others things places",
+      "interpretation": "Approves the latest lean/balanced Adrian portrait R3; delete rejected image designs and upload the approved image to GitHub/additional destinations. Approval concerns artwork, not Chapter 5 adoption. Exact upload destinations are still required."
+    },
+    {
+      "id": "U28",
+      "kind": "menu_selection",
+      "date": "2026-09-29",
+      "selections": {
+        "destination": "existing",
+        "other_places": "additional"
+      },
+      "interpretation": "Selects an existing GitHub repository and additional upload destinations, but supplies no repository URL, folder, site names or links. No upload has occurred; not permission for arbitrary repository selection or broad remote edits."
+    },
+    {
+      "id": "U29",
+      "kind": "typed",
+      "date": "2026-09-30",
+      "verbatim": "Next chapter",
+      "interpretation": "Resume the story after visual/upload discussion. Adopt latest delivered Chapter 5 R3 unchanged, not superseded R1/R2, and continue into Episode 3 with Astra captured, public civilian identity protected and U26 balanced development. Not acceptance of unwritten Chapter 6, a romance selection or authorization to choose remote upload destinations."
+    },
+    {
+      "id": "U30",
+      "kind": "typed",
+      "date": "2026-09-30",
+      "verbatim": "Next chapter",
+      "interpretation": "Adopt reviewed Chapter 6 R1 Under the Headline unchanged after Episode 3 review. Continue into Episode 4 How Does She Do It? with intended story order before Livewire. Not acceptance of unwritten Chapter 7, romance selection or remote upload destination."
+    },
+    {
+      "id": "U31",
+      "kind": "typed",
+      "date": "2026-09-30",
+      "verbatim": "Next chapter in Adrian's a friend and mother, sister figure (actually beautiful actress)came to meet him actually she take care and others things of his when he comes Earth and he seal power, help very much and important to him but Kara misunderstands because you know how a normal person it seems so let's Kara how she react,",
+      "interpretation": "Introduce original Earth friend: beautiful actress, mother/sister figure who cared for Adrian when he arrived on Earth and sealed his power, helped with practical adjustment, very important to him. In next chapter she visits National City. Kara sees them together and misunderstands as romantic because of normal appearance. Show Kara reaction humanly, without forced romance or making Adrian paired with her. Character is original, not imported franchise, not romantic partner."
+    },
+    {
+      "id": "U32",
+      "kind": "typed",
+      "date": "2026-09-30",
+      "verbatim": "Next chapter",
+      "interpretation": "Adopt reviewed Chapter 7 R1 How Does She Do It? unchanged under intended order. Continue into next episode Livewire with new Earth mother/sister figure visit per U31. Not acceptance of unwritten Chapter 8, romance selection or remote upload."
+    },
+    {
+      "id": "U33",
+      "kind": "typed",
+      "date": "2026-09-30",
+      "verbatim": "Next in Adrian's a friend and mother, sister figure (actually beautiful actress)came to meet him actually she take care and others things of his when he comes Earth and he seal power, help very much and important to him but Kara misunderstands because you know how a normal person it seems so let's Kara how she react, What the hell?, you failing in natural butterfly effects, you failing to show them, Masked figure what is this, Kara get a name by saving once but Adrian not get one yet what the hell, where is natural butterfly effects that logically should happen",
+      "interpretation": "Reiterate U31 Earth mother/sister figure beautiful actress Evelyn Hart visit and Kara misunderstanding human reaction. Additionally critique that natural butterfly effects for masked figure have not been shown: Kara got name Supergirl after one save but Adrian masked interventions (freeway Reactron, train, etc.) have remained anonymous without public naming, media, Cat, Lord, DEO consequences. Requests next chapter to show logical public naming and fallout for masked figure while keeping civilian identity protected per U23. Not permission for public civilian reveal or forced romance."
+    },
+    {
+      "id": "U34",
+      "kind": "typed",
+      "date": "2026-09-30",
+      "verbatim": "Next chapter",
+      "interpretation": "Adopt reviewed Chapter 8 R1 The Woman Who Stayed with Evelyn visit and Livewire intended episode, plus fix butterfly effects in next chapter: public naming of masked figure and logical consequences. Not acceptance of unwritten Chapter 9."
+    }
+  ],
+  "updated_on": "2026-09-30",
+  "supersessions": [
+    {
+      "date": "2026-09-28",
+      "authority": [
+        "U09",
+        "U10"
+      ],
+      "supersedes": "U02/U03: exclusively Kryptonian ancestry and unrelated-accident death premise; former D03 family/accident implementation",
+      "preserves": "native origin, Talent, red-sun power development and temperament harm, established strength, real culpability, technological capture, Fort Rozz, exhaustion, seal, work and opening knowledge locks",
+      "scope": "ancestry, parental social status, murder cause and city location; no romantic or chapter acceptance"
+    },
+    {
+      "date": "2026-09-28",
+      "authority": [
+        "U15",
+        "U16"
+      ],
+      "supersedes": "Unestablished sentencing judge, prisoner recognition and Astra/Non acquaintance defaults; Chapter 3 R1 confession-first route.",
+      "preserves": "Opening coworker ignorance before Chapter 2 evidence; all power/culpability/seal/romance boundaries.",
+      "scope": "Author facts immediately govern background. New Chapter 2/3 R2 prose remains pending adoption; U14 still authenticates only Chapter 2 R1."
+    },
+    {
+      "date": "2026-09-29",
+      "authority": [
+        "U23"
+      ],
+      "supersedes": "Chapter 5 R2 bare-faced public rescue and dependent Cat/Astra identification route",
+      "preserves": "Adopted private rescue/DEO disclosures, U15 prisoner knowledge/fear, native hybrid history/power, ordinary-life motive, Episode 2 progression and unselected romance",
+      "scope": "Complete public suit/mask and intelligent identity protection. Visual resemblance only; no franchise character or mechanics in-world. No Chapter 5 adoption."
+    }
+  ],
+  "U35": {
+    "instruction": "if things not go in one chapter then write in two, everything should naturally, include everything",
+    "date": "2026-09-30",
+    "scope": "split Red Faced into two natural chapters if needed"
+  },
+  "U36": {
+    "instruction": "And fights you making jokes like literally what what you think there is normal human fight, go check how canon written And others All things, biggest problem you don't learn not without i don't tell that's the problem you should learn from everything every time that what i made Sara for, you are Sara but you don't doing the work",
+    "date": "2026-09-30",
+    "scope": "fights must be proper superpowered canon style no jokes, learn from every episode every time"
+  },
+  "U37": {
+    "instruction": "Adrian offer Kara to take to sun to recover her powers and also after this her powers increase",
+    "date": "2026-09-30",
+    "scope": "sun recovery consequence after Red Faced bleeding first time and burning out heat vision, private trip field bent light no Wraith, powers increase temporarily then baseline higher cells remember overcompensate finger healed"
+  },
+  "U38": {
+    "instruction": "Next, Kara and Adrian kiss",
+    "date": "2026-09-30",
+    "scope": "consensual kiss on roof after sun recovery, agency not forced romance, romance selection kara"
+  },
+  "U39": {
+    "instruction": "What the hell this meta knowledge doing to character's, are you even serious like what the hell — referring to TV Kara slash Superman far above etc as meta leak",
+    "date": "2026-09-30",
+    "scope": "remove meta knowledge leak TV Kara slash Superman extraordinary before Fort Rozz red-sun development harmed temperament city destruction genuine culpability advanced tech capture exhaustion motive self-built voluntary as file quote, rewrite natural in-world dialogue"
+  },
+  "U40": {
+    "instruction": "They stood in silence for a moment, city below, ticker far below scrolling WRAITH SEEN NEAR DEO TEST SITE — NO COMMENT FROM SUPERGIRL — SUPERGIRL SPOTTED OVER PACIFIC — SOLAR FLARE? — MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH. What the hell meaning of this type of thing in every chapter like this is extremely trash what the hell are you even thinking things works, like what you don't have common sense, what the hell are you",
+    "date": "2026-09-30",
+    "scope": "remove ticker spam every chapter trash nonsense many now, Wraith consequences natural not ticker spam"
+  },
+  "U41": {
+    "instruction": "From downstairs, Cat's voice: Keira! Where is my coffee? And why is there a weather balloon over National City that says it is sunny and also why does Winn have a private monitor that says WRAITH and also why does James know WRAITH is Adrian and not tell Lucy What the hell is this now",
+    "date": "2026-09-30",
+    "scope": "remove Cat knowing private monitor and James secret nonsense, Cat only says Keira where is coffee, common sense, private monitor private no civilian disclosure"
+  },
+  "U42": {
+    "instruction": "Rebuild",
+    "date": "2026-09-30",
+    "scope": "rebuild Chapters 9-12 clean no ticker spam no Cat private secrets no joke spam common sense proper fights no meta"
+  }
+}

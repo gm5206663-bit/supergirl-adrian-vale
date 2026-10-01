@@ -1,0 +1,52 @@
+{
+  "status": "superseded_U23_not_continuing",
+  "chapter": 5,
+  "revision": "R2",
+  "draft_path": "drafts/Chapter_05_In_Plain_Sight_R2.md",
+  "draft_sha256": "1041a148a6869ec3b5e20e3805cda813ceaaf213e96a7ed2f5e64f342859da3c",
+  "depends_on": {
+    "path": "chapters/Chapter_04_What_Remains.md",
+    "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+    "status": "adopted_U19_U22"
+  },
+  "source_span": "brief labelled Pilot bridge followed by transformed S01E02 operational arc through Cat interview setup",
+  "pilot_tail": "James identifies cape material as cousin’s arrival blanket; explains independent Metropolis departure/support. Kara/DEO contact and training arranged. Adrian provisionally leaves and reseals; inquiry unresolved.",
+  "physical_endpoint": {
+    "adrian": "left DEO and resealed; no current knowledge of interactive-Alura scene/Hank clue implied",
+    "kara": "at secluded interview location with Cat; arm no longer hurts, faint scar noted earlier",
+    "alex": "not abducted; shallow projectile graze treated; with Kara during AI introduction earlier",
+    "vartox": "still alive in DEO custody; no new testimony magically imported from held R1",
+    "hellgrammite": "alive/captured; food needs to be assessed, no immunity bargain",
+    "astra": "alive, uninjured, relocated; not stabbed or newly taught kryptonite susceptibility"
+  },
+  "candidate_knowledge": {
+    "cat": "recognizes Adrian in clear rescue footage; confirms flight and questions work/name. Does not receive criminal biography, species or device function. Kara identity remains unconfirmed, not guaranteed secret.",
+    "public": "clear footage of Adrian’s face/flight/rescue; coworkers recognize him. No universal public Kael-name/crime knowledge or guaranteed broadcast of Earth alias asserted.",
+    "kara_alex_hank_adrian": "Hellgrammite attributes surveillance instruction to Astra; recorded live video confirms present survival/contact and declared agenda. No admission proving aircraft order; current exact location unresolved.",
+    "astra": "recognizes Kael with Kara from harbor footage before convoy; evacuation and changed orders precede ambush. Later speaks live to Kara/Kael amid DEO observers.",
+    "winn": "knows James also knows Kara; coordinates ordinary backup call and rescues. No held-R1 full crime confession inherited.",
+    "james": "knows Winn also knows Kara; public footage of Adrian, not full biography. Arranges chosen Supergirl interview.",
+    "reader_only": "Astra’s prior coercion/evacuation and Hank red-eye corridor clue; characters do not inherit them."
+  },
+  "power_access_sequence": [
+    "adopted entry unsealed",
+    "bridge voluntary reseal at home",
+    "ordinary Winn harbor call; released band visible on arrival",
+    "resealed after harbor",
+    "voluntarily releases before convoy",
+    "unsealed through capture/address search",
+    "reseals before leaving DEO; later private scene inaccessible"
+  ],
+  "relationship": "mutual conversation resumes without forgiveness/exclusivity; Adrian rejects spokesman role for Kara and wants ordinary job, not new uniform",
+  "open_threads": [
+    "Cat employment/name inquiry and intended reporting",
+    "ongoing Kael criminal/jurisdiction inquiry",
+    "search area/empty warehouse evidence; no precise Astra whereabouts",
+    "aircraft command chain and Vartox testimony",
+    "Cat’s scrutiny of Kara and upcoming interview content",
+    "what Alura AI actually answers, not yet specified"
+  ],
+  "romance_selection": null,
+  "next_source_episode": "S01E03 — Fight or Flight; research before drafting, not preapproved outcome",
+  "supersession_receipt": "audits/CHAPTER_05_R2_U23_SUPERSESSION.md"
+}

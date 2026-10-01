@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "chapter": 8,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_08_The_Woman_Who_Stayed_R1.md",
+  "draft_sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+  "accepted": false,
+  "claimed_episode": "S01E05 intended — Livewire",
+  "span": "S01E05 intended Livewire — Thanksgiving, Eliza visit, Leslie Willis shock jock lightning powers, plus U31 Earth mother/sister figure Evelyn Hart visit and Kara misunderstanding",
+  "sources": [
+    {
+      "id": "SRC-SG-E05-EW",
+      "url": "https://ew.com/recap/supergirl-season-1-episode-5/",
+      "title": "Supergirl recap: Livewire — EW",
+      "accessed": "2026-09-30",
+      "verification": "Fresh search extract earlier: Eliza visit Thanksgiving, Alex anxiety, Leslie Willis shock jock Alive and Wired annual list not grateful Supergirl vulgarity, Cat summons office warns not go after Supergirl insulting body/dress/sexuality demotes to traffic chopper, helicopter lightning, Supergirl rescue pilot catches helicopter grabs Leslie hand lightning strikes passes through, coma new makeover, hospital visit Cat asks how long appropriate, Leslie lack family, Cat coax coma, Kara apartment Alex watches news Eliza tells turn off berates Alex, porch flashback Kara convinces Alex sneak out flying, alley Leslie discovers powers subdues drunk man, Cat conference call London Beijing nothing working Winn help electricity out Leslie appears screens attacks Kara and Cat, Cat sends Kara to security, Leslie finds Cat confronts transcended, Supergirl shields blast tells Cat leave, Leslie messes elevator escaping, Henshaw deduces Element X physical form, Kara fault FBI direct line, Alex arrives check mother blackouts, Eliza apology harder on Alex wanted better, DEO industrial capacitor Ghostbusters, Cat calls Leslie out radio show where it all began, Supergirl vs Livewire energy constructs knocks trap, water pipe short out comatose, leftovers Winn grateful kisses cheek James Lucy return."
+    },
+    {
+      "id": "SRC-SG-E05-TVTR",
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/Supergirl2015S1E5Livewire",
+      "title": "Supergirl S1E5 Livewire Recap — TVTropes",
+      "accessed": "2026-09-30",
+      "verification": "Fresh search extract: Thanksgiving turkey awkward family, Eliza nervous mother blame, Leslie rant Cat protective demotion transfer traffic chopper instead buying out contract, Winn Friendsgiving Orphan Black, helicopter pilot lightning too much Leslie rebuffs lightning hits pilot loses control, Kara tells Alex clear sidewalk changes to Supergirl saves pilot and helicopter lightning deflects onto Leslie hospital, CatCo Plaza rant, Cat meeting Leslie office reminder warned not go after Supergirl crossed line insult body/dress/sexuality, dynamic mother terrible rebellious daughter, argument Supergirl positive impact negativity sick of optimism hope positivity, Noonan's James invites Friendsgiving mentions Lucy Ojai, etc., powers shoot electricity turn into energy enter electrical system, Cat sympathy feels bad hand in creating Livewire placement and encouraging revolting behavior ratings, Grant pushes due to un-impressed mother, Alex father Jeremiah DEO past."
+    },
+    {
+      "id": "SRC-SG-E05-ARROW",
+      "url": "https://arrow.fandom.com/wiki/Livewire",
+      "title": "Livewire — Arrow Wiki",
+      "accessed": "2026-09-30",
+      "verification": "Fresh search extract: DEO alien convict escaped rampage Supergirl subdues asks day off, Eliza visit, Eliza hard on Alex, flashback roof flight, Leslie helicopter lightning coma silver hair, CatCo Plaza rant, Cat meeting, transfer traffic chopper, Noonan's James Friendsgiving Lucy Ojai, helicopter lightning, Kara saves pilot and helicopter, Leslie powers alley, CatCo blackout screens, Cat sends Kara security, Leslie finds Cat confronts, Supergirl shields, elevator, Henshaw Element X, DEO capacitor Ghostbusters, Cat bait radio show, water pipe short out, leftovers Winn kisses cheek James Lucy return, Jeremiah DEO deal, Eliza confession."
+    },
+    {
+      "id": "SRC-U31-USER",
+      "url": "user_request_U31",
+      "title": "User request U31 Earth mother/sister figure actress",
+      "accessed": "2026-09-30",
+      "verification": "User typed request: Adrian's friend and mother sister figure actually beautiful actress came to meet him actually she take care and others things of his when he comes Earth and he seal power, help very much and important to him but Kara misunderstands because you know how a normal person it seems. Original character, not imported."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-E05-01",
+      "status": "covered",
+      "reason": "Eliza Danvers arrives for Thanksgiving, Alex anxiety about mother blaming for letting Kara become Supergirl.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-02",
+      "status": "covered",
+      "reason": "Leslie Willis shock jock Alive and Wired annual list not grateful Supergirl, vulgarity body/dress/sexuality, Cat summons office warns, demotes to traffic chopper Cat-Copter instead of buying out contract.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-03",
+      "status": "covered",
+      "reason": "Helicopter Cat-Copter during lightning storm, pilot says too much, Leslie rebuffs, lightning hits, pilot loses control, Kara tells Alex clear sidewalk, changes to Supergirl, saves pilot and helicopter, grabs Leslie hand, lightning strikes Supergirl passes through to Leslie, coma silver hair.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-04",
+      "status": "covered",
+      "reason": "Hospital visit Cat and Kara, Cat asks how long appropriate to leave, Leslie lack family, Cat coaxes coma.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-05",
+      "status": "covered",
+      "reason": "Alley Leslie awakens discovers powers subdues drunk man, becomes Livewire, blackouts city.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-06",
+      "status": "covered",
+      "reason": "CatCo blackout screens Leslie appears, attacks Kara and Cat, Cat sends Kara to security, Supergirl shields blast, tells Cat leave, Leslie messes elevator escaping.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-07",
+      "status": "covered",
+      "reason": "Henshaw deduces Kara Element X, physical form despite energy, Kara fault, FBI direct line.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-08",
+      "status": "covered",
+      "reason": "Alex arrives check mother blackouts, Eliza apology harder on Alex wanted better than her, Kara not as hard because child from another planet lost everything.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-09",
+      "status": "covered",
+      "reason": "DEO industrial capacitor trap Ghostbusters comparison, Cat calls Leslie out radio show meet where it all began, Supergirl vs Livewire energy constructs upper hand knocks trap, water pipe short out comatose.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-10",
+      "status": "covered",
+      "reason": "Thanksgiving dinner Winn invited Friendsgiving Orphan Black Thai food, father in prison, kisses Kara cheek awkward, James and Lucy return from Ojai divert attention.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-11",
+      "status": "covered",
+      "reason": "Eliza confession Jeremiah worked for DEO under Hank Henshaw to keep Kara from being studied, died mysterious, Alex/Kara suspicious Hank red eyes, flashback roof flight porch.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-12",
+      "status": "changed_with_receipt",
+      "reason": "U31 Earth mother/sister figure beautiful actress Evelyn Hart visits National City for Thanksgiving week, helped Adrian when he arrived and sealed power, practical adjustment, important family by staying, not romantic.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-13",
+      "status": "changed_with_receipt",
+      "reason": "Kara sees Adrian with Evelyn close caring behavior arm in arm collar fixing head on shoulder, misunderstands as romantic girlfriend, feels awkward jealous pang, retreats, tries to be professional.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    },
+    {
+      "id": "SG-E05-14",
+      "status": "changed_with_receipt",
+      "reason": "Clarification: Adrian explains Evelyn is family who helped when he first came and learned to live sealed, mother/sister figure calls him kid, not romantic. Evelyn perceptive warmth clarifies with humor, fixes Kara collar, notices Kara likes Adrian, tells Kara she is good for him as friend.",
+      "source_ids": [
+        "SRC-SG-E05-EW",
+        "SRC-SG-E05-TVTR",
+        "SRC-SG-E05-ARROW",
+        "SRC-U31-USER"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_08_R1_REVIEW.md",
+      "sha256": "70b8f04f4f47094aa175bbeb1f928b4ef5e516693608d203ce7280836820af64"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_08_R1_REVIEW.md",
+      "sha256": "70b8f04f4f47094aa175bbeb1f928b4ef5e516693608d203ce7280836820af64"
+    },
+    "power": {
+      "path": "audits/CHAPTER_08_R1_REVIEW.md",
+      "sha256": "70b8f04f4f47094aa175bbeb1f928b4ef5e516693608d203ce7280836820af64"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_08_R1_REVIEW.md",
+      "sha256": "70b8f04f4f47094aa175bbeb1f928b4ef5e516693608d203ce7280836820af64"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_08_R1_REVIEW.md",
+      "sha256": "70b8f04f4f47094aa175bbeb1f928b4ef5e516693608d203ce7280836820af64"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [
+    {
+      "id": "D16",
+      "cause": "U31 Earth support figure visit plus Livewire Thanksgiving",
+      "effect": "Evelyn Hart visit, Kara misunderstanding human reaction, plus Livewire origin and Eliza visit with Jeremiah reveal."
+    }
+  ],
+  "notes": "Candidate only. Source functions accounted for honestly; original operational/character execution not claimed television fact. Evelyn Hart original character per U31.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 5,
+    "canon_title": "Livewire",
+    "chapter": 8,
+    "chapter_title": "The Woman Who Stayed"
+  }
+}

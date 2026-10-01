@@ -1,0 +1,197 @@
+{
+  "status_policy": "Working designs created at the author’s request for full files. Not mislabelled as user-approved facts or accepted chapters.",
+  "designs": [
+    {
+      "id": "D01",
+      "title": "Red-sun pathway and temperament mechanism",
+      "path": "bible/POWER_MECHANICS_DESIGN.md",
+      "resolves_in_part": [
+        "O01",
+        "O04"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false
+    },
+    {
+      "id": "D02",
+      "title": "Device architecture and failure behavior",
+      "path": "bible/DEVICE_ENGINEERING_DESIGN.md",
+      "resolves_in_part": [
+        "O05"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false
+    },
+    {
+      "id": "D03",
+      "title": "Family names and ordinary accident proposal",
+      "path": "audits/HERITAGE_RETCON_2026_09_28.md",
+      "resolves_in_part": [
+        "O02"
+      ],
+      "status": "superseded",
+      "author_approval_recorded": false,
+      "superseded_by": "D08"
+    },
+    {
+      "id": "D04",
+      "title": "Technological containment and Earth integration",
+      "path": "bible/FORT_ROZZ_AND_EARTH.md",
+      "resolves_in_part": [
+        "O02",
+        "O03"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false
+    },
+    {
+      "id": "D05",
+      "title": "Narrative order for the first-season swapped pair",
+      "path": "timeline/ORDER_POLICY.md",
+      "resolves_in_part": [],
+      "status": "working_design",
+      "author_approval_recorded": false
+    },
+    {
+      "id": "D06",
+      "title": "Future character and institutional arcs",
+      "path": "planning/STORY_ARCS.md",
+      "resolves_in_part": [],
+      "status": "working_design",
+      "author_approval_recorded": false
+    },
+    {
+      "id": "D07",
+      "title": "Canon-grounded pre-pilot courtship and butterfly candidate",
+      "path": "planning/PRE_PILOT_BUTTERFLY_ANALYSIS.md",
+      "resolves_in_part": [
+        "O02",
+        "O03"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false
+    },
+    {
+      "id": "D08",
+      "title": "Mixed heritage, murdered parents and city destruction on Krypton",
+      "path": "bible/KRYPTON_HISTORY.md",
+      "resolves_in_part": [
+        "O02"
+      ],
+      "status": "author_approved",
+      "author_approval_recorded": true,
+      "approval_receipt": "foundation/USER_LOCKS.json — U09 and U10",
+      "approval_scope": "Ancestry, influential Kryptonian paternal house, collateral Daxam royal maternal branch, parents murdered over the mixed union and destroyed city on Krypton. Further names, family genealogy, attack mechanics and dates remain designs or open."
+    },
+    {
+      "id": "D09",
+      "title": "Limited childhood case-name memory; recovered-record contents remain unassigned",
+      "path": "foundation/PREWRITE_RESCUE_REVEAL_REVISION.md",
+      "resolves_in_part": [
+        "O02",
+        "O03"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false,
+      "scope_note": "Name/city association is original working prose retained in Chapter 3 R2. R1 record readout and confession are superseded. Alura sentence now author fact U16, not D09."
+    },
+    {
+      "id": "D10",
+      "title": "Rescue-reveal implementation and conscious-custody recollection",
+      "path": "foundation/PREWRITE_RESCUE_REVEAL_REVISION.md",
+      "resolves_in_part": [
+        "O02",
+        "O03"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false,
+      "scope_note": "U15/U16 facts are authoritative. Emergency-contact timing, release controls, dialogue, limited memory and restraint transfer are original candidate execution, not separate author approvals."
+    },
+    {
+      "id": "D11",
+      "title": "Aftermath record, medical, monitored disclosure and missing-operative implementation",
+      "path": "foundation/PREWRITE_Chapter_04_R1.md",
+      "resolves_in_part": [
+        "O02",
+        "O03",
+        "O05"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false,
+      "scope_note": "Chapter 4 scene implementation now adopted through U19/U22; broader legal, record and biographical unknowns remain open. This does not promote every proposed mechanism into a user lock."
+    },
+    {
+      "id": "D12",
+      "title": "Episode 2 public exposure and changed operational confrontation",
+      "path": "foundation/PREWRITE_Chapter_05_R2.md",
+      "resolves_in_part": [
+        "O03",
+        "O05"
+      ],
+      "status": "superseded",
+      "author_approval_recorded": false,
+      "scope_note": "Public identity exposure and dependent antagonist/Cat route rejected; no R2 event adopted.",
+      "superseded_by": "D13 / U23"
+    },
+    {
+      "id": "D13",
+      "title": "U23 full public disguise and recalculated Episode 2 confrontation",
+      "path": "foundation/PREWRITE_Chapter_05_R3.md",
+      "resolves_in_part": [
+        "O03",
+        "O05"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false,
+      "scope_note": "R3 scene execution now adopted under U29; U23 costume rule remains author foundation. Broader legal/power/romance unknowns not approved wholesale."
+    },
+    {
+      "id": "D14",
+      "title": "Episode 3 early capture, containment and changed press/family consequences",
+      "path": "foundation/PREWRITE_Chapter_06_R1.md",
+      "resolves_in_part": [
+        "O03",
+        "O05"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false,
+      "scope_note": "Adopted under U30; early capture/containment and Non claim now accepted."
+    },
+    {
+      "id": "D15",
+      "title": "Episode 4 intended How Does She Do It? — bombings, Carter, train/airport",
+      "path": "foundation/PREWRITE_Chapter_07_R1.md",
+      "resolves_in_part": [
+        "O03",
+        "O05"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false,
+      "scope_note": "Adopted under U32; drone, Carter, train/airport, Hank secret hint and Lord testing now accepted."
+    },
+    {
+      "id": "D16",
+      "title": "Episode 5 Livewire plus U31 Earth mother/sister figure actress visit and Kara misunderstanding",
+      "path": "foundation/PREWRITE_Chapter_08_R1.md",
+      "resolves_in_part": [
+        "O03",
+        "O05"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false,
+      "scope_note": "Adopted under U34; Evelyn Hart visit and Livewire origin with Eliza visit and Jeremiah reveal now accepted."
+    },
+    {
+      "id": "D17",
+      "title": "Episode 6 Red Faced plus masked public naming butterfly fix and Evelyn aftermath",
+      "path": "foundation/PREWRITE_Chapter_09_R1.md",
+      "resolves_in_part": [
+        "O03",
+        "O05"
+      ],
+      "status": "working_design",
+      "author_approval_recorded": false,
+      "scope_note": "Chapter 9 candidate; after multiple masked saves freeway and train, public/media Cat Grant gives masked figure name (Wraith/Onyx), natural butterfly effects media coverage Lord interest DEO discussion, plus Evelyn departure and Kara Adrian clarification. Keeps civilian identity protected per U23."
+    }
+  ]
+}

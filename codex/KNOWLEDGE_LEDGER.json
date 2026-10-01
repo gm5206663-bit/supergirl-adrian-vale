@@ -1,0 +1,1056 @@
+{
+  "epoch": "v1",
+  "records": [
+    {
+      "id": "K01",
+      "observer": "adrian",
+      "fact": "kara_kryptonian_identity",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara explicitly discloses Kryptonian origin in Chapter 2; ordinary recognition prompted the conversation, not a powered scan.",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "K02",
+      "observer": "adrian",
+      "fact": "future_episode_events",
+      "state": "unknown",
+      "provenance": "user_lock",
+      "evidence": "Native-born, no canon foreknowledge."
+    },
+    {
+      "id": "K03",
+      "observer": "adrian",
+      "fact": "own_device_function",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "He built it himself."
+    },
+    {
+      "id": "K04",
+      "observer": "adrian",
+      "fact": "own_crime_and_family_loss",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "Own lived history: parents murdered by some Daxamites over the union, then his destruction of a city on Krypton; exact recollection details unassigned."
+    },
+    {
+      "id": "K05",
+      "observer": "kara",
+      "fact": "adrian_kryptonian_identity",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Adrian discloses Kryptonian father; this is testimony, not a complete biography or demonstrated ability suite.",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "K06",
+      "observer": "cat",
+      "fact": "device_true_function",
+      "state": "not_established",
+      "provenance": "working_design",
+      "evidence": "Chapter 1: Cat notices the band; its function is not disclosed."
+    },
+    {
+      "id": "K07",
+      "observer": "deo",
+      "fact": "kael_prisoner_record",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Limited recovered entry: name/image/conviction summary/Alura judgment, not complete dossier.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K08",
+      "observer": "deo",
+      "fact": "adrian_equals_kael",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Recovered image/record matched; Adrian directly confirms Kael identity and accurate conviction.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K09",
+      "observer": "james",
+      "fact": "adrian_true_power",
+      "state": "not_established",
+      "provenance": "working_design",
+      "evidence": "Knowing other Kryptonians does not confer this fact."
+    },
+    {
+      "id": "K10",
+      "observer": "adrian",
+      "fact": "alex_deo_role",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara tells Adrian about Alex’s DEO role after the first capture; Alex then appears at the rescue.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K11",
+      "observer": "adrian",
+      "fact": "own_mixed_heritage_and_parental_standing",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "His mixed-family history is established by U09/U10; exact genealogical knowledge is not thereby complete."
+    },
+    {
+      "id": "K12",
+      "observer": "kara",
+      "fact": "adrian_daxamite_ancestry",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Adrian discloses Daxamite mother.",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "K13",
+      "observer": "kara",
+      "fact": "adrian_maternal_royal_affiliation",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Adrian tells Kara his mother belonged to a collateral Daxam royal branch.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K14",
+      "observer": "kara",
+      "fact": "kael_city_catastrophe_and_family_case",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Adrian confirms parents murdered over mixed union, city destruction with innocent deaths, own choices and culpability; red-sun development harmed temperament. No exact count/date/city name.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K15",
+      "observer": "rhea",
+      "fact": "adrian_equals_kael",
+      "state": "not_established",
+      "provenance": "open",
+      "evidence": "Royal-family connection supplies no automatic information about his Earth alias."
+    },
+    {
+      "id": "K16",
+      "observer": "mon_el",
+      "fact": "adrian_equals_kael",
+      "state": "not_established",
+      "provenance": "open",
+      "evidence": "Prior acquaintance, case knowledge and Earth identification have not been assigned."
+    },
+    {
+      "id": "K17",
+      "observer": "adrian",
+      "fact": "public_flying_woman_rescued_aircraft",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Cat’s call and distant news footage after landing; no face/species identification.",
+      "source_chapter": 1,
+      "source_path": "chapters/Chapter_01_Adrian_Vale.md"
+    },
+    {
+      "id": "K18",
+      "observer": "adrian",
+      "fact": "kara_food_preferences",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "He remembers favored donuts/pastries and her ice-cream recommendation in Chapter 1.",
+      "source_chapter": 1,
+      "source_path": "chapters/Chapter_01_Adrian_Vale.md"
+    },
+    {
+      "id": "K19",
+      "observer": "kara",
+      "fact": "james_superman_connection",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "James introduces himself, discusses Superman and gives the photograph.",
+      "source_chapter": 1,
+      "source_path": "chapters/Chapter_01_Adrian_Vale.md"
+    },
+    {
+      "id": "K20",
+      "observer": "adrian",
+      "fact": "kara_is_aircraft_rescuer",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara confirms she is the aircraft rescuer after Adrian asks about the fuller passenger recording.",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "K21",
+      "observer": "alex",
+      "fact": "kara_is_aircraft_rescuer",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "She sees Kara at the aircraft and discusses exposure afterward.",
+      "source_chapter": 1,
+      "source_path": "chapters/Chapter_01_Adrian_Vale.md"
+    },
+    {
+      "id": "K22",
+      "observer": "adrian",
+      "fact": "kara_superman_kinship",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara says Superman is her cousin.",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "K23",
+      "observer": "kara",
+      "fact": "adrian_seal_function_and_authorship",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Adrian describes his self-built voluntary restriction; no release demonstration.",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "K24",
+      "observer": "kara",
+      "fact": "adrian_parents_deceased",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "He confirms their death without giving cause in Chapter 2.",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "K25",
+      "observer": "winn",
+      "fact": "kara_is_aircraft_rescuer",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara tells him and demonstrates flight on the roof.",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "K26",
+      "observer": "kara",
+      "fact": "passenger_clip_exposure_risk",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Adrian shows the original clip and explains shared-mailbox/other-copy risk.",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "K27",
+      "observer": "adrian",
+      "fact": "alura_sentenced_him",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "U16: Alura sentenced him; lived history, not a deduction from Kara’s powers."
+    },
+    {
+      "id": "K28",
+      "observer": "adrian",
+      "fact": "astra_non_personal_prison_acquaintance",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "U16: personally met both in prison; relationship complicated. No present location or plan knowledge follows."
+    },
+    {
+      "id": "K29",
+      "observer": "adrian",
+      "fact": "kara_zor_el_family_recognition",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "U16 places recognition of Kara and her family during the earlier conversation. Exact exchange is in pending Chapter 2 R2; not an opening powered scan."
+    },
+    {
+      "id": "K30",
+      "observer": "astra",
+      "fact": "kael_identity_and_fear",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "U15/U16: knows and fears him, personally acquainted in prison. Adrian alias/current location not thereby known."
+    },
+    {
+      "id": "K31",
+      "observer": "non",
+      "fact": "kael_identity_and_fear",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "U15/U16: knows and fears him, personally acquainted in prison. Fear is not obedience."
+    },
+    {
+      "id": "K32",
+      "observer": "vartox",
+      "fact": "kael_identity_and_fear",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "U15: all Fort Rozz prisoners, including Vartox, know and greatly fear Kael-Varr. Actual Earth recognition occurs in candidate Chapter 3 R2."
+    },
+    {
+      "id": "K33",
+      "observer": "kara",
+      "fact": "adrian_equals_kael_and_alura_sentence",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Vartox exposes Kael and prison connection; Adrian directly confirms Alura sentenced him.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K34",
+      "observer": "kara",
+      "fact": "adrian_overwhelming_rescue_and_precise_heat_vision",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Witnesses effortless Vartox restraint/failed escape and consents to effective heat-vision bleeding control; not full regeneration.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K35",
+      "observer": "adrian",
+      "fact": "fort_rozz_pod_connection",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara reports the DEO explanation after returning from initial capture.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K36",
+      "observer": "winn",
+      "fact": "kael_name_prison_association",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Prior live rescue/name/prison audio; earpiece ends before DEO transport. Later Kara reports capture and Adrian answering questions. No full biography or stored audio established.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K37",
+      "observer": "alex",
+      "fact": "adrian_precision_heat_vision",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Directly witnesses bleeding control, checks and dresses injury.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K38",
+      "observer": "adrian",
+      "fact": "vartox_plane_and_commander_testimony",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Hears Vartox refer to the commander and plane/girl orders; no named commander or independent verification.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K39",
+      "observer": "kara",
+      "fact": "vartox_plane_and_commander_testimony",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Hears Vartox refer to plane and commander during rescue; has not yet given formal DEO statement.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K40",
+      "observer": "kara",
+      "fact": "alex_deo_role_and_prison_pod_link",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Learned during initial DEO capture/introduction.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K41",
+      "observer": "cat",
+      "fact": "clearer_bank_image_and_passenger_clip_resemblance",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Sees bank photograph alongside existing passenger-clip context; no explicit identity confirmation.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K42",
+      "observer": "vartox",
+      "fact": "kael_present_at_power_plant",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Personally recognizes Kael, abandons aggression, fails escape and submits to restraint under fear.",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "K43",
+      "observer": "kara",
+      "fact": "astra_non_prison_acquaintance",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Adrian reports personally knowing both in prison; possible survival, no confirmed current location or leadership.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K44",
+      "observer": "alex",
+      "fact": "adrian_monitored_family_biography",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Alex monitors the explicitly disclosed recording: guilt, parents, status, red-sun harm and Astra/Non acquaintance.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K45",
+      "observer": "deo",
+      "fact": "adrian_preliminary_inquiry_and_limits",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Confirmed guilt and voluntary preliminary cooperation; device not surrendered; no pardon/final custody ruling or proof of containment.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K46",
+      "observer": "cat",
+      "fact": "medical_emergency_absences",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara and Adrian give absence notices and work handoffs, not alien/crime disclosures.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K47",
+      "observer": "astra",
+      "fact": "vartox_missing_and_human_cleanup",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Operative misses check-in; observer sees cleanup without clear participant identities. Orders captor investigation; does not know Kael intervened.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K48",
+      "observer": "kara",
+      "fact": "fixed_alura_recording_received",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Alex brings noninteractive personal recording from pod; it cannot answer new Astra questions.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K49",
+      "observer": "alex",
+      "fact": "kara_fragment_removal",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Alex removes retained blade fragment and dresses wound; field bleeding control remained effective.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K50",
+      "observer": "adrian",
+      "fact": "deo_recovered_identity_record",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Shown limited prisoner entry and confirms conviction; no complete archive inferred.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K51",
+      "observer": "deo",
+      "fact": "vartox_aircraft_statement_accounts",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara records recollection and Adrian gives account of Vartox aircraft/unnamed commander statements; not magically recovered Winn audio.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "K52",
+      "observer": "hellgrammite",
+      "fact": "kael_identity_and_fear",
+      "state": "known",
+      "provenance": "user_lock",
+      "evidence": "U15 explicitly covers all Fort Rozz prisoners. Current Earth whereabouts/alias and candidate Chapter 5 footage are separate, unadopted discoveries."
+    },
+    {
+      "id": "K53",
+      "observer": "kara",
+      "fact": "cousin_blanket_cape_and_james_choice",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "James explains cape origin and independent Metropolis departure/support in brief earlier-week bridge.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K54",
+      "observer": "james",
+      "fact": "winn_knows_kara_identity",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara brings James and Winn together; they learn the other knows. No Adrian identification granted.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K55",
+      "observer": "winn",
+      "fact": "james_knows_kara_identity",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara brings them together; no blanket sharing of every private identity.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K56",
+      "observer": "cat",
+      "fact": "unidentified_masked_harbor_rescuer",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Clear costume footage, no confirmed civilian/Kael identity. Continues ordinary work with Adrian without learning his powers.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K57",
+      "observer": "astra",
+      "fact": "kael_masked_rescuer_present_on_earth",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Cannot recognize masked broadcast. Inside closed rendezvous, private identification confirms Kael with Kara/DEO. No Earth alias or employer supplied.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K58",
+      "observer": "hellgrammite",
+      "fact": "kael_is_masked_rescuer",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Inside closed command vehicle, familiar ordinary voice/visible portions prompt question; direct Kael confirmation, not Earth alias.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K59",
+      "observer": "deo",
+      "fact": "astra_and_two_guards_in_custody",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Hellgrammite lead promptly checked; three prisoners captured alive at temporary rendezvous and separately held.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K60",
+      "observer": "kara",
+      "fact": "astra_alive_and_current_association",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Personally meets her aunt after capture, hears claimed saving-world motive; aircraft order remains unanswered.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K61",
+      "observer": "astra",
+      "fact": "human_kryptonite_weapon",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Learns name/effect during DEO suppression in custody, not source knife/doctor scene.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K62",
+      "observer": "kara",
+      "fact": "interactive_alura_program",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Alex introduces interactive pod-derived program; not just prior fixed recording. Answers not yet specified.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K63",
+      "observer": "alex",
+      "fact": "hellgrammite_and_astra_capture",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Field and transfer witnesses; shallow graze, not abduction. Private identities not publicized.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K64",
+      "observer": "adrian",
+      "fact": "astra_current_capture_and_location",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Personally checks lead, identifies old acquaintances privately, stops withdrawal and assists live custody transfer.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K65",
+      "observer": "kara",
+      "fact": "james_interview_arrangement",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Chooses own interview, refuses to give masked helper name; actual interview occurs next.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K66",
+      "observer": "deo",
+      "fact": "adrian_public_identity_protected",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Full field disguise and controlled private recognition; existing alias knowledge does not become public disclosure.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "K67",
+      "observer": "cat",
+      "fact": "supergirl_is_superman_cousin_public",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Public teaser and article reveal cousin connection; no civilian identities or masked helper identity revealed.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K68",
+      "observer": "cat",
+      "fact": "supergirl_is_superman_cousin_public",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "News clip and article publish cousin relationship; no civilian or masked helper disclosure.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K69",
+      "observer": "kara",
+      "fact": "reactron_identity_and_motive",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Alex identifies Ben Krull and wife-loss/reactor grievance; reports corroborate Superman stopped larger disaster but could not save every person.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K70",
+      "observer": "james",
+      "fact": "reactron_armor_recognition",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Recognizes armor via image Winn passes to him; knows prior danger. No automatic Adrian/Kael discovery.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K71",
+      "observer": "winn",
+      "fact": "private_team_workspace_and_protocol",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Private office workspace and contact list protocol established; explicit privacy rule replaces accidental Clark-name disclosure.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K72",
+      "observer": "james",
+      "fact": "emergency_watch_existence",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Shares existence of emergency watch Superman gave him, not Clark civilian name.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K73",
+      "observer": "kara",
+      "fact": "cousin_message_acknowledges_team_effort",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Cousin confirms remembered Krull wife loss and acknowledges team-aware support, not nonexistent rescue.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K74",
+      "observer": "kara",
+      "fact": "lucy_james_familiarity_limited",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Notices Lucy/James familiarity in office and hears limited phrase before walking away; private dinner details remain participant knowledge.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K75",
+      "observer": "alex",
+      "fact": "non_claim_attributed",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Hears Astra claim Non is on Earth and will not wait forever for contact; no verified location or attack plan.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K76",
+      "observer": "kara",
+      "fact": "non_claim_attributed",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Hears Astra claim Non is on Earth and will not wait indefinitely; bargains for suppression removal, which Kara refuses. No location supplied.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K77",
+      "observer": "adrian",
+      "fact": "non_claim_relayed",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Kara later relays Astra Non statement and lack of location; keeps contact line available. Ordinary Alex call supplied freeway coordinates while sealed.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K78",
+      "observer": "deo",
+      "fact": "reactron_captured_and_power_unit_removed",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Human attacker captured at first encounter; power unit shielded/removed under technical supervision and transferred to appropriate authorities.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K79",
+      "observer": "alex",
+      "fact": "reactron_containment_technical_liaison",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Provides technical liaison and hazardous-materials coordination while human authorities handle arrest; no DEO abandonment of alien-custody duties.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K80",
+      "observer": "cat",
+      "fact": "masked_helper_unidentified_freeway",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Clear costume footage of masked helper at freeway; no confirmed civilian/Kael identity. Continues ordinary work with Adrian without learning his powers.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K81",
+      "observer": "maxwell",
+      "fact": "containment_equipment_offered",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Offers shielded transfer container from laboratory and cultivates publicity/technology interest; not kidnapped in this branch.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "K82",
+      "observer": "cat",
+      "fact": "siegel_award_win_over_lois_lane",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Wins Siegel Prize for Supergirl story beating Lois Lane; Metropolis ceremony planned.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K83",
+      "observer": "kara",
+      "fact": "carter_babysitting_and_nerdery",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Watches Cat son Carter, shy gifted Supergirl crush, bonds over Settlers of Catan, sandwich and board game.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K84",
+      "observer": "deo",
+      "fact": "drone_surveillance_advanced_tech",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Drone follows Kara, not DEO, advanced tech, no markings, points to Lord testing.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K85",
+      "observer": "kara",
+      "fact": "first_building_bombing_and_ocean_fall",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Stops building from falling, flies bomb over ocean, explosion knocks unconscious into water, DEO rescues, brief red-eye glimpse of Hank in chamber.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K86",
+      "observer": "deo",
+      "fact": "ethan_knox_identity_and_motive",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Former Lord Technologies employee fired/missing, sick daughter context, disgruntled.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K87",
+      "observer": "alex",
+      "fact": "kara_spread_thin_warning",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Warns Kara trying to do too much as Supergirl/Cat assistant/DEO agent, Girl of Steel might break.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K88",
+      "observer": "winn",
+      "fact": "carter_disappearance_to_train",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Loses Carter from office due to curiosity about Supergirl/supertrain debut, panics, alerts Kara, follows to station, sees Knox with bomb vest.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K89",
+      "observer": "james",
+      "fact": "airport_bomb_and_lucy_departure",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "At airport for Lucy departure, realizes cares, reconciliation, plus airport bomb found.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K90",
+      "observer": "kara",
+      "fact": "train_choice_due_to_carter",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Chooses train because Carter aboard with Knox vest, trusts DEO for airport, calls Adrian as masked backup for train.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K91",
+      "observer": "adrian",
+      "fact": "train_evacuation_support",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Supports train evacuation and structural stabilization, moves passengers back including Carter, precise leverage prevents jackknifing, no takeover of Knox dialogue or heat-vision separation.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K92",
+      "observer": "kara",
+      "fact": "knox_dialogue_and_heat_vision_separation",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Talks to Knox about daughter, he says no one supposed to know, doing for daughter, says Supergirl will save them, presses plunger 30 seconds, heat-visions coupling, separates engine, stops rest digging feet into track, front car explodes over no-man land/water, Knox dies.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K93",
+      "observer": "alex",
+      "fact": "airport_bomb_disarm_red_eye_and_kill_switch",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Finds airport bomb, Hank orders clear, disarms with glowy red eyes peeling open with bare hands, lies dud, later Alex finds kill switch remote failsafe inconsistent with dud.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K94",
+      "observer": "cat",
+      "fact": "carter_return_and_correction",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Returns from Metropolis, thrilled to see Carter, upset babysitter spread thin, Carter praises Supergirl pretty, Cat corrects smart brave kind hero.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K95",
+      "observer": "kara",
+      "fact": "lord_payment_and_testing_motive",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Winn medical records show Lord paid daughter care, confronts Lord balcony, Lord says testing agility/strength/speed and choice, failsafe quote, cannot prove, weakness emotional connections.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K96",
+      "observer": "cat",
+      "fact": "have_it_all_lesson",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Tells Kara have it all start small adapt, choosing child in front of you is decision not failure.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K97",
+      "observer": "alex",
+      "fact": "hank_secret_and_jeremiah_foreshadow",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Questions Hank disarm and kill switch, plus Non claim still pending, Eliza mention of Jeremiah foreshadow for next episode.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "K98",
+      "observer": "kara",
+      "fact": "evelyn_hart_visit_and_clarification",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Meets Evelyn Hart beautiful actress mother/sister figure who helped Adrian when he arrived and sealed power, initially misunderstands as romantic girlfriend due to close caring arm in arm collar fixing head on shoulder outside diner, feels awkward jealous pang retreats professional, later clarified family by staying not romantic, Evelyn fixes Kara collar notices Kara likes Adrian tells good for him as friend.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K99",
+      "observer": "adrian",
+      "fact": "evelyn_hart_visit",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Evelyn Hart visits Thanksgiving week, brings soup theater mask magnet chipped mug, mother/sister figure calls him kid/Ade checks eats teases seriousness protective, knows he has abilities and uses band/device to live human-level wants ordinary life knows CatCo job does NOT know Kael name mass-killing house standing Daxam royal Fort Rozz fear network DEO custody Astra/Non etc., leaves after Thanksgiving leaving chipped mug.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K100",
+      "observer": "evelyn",
+      "fact": "kara_likes_adrian_observation",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Notices Kara likes Adrian during Thanksgiving visit, gently teases, fixes collar, tells Kara good for him as friend.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K101",
+      "observer": "cat",
+      "fact": "leslie_demotion_and_responsibility",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Demotes Leslie Willis shock jock to traffic chopper Cat-Copter instead buying out contract, feels responsible encouraging nastiness ratings, protective arm over Kara, offers self as bait via radio show where it all began.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K102",
+      "observer": "kara",
+      "fact": "livewire_origin_and_powers",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Saves helicopter pilot and helicopter grabs Leslie hand lightning strikes passes through Kara to Leslie coma silver hair, hospital visit, alley power discovery, blackouts city, CatCo attack elevator, Henshaw Element X deduction physical form, industrial capacitor trap Ghostbusters, Cat bait radio show water pipe short out comatose DEO custody.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K103",
+      "observer": "alex",
+      "fact": "eliza_visit_and_jeremiah_reveal",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Eliza Danvers Thanksgiving visit tension mother blames letting Kara become Supergirl, porch flashback roof flight, Alex tells mother works for DEO not lab makeup apology harder on Alex wanted better than her Kara not as hard because child from another planet lost everything, confession Jeremiah worked for DEO under Hank Henshaw to keep Kara from being studied died mysterious suspicious Hank red eyes corridor reflection.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K104",
+      "observer": "kara",
+      "fact": "eliza_visit_and_jeremiah_reveal",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Eliza Thanksgiving visit, tension, flashback, makeup apology, confession Jeremiah DEO deal under Hank died mysterious, suspicious Hank red eyes.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K105",
+      "observer": "winn",
+      "fact": "friendsgiving_and_father_reveal",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Friendsgiving Orphan Black Thai food father in prison kisses Kara cheek awkward, James Lucy Ojai return divert attention.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K106",
+      "observer": "james",
+      "fact": "lucy_resignation_stay",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Lucy Lane resigns commission stay in National City with James after Ojai trip, father General Lane disappointment.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K107",
+      "observer": "kara",
+      "fact": "hank_red_eye_glimpse",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "Brief red-eye glimpse in chamber and corridor during Livewire episode, plus earlier airport bomb red-eye disarm lie dud kill switch from Chapter 7.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "K108",
+      "observer": "cat",
+      "fact": "masked_helper_still_anonymous_accepted",
+      "state": "known",
+      "provenance": "accepted_event",
+      "evidence": "At accepted edge 8 masked helper remains anonymous in ledger, no public name yet, public naming pending fix per U33 critique, no public Adrian/Kael disclosure.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    }
+  ],
+  "anchor": "end of adopted Chapter 8 R1 (U34); Chapter 9 masked naming butterfly remains candidate-only"
+}

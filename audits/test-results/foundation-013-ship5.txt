@@ -1,0 +1,17 @@
+NOTE: No full episode viewing, literary quality, or complete security audit is established by this script.
+STRUCTURE: PASS — layout, state, hashes, references and generated mirrors checked
+BLOCK: SHIP_CONTINUITY: unresolved recorded continuity conflict
+BLOCK: SHIP_READY: candidate is not marked review-complete
+BLOCK: SHIP_REVIEW: canon review incomplete
+BLOCK: SHIP_RECEIPT: missing canon evidence
+BLOCK: SHIP_REVIEW: continuity review incomplete
+BLOCK: SHIP_RECEIPT: missing continuity evidence
+BLOCK: SHIP_REVIEW: power review incomplete
+BLOCK: SHIP_RECEIPT: missing power evidence
+BLOCK: SHIP_REVIEW: knowledge review incomplete
+BLOCK: SHIP_RECEIPT: missing knowledge evidence
+BLOCK: SHIP_REVIEW: prose review incomplete
+BLOCK: SHIP_RECEIPT: missing prose evidence
+RELEASE: BLOCKED — not an accepted chapter
+
+EXIT: 2

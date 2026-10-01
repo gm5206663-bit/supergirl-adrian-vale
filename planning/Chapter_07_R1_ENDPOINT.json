@@ -1,0 +1,58 @@
+{
+  "status": "candidate_only",
+  "chapter": 7,
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_07_How_Does_She_Do_It_R1.md",
+  "draft_sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+  "depends_on": {
+    "path": "chapters/Chapter_06_Under_the_Headline.md",
+    "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+    "status": "adopted_U30"
+  },
+  "source_span": "S01E04 intended How Does She Do It? — bombings, Carter babysitting, train/airport threats; drone surveillance and Lord testing",
+  "physical_endpoint": {
+    "adrian": "back in civilian life after private change/reseal; anonymous masked support at train; identity protected",
+    "kara": "stops train, saves passengers including Carter; confronts Lord about testing; returns to CatCo lesson; responds to new siren via ops channel",
+    "carter": "safe, returns to Cat; praises Supergirl; retains Settlers of Catan detail",
+    "ethan_knox": "dies in engine explosion over no-man's land/water after 30-second plunger; daughter treatment motive revealed via records",
+    "airport_bomb": "disarmed by Henshaw with glowy red eyes; lies dud; kill switch found later",
+    "maxwell": "not admitting guilt on record; failsafe quote; interest in Supergirl emotional connections",
+    "astra_guards_vartox_hellgrammite_reactron": "still in DEO custody; no engineered escape; institutional cost remains",
+    "james_lucy": "reconcile at airport; Lucy returning to Metropolis in morning; private dinner agreement earlier remains"
+  },
+  "candidate_knowledge": {
+    "public_cat": "Cat wins Siegel award beating Lois Lane; train debut and bombings public; Supergirl stops train",
+    "kara_alex_deo": "Drone advanced tech not DEO; Ethan Knox former Lord employee fired/missing with sick daughter; kill switch remote failsafe on airport bomb inconsistent with dud claim; Hank red-eye disarm observed",
+    "kara": "Learns Lord paid daughter treatment via Winn medical records; confronts Lord balcony; Lord says testing agility/strength/speed and choice, failsafe quote",
+    "adrian": "Supports train evacuation and structural stabilization; sees Carter safe; no public identity disclosure; ordinary logistics for Cat award/travel",
+    "winn": "Loses Carter from office due to curiosity, alerts Kara, follows to station, sees Knox with bomb vest",
+    "cat": "Mother won't babysit Carter; award ceremony Metropolis; lesson have it all start small adapt; reminds Carter Supergirl smart brave kind hero",
+    "james": "At airport for Lucy departure, realizes cares, reconciliation",
+    "reader_only": "Hank red-eye disarm detail and lie; Lord testing motive and emotional connection weakness"
+  },
+  "power_sequence": [
+    "sealed ordinary work/award logistics",
+    "Alex ordinary call for train backup (Carter is Cat's son)",
+    "private release/full masked costume and screened exit",
+    "precise passenger movement and structural stabilization, no equal-power duel or bomb disposal takeover",
+    "Kara handles Knox dialogue and heat-vision coupling separation and train stopping",
+    "masked departure and private change/reseal before workplace return"
+  ],
+  "original_technology_scope": "Fictional drone/bomb/maglev train; professional shielding not detailed; no real bomb-making guidance. Medical records search is fictional. Hank disarm is alien ability hint, not detailed method.",
+  "source_outcomes_superseded": [
+    "Single-location focus without backup; Winn losing Carter without alert chain",
+    "No masked helper at train; no Cat executive aide involvement",
+    "Airport bomb disarm without suspicion"
+  ],
+  "relationships": "Kara/Cat mother/son dynamic, Carter crush, James/Lucy airport reconciliation, Alex/Kara sister debrief about Hank and Jeremiah foreshadow, Lord curiosity. No Adrian pairing or Cat learning Adrian powers.",
+  "open_threads": [
+    "Astra/Non claims and wider prisoner network",
+    "Hank Henshaw red-eye secret and Jeremiah Danvers mystery",
+    "Lord testing and knowledge of emotional connections",
+    "Knox daughter treatment and Lord accountability",
+    "Cat identity scrutiny and award aftermath",
+    "Lucy/James future"
+  ],
+  "romance_selection": null,
+  "next_source_order": "Intended Livewire after How Does She Do It? per ORDER_POLICY.md. Research before prose."
+}

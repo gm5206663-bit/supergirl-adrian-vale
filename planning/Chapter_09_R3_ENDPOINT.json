@@ -1,0 +1,58 @@
+{
+  "status": "candidate_only",
+  "chapter": 9,
+  "revision": "R3",
+  "draft_path": "drafts/Chapter_09_Red_Faced_and_Named_R3.md",
+  "draft_sha256": "f07dea5faa62fdc7495c71b84705bb602afe3f8574aa11dbf6522751b2acca80",
+  "depends_on": {
+    "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+    "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+    "status": "adopted_U34"
+  },
+  "source_span": "S01E06 Red Faced Part 1 — Wraith naming + Evelyn departure + road rage + Lane arrival + game night + test + Cat martinis with proper superpowered fights per U36",
+  "physical_endpoint": {
+    "adrian": "civilian at CatCo Evelyn departure chipped mug theater mask magnet Wraith name observed ordinary work continues identity protected",
+    "kara": "road rage stops two cars kids soccer team total cars punch breaks wrist scares children DEO cool it Max Lord bodycam Henshaw says public trust not automatic comparison Wraith advanced restraint fight rewritten super strength absorbing momentum feet digging asphalt total both no gentle way two tons forty mph, game night awkward Lucy James strong team Winn Kara distracted Lucy mentions met Supergirl not impressed mentions Wraith father asks if Kryptonian James says he helps does not want interview, Red Tornado test underground sneak win but can't stop punching self-preservation tornado throwing Kara back launches stealth bending light invisible knocks over Humvee Lane fires Morrow fight rewritten super speed flies through vortex fists forward takes missile shoulder barely flinches goes underground super strength punching concrete seismic sense erupting behind grabbing torso lifting slamming cracking pit floor series blows measured shaking dust Red Tornado adapts redirecting momentum throwing her into wall catches mid-air flight, Cat yells Kara yells back drinks martinis anger behind anger gender double standard never normal life parents ship",
+    "evelyn_hart": "departure after Thanksgiving teases Wraith naming SEO Onyx knows he is Wraith worries attention final goodbye tells Kara take care of him leaves chipped mug magnet",
+    "red_tornado": "military android Dr Morrow General Lane commissioned to stop Kryptonians test fight self-preservation tornado throwing Kara back launches stealth bending light invisible knocks over Humvee",
+    "general_lane": "asks Supergirl handed over command test Red Tornado fires Morrow tells James not good enough",
+    "katherine_grant": "Cat mother in town belittles achievements unpleasant",
+    "wraith_public_naming": "Cat Grant names masked helper Wraith at 7am editorial headline The Wraith of National City Meet the Man Who Isn't Supergirl considers Onyx Nocturne Midnight Tailor Obsidian chooses Wraith searchable, Winn private monitor tracks sightings tag no civilian disclosure cousin on bus thank you, Lord interest wants meet reward asks Cat about Wraith asks Alex about Wraith, DEO Hank says human masked helper outside DEO jurisdiction keep eye advanced restraint not brute, ticker WRAITH SEEN NEAR DEO TEST SITE"
+  },
+  "candidate_knowledge": {
+    "public_cat": "National City public compilation freeway and train footage asks who is man in black social media clips CatCo editorial meeting Cat decides to name him herself as she named Supergirl chooses Wraith headline The Wraith of National City Meet the Man Who Isn't Supergirl article notes masked helper unidentified no confirmed name power admission civilian identification but now has public name lean refined not brute helps Supergirl",
+    "kara": "Knows Wraith is Adrian hears public naming mix relief he has name like her and worry more attention makes identity protection harder does not reveal",
+    "adrian": "Sees Wraith name ticker chipped mug Evelyn teases Wraith naming SEO knows public naming increases attention identity protected per U23 ordinary work continues",
+    "evelyn_hart": "Sees news about Wraith naming before leaving teases Adrian you let Cat name you Wraith could have picked better SEO Onyx was right there knows he is Wraith worries attention final goodbye tells Kara take care of him leaves chipped mug",
+    "winn": "Private team workspace contact policy tracks Wraith sightings tag no accidental Superman civilian disclosure private monitor compilation cousin on bus",
+    "james": "Dreading dinner General Lane Lucy father tension Lane tells not good enough for Lucy holding back career thinks part reason not good enough friends with Superman knows Supergirl",
+    "cat": "Mother Katherine in town belittles achievements unpleasant yells at Kara unimportant reason Kara yells back embarrassed apologizes Cat impressed taking rest day off drink midday boozing conversation how men can be angry public women can't looked down upon find anger behind anger",
+    "alex": "Asks Winn help hacking DEO database find info about dad redacted document Jeremiah last mission South America tracking alien with fellow agent presumed dead other agent returned without scratch Hank Henshaw believes Henshaw killed dad wants why eyes glow red",
+    "general_lane": "Commissions Red Tornado to stop Kryptonians asks Supergirl handed over command fires Morrow tells James not good enough disappointed Lucy quits later",
+    "lucy_lane": "Judicial counsel executive order President must comply dinner tension mentions met Supergirl not impressed glad not worried James interested mentions Wraith name father asks if Kryptonian"
+  },
+  "power_sequence": [
+    "sealed ordinary work with Evelyn departure logistics",
+    "Kara road rage stops two cars kids soccer team total cars punch breaks wrist - super strength absorbing momentum feet digging asphalt total both no gentle way two tons forty mph",
+    "Kara vs Red Tornado test underground sneak behind wins but can't stop punching self-preservation tornado throwing Kara back launches stealth bending light invisible knocks over Humvee - super speed flies through vortex fists forward takes missile shoulder barely flinches goes underground super strength punching concrete seismic sense erupting behind grabbing torso lifting slamming cracking pit floor series blows measured shaking dust Red Tornado adapts redirecting momentum throwing her into wall catches mid-air flight",
+    "Adrian remains sealed civilian support at CatCo ensuring Cat safety and Evelyn departure identity protected observes Wraith ticker"
+  ],
+  "original_technology_scope": "Fictional Red Tornado military android anthropomorphic pseudo-entity combat capabilities self-preservation tornado throwing Kara back launches stealth bending light invisible knocks over Humvee tornado missiles supersonic shards thermally accurate hologram telepathic relay industrial capacitor trap Ghostbusters water not in this part. No real android engineering guidance. Wraith naming is media butterfly not power. Fights rewritten to canon superpowered style per U36 critique no jokes.",
+  "source_outcomes_superseded": [
+    "No Wraith public naming in source added natural butterfly after multiple masked saves freeway and train Cat names Wraith media coverage Lord interest DEO discussion addresses U33 critique split into two natural chapters per U35 fights rewritten per U36",
+    "No Evelyn Hart in source original Earth mother/sister figure visit aftermath and Kara misunderstanding clarified"
+  ],
+  "relationships": "Kara/Adrian trust Wraith naming relief worry Evelyn teases Wraith naming SEO Kara/Evelyn good for him as friend Cat/Kara anger behind anger drinks mother defense James/Lucy/General Lane dinner tension not good enough Lucy mentions Wraith father asks if Kryptonian etc.",
+  "open_threads": [
+    "Wraith public name consequences media Lord DEO",
+    "Red Tornado loose after test",
+    "Astra/Non claims and wider prisoner network",
+    "Hank Henshaw red-eye secret and Jeremiah Danvers mystery South America",
+    "Lord testing emotional connections and Wraith interest",
+    "Livewire custody",
+    "Evelyn Hart future visits",
+    "Kara/Adrian friendship after Evelyn clarification and Wraith naming"
+  ],
+  "romance_selection": null,
+  "next_source_order": "Part 2 continues same episode S01E06 Red Faced second half."
+}

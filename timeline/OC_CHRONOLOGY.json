@@ -1,0 +1,308 @@
+{
+  "epoch": "v1",
+  "calendar_policy": "relative order is authoritative; exact birth/capture dates remain unset",
+  "events": [
+    {
+      "id": "T01",
+      "after": [],
+      "title": "Native mixed-heritage birth",
+      "provenance": "user_lock",
+      "description": "Kryptonian father from an influential house; Daxamite mother from a collateral royal branch. Talent belongs to his existence from the beginning. Exact birth date remains unassigned.",
+      "date_anchor": null,
+      "ancestry": {
+        "father": "Kryptonian",
+        "mother": "Daxamite"
+      }
+    },
+    {
+      "id": "T02",
+      "after": [
+        "T01"
+      ],
+      "title": "Development under a red sun",
+      "provenance": "user_lock",
+      "description": "Extraordinary abilities develop before imprisonment; adverse temperament effects arise.",
+      "date_anchor": null
+    },
+    {
+      "id": "T03",
+      "after": [
+        "T02"
+      ],
+      "title": "Parents murdered by Daxamite attackers",
+      "provenance": "user_lock",
+      "description": "Some Daxamites kill his parents because of their cross-world union. Attackers, authorization, precise murder site and date remain unassigned; this replaces the unrelated accident.",
+      "date_anchor": null,
+      "cause": "murder"
+    },
+    {
+      "id": "T04",
+      "after": [
+        "T03"
+      ],
+      "title": "Rage-driven destruction of a Kryptonian city",
+      "provenance": "user_lock",
+      "description": "In rage after the murders, he destroys a city on Krypton and kills its people. Genuine responsibility; not merely a fight with the assassins. Exact city and casualty count remain unassigned.",
+      "date_anchor": null,
+      "world": "Krypton"
+    },
+    {
+      "id": "T05",
+      "after": [
+        "T04"
+      ],
+      "title": "Technological capture",
+      "provenance": "user_lock",
+      "description": "Kryptonian authorities capture him using advanced technology.",
+      "date_anchor": null
+    },
+    {
+      "id": "T06",
+      "after": [
+        "T05"
+      ],
+      "title": "Fort Rozz imprisonment",
+      "provenance": "user_lock",
+      "description": "Alura sentences him to Fort Rozz (U16). He meets Astra and Non there; ties are complicated. All prisoners know and fear Kael-Varr (U15). Conscious-custody particulars are scene design, not conversations during perfect stasis.",
+      "date_anchor": null
+    },
+    {
+      "id": "T07",
+      "after": [
+        "T06"
+      ],
+      "title": "Reaches Earth",
+      "provenance": "user_lock",
+      "description": "His Earth life follows imprisonment; exact route/date not author-specified.",
+      "date_anchor": null
+    },
+    {
+      "id": "T08",
+      "after": [
+        "T07"
+      ],
+      "title": "Chooses sealed ordinary life on Earth",
+      "provenance": "user_lock",
+      "description": "Uses the device he built himself; exact construction date is not author-specified.",
+      "date_anchor": null
+    },
+    {
+      "id": "T09",
+      "after": [
+        "T08"
+      ],
+      "title": "Establishes Earth identity and practical life",
+      "provenance": "working_design",
+      "description": "Adrian Vale becomes the working identity; exact legal/employment chronology remains design.",
+      "date_anchor": null
+    },
+    {
+      "id": "T10",
+      "after": [
+        "T09"
+      ],
+      "title": "Direct employment under Cat",
+      "provenance": "user_lock",
+      "description": "Working at CatCo with Kara by the pilot opening.",
+      "date_anchor": null
+    },
+    {
+      "id": "T11",
+      "after": [
+        "T10"
+      ],
+      "title": "Pilot opening baseline",
+      "provenance": "user_lock",
+      "description": "Sealed, knows Kara only as coworker; no accepted story events yet.",
+      "date_anchor": "S01E01 opening"
+    },
+    {
+      "id": "T12",
+      "after": [
+        "T11"
+      ],
+      "title": "R1 draft ends after plane rescue",
+      "provenance": "draft_event",
+      "description": "Unaccepted draft span, not live chronology; its accident memory is superseded by U09/U10.",
+      "date_anchor": "draft only"
+    },
+    {
+      "id": "T13",
+      "after": [
+        "T11"
+      ],
+      "title": "R2 corrected chapter candidate",
+      "provenance": "draft_event",
+      "description": "Parallel revision of the opening span, not an event after R1: corrected background and pilot functions through first post-rescue sister disagreement. No accepted edge advance.",
+      "date_anchor": "draft only"
+    },
+    {
+      "id": "T14",
+      "after": [
+        "T11"
+      ],
+      "title": "R3 food-gesture amendment",
+      "provenance": "draft_event",
+      "description": "Alternative opening revision, not after R2: breakfast donuts/pastries and lunchtime ice cream with Kara under U12. Rest of R2 unchanged; no accepted chronology advancement.",
+      "date_anchor": "draft only"
+    },
+    {
+      "id": "T15",
+      "after": [
+        "T11"
+      ],
+      "title": "Adopted Chapter 1 endpoint",
+      "provenance": "accepted_event",
+      "description": "Food gestures, Tribune referrals, sealed ordinary day and public rescue report; no Adrian identity discovery. U13 adopts Chapter 1 R3 for continuation.",
+      "date_anchor": "S01E01 first evening",
+      "source_chapter": 1,
+      "source_path": "chapters/Chapter_01_Adrian_Vale.md"
+    },
+    {
+      "id": "T16",
+      "after": [
+        "T15"
+      ],
+      "title": "Chapter 2 candidate disclosures",
+      "provenance": "draft_event",
+      "description": "Next-day source functions and proposed mutual identity disclosure; not yet applied to accepted ledgers.",
+      "date_anchor": "S01E01 following workday"
+    },
+    {
+      "id": "T17",
+      "after": [
+        "T15"
+      ],
+      "title": "Adopted Chapter 2 endpoint",
+      "provenance": "accepted_event",
+      "description": "Initial U14 Chapter 2 adoption preserved in historical receipts. Current source now incorporates U18’s R2 amendment (T19); mutual disclosure still precedes crime exposure.",
+      "date_anchor": "S01E01 next workday",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "T18",
+      "after": [
+        "T17"
+      ],
+      "title": "Superseded Chapter 3 R1 branch",
+      "provenance": "draft_event",
+      "description": "Historical confession/escorted-DEO proposal, never adopted; superseded by U15/U16. Not a continuing event.",
+      "date_anchor": "S01E01 late afternoon / early evening"
+    },
+    {
+      "id": "T19",
+      "after": [
+        "T15"
+      ],
+      "title": "Adopted Chapter 2 R2 amendment",
+      "provenance": "accepted_event",
+      "description": "U18 continuation adopts delivered R2 dependency. Ordinary evidence and family-name confirmation produce recognition; limited ancestry/device disclosure and private Alura/Astra/Non memory. Original U14 R1 receipt retained.",
+      "date_anchor": "S01E01 next workday; alternative revision",
+      "source_chapter": 2,
+      "source_path": "chapters/Chapter_02_A_Familiar_Face.md"
+    },
+    {
+      "id": "T20",
+      "after": [
+        "T19"
+      ],
+      "title": "Chapter 3 R2 rescue-reveal branch",
+      "provenance": "draft_event",
+      "description": "Costume/field activity and initial DEO capture; emergency backup arranged only afterward. Following day Vartox injures Kara; Winn calls Adrian, who unseals, decisively stops/captures Vartox. Recognition exposes Kael; Alex requests record check. No completed interrogation or full-pilot resolution.",
+      "date_anchor": "S01E01 next evening through following workday; candidate only"
+    },
+    {
+      "id": "T21",
+      "after": [
+        "T19"
+      ],
+      "title": "Adopted Chapter 3 R3 rescue and wound care",
+      "provenance": "accepted_event",
+      "description": "U18 adopts rescue-driven reveal: prior DEO capture, post-capture backup, Winn phone call, voluntary release, decisive rescue/Vartox capture, Kael exposure and precision bleeding control. End at power plant; no record result/full biography yet.",
+      "date_anchor": "end of adopted Chapter 3 R3 at the power plant (U18)",
+      "source_chapter": 3,
+      "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
+    },
+    {
+      "id": "T22",
+      "after": [
+        "T21"
+      ],
+      "title": "Adopted Chapter 4 R1 aftermath",
+      "provenance": "accepted_event",
+      "date_anchor": "S01E01 same afternoon/evening; adopted under U19/U22",
+      "description": "Deeper care removes fragment; limited record and direct guilt/family/prison-acquaintance disclosure; voluntary inquiry; fixed Alura recording and Astra missing-operative response. No Chapter 5 events adopted.",
+      "source_chapter": 4,
+      "source_path": "chapters/Chapter_04_What_Remains.md"
+    },
+    {
+      "id": "T23",
+      "after": [
+        "T22"
+      ],
+      "title": "Superseded Chapter 5 R2 public-exposure route",
+      "provenance": "draft_event",
+      "date_anchor": "brief earlier-week Pilot bridge, then S01E02 over several days",
+      "description": "Historical unadopted R2. U23 rejects bare-faced public exposure and dependent Cat/Astra identification, evacuation and remote encounter. These are not continuing events."
+    },
+    {
+      "id": "T24",
+      "after": [
+        "T22"
+      ],
+      "title": "Adopted Chapter 5 R3 masked Episode 2 branch",
+      "provenance": "accepted_event",
+      "date_anchor": "S01E02 after short earlier-week Pilot bridge; adopted U29",
+      "description": "Complete public disguise, masked harbor assistance, private recognition, immediate lead pursuit and live Astra/two-guard capture; Alura interactive program and Cat interview setup. No R2 public exposure.",
+      "source_chapter": 5,
+      "source_path": "chapters/Chapter_05_In_Plain_Sight.md"
+    },
+    {
+      "id": "T25",
+      "after": [
+        "T24"
+      ],
+      "title": "Adopted Chapter 6 R1 Episode 3 branch",
+      "provenance": "accepted_event",
+      "date_anchor": "S01E03 interview night through next days; adopted U30",
+      "description": "Public cousin disclosure, bounded Astra/Non claim, prompt masked backup and early Reactron capture; controlled containment, press/team/Lucy/Clark consequences. Adopted.",
+      "source_chapter": 6,
+      "source_path": "chapters/Chapter_06_Under_the_Headline.md"
+    },
+    {
+      "id": "T26",
+      "after": [
+        "T25"
+      ],
+      "title": "Adopted Chapter 7 R1 How Does She Do It? intended Episode 4 branch",
+      "provenance": "accepted_event",
+      "date_anchor": "S01E04 intended How Does She Do It? — bombings, Carter babysitting, train/airport threats; adopted U32",
+      "description": "Drone surveillance Lord testing, Siegel award beating Lois Lane, Carter babysitting and Catan bonding, first building bombing ocean fall DEO rescue red-eye glimpse, Ethan Knox former Lord employee sick daughter, Winn loses Carter to supertrain, simultaneous airport bomb Lucy departure James airport, train/airport split choice, Carter on train via Maxwell, Winn sees vest, train heat-vision separation 30 seconds front car explosion over water, Knox dies, airport Hank glowy red disarm lie dud kill switch found later, Cat return correction smart brave kind hero, medical records Lord paid daughter care balcony confrontation testing agility/strength/speed choice failsafe quote, James/Lucy reconciliation, Cat lesson start small adapt. Adopted.",
+      "source_chapter": 7,
+      "source_path": "chapters/Chapter_07_How_Does_She_Do_It.md"
+    },
+    {
+      "id": "T27",
+      "after": [
+        "T26"
+      ],
+      "title": "Adopted Chapter 8 R1 Livewire with Evelyn Hart visit",
+      "provenance": "accepted_event",
+      "date_anchor": "S01E05 intended Livewire — Thanksgiving, Eliza visit, Leslie Willis shock jock lightning powers, plus U31 Evelyn Hart visit and Kara misunderstanding; adopted U34",
+      "description": "Evelyn Hart beautiful actress mother/sister figure who helped Adrian when he arrived and sealed power visits National City Thanksgiving week, Kara misunderstands as romantic girlfriend due to close caring arm in arm collar fixing head on shoulder outside diner feels awkward jealous pang retreats professional later clarified family by staying not romantic Evelyn fixes collar notices Kara likes Adrian. Plus Livewire origin shock jock rant Cat demotion traffic chopper helicopter lightning rescue pilot helicopter grabs Leslie hand lightning passes through to Leslie coma silver hair hospital Cat asks how long appropriate Leslie lack family coax coma alley power discovery blackouts CatCo attack elevator Henshaw Element X capacitor trap Ghostbusters Cat bait radio show where it all began water pipe short out comatose DEO custody Winn Friendsgiving father prison kiss cheek James Lucy Ojai return Eliza Thanksgiving visit tension Alex tells mother works for DEO not lab makeup apology harder on Alex Jeremiah DEO deal under Hank died mysterious red eyes. Adopted.",
+      "source_chapter": 8,
+      "source_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md"
+    },
+    {
+      "id": "T28",
+      "after": [
+        "T27"
+      ],
+      "title": "Chapter 9 R1 Red Faced candidate with masked public naming butterfly fix",
+      "provenance": "draft_event",
+      "date_anchor": "S01E06 Red Faced — road rage, Red Tornado, Cat mother Katherine, General Lane, plus masked figure public naming Wraith/Onyx and Evelyn aftermath",
+      "description": "Candidate only: After multiple masked saves freeway Reactron and train, public/media Cat Grant gives masked figure name Wraith/Onyx, natural butterfly effects media coverage Lord interest DEO discussion, Kara reaction to naming, plus Evelyn departure aftermath and Kara Adrian clarification. Not accepted."
+    }
+  ]
+}

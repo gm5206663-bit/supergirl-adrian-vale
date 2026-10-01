@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "chapter": 7,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_07_How_Does_She_Do_It_R1.md",
+  "draft_sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+  "accepted": false,
+  "claimed_episode": "S01E04 intended — How Does She Do It?",
+  "span": "S01E04 intended How Does She Do It? — bombings, Carter babysitting, train/airport threats; drone surveillance and Lord testing",
+  "sources": [
+    {
+      "id": "SRC-SG-E04-TMS",
+      "url": "https://www.themarysue.com/supergirl-recap-s1-ep5-how-does-she-do-it/",
+      "title": "Supergirl Recap: How Does She Do It? — The Mary Sue",
+      "accessed": "2026-09-30",
+      "verification": "Fresh search extract: Siegel award, Lois Lane, Carter babysitting late pickup, nerdery, Ethan Knox sick daughter, Alex warning, Lucy pumping Kara, Alex confronts Maxwell train event, Winn pizza disappearance, airport bomb, Carter on train via Maxwell, Winn sees bomb vest, train/airport split, heat vision disconnect, Knox dies, Cat returns, Carter praise, Knox paid for daughter treatment, Lord testing."
+    },
+    {
+      "id": "SRC-SG-E04-SGTV",
+      "url": "https://supergirl.tv/how-does-she-do-it-recap",
+      "title": "How Does She Do It Recap — Supergirl.tv",
+      "accessed": "2026-09-30",
+      "verification": "Fresh search extract: Cat wins Siegel, Carter babysitting, Alex/Henshaw visit Lord office subsidiary, Kara late pickup flies, Winn loses Carter to supertrain, airport bomb, Supergirl faith in DEO, train rescue iconic, medical records Lord paid bills, confrontation."
+    },
+    {
+      "id": "SRC-SG-E04-CB",
+      "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-how-does-she-do-it/",
+      "title": "Supergirl Recap With Spoilers: How Does She Do It? — ComicBook.com",
+      "accessed": "2026-09-30",
+      "verification": "Fresh search extract: bomber Ethan Knox fired, Carter/Winn video games, airport bomb police, Supergirl heading to airport, James calls Lucy, Max helps Carter onto train to find parents, Knox bomb vest, Winn sees before train leaves, Max denies, Supergirl moves passengers back, heat vision coupling, Knox rigged to go off if removed, says no way out, think daughter, 30 seconds, separates engine, explosion over water, remote failsafe, daughter care paid by Lord, testing."
+    },
+    {
+      "id": "SRC-SG-E04-SHH",
+      "url": "https://www.superherohype.com/features/359387-supergirl-episode-5-recap",
+      "title": "Supergirl Episode 5 Recap — SuperHeroHype",
+      "accessed": "2026-09-30",
+      "verification": "Fresh search extract: fire drone, Henshaw impressed strength, drone/bomb pointing to Maxwell Lord, Kara/Jimmy friend zone talk, Cat calls about Carter pickup forgot, flies to school, Lord lab subsidiary, Alex observant, Winn in charge Carter adult collectibles Toyman hint, bomb ocean unconscious DEO, Hank red eyes, suspect Ethan Knox, spread thin warning, airport bomb, Carter on train, Lord escorts Carter, Winn sees bomber, Kara circles back, Hank glows red rips bomb, train Knox secures front, think daughter, 30 seconds, heat vision separation, front car explosion, kill switch, parents nuts kids, failsafe quote, testing."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-E04-01",
+      "status": "covered",
+      "reason": "Drone surveillance follows Kara, brought to DEO, Hank denies, Alex notes advanced tech.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-02",
+      "status": "covered",
+      "reason": "Cat wins Siegel award beating Lois Lane, Metropolis ceremony, mother won't babysit Carter.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-03",
+      "status": "covered",
+      "reason": "Kara volunteers to babysit Carter, shy gifted Supergirl crush, Settlers of Catan bonding.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-04",
+      "status": "changed_with_receipt",
+      "reason": "First bombing subsidiary of Lord Enterprises, Kara stops building, flies bomb over ocean, explosion knocks unconscious into water, DEO rescues, brief red-eye glimpse.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-05",
+      "status": "covered",
+      "reason": "DEO identifies Ethan Knox former Lord employee fired/missing with sick daughter, Alex warns spread thin.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-06",
+      "status": "covered",
+      "reason": "Winn loses Carter from office due to curiosity about Supergirl/train debut, panics, alerts Kara.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-07",
+      "status": "changed_with_receipt",
+      "reason": "Simultaneous airport bomb threat where Lucy departing, James heads to airport because cares; train has Carter and Knox bomb vest.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-08",
+      "status": "changed_with_receipt",
+      "reason": "Kara chooses train because Carter aboard, trusts DEO for airport, calls Adrian as masked backup for train due to Cat's son operational responsibility.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-09",
+      "status": "changed_with_receipt",
+      "reason": "Train: Maxwell helps Carter onto train to find parents, Winn sees Knox with bomb vest, Kara and masked Adrian arrive, move passengers back, Knox says no one supposed to know, doing for daughter, says Supergirl will save them, presses plunger 30 seconds.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-10",
+      "status": "changed_with_receipt",
+      "reason": "Kara heat-visions coupling, separates engine, stops rest of train digging feet into track, Adrian adds precise leverage to prevent jackknifing, front car explodes over no-man's land/water, Knox dies.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-11",
+      "status": "covered",
+      "reason": "Airport: Hank, Alex, James, Lucy, Hank disarms with glowy red eyes after ordering Alex away, lies dud, crowd cheers.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-12",
+      "status": "covered",
+      "reason": "DEO lab Alex finds kill switch remote failsafe inconsistent with dud, questions why Knox killed himself when daughter sick.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-13",
+      "status": "covered",
+      "reason": "Cat returns, thrilled to see Carter, upset babysitter spread thin, Carter praises Supergirl pretty, Cat corrects smart brave kind hero.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-14",
+      "status": "covered",
+      "reason": "Winn medical records show Lord paid daughter care, Kara confronts Lord balcony, Lord says testing agility/strength/speed and choice, failsafe quote, can't prove, weakness emotional connections.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-15",
+      "status": "covered",
+      "reason": "James/Lucy airport reconciliation, Lucy returning to Metropolis, private dinner earlier remains participant knowledge.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-16",
+      "status": "covered",
+      "reason": "Cat lesson have it all start small adapt, Kara chooses child in front of her is decision not failure.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    },
+    {
+      "id": "SG-E04-17",
+      "status": "covered",
+      "reason": "Alex/Kara debrief Hank lie/kill switch/Knox suicide/Lord testing, plus ongoing Non claim and Jeremiah foreshadow, sisters respond to new siren via ops channel.",
+      "source_ids": [
+        "SRC-SG-E04-TMS",
+        "SRC-SG-E04-SGTV",
+        "SRC-SG-E04-CB",
+        "SRC-SG-E04-SHH"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_07_R1_REVIEW.md",
+      "sha256": "78d30cc88a73f5cfdc98a7970d4270f5e503c7b828fbe08e2998c309952b635f"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_07_R1_REVIEW.md",
+      "sha256": "78d30cc88a73f5cfdc98a7970d4270f5e503c7b828fbe08e2998c309952b635f"
+    },
+    "power": {
+      "path": "audits/CHAPTER_07_R1_REVIEW.md",
+      "sha256": "78d30cc88a73f5cfdc98a7970d4270f5e503c7b828fbe08e2998c309952b635f"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_07_R1_REVIEW.md",
+      "sha256": "78d30cc88a73f5cfdc98a7970d4270f5e503c7b828fbe08e2998c309952b635f"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_07_R1_REVIEW.md",
+      "sha256": "78d30cc88a73f5cfdc98a7970d4270f5e503c7b828fbe08e2998c309952b635f"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [
+    {
+      "id": "D15",
+      "cause": "Adopted prompt-backup practice, available masked helper for Cat's son and DEO custody load",
+      "effect": "Train evacuation support, Carter safe, airport Hank secret preserved, Lord testing revealed, choice remains Kara's."
+    }
+  ],
+  "notes": "Candidate only. Source functions accounted for honestly; original operational/character execution not claimed television fact. Intended order How Does She Do It? before Livewire per ORDER_POLICY.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 4,
+    "canon_title": "How Does She Do It?",
+    "chapter": 7,
+    "chapter_title": "How Does She Do It?"
+  }
+}

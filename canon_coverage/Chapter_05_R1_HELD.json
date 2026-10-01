@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "chapter": 5,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_05_A_Place_in_the_Sky_R1.md",
+  "draft_sha256": "5b6aecf12cda17bf0cfdb72707fcf9a6e95171818e8e9d6c062d0298e8e2bf17",
+  "accepted": false,
+  "claimed_episode": "S01E01 — Pilot",
+  "span": "Interrupted Pilot aftermath; superseded route, not Episode 2.",
+  "sources": [
+    {
+      "id": "SRC-SG-03",
+      "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
+      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "accessed": "2026-09-28",
+      "verification": "Freshly fetched chunks 0 and 1 before Chapter 4 drafting: medical fragment/Alura explanation, pod projection, original rematch/suicide, later James/cape and Astra ending. Secondary recap, not direct viewing."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-P12A",
+      "status": "covered",
+      "reason": "Cape/explanation function is present in the held manuscript. This is an inventory observation, not release approval or accepted continuity.",
+      "source_ids": [
+        "SRC-SG-03"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "held",
+    "continuity": "held",
+    "power": "held",
+    "knowledge": "held",
+    "prose": "held"
+  },
+  "review_receipts": {},
+  "release_ready": false,
+  "continuity_conflicts": [
+    {
+      "id": "RC05-PACING",
+      "description": "U20 supersedes another full Pilot chapter; replacement must progress into Episode 2."
+    }
+  ],
+  "notes": "Registered for preservation during U21 audit, not reviewed for release.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 1,
+    "canon_title": "Pilot",
+    "chapter": 5,
+    "chapter_title": "A Place in the Sky"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "chapter": 1,
+  "revision": "R2",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_01_Adrian_Vale_R2.md",
+  "draft_sha256": "93176d3a49f1dfb22d2f3752132d8d06e7a971112f9cdba63ffe8be30e053983",
+  "accepted": false,
+  "claimed_episode": "S01E01 — Pilot",
+  "span": "opening through first post-rescue Kara/Alex disagreement; SG-P01–SG-P08, not full episode",
+  "sources": [
+    {
+      "id": "SRC-SG-02",
+      "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
+      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "accessed": "2026-09-28",
+      "verification": "secondary recap; fetched chunk 0; selected span present"
+    },
+    {
+      "id": "SRC-SG-03",
+      "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
+      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "accessed": "2026-09-28",
+      "verification": "secondary recap; fetched chunk 0; selected span present"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-P01",
+      "status": "covered",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Krypton departure, intended guardianship and Phantom Zone interruption."
+    },
+    {
+      "id": "SG-P02",
+      "status": "covered",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Danvers placement, upbringing and ordinary-life choice."
+    },
+    {
+      "id": "SG-P03",
+      "status": "changed_with_receipt",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Tribune staffing conflict with original Adrian analysis/internal-referral contribution.",
+      "reason": "Adrian participates in the existing Tribune staffing conflict and checks internal openings. The termination request and Cat’s authority remain; the referrals are an original butterfly, not a source event."
+    },
+    {
+      "id": "SG-P04",
+      "status": "covered",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Kara-viewpoint James introduction, photograph and Superman connection."
+    },
+    {
+      "id": "SG-P05",
+      "status": "covered",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Pre-date Kara/Alex purpose/safety conversation and Geneva departure."
+    },
+    {
+      "id": "SG-P06",
+      "status": "covered",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Failed date, super-heard waitress exchange and flight-report trigger."
+    },
+    {
+      "id": "SG-P07",
+      "status": "covered",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Flight attempt, bridge passage, water landing and public observation; no unsupported collision."
+    },
+    {
+      "id": "SG-P08",
+      "status": "covered",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "evidence": "Complete first post-rescue sister disagreement."
+    },
+    {
+      "id": "SG-P09",
+      "status": "outside_span",
+      "reason": "Chapter ends after the first post-rescue Kara/Alex disagreement, before next-day pilot material."
+    },
+    {
+      "id": "SG-P10",
+      "status": "outside_span",
+      "reason": "Chapter ends after the first post-rescue Kara/Alex disagreement, before next-day pilot material."
+    },
+    {
+      "id": "SG-P11",
+      "status": "outside_span",
+      "reason": "Chapter ends after the first post-rescue Kara/Alex disagreement, before next-day pilot material."
+    },
+    {
+      "id": "SG-P12",
+      "status": "outside_span",
+      "reason": "Chapter ends after the first post-rescue Kara/Alex disagreement, before next-day pilot material."
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    },
+    "power": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "resolved_from_previous_revision": [
+    "RC01: replaced accident history with U09/U10 murder/mixed-heritage/city catastrophe.",
+    "Restored SG-P01/P02/P03 functions, expanded SG-P04, completed SG-P08."
+  ],
+  "open_items": [
+    "O01",
+    "O02",
+    "O03",
+    "O04",
+    "O05",
+    "O06"
+  ],
+  "notes": "Assistant self-review at secondary-source scope. Broader chronology/mechanic choices are not asserted in this span. Author acceptance remains pending.",
+  "format_revision": 2,
+  "heading": {
+    "season": 1,
+    "episode": 1,
+    "canon_title": "Pilot",
+    "chapter": 1,
+    "chapter_title": "Adrian Vale"
+  }
+}

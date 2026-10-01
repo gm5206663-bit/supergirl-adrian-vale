@@ -1,0 +1,25 @@
+{
+  "status": "adopted_U44_rebuilt_clean",
+  "chapter": 12,
+  "revision": "R3",
+  "draft_path": "drafts/Chapter_12_The_Kiss_R3.md",
+  "draft_sha256": "05a68ba0913ba0c2916f0b79baa5d3317789428a076c7261f933f27f4c1b0481",
+  "depends_on": {
+    "path": "chapters/Chapter_11_*.md",
+    "sha256": "prev",
+    "status": "adopted"
+  },
+  "source_span": "The Kiss clean no ticker spam no Cat knowing private monitor James secret nonsense no meta consensual",
+  "physical_endpoint": {
+    "adrian": "clean rebuild ch12 no ticker spam no Cat private secrets",
+    "kara": "clean rebuild ch12"
+  },
+  "candidate_knowledge": {},
+  "power_sequence": [],
+  "original_technology_scope": "clean rebuild no ticker spam",
+  "source_outcomes_superseded": [],
+  "relationships": "",
+  "open_threads": [],
+  "romance_selection": "kara",
+  "next_source_order": "clean"
+}

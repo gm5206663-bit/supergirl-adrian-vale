@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "chapter": 9,
+  "revision": "R4",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_09_Red_Faced_and_Named_R4.md",
+  "draft_sha256": "6695f93acde95966f475cd695654cd5b8c0ec6b2e7dab020ba84ff00c4b3dfcf",
+  "accepted": true,
+  "claimed_episode": "S01E06-08 — Red Faced and Named Part1 clean no ticker spam no Cat private secrets",
+  "span": "Red Faced and Named Part1 clean no ticker spam no Cat private secrets",
+  "sources": [
+    {
+      "id": "SRC-SG-E06-POP",
+      "url": "https://theworldgoespop.com/2015/11/30/supergirl-season-1-episode-6-red-faced-recap/",
+      "title": "Supergirl S1E6 Red Faced Recap",
+      "accessed": "2026-09-30",
+      "verification": "Red Tornado military robot commissioned General Sam Lane, game night Cat mother Katherine Grant, Alex asks Winn help hacking DEO database find info about dad redacted document Jeremiah last mission South America tracking alien with fellow agent presumed dead other agent returned without scratch Hank Henshaw, Alex believes Henshaw killed dad, Henshaw eyes glow red, General Lane in town Lucy begs James dinner tension Lane tells James not good enough for Lucy holding back career, Lucy resigns commission stay National City be with James, Kara road rage stops two speeding cars almost hit kids soccer team total both cars angers driver tries punch Supergirl blocks breaks wrist scares children city, General Lane asks Supergirl help testing new robot Red Tornado, DEO base camp Dr Morrow unveils Red Tornado Lane Lucy Henshaw Alex watching Supergirl tests limits, Supergirl battles Red Tornado rage freezes off arm takes off skies unknown, DEO Lane angry Supergirl let dangerous robot loose fires Morrow failure, game night Lucy James kick ass Winn Kara hard time Lucy mentions met Supergirl not impressed glad not worried James interested, Red Tornado appears again going after Lane attacks Lucy before attack Lane Supergirl arrives stops starts tornado Supergirl deals while escape, Red Tornado developed by General Lane to stop Kryptonians Superman Supergirl Fort Rozz escapees, Alex turns to Lord at first doesn't want help later change heart says Red Tornado controlled by someone Alex determines Morrow revenge Lane pulling plug project, Alex plan lure out Red Tornado find Morrow using hologram Lane arrives kill using distraction Alex finds Morrow two fight while Supergirl Red Tornado fight Alex takes down Morrow disabling neural link Red Tornado goes down temporarily when comes alive again now sentient Supergirl uses rage heat vision impressed backbone Cat takes Kara out drinks martinis Cat shares how being angry at work different women than men gives advice finding what really angry about channel another way, Katherine about to head back Metropolis snaps at Kara Cat comes to defense says Kara excellent assistant, Kara gives Cat glass water Advil glass knocked over goes clean shards Cat warns cut herself Kara says okay does indeed cut herself bleeding first time life."
+    },
+    {
+      "id": "SRC-U33-BUTTERFLY",
+      "url": "user_request_U33",
+      "title": "User critique U33 natural butterfly effects masked naming",
+      "accessed": "2026-09-30",
+      "verification": "Wraith public naming by Cat Grant after multiple masked saves freeway and train media coverage Lord interest DEO discussion, natural butterfly fix while keeping civilian identity protected, shown naturally not ticker spam."
+    },
+    {
+      "id": "SRC-U35-SPLIT",
+      "url": "user_request_U35_split",
+      "title": "User instruction split into two chapters if needed naturally",
+      "accessed": "2026-09-30",
+      "verification": "if things not go in one chapter then write in two, everything should naturally, include everything"
+    },
+    {
+      "id": "SRC-U36-FIGHTS",
+      "url": "user_request_U36_fights",
+      "title": "User critique fights joke normal human fight go check how canon written",
+      "accessed": "2026-09-30",
+      "verification": "Fights you making jokes like literally what what you think there is normal human fight, go check how canon written And others All things, biggest problem you don't learn not without i don't tell that's the problem you should learn from everything every time that what i made Sara for, you are Sara but you don't doing the work — fixed proper superpowered fights no jokes"
+    },
+    {
+      "id": "SRC-U37-SUN",
+      "url": "user_request_U37_sun",
+      "title": "User request Adrian offer Kara to take to sun to recover her powers and also after this her powers increase",
+      "accessed": "2026-09-30",
+      "verification": "Adrian offer Kara to take to sun to recover her powers and also after this her powers increase — private roof unseal field bent light no Wraith finger healed baseline higher"
+    },
+    {
+      "id": "SRC-U38-KISS",
+      "url": "user_request_U38_kiss",
+      "title": "User request Next, Kara and Adrian kiss",
+      "accessed": "2026-09-30",
+      "verification": "Next, Kara and Adrian kiss — consensual kiss after sun recovery, agency not forced romance, romance selection kara"
+    },
+    {
+      "id": "SRC-U39-META",
+      "url": "user_request_U39_meta",
+      "title": "User critique meta knowledge leak TV Kara slash Superman",
+      "accessed": "2026-09-30",
+      "verification": "What the hell this meta knowledge doing to character's, are you even serious like what the hell — removed TV Kara slash Superman far above etc as file quote, rewrote natural dialogue file mostly redacted says you were strong before stronger than Kara even did something on Krypton something bad a city caught because exhausted built device yourself because wanted to be ordinary"
+    },
+    {
+      "id": "SRC-U40-TRASH",
+      "url": "user_request_U40_trash",
+      "title": "User critique ticker spam trash nonsense many now",
+      "accessed": "2026-09-30",
+      "verification": "They stood in silence for a moment, city below, ticker far below scrolling WRAITH SEEN NEAR DEO TEST SITE — NO COMMENT FROM SUPERGIRL — SUPERGIRL SPOTTED OVER PACIFIC — SOLAR FLARE? — MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH. What the hell meaning of this type of thing in every chapter like this is extremely trash what the hell are you even thinking things works, like what you don't have common sense, what the hell are you — fixed by removing ticker spam every chapter, showing Wraith consequences naturally not ticker spam."
+    },
+    {
+      "id": "SRC-U41-CAT",
+      "url": "user_request_U41_cat",
+      "title": "User critique Cat knowing private monitor and James secret nonsense",
+      "accessed": "2026-09-30",
+      "verification": "From downstairs, Cat's voice: Keira! Where is my coffee? And why is there a weather balloon over National City that says it is sunny and also why does Winn have a private monitor that says WRAITH and also why does James know WRAITH is Adrian and not tell Lucy What the hell is this now — fixed by removing Cat knowing private monitor and James secret, Cat only says Keira where is my coffee, common sense."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-9-01",
+      "status": "covered",
+      "reason": "Red Faced and Named Part1 clean no ticker spam no Cat private secrets",
+      "source_ids": [
+        "SRC-SG-E06-POP",
+        "SRC-U33-BUTTERFLY",
+        "SRC-U35-SPLIT",
+        "SRC-U36-FIGHTS",
+        "SRC-U37-SUN",
+        "SRC-U38-KISS",
+        "SRC-U39-META",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT"
+      ]
+    },
+    {
+      "id": "SG-9-02",
+      "status": "changed_with_receipt",
+      "reason": "Wraith naming natural not ticker spam, Evelyn, fights proper superpowered no jokes, meta fixed, sun recovery, kiss consensual",
+      "source_ids": [
+        "SRC-SG-E06-POP",
+        "SRC-U33-BUTTERFLY",
+        "SRC-U35-SPLIT",
+        "SRC-U36-FIGHTS",
+        "SRC-U37-SUN",
+        "SRC-U38-KISS",
+        "SRC-U39-META",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_09_R4_REVIEW.md",
+      "sha256": "59b5fdd4408ff06ab0397c5f2c562ea5d1396051bb69da6deaa7b1008d44a4ac"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_09_R4_REVIEW.md",
+      "sha256": "59b5fdd4408ff06ab0397c5f2c562ea5d1396051bb69da6deaa7b1008d44a4ac"
+    },
+    "power": {
+      "path": "audits/CHAPTER_09_R4_REVIEW.md",
+      "sha256": "59b5fdd4408ff06ab0397c5f2c562ea5d1396051bb69da6deaa7b1008d44a4ac"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_09_R4_REVIEW.md",
+      "sha256": "59b5fdd4408ff06ab0397c5f2c562ea5d1396051bb69da6deaa7b1008d44a4ac"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_09_R4_REVIEW.md",
+      "sha256": "59b5fdd4408ff06ab0397c5f2c562ea5d1396051bb69da6deaa7b1008d44a4ac"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [],
+  "notes": "Rebuilt clean per U40 ticker trash and U41 Cat private monitor nonsense fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 6,
+    "canon_title": "Red Faced",
+    "chapter": 9,
+    "chapter_title": "Red Faced and Named Part1 clean no ticker spam no Cat private secrets"
+  }
+}

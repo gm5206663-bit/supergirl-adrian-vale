@@ -1,0 +1,19 @@
+PASS: JSON/Python syntax.
+PASS: protected prior manuscripts and Talent master unchanged.
+PASS: exact Chapter 4 adoption and final Chapter 5/review hashes.
+PASS: edge 4 / next 5; Chapter 5 disclosures are candidate-only.
+PASS: Chapter 5 R2 enters S01E02 and technically ready; R1 still blocked.
+PASS: structure/domain/views and 51/51 defect tests.
+Held R1 gate findings:
+SHIP_CONTINUITY: unresolved recorded continuity conflict
+SHIP_READY: candidate is not marked review-complete
+SHIP_REVIEW: canon review incomplete
+SHIP_RECEIPT: missing canon evidence
+SHIP_REVIEW: continuity review incomplete
+SHIP_RECEIPT: missing continuity evidence
+SHIP_REVIEW: power review incomplete
+SHIP_RECEIPT: missing power evidence
+SHIP_REVIEW: knowledge review incomplete
+SHIP_RECEIPT: missing knowledge evidence
+SHIP_REVIEW: prose review incomplete
+SHIP_RECEIPT: missing prose evidence

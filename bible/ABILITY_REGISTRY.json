@@ -1,0 +1,172 @@
+{
+  "epoch": "v1",
+  "scope": "qualitative author floor, working capability specifics and cited adopted Chapter 3 feats; no automatic full regeneration or immunity",
+  "abilities": [
+    {
+      "id": "A01",
+      "name": "Adaptation Talent",
+      "provenance": "user_lock",
+      "development": "innate_present",
+      "sealed_access": "present; expression limited to genuinely free layers",
+      "scope": "Holder-dependent, non-sentient; not a device or System."
+    },
+    {
+      "id": "A02",
+      "name": "Established extraordinary unsealed power",
+      "provenance": "user_lock",
+      "development": "qualitative_confirmed",
+      "sealed_access": "human-level accessible superpowers",
+      "scope": "Far above show Kara and Superman; no fabricated numeric ceiling."
+    },
+    {
+      "id": "A03",
+      "name": "Red-sun power expression",
+      "provenance": "user_lock",
+      "development": "historically_confirmed",
+      "sealed_access": "suppressed through current device",
+      "scope": "Was already powerful on Krypton before prison."
+    },
+    {
+      "id": "A04",
+      "name": "Device engineering expertise",
+      "provenance": "user_lock",
+      "development": "demonstrated_by_history",
+      "sealed_access": "retained_learning",
+      "scope": "Built the seal; not mastery of all technology."
+    },
+    {
+      "id": "A05",
+      "name": "Enhanced strength, speed and durability",
+      "provenance": "working_design",
+      "development": "specific_suite_proposed",
+      "sealed_access": "powered_output_suppressed",
+      "scope": "Standard-category local implementation; precise independent feats not yet measured.",
+      "accepted_evidence": {
+        "chapter": 8,
+        "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+        "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+        "description": "Remains sealed civilian support during Livewire, no masked takeover, ensures Cat safety, identity protected."
+      },
+      "accepted_evidence_history": [
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Decisive strength and speed against Vartox; durability not separately tested in this fight."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Immediate Hellgrammite restraint, two armed-guard disarmament and interception of Astra withdrawal. No numerical maximum or separate durability/immunity test."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Fast precise interception and restraint of armored human; no equal-power duel or untested immunity feat; structural support with inspected machine."
+        },
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Supports train evacuation and structural stabilization, precise leverage prevents jackknifing, no takeover of Kara heat-vision separation."
+        }
+      ]
+    },
+    {
+      "id": "A06",
+      "name": "Flight and aerial control",
+      "provenance": "working_design",
+      "development": "specific_suite_proposed",
+      "sealed_access": "powered_output_suppressed",
+      "scope": "A proposed part of his Kryptonian suite; no space-travel or infinite-range assumption.",
+      "accepted_evidence": {
+        "chapter": 7,
+        "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+        "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+        "description": "Masked flight to central station and departure via service ladder avoiding cameras."
+      },
+      "accepted_evidence_history": [
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Flights from CatCo to the power plant after voluntary release."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Controlled masked harbor flights and rapid arrival ahead of ground team at rendezvous."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Masked freeway flight and departure route that avoids pointing to workplace."
+        }
+      ]
+    },
+    {
+      "id": "A07",
+      "name": "Energy projection and heat vision",
+      "provenance": "user_lock",
+      "development": "author_confirmed_for_wound_care",
+      "sealed_access": "powered_output_suppressed",
+      "scope": "U17 authorizes controlled heat vision for Kara’s injury. Chapter 3 R3 demonstrates precision bleeding control while unsealed. Exact wider energy spectrum, universal healing and regenerative tissue repair are not granted by this scene.",
+      "accepted_evidence": {
+        "chapter": 3,
+        "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+        "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+        "description": "Consensual precise heat-vision bleeding control; no complete tissue regeneration."
+      }
+    },
+    {
+      "id": "A08",
+      "name": "Enhanced senses",
+      "provenance": "working_design",
+      "development": "specific_suite_proposed",
+      "sealed_access": "ordinary_sensory_reach",
+      "scope": "No ability to detect Kara through the engaged seal.",
+      "accepted_evidence": {
+        "chapter": 5,
+        "path": "chapters/Chapter_05_In_Plain_Sight.md",
+        "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+        "description": "Hears voices including familiar voice while approaching occupied warehouse unsealed; no sealed superhearing or omniscience."
+      },
+      "accepted_evidence_history": [
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Expanded hearing described after unsealing; no sealed powered summons reception."
+        }
+      ]
+    },
+    {
+      "id": "A09",
+      "name": "Special resistance/immunity",
+      "provenance": "open",
+      "development": "unassigned",
+      "sealed_access": "no_automatic_immunity",
+      "scope": "Resolve kryptonite, lead and other mechanisms separately through his hybrid substrate and actual adaptation history; neither automatic vulnerability nor universal immunity. Existing strength is preserved."
+    },
+    {
+      "id": "A10",
+      "name": "Telepathy, precognition or cosmic authority",
+      "provenance": "open",
+      "development": "unassigned",
+      "sealed_access": "not_granted",
+      "scope": "No current entitlement to these powers; unknown future paths are not a fixed ban."
+    },
+    {
+      "id": "A11",
+      "name": "Balanced all-around physical development",
+      "provenance": "user_lock",
+      "development": "U26 qualitative clarification; lean harmonious build, not brute-only development",
+      "sealed_access": "human-level powered access; appearance and learned coordination retained",
+      "scope": "Strength, speed, agility, flexibility, precision and control develop together. No fabricated numeric ratios, cosmic rank or universal immunity."
+    }
+  ]
+}

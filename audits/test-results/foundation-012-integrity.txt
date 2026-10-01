@@ -1,0 +1,13 @@
+JSON / Python syntax: PASS
+PRESERVED/ADOPTED HASH: PASS chapters/Chapter_01_Adrian_Vale.md
+PRESERVED/ADOPTED HASH: PASS audits/history/Chapter_02_A_Familiar_Face_U14.md
+PRESERVED/ADOPTED HASH: PASS drafts/Chapter_02_A_Familiar_Face_R1.md
+PRESERVED/ADOPTED HASH: PASS chapters/Chapter_02_A_Familiar_Face.md
+PRESERVED/ADOPTED HASH: PASS chapters/Chapter_03_The_Name_He_Feared.md
+PRESERVED/ADOPTED HASH: PASS drafts/Chapter_03_What_Came_With_Us_R1.md
+PRESERVED/ADOPTED HASH: PASS reference/talent_master_v2.md
+CANDIDATE DEPENDENCY / ACCEPTED KNOWLEDGE BOUNDARY: PASS
+CHAPTER 4 HEADING: 3549 words
+HISTORICAL RELEASE REMAINS BLOCKED: canon_coverage/Chapter_01_R1.json
+HISTORICAL RELEASE REMAINS BLOCKED: canon_coverage/Chapter_03_R1.json
+REMOTE: unconfigured; no changes

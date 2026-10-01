@@ -1,0 +1,64 @@
+{
+  "status": "candidate_only",
+  "chapter": 3,
+  "draft_path": "drafts/Chapter_03_The_Name_He_Feared_R2.md",
+  "draft_sha256": "7e54f52150d073fb1134c6efef95747eb826d6232ec21c34d1a8125cb7afbfeb",
+  "depends_on": {
+    "path": "drafts/Chapter_02_A_Familiar_Face_R2.md",
+    "sha256": "ca0c7914288a614e90c43beb187a5d5a2648a4e1671da6dcf98b49ccc35e8e0f",
+    "status": "pending_amendment_adoption; U14 receipt remains Chapter 2 R1"
+  },
+  "physical_endpoint": {
+    "location": "power-plant yard",
+    "adrian": "unsealed; beside injured Kara, has released Vartox only after DEO restraints secured",
+    "kara": "standing/settled beside damaged equipment; injured arm, medical kit requested; no completed treatment or fragment removal",
+    "vartox": "alive, restrained and in DEO custody; no escape/suicide",
+    "axe": "secured by a DEO agent; analysis not yet performed"
+  },
+  "adrian": {
+    "information_route": "normal phone call from Winn, after post-capture backup arrangement",
+    "prior_history": "Alura sentence; complicated Astra/Non prison acquaintance known under U16",
+    "alex_deo_role": "known from Kara’s post-release call",
+    "prison_pod_link": "known from Kara’s call",
+    "commander": "Vartox mentions unnamed commander and plane/girl orders; identity not learned",
+    "current_enemy_location": "Astra/Non location and current plans unknown"
+  },
+  "kara": {
+    "kael_identity": "exposed by Vartox recognition; Adrian confirms Alura sentence",
+    "power": "directly witnesses overwhelming superiority over Vartox, not a measured universal ceiling",
+    "case_memory": "limited name/city association, D09 working design; full offense/murder account not disclosed",
+    "astra_non_connection": "not disclosed",
+    "maternal_royal_affiliation": "not disclosed",
+    "trust": "rescue gratitude and awareness of deliberate omission coexist; no automatic forgiveness or romance"
+  },
+  "winn": {
+    "information": "live earpiece audio including name/prison exchange; no camera view or established stored recording",
+    "full_crime_and_family": "not disclosed"
+  },
+  "alex_and_deo": {
+    "arrival": "after decisive intervention",
+    "observed": "injured Kara, restrained Vartox, axe, prisoner fear, Kael name and Kara calling him Adrian",
+    "record_check": "requested; no result yet",
+    "prior_dialogue": "not automatically heard; aircraft/commander testimony needs reporting",
+    "adrian_ceiling_and_seal": "not measured; hybrid weaknesses/immunities unassigned"
+  },
+  "cat": {
+    "kara_rescuer": "passenger-clip resemblance alongside clearer bank photo; no explicit confirmation",
+    "adrian_history": "not disclosed"
+  },
+  "astra_non": {
+    "history": "U15/U16 knowledge/fear and prior personal relationship",
+    "present_response": "not on-page; do not grant remote knowledge of rescue"
+  },
+  "supersedes": "planning/Chapter_03_R1_ENDPOINT.json",
+  "unresolved": [
+    "medical treatment and possible fragment",
+    "record result and official response",
+    "Vartox interrogation and secure transfer",
+    "commander identification and reaction",
+    "Kara questions about crime/Astra/Non",
+    "CatCo absence and exposure",
+    "seal re-engagement decision"
+  ],
+  "romance_selection": null
+}

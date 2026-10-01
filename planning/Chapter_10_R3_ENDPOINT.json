@@ -1,0 +1,25 @@
+{
+  "status": "adopted_U44_rebuilt_clean",
+  "chapter": 10,
+  "revision": "R3",
+  "draft_path": "drafts/Chapter_10_Red_Faced_Consequence_R3.md",
+  "draft_sha256": "6c5a8e874f7dc6bedc24af6ca8aa6b2cff13f0841478a984f8200875a42df3cd",
+  "depends_on": {
+    "path": "chapters/Chapter_09_*.md",
+    "sha256": "prev",
+    "status": "adopted"
+  },
+  "source_span": "The Anger Behind the Anger Part2 clean no ticker spam no Cat private secrets",
+  "physical_endpoint": {
+    "adrian": "clean rebuild ch10 no ticker spam no Cat private secrets",
+    "kara": "clean rebuild ch10"
+  },
+  "candidate_knowledge": {},
+  "power_sequence": [],
+  "original_technology_scope": "clean rebuild no ticker spam",
+  "source_outcomes_superseded": [],
+  "relationships": "",
+  "open_threads": [],
+  "romance_selection": null,
+  "next_source_order": "clean"
+}

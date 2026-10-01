@@ -1,0 +1,1015 @@
+{
+  "source_url": "https://api.tvmaze.com/shows/1850/episodes",
+  "accessed": "2026-09-27",
+  "scope": "episode metadata only; airdate is not an in-world date; no scene-level verification",
+  "episodes": [
+    {
+      "id": 163037,
+      "season": 1,
+      "broadcast_episode": 1,
+      "title": "Pilot",
+      "airdate": "2015-10-26",
+      "url": "https://www.tvmaze.com/episodes/163037/supergirl-1x01-pilot"
+    },
+    {
+      "id": 203918,
+      "season": 1,
+      "broadcast_episode": 2,
+      "title": "Stronger Together",
+      "airdate": "2015-11-02",
+      "url": "https://www.tvmaze.com/episodes/203918/supergirl-1x02-stronger-together"
+    },
+    {
+      "id": 203919,
+      "season": 1,
+      "broadcast_episode": 3,
+      "title": "Fight or Flight",
+      "airdate": "2015-11-09",
+      "url": "https://www.tvmaze.com/episodes/203919/supergirl-1x03-fight-or-flight"
+    },
+    {
+      "id": 395618,
+      "season": 1,
+      "broadcast_episode": 4,
+      "title": "Livewire",
+      "airdate": "2015-11-16",
+      "url": "https://www.tvmaze.com/episodes/395618/supergirl-1x04-livewire"
+    },
+    {
+      "id": 395614,
+      "season": 1,
+      "broadcast_episode": 5,
+      "title": "How Does She Do It?",
+      "airdate": "2015-11-23",
+      "url": "https://www.tvmaze.com/episodes/395614/supergirl-1x05-how-does-she-do-it"
+    },
+    {
+      "id": 455287,
+      "season": 1,
+      "broadcast_episode": 6,
+      "title": "Red Faced",
+      "airdate": "2015-11-30",
+      "url": "https://www.tvmaze.com/episodes/455287/supergirl-1x06-red-faced"
+    },
+    {
+      "id": 463159,
+      "season": 1,
+      "broadcast_episode": 7,
+      "title": "Human for a Day",
+      "airdate": "2015-12-07",
+      "url": "https://www.tvmaze.com/episodes/463159/supergirl-1x07-human-for-a-day"
+    },
+    {
+      "id": 487783,
+      "season": 1,
+      "broadcast_episode": 8,
+      "title": "Hostile Takeover",
+      "airdate": "2015-12-14",
+      "url": "https://www.tvmaze.com/episodes/487783/supergirl-1x08-hostile-takeover"
+    },
+    {
+      "id": 527877,
+      "season": 1,
+      "broadcast_episode": 9,
+      "title": "Blood Bonds",
+      "airdate": "2016-01-04",
+      "url": "https://www.tvmaze.com/episodes/527877/supergirl-1x09-blood-bonds"
+    },
+    {
+      "id": 542188,
+      "season": 1,
+      "broadcast_episode": 10,
+      "title": "Childish Things",
+      "airdate": "2016-01-18",
+      "url": "https://www.tvmaze.com/episodes/542188/supergirl-1x10-childish-things"
+    },
+    {
+      "id": 558877,
+      "season": 1,
+      "broadcast_episode": 11,
+      "title": "Strange Visitor from Another Planet",
+      "airdate": "2016-01-25",
+      "url": "https://www.tvmaze.com/episodes/558877/supergirl-1x11-strange-visitor-from-another-planet"
+    },
+    {
+      "id": 563451,
+      "season": 1,
+      "broadcast_episode": 12,
+      "title": "Bizarro",
+      "airdate": "2016-02-01",
+      "url": "https://www.tvmaze.com/episodes/563451/supergirl-1x12-bizarro"
+    },
+    {
+      "id": 573768,
+      "season": 1,
+      "broadcast_episode": 13,
+      "title": "For the Girl Who Has Everything",
+      "airdate": "2016-02-08",
+      "url": "https://www.tvmaze.com/episodes/573768/supergirl-1x13-for-the-girl-who-has-everything"
+    },
+    {
+      "id": 599221,
+      "season": 1,
+      "broadcast_episode": 14,
+      "title": "Truth, Justice and the American Way",
+      "airdate": "2016-02-22",
+      "url": "https://www.tvmaze.com/episodes/599221/supergirl-1x14-truth-justice-and-the-american-way"
+    },
+    {
+      "id": 604003,
+      "season": 1,
+      "broadcast_episode": 15,
+      "title": "Solitude",
+      "airdate": "2016-02-29",
+      "url": "https://www.tvmaze.com/episodes/604003/supergirl-1x15-solitude"
+    },
+    {
+      "id": 611396,
+      "season": 1,
+      "broadcast_episode": 16,
+      "title": "Falling",
+      "airdate": "2016-03-14",
+      "url": "https://www.tvmaze.com/episodes/611396/supergirl-1x16-falling"
+    },
+    {
+      "id": 611397,
+      "season": 1,
+      "broadcast_episode": 17,
+      "title": "Manhunter",
+      "airdate": "2016-03-21",
+      "url": "https://www.tvmaze.com/episodes/611397/supergirl-1x17-manhunter"
+    },
+    {
+      "id": 600173,
+      "season": 1,
+      "broadcast_episode": 18,
+      "title": "Worlds Finest",
+      "airdate": "2016-03-28",
+      "url": "https://www.tvmaze.com/episodes/600173/supergirl-1x18-worlds-finest"
+    },
+    {
+      "id": 660456,
+      "season": 1,
+      "broadcast_episode": 19,
+      "title": "Myriad",
+      "airdate": "2016-04-11",
+      "url": "https://www.tvmaze.com/episodes/660456/supergirl-1x19-myriad"
+    },
+    {
+      "id": 660457,
+      "season": 1,
+      "broadcast_episode": 20,
+      "title": "Better Angels",
+      "airdate": "2016-04-18",
+      "url": "https://www.tvmaze.com/episodes/660457/supergirl-1x20-better-angels"
+    },
+    {
+      "id": 836111,
+      "season": 2,
+      "broadcast_episode": 1,
+      "title": "The Adventures of Supergirl",
+      "airdate": "2016-10-10",
+      "url": "https://www.tvmaze.com/episodes/836111/supergirl-2x01-the-adventures-of-supergirl"
+    },
+    {
+      "id": 912103,
+      "season": 2,
+      "broadcast_episode": 2,
+      "title": "The Last Children of Krypton",
+      "airdate": "2016-10-17",
+      "url": "https://www.tvmaze.com/episodes/912103/supergirl-2x02-the-last-children-of-krypton"
+    },
+    {
+      "id": 953376,
+      "season": 2,
+      "broadcast_episode": 3,
+      "title": "Welcome to Earth",
+      "airdate": "2016-10-24",
+      "url": "https://www.tvmaze.com/episodes/953376/supergirl-2x03-welcome-to-earth"
+    },
+    {
+      "id": 961163,
+      "season": 2,
+      "broadcast_episode": 4,
+      "title": "Survivors",
+      "airdate": "2016-10-31",
+      "url": "https://www.tvmaze.com/episodes/961163/supergirl-2x04-survivors"
+    },
+    {
+      "id": 967172,
+      "season": 2,
+      "broadcast_episode": 5,
+      "title": "Crossfire",
+      "airdate": "2016-11-07",
+      "url": "https://www.tvmaze.com/episodes/967172/supergirl-2x05-crossfire"
+    },
+    {
+      "id": 975345,
+      "season": 2,
+      "broadcast_episode": 6,
+      "title": "Changing",
+      "airdate": "2016-11-14",
+      "url": "https://www.tvmaze.com/episodes/975345/supergirl-2x06-changing"
+    },
+    {
+      "id": 977537,
+      "season": 2,
+      "broadcast_episode": 7,
+      "title": "The Darkest Place",
+      "airdate": "2016-11-21",
+      "url": "https://www.tvmaze.com/episodes/977537/supergirl-2x07-the-darkest-place"
+    },
+    {
+      "id": 975569,
+      "season": 2,
+      "broadcast_episode": 8,
+      "title": "Medusa",
+      "airdate": "2016-11-28",
+      "url": "https://www.tvmaze.com/episodes/975569/supergirl-2x08-medusa"
+    },
+    {
+      "id": 960597,
+      "season": 2,
+      "broadcast_episode": 9,
+      "title": "Supergirl Lives",
+      "airdate": "2017-01-23",
+      "url": "https://www.tvmaze.com/episodes/960597/supergirl-2x09-supergirl-lives"
+    },
+    {
+      "id": 1040747,
+      "season": 2,
+      "broadcast_episode": 10,
+      "title": "We Can Be Heroes",
+      "airdate": "2017-01-30",
+      "url": "https://www.tvmaze.com/episodes/1040747/supergirl-2x10-we-can-be-heroes"
+    },
+    {
+      "id": 1046386,
+      "season": 2,
+      "broadcast_episode": 11,
+      "title": "The Martian Chronicles",
+      "airdate": "2017-02-06",
+      "url": "https://www.tvmaze.com/episodes/1046386/supergirl-2x11-the-martian-chronicles"
+    },
+    {
+      "id": 1049517,
+      "season": 2,
+      "broadcast_episode": 12,
+      "title": "Luthors",
+      "airdate": "2017-02-13",
+      "url": "https://www.tvmaze.com/episodes/1049517/supergirl-2x12-luthors"
+    },
+    {
+      "id": 1058384,
+      "season": 2,
+      "broadcast_episode": 13,
+      "title": "Mr. & Mrs. Mxyzptlk",
+      "airdate": "2017-02-20",
+      "url": "https://www.tvmaze.com/episodes/1058384/supergirl-2x13-mr-mrs-mxyzptlk"
+    },
+    {
+      "id": 1070378,
+      "season": 2,
+      "broadcast_episode": 14,
+      "title": "Homecoming",
+      "airdate": "2017-02-27",
+      "url": "https://www.tvmaze.com/episodes/1070378/supergirl-2x14-homecoming"
+    },
+    {
+      "id": 1075676,
+      "season": 2,
+      "broadcast_episode": 15,
+      "title": "Exodus",
+      "airdate": "2017-03-06",
+      "url": "https://www.tvmaze.com/episodes/1075676/supergirl-2x15-exodus"
+    },
+    {
+      "id": 1083994,
+      "season": 2,
+      "broadcast_episode": 16,
+      "title": "Star-Crossed",
+      "airdate": "2017-03-20",
+      "url": "https://www.tvmaze.com/episodes/1083994/supergirl-2x16-star-crossed"
+    },
+    {
+      "id": 1095441,
+      "season": 2,
+      "broadcast_episode": 17,
+      "title": "Distant Sun",
+      "airdate": "2017-03-27",
+      "url": "https://www.tvmaze.com/episodes/1095441/supergirl-2x17-distant-sun"
+    },
+    {
+      "id": 1105967,
+      "season": 2,
+      "broadcast_episode": 18,
+      "title": "Ace Reporter",
+      "airdate": "2017-04-24",
+      "url": "https://www.tvmaze.com/episodes/1105967/supergirl-2x18-ace-reporter"
+    },
+    {
+      "id": 1105968,
+      "season": 2,
+      "broadcast_episode": 19,
+      "title": "Alex",
+      "airdate": "2017-05-01",
+      "url": "https://www.tvmaze.com/episodes/1105968/supergirl-2x19-alex"
+    },
+    {
+      "id": 1105969,
+      "season": 2,
+      "broadcast_episode": 20,
+      "title": "City of Lost Children",
+      "airdate": "2017-05-08",
+      "url": "https://www.tvmaze.com/episodes/1105969/supergirl-2x20-city-of-lost-children"
+    },
+    {
+      "id": 1105970,
+      "season": 2,
+      "broadcast_episode": 21,
+      "title": "Resist",
+      "airdate": "2017-05-15",
+      "url": "https://www.tvmaze.com/episodes/1105970/supergirl-2x21-resist"
+    },
+    {
+      "id": 1095442,
+      "season": 2,
+      "broadcast_episode": 22,
+      "title": "Nevertheless, She Persisted",
+      "airdate": "2017-05-22",
+      "url": "https://www.tvmaze.com/episodes/1095442/supergirl-2x22-nevertheless-she-persisted"
+    },
+    {
+      "id": 1207199,
+      "season": 3,
+      "broadcast_episode": 1,
+      "title": "Girl of Steel",
+      "airdate": "2017-10-09",
+      "url": "https://www.tvmaze.com/episodes/1207199/supergirl-3x01-girl-of-steel"
+    },
+    {
+      "id": 1270129,
+      "season": 3,
+      "broadcast_episode": 2,
+      "title": "Triggers",
+      "airdate": "2017-10-16",
+      "url": "https://www.tvmaze.com/episodes/1270129/supergirl-3x02-triggers"
+    },
+    {
+      "id": 1270131,
+      "season": 3,
+      "broadcast_episode": 3,
+      "title": "Far from the Tree",
+      "airdate": "2017-10-23",
+      "url": "https://www.tvmaze.com/episodes/1270131/supergirl-3x03-far-from-the-tree"
+    },
+    {
+      "id": 1274840,
+      "season": 3,
+      "broadcast_episode": 4,
+      "title": "The Faithful",
+      "airdate": "2017-10-30",
+      "url": "https://www.tvmaze.com/episodes/1274840/supergirl-3x04-the-faithful"
+    },
+    {
+      "id": 1288074,
+      "season": 3,
+      "broadcast_episode": 5,
+      "title": "Damage",
+      "airdate": "2017-11-06",
+      "url": "https://www.tvmaze.com/episodes/1288074/supergirl-3x05-damage"
+    },
+    {
+      "id": 1288075,
+      "season": 3,
+      "broadcast_episode": 6,
+      "title": "Midvale",
+      "airdate": "2017-11-13",
+      "url": "https://www.tvmaze.com/episodes/1288075/supergirl-3x06-midvale"
+    },
+    {
+      "id": 1288076,
+      "season": 3,
+      "broadcast_episode": 7,
+      "title": "Wake Up",
+      "airdate": "2017-11-20",
+      "url": "https://www.tvmaze.com/episodes/1288076/supergirl-3x07-wake-up"
+    },
+    {
+      "id": 1267140,
+      "season": 3,
+      "broadcast_episode": 8,
+      "title": "Crisis on Earth-X, Part 1",
+      "airdate": "2017-11-27",
+      "url": "https://www.tvmaze.com/episodes/1267140/supergirl-3x08-crisis-on-earth-x-part-1"
+    },
+    {
+      "id": 1346119,
+      "season": 3,
+      "broadcast_episode": 9,
+      "title": "Reign",
+      "airdate": "2017-12-04",
+      "url": "https://www.tvmaze.com/episodes/1346119/supergirl-3x09-reign"
+    },
+    {
+      "id": 1350924,
+      "season": 3,
+      "broadcast_episode": 10,
+      "title": "Legion of Super-Heroes",
+      "airdate": "2018-01-15",
+      "url": "https://www.tvmaze.com/episodes/1350924/supergirl-3x10-legion-of-super-heroes"
+    },
+    {
+      "id": 1351957,
+      "season": 3,
+      "broadcast_episode": 11,
+      "title": "Fort Rozz",
+      "airdate": "2018-01-22",
+      "url": "https://www.tvmaze.com/episodes/1351957/supergirl-3x11-fort-rozz"
+    },
+    {
+      "id": 1357189,
+      "season": 3,
+      "broadcast_episode": 12,
+      "title": "For Good",
+      "airdate": "2018-01-29",
+      "url": "https://www.tvmaze.com/episodes/1357189/supergirl-3x12-for-good"
+    },
+    {
+      "id": 1370482,
+      "season": 3,
+      "broadcast_episode": 13,
+      "title": "Both Sides Now",
+      "airdate": "2018-02-05",
+      "url": "https://www.tvmaze.com/episodes/1370482/supergirl-3x13-both-sides-now"
+    },
+    {
+      "id": 1370483,
+      "season": 3,
+      "broadcast_episode": 14,
+      "title": "Schott Through the Heart",
+      "airdate": "2018-04-16",
+      "url": "https://www.tvmaze.com/episodes/1370483/supergirl-3x14-schott-through-the-heart"
+    },
+    {
+      "id": 1370484,
+      "season": 3,
+      "broadcast_episode": 15,
+      "title": "In Search of Lost Time",
+      "airdate": "2018-04-23",
+      "url": "https://www.tvmaze.com/episodes/1370484/supergirl-3x15-in-search-of-lost-time"
+    },
+    {
+      "id": 1370485,
+      "season": 3,
+      "broadcast_episode": 16,
+      "title": "Of Two Minds",
+      "airdate": "2018-04-30",
+      "url": "https://www.tvmaze.com/episodes/1370485/supergirl-3x16-of-two-minds"
+    },
+    {
+      "id": 1370486,
+      "season": 3,
+      "broadcast_episode": 17,
+      "title": "Trinity",
+      "airdate": "2018-05-07",
+      "url": "https://www.tvmaze.com/episodes/1370486/supergirl-3x17-trinity"
+    },
+    {
+      "id": 1370487,
+      "season": 3,
+      "broadcast_episode": 18,
+      "title": "Shelter from the Storm",
+      "airdate": "2018-05-14",
+      "url": "https://www.tvmaze.com/episodes/1370487/supergirl-3x18-shelter-from-the-storm"
+    },
+    {
+      "id": 1370488,
+      "season": 3,
+      "broadcast_episode": 19,
+      "title": "The Fanatical",
+      "airdate": "2018-05-21",
+      "url": "https://www.tvmaze.com/episodes/1370488/supergirl-3x19-the-fanatical"
+    },
+    {
+      "id": 1370489,
+      "season": 3,
+      "broadcast_episode": 20,
+      "title": "Dark Side of the Moon",
+      "airdate": "2018-05-28",
+      "url": "https://www.tvmaze.com/episodes/1370489/supergirl-3x20-dark-side-of-the-moon"
+    },
+    {
+      "id": 1370490,
+      "season": 3,
+      "broadcast_episode": 21,
+      "title": "Not Kansas",
+      "airdate": "2018-06-04",
+      "url": "https://www.tvmaze.com/episodes/1370490/supergirl-3x21-not-kansas"
+    },
+    {
+      "id": 1370491,
+      "season": 3,
+      "broadcast_episode": 22,
+      "title": "Make It Reign",
+      "airdate": "2018-06-11",
+      "url": "https://www.tvmaze.com/episodes/1370491/supergirl-3x22-make-it-reign"
+    },
+    {
+      "id": 1370492,
+      "season": 3,
+      "broadcast_episode": 23,
+      "title": "Battles Lost and Won",
+      "airdate": "2018-06-18",
+      "url": "https://www.tvmaze.com/episodes/1370492/supergirl-3x23-battles-lost-and-won"
+    },
+    {
+      "id": 1473820,
+      "season": 4,
+      "broadcast_episode": 1,
+      "title": "The American Alien",
+      "airdate": "2018-10-14",
+      "url": "https://www.tvmaze.com/episodes/1473820/supergirl-4x01-the-american-alien"
+    },
+    {
+      "id": 1516350,
+      "season": 4,
+      "broadcast_episode": 2,
+      "title": "Fallout",
+      "airdate": "2018-10-21",
+      "url": "https://www.tvmaze.com/episodes/1516350/supergirl-4x02-fallout"
+    },
+    {
+      "id": 1516351,
+      "season": 4,
+      "broadcast_episode": 3,
+      "title": "Man of Steel",
+      "airdate": "2018-10-28",
+      "url": "https://www.tvmaze.com/episodes/1516351/supergirl-4x03-man-of-steel"
+    },
+    {
+      "id": 1516352,
+      "season": 4,
+      "broadcast_episode": 4,
+      "title": "Ahimsa",
+      "airdate": "2018-11-04",
+      "url": "https://www.tvmaze.com/episodes/1516352/supergirl-4x04-ahimsa"
+    },
+    {
+      "id": 1523880,
+      "season": 4,
+      "broadcast_episode": 5,
+      "title": "Parasite Lost",
+      "airdate": "2018-11-11",
+      "url": "https://www.tvmaze.com/episodes/1523880/supergirl-4x05-parasite-lost"
+    },
+    {
+      "id": 1523881,
+      "season": 4,
+      "broadcast_episode": 6,
+      "title": "Call to Action",
+      "airdate": "2018-11-18",
+      "url": "https://www.tvmaze.com/episodes/1523881/supergirl-4x06-call-to-action"
+    },
+    {
+      "id": 1523882,
+      "season": 4,
+      "broadcast_episode": 7,
+      "title": "Rather the Fallen Angel",
+      "airdate": "2018-11-25",
+      "url": "https://www.tvmaze.com/episodes/1523882/supergirl-4x07-rather-the-fallen-angel"
+    },
+    {
+      "id": 1557704,
+      "season": 4,
+      "broadcast_episode": 8,
+      "title": "Bunker Hill",
+      "airdate": "2018-12-02",
+      "url": "https://www.tvmaze.com/episodes/1557704/supergirl-4x08-bunker-hill"
+    },
+    {
+      "id": 1557705,
+      "season": 4,
+      "broadcast_episode": 9,
+      "title": "Elseworlds, Part 3",
+      "airdate": "2018-12-11",
+      "url": "https://www.tvmaze.com/episodes/1557705/supergirl-4x09-elseworlds-part-3"
+    },
+    {
+      "id": 1557706,
+      "season": 4,
+      "broadcast_episode": 10,
+      "title": "Suspicious Minds",
+      "airdate": "2019-01-20",
+      "url": "https://www.tvmaze.com/episodes/1557706/supergirl-4x10-suspicious-minds"
+    },
+    {
+      "id": 1589563,
+      "season": 4,
+      "broadcast_episode": 11,
+      "title": "Blood Memory",
+      "airdate": "2019-01-27",
+      "url": "https://www.tvmaze.com/episodes/1589563/supergirl-4x11-blood-memory"
+    },
+    {
+      "id": 1598579,
+      "season": 4,
+      "broadcast_episode": 12,
+      "title": "Menagerie",
+      "airdate": "2019-02-17",
+      "url": "https://www.tvmaze.com/episodes/1598579/supergirl-4x12-menagerie"
+    },
+    {
+      "id": 1606265,
+      "season": 4,
+      "broadcast_episode": 13,
+      "title": "What's So Funny About Truth, Justice, and the American Way?",
+      "airdate": "2019-03-03",
+      "url": "https://www.tvmaze.com/episodes/1606265/supergirl-4x13-whats-so-funny-about-truth-justice-and-the-american-way"
+    },
+    {
+      "id": 1606266,
+      "season": 4,
+      "broadcast_episode": 14,
+      "title": "Stand and Deliver",
+      "airdate": "2019-03-10",
+      "url": "https://www.tvmaze.com/episodes/1606266/supergirl-4x14-stand-and-deliver"
+    },
+    {
+      "id": 1606431,
+      "season": 4,
+      "broadcast_episode": 15,
+      "title": "O Brother, Where Art Thou?",
+      "airdate": "2019-03-17",
+      "url": "https://www.tvmaze.com/episodes/1606431/supergirl-4x15-o-brother-where-art-thou"
+    },
+    {
+      "id": 1620324,
+      "season": 4,
+      "broadcast_episode": 16,
+      "title": "The House of L",
+      "airdate": "2019-03-24",
+      "url": "https://www.tvmaze.com/episodes/1620324/supergirl-4x16-the-house-of-l"
+    },
+    {
+      "id": 1623729,
+      "season": 4,
+      "broadcast_episode": 17,
+      "title": "All About Eve",
+      "airdate": "2019-03-31",
+      "url": "https://www.tvmaze.com/episodes/1623729/supergirl-4x17-all-about-eve"
+    },
+    {
+      "id": 1626711,
+      "season": 4,
+      "broadcast_episode": 18,
+      "title": "Crime and Punishment",
+      "airdate": "2019-04-21",
+      "url": "https://www.tvmaze.com/episodes/1626711/supergirl-4x18-crime-and-punishment"
+    },
+    {
+      "id": 1626712,
+      "season": 4,
+      "broadcast_episode": 19,
+      "title": "American Dreamer",
+      "airdate": "2019-04-28",
+      "url": "https://www.tvmaze.com/episodes/1626712/supergirl-4x19-american-dreamer"
+    },
+    {
+      "id": 1626713,
+      "season": 4,
+      "broadcast_episode": 20,
+      "title": "Will the Real Miss Tessmacher Please Stand Up?",
+      "airdate": "2019-05-05",
+      "url": "https://www.tvmaze.com/episodes/1626713/supergirl-4x20-will-the-real-miss-tessmacher-please-stand-up"
+    },
+    {
+      "id": 1626714,
+      "season": 4,
+      "broadcast_episode": 21,
+      "title": "Red Dawn",
+      "airdate": "2019-05-12",
+      "url": "https://www.tvmaze.com/episodes/1626714/supergirl-4x21-red-dawn"
+    },
+    {
+      "id": 1626715,
+      "season": 4,
+      "broadcast_episode": 22,
+      "title": "The Quest for Peace",
+      "airdate": "2019-05-19",
+      "url": "https://www.tvmaze.com/episodes/1626715/supergirl-4x22-the-quest-for-peace"
+    },
+    {
+      "id": 1672025,
+      "season": 5,
+      "broadcast_episode": 1,
+      "title": "Event Horizon",
+      "airdate": "2019-10-06",
+      "url": "https://www.tvmaze.com/episodes/1672025/supergirl-5x01-event-horizon"
+    },
+    {
+      "id": 1692733,
+      "season": 5,
+      "broadcast_episode": 2,
+      "title": "Stranger Beside Me",
+      "airdate": "2019-10-13",
+      "url": "https://www.tvmaze.com/episodes/1692733/supergirl-5x02-stranger-beside-me"
+    },
+    {
+      "id": 1692734,
+      "season": 5,
+      "broadcast_episode": 3,
+      "title": "Blurred Lines",
+      "airdate": "2019-10-20",
+      "url": "https://www.tvmaze.com/episodes/1692734/supergirl-5x03-blurred-lines"
+    },
+    {
+      "id": 1705891,
+      "season": 5,
+      "broadcast_episode": 4,
+      "title": "In Plain Sight",
+      "airdate": "2019-10-27",
+      "url": "https://www.tvmaze.com/episodes/1705891/supergirl-5x04-in-plain-sight"
+    },
+    {
+      "id": 1719118,
+      "season": 5,
+      "broadcast_episode": 5,
+      "title": "Dangerous Liaisons",
+      "airdate": "2019-11-03",
+      "url": "https://www.tvmaze.com/episodes/1719118/supergirl-5x05-dangerous-liaisons"
+    },
+    {
+      "id": 1719119,
+      "season": 5,
+      "broadcast_episode": 6,
+      "title": "Confidence Women",
+      "airdate": "2019-11-10",
+      "url": "https://www.tvmaze.com/episodes/1719119/supergirl-5x06-confidence-women"
+    },
+    {
+      "id": 1719120,
+      "season": 5,
+      "broadcast_episode": 7,
+      "title": "Tremors",
+      "airdate": "2019-11-17",
+      "url": "https://www.tvmaze.com/episodes/1719120/supergirl-5x07-tremors"
+    },
+    {
+      "id": 1727199,
+      "season": 5,
+      "broadcast_episode": 8,
+      "title": "The Wrath of Rama Khan",
+      "airdate": "2019-12-01",
+      "url": "https://www.tvmaze.com/episodes/1727199/supergirl-5x08-the-wrath-of-rama-khan"
+    },
+    {
+      "id": 1727200,
+      "season": 5,
+      "broadcast_episode": 9,
+      "title": "Crisis on Infinite Earths: Part One",
+      "airdate": "2019-12-08",
+      "url": "https://www.tvmaze.com/episodes/1727200/supergirl-5x09-crisis-on-infinite-earths-part-one"
+    },
+    {
+      "id": 1767397,
+      "season": 5,
+      "broadcast_episode": 10,
+      "title": "The Bottle Episode",
+      "airdate": "2020-01-19",
+      "url": "https://www.tvmaze.com/episodes/1767397/supergirl-5x10-the-bottle-episode"
+    },
+    {
+      "id": 1767398,
+      "season": 5,
+      "broadcast_episode": 11,
+      "title": "Back from the Future - Part One",
+      "airdate": "2020-01-26",
+      "url": "https://www.tvmaze.com/episodes/1767398/supergirl-5x11-back-from-the-future-part-one"
+    },
+    {
+      "id": 1767399,
+      "season": 5,
+      "broadcast_episode": 12,
+      "title": "Back from the Future - Part Two",
+      "airdate": "2020-02-16",
+      "url": "https://www.tvmaze.com/episodes/1767399/supergirl-5x12-back-from-the-future-part-two"
+    },
+    {
+      "id": 1767400,
+      "season": 5,
+      "broadcast_episode": 13,
+      "title": "It's a Super Life",
+      "airdate": "2020-02-23",
+      "url": "https://www.tvmaze.com/episodes/1767400/supergirl-5x13-its-a-super-life"
+    },
+    {
+      "id": 1796481,
+      "season": 5,
+      "broadcast_episode": 14,
+      "title": "The Bodyguard",
+      "airdate": "2020-03-08",
+      "url": "https://www.tvmaze.com/episodes/1796481/supergirl-5x14-the-bodyguard"
+    },
+    {
+      "id": 1796482,
+      "season": 5,
+      "broadcast_episode": 15,
+      "title": "Reality Bytes",
+      "airdate": "2020-03-15",
+      "url": "https://www.tvmaze.com/episodes/1796482/supergirl-5x15-reality-bytes"
+    },
+    {
+      "id": 1796483,
+      "season": 5,
+      "broadcast_episode": 16,
+      "title": "Alex in Wonderland",
+      "airdate": "2020-03-22",
+      "url": "https://www.tvmaze.com/episodes/1796483/supergirl-5x16-alex-in-wonderland"
+    },
+    {
+      "id": 1814111,
+      "season": 5,
+      "broadcast_episode": 17,
+      "title": "Deus Lex Machina",
+      "airdate": "2020-05-03",
+      "url": "https://www.tvmaze.com/episodes/1814111/supergirl-5x17-deus-lex-machina"
+    },
+    {
+      "id": 1814112,
+      "season": 5,
+      "broadcast_episode": 18,
+      "title": "The Missing Link",
+      "airdate": "2020-05-10",
+      "url": "https://www.tvmaze.com/episodes/1814112/supergirl-5x18-the-missing-link"
+    },
+    {
+      "id": 1860480,
+      "season": 5,
+      "broadcast_episode": 19,
+      "title": "Immortal Kombat",
+      "airdate": "2020-05-17",
+      "url": "https://www.tvmaze.com/episodes/1860480/supergirl-5x19-immortal-kombat"
+    },
+    {
+      "id": 2042395,
+      "season": 6,
+      "broadcast_episode": 1,
+      "title": "Rebirth",
+      "airdate": "2021-03-30",
+      "url": "https://www.tvmaze.com/episodes/2042395/supergirl-6x01-rebirth"
+    },
+    {
+      "id": 2045752,
+      "season": 6,
+      "broadcast_episode": 2,
+      "title": "A Few Good Women",
+      "airdate": "2021-04-06",
+      "url": "https://www.tvmaze.com/episodes/2045752/supergirl-6x02-a-few-good-women"
+    },
+    {
+      "id": 2045753,
+      "season": 6,
+      "broadcast_episode": 3,
+      "title": "Phantom Menaces",
+      "airdate": "2021-04-13",
+      "url": "https://www.tvmaze.com/episodes/2045753/supergirl-6x03-phantom-menaces"
+    },
+    {
+      "id": 2045754,
+      "season": 6,
+      "broadcast_episode": 4,
+      "title": "Lost Souls",
+      "airdate": "2021-04-20",
+      "url": "https://www.tvmaze.com/episodes/2045754/supergirl-6x04-lost-souls"
+    },
+    {
+      "id": 2045755,
+      "season": 6,
+      "broadcast_episode": 5,
+      "title": "Prom Night!",
+      "airdate": "2021-04-27",
+      "url": "https://www.tvmaze.com/episodes/2045755/supergirl-6x05-prom-night"
+    },
+    {
+      "id": 2045756,
+      "season": 6,
+      "broadcast_episode": 6,
+      "title": "Prom Again!",
+      "airdate": "2021-05-04",
+      "url": "https://www.tvmaze.com/episodes/2045756/supergirl-6x06-prom-again"
+    },
+    {
+      "id": 2045757,
+      "season": 6,
+      "broadcast_episode": 7,
+      "title": "Fear Knot",
+      "airdate": "2021-05-11",
+      "url": "https://www.tvmaze.com/episodes/2045757/supergirl-6x07-fear-knot"
+    },
+    {
+      "id": 2079493,
+      "season": 6,
+      "broadcast_episode": 8,
+      "title": "Welcome Back, Kara!",
+      "airdate": "2021-08-24",
+      "url": "https://www.tvmaze.com/episodes/2079493/supergirl-6x08-welcome-back-kara"
+    },
+    {
+      "id": 2084482,
+      "season": 6,
+      "broadcast_episode": 9,
+      "title": "Dream Weaver",
+      "airdate": "2021-08-31",
+      "url": "https://www.tvmaze.com/episodes/2084482/supergirl-6x09-dream-weaver"
+    },
+    {
+      "id": 2084483,
+      "season": 6,
+      "broadcast_episode": 10,
+      "title": "Still I Rise",
+      "airdate": "2021-09-07",
+      "url": "https://www.tvmaze.com/episodes/2084483/supergirl-6x10-still-i-rise"
+    },
+    {
+      "id": 2084484,
+      "season": 6,
+      "broadcast_episode": 11,
+      "title": "Mxy in the Middle",
+      "airdate": "2021-09-14",
+      "url": "https://www.tvmaze.com/episodes/2084484/supergirl-6x11-mxy-in-the-middle"
+    },
+    {
+      "id": 2119572,
+      "season": 6,
+      "broadcast_episode": 12,
+      "title": "Blind Spots",
+      "airdate": "2021-09-21",
+      "url": "https://www.tvmaze.com/episodes/2119572/supergirl-6x12-blind-spots"
+    },
+    {
+      "id": 2161351,
+      "season": 6,
+      "broadcast_episode": 13,
+      "title": "The Gauntlet",
+      "airdate": "2021-09-28",
+      "url": "https://www.tvmaze.com/episodes/2161351/supergirl-6x13-the-gauntlet"
+    },
+    {
+      "id": 2161352,
+      "season": 6,
+      "broadcast_episode": 14,
+      "title": "Magical Thinking",
+      "airdate": "2021-10-05",
+      "url": "https://www.tvmaze.com/episodes/2161352/supergirl-6x14-magical-thinking"
+    },
+    {
+      "id": 2161353,
+      "season": 6,
+      "broadcast_episode": 15,
+      "title": "Hope for Tomorrow",
+      "airdate": "2021-10-12",
+      "url": "https://www.tvmaze.com/episodes/2161353/supergirl-6x15-hope-for-tomorrow"
+    },
+    {
+      "id": 2161354,
+      "season": 6,
+      "broadcast_episode": 16,
+      "title": "Nightmare in National City",
+      "airdate": "2021-10-19",
+      "url": "https://www.tvmaze.com/episodes/2161354/supergirl-6x16-nightmare-in-national-city"
+    },
+    {
+      "id": 2161355,
+      "season": 6,
+      "broadcast_episode": 17,
+      "title": "I Believe in a Thing Called Love",
+      "airdate": "2021-10-26",
+      "url": "https://www.tvmaze.com/episodes/2161355/supergirl-6x17-i-believe-in-a-thing-called-love"
+    },
+    {
+      "id": 2193407,
+      "season": 6,
+      "broadcast_episode": 18,
+      "title": "Truth or Consequences",
+      "airdate": "2021-11-02",
+      "url": "https://www.tvmaze.com/episodes/2193407/supergirl-6x18-truth-or-consequences"
+    },
+    {
+      "id": 2193408,
+      "season": 6,
+      "broadcast_episode": 19,
+      "title": "The Last Gauntlet",
+      "airdate": "2021-11-09",
+      "url": "https://www.tvmaze.com/episodes/2193408/supergirl-6x19-the-last-gauntlet"
+    },
+    {
+      "id": 2194093,
+      "season": 6,
+      "broadcast_episode": 20,
+      "title": "Kara",
+      "airdate": "2021-11-09",
+      "url": "https://www.tvmaze.com/episodes/2194093/supergirl-6x20-kara"
+    }
+  ]
+}

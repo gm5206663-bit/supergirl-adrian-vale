@@ -1,0 +1,878 @@
+{
+  "schema_version": 1,
+  "project_id": "supergirl_adrian_vale",
+  "epoch": "v1",
+  "revision": "foundation-021",
+  "updated_on": "2026-09-30",
+  "phase": "chapter-12-adopted-rebuilt-clean",
+  "remote": {
+    "configured": false,
+    "repository": null,
+    "changes_made": false
+  },
+  "continuity": {
+    "series": "Supergirl (2015 television series)",
+    "entry": "S01E01 — Pilot",
+    "universe_policy": "this television branch; no automatic comics, DCEU or other-series imports",
+    "accepted_canon_beats": [
+      "SG-10-01",
+      "SG-10-02",
+      "SG-11-01",
+      "SG-11-02",
+      "SG-12-01",
+      "SG-12-02",
+      "SG-9-01",
+      "SG-9-02",
+      "SG-E02-01",
+      "SG-E02-02",
+      "SG-E02-03",
+      "SG-E02-04",
+      "SG-E02-05",
+      "SG-E02-06",
+      "SG-E02-07",
+      "SG-E02-08",
+      "SG-E02-09",
+      "SG-E02-10",
+      "SG-E02-11",
+      "SG-E02-12",
+      "SG-E02-13",
+      "SG-E03-01",
+      "SG-E03-02",
+      "SG-E03-03",
+      "SG-E03-04",
+      "SG-E03-05",
+      "SG-E03-06",
+      "SG-E03-07",
+      "SG-E03-08",
+      "SG-E03-09",
+      "SG-E03-10",
+      "SG-E03-11",
+      "SG-E03-12",
+      "SG-E03-13",
+      "SG-E03-14",
+      "SG-E04-01",
+      "SG-E04-02",
+      "SG-E04-03",
+      "SG-E04-04",
+      "SG-E04-05",
+      "SG-E04-06",
+      "SG-E04-07",
+      "SG-E04-08",
+      "SG-E04-09",
+      "SG-E04-10",
+      "SG-E04-11",
+      "SG-E04-12",
+      "SG-E04-13",
+      "SG-E04-14",
+      "SG-E04-15",
+      "SG-E04-16",
+      "SG-E04-17",
+      "SG-E05-01",
+      "SG-E05-02",
+      "SG-E05-03",
+      "SG-E05-04",
+      "SG-E05-05",
+      "SG-E05-06",
+      "SG-E05-07",
+      "SG-E05-08",
+      "SG-E05-09",
+      "SG-E05-10",
+      "SG-E05-11",
+      "SG-E05-12",
+      "SG-E05-13",
+      "SG-E05-14",
+      "SG-P01",
+      "SG-P02",
+      "SG-P03",
+      "SG-P04",
+      "SG-P05",
+      "SG-P06",
+      "SG-P07",
+      "SG-P08",
+      "SG-P09",
+      "SG-P10A",
+      "SG-P10B",
+      "SG-P10C1",
+      "SG-P10C2",
+      "SG-P10C3",
+      "SG-P10D",
+      "SG-P11A",
+      "SG-P11B1",
+      "SG-P11B2",
+      "SG-P11C1",
+      "SG-P11C2",
+      "SG-P12A",
+      "SG-P12B"
+    ]
+  },
+  "identity": {
+    "earth_name": "Adrian Vale",
+    "kryptonian_name": "Kael-Varr",
+    "gender": "male",
+    "species": "Kryptonian–Daxamite hybrid",
+    "origin": "native-born",
+    "apparent_age": 29,
+    "chronological_age": null,
+    "name_and_age_provenance": "assistant design under author delegation",
+    "job": "Cat Grant’s executive operations aide",
+    "job_provenance": "assistant implementation of author-selected direct Cat staff",
+    "ancestry": {
+      "father": "Kryptonian",
+      "mother": "Daxamite"
+    },
+    "public_identity_policy": {
+      "deliberate_concealment": true,
+      "complete_suit_and_mask": true,
+      "out_of_world_visual_reference": "Krrish",
+      "reference_exists_in_story": false,
+      "coincidental_resemblance": true
+    },
+    "physique_and_balanced_development": "U26: lean, harmonious, highly refined and defined athletic physique, not skinny/ordinary or bulky/bodybuilder. Strength, agility, flexibility and other capacities develop together; do not portray a slow brute or equate muscle size with established power."
+  },
+  "opening_state": {
+    "anchor": "before accepted Chapter 1; S01E01 opening baseline",
+    "location": "National City",
+    "seal": "engaged",
+    "voluntary_release": true,
+    "accessible_superpowers": "human-level while sealed",
+    "true_power": "far above the show’s Kara and Superman; already extraordinary before Fort Rozz",
+    "talent": "inseparable; no game System",
+    "kara_identity_known": false,
+    "canon_foreknowledge": false,
+    "learned_skills_erased_by_seal": false
+  },
+  "accepted_edge": 12,
+  "next_chapter": 13,
+  "accepted_chapters": [
+    {
+      "number": 1,
+      "epoch": "v1",
+      "path": "chapters/Chapter_01_Adrian_Vale.md",
+      "sha256": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+      "coverage": "canon_coverage/Chapter_01_ACCEPTED.json",
+      "accepted_on": "2026-09-28",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_01.md — U13: Next chapter; adoption for continuation",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 2,
+      "epoch": "v1",
+      "path": "chapters/Chapter_02_A_Familiar_Face.md",
+      "sha256": "ca0c7914288a614e90c43beb187a5d5a2648a4e1671da6dcf98b49ccc35e8e0f",
+      "coverage": "canon_coverage/Chapter_02_ACCEPTED.json",
+      "accepted_on": "2026-09-28",
+      "acceptance_receipt": "audits/AMENDMENT_Chapter_02_U18.md — U18 continuation from revised branch; U14 original receipt preserved",
+      "acceptance_basis": "continuation_authorization_with_dependency_amendment"
+    },
+    {
+      "number": 3,
+      "epoch": "v1",
+      "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+      "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+      "coverage": "canon_coverage/Chapter_03_ACCEPTED.json",
+      "accepted_on": "2026-09-28",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_03.md — U18: Next; continuation adoption",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 4,
+      "epoch": "v1",
+      "path": "chapters/Chapter_04_What_Remains.md",
+      "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+      "coverage": "canon_coverage/Chapter_04_ACCEPTED.json",
+      "accepted_on": "2026-09-29",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_04.md — U19 executed under U22 after audit",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 5,
+      "epoch": "v1",
+      "path": "chapters/Chapter_05_In_Plain_Sight.md",
+      "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+      "coverage": "canon_coverage/Chapter_05_ACCEPTED.json",
+      "accepted_on": "2026-09-30",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_05.md — U29: Next chapter",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 6,
+      "epoch": "v1",
+      "path": "chapters/Chapter_06_Under_the_Headline.md",
+      "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+      "coverage": "canon_coverage/Chapter_06_ACCEPTED.json",
+      "accepted_on": "2026-09-30",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_06.md — U30: Next chapter",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 7,
+      "epoch": "v1",
+      "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+      "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+      "coverage": "canon_coverage/Chapter_07_ACCEPTED.json",
+      "accepted_on": "2026-09-30",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_07.md — U32: Next chapter",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 8,
+      "epoch": "v1",
+      "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+      "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+      "coverage": "canon_coverage/Chapter_08_ACCEPTED.json",
+      "accepted_on": "2026-09-30",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_08.md — U34: Next chapter",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 9,
+      "epoch": "v1",
+      "path": "chapters/Chapter_09_Red_Faced_and_Named.md",
+      "sha256": "6695f93acde95966f475cd695654cd5b8c0ec6b2e7dab020ba84ff00c4b3dfcf",
+      "coverage": "canon_coverage/Chapter_09_ACCEPTED.json",
+      "accepted_on": "2026-09-30",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_09.md — U44: Rebuild clean no ticker spam no Cat private secrets",
+      "acceptance_basis": "continuation_authorization",
+      "revision": "R4"
+    },
+    {
+      "number": 10,
+      "epoch": "v1",
+      "path": "chapters/Chapter_10_Red_Faced_Consequence.md",
+      "sha256": "6c5a8e874f7dc6bedc24af6ca8aa6b2cff13f0841478a984f8200875a42df3cd",
+      "coverage": "canon_coverage/Chapter_10_ACCEPTED.json",
+      "accepted_on": "2026-09-30",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_10.md — U44: Rebuild clean no ticker spam no Cat private secrets",
+      "acceptance_basis": "continuation_authorization",
+      "revision": "R3"
+    },
+    {
+      "number": 11,
+      "epoch": "v1",
+      "path": "chapters/Chapter_11_The_Sun.md",
+      "sha256": "42d9cedb9fafd2eb334aa79261eaf9cf9e573892c6fc768d66911c89eeb7e61f",
+      "coverage": "canon_coverage/Chapter_11_ACCEPTED.json",
+      "accepted_on": "2026-09-30",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_11.md — U44: Rebuild clean no ticker spam no Cat private secrets",
+      "acceptance_basis": "continuation_authorization",
+      "revision": "R3"
+    },
+    {
+      "number": 12,
+      "epoch": "v1",
+      "path": "chapters/Chapter_12_The_Kiss.md",
+      "sha256": "05a68ba0913ba0c2916f0b79baa5d3317789428a076c7261f933f27f4c1b0481",
+      "coverage": "canon_coverage/Chapter_12_ACCEPTED.json",
+      "accepted_on": "2026-09-30",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_12.md — U44: Rebuild clean no ticker spam no Cat private secrets",
+      "acceptance_basis": "continuation_authorization",
+      "revision": "R3"
+    }
+  ],
+  "drafts": [
+    {
+      "chapter": 1,
+      "revision": "R1",
+      "path": "drafts/Chapter_01_Adrian_Vale_R1.md",
+      "sha256": "6dd0f07897db0573684077491298bb04c016852680f03eb1f6b63a7dc147569c",
+      "status": "unaccepted; preserved, not user-rejected; accident memory superseded by U09/U10",
+      "coverage": "canon_coverage/Chapter_01_R1.json",
+      "review": "audits/CHAPTER_01_RETROSPECTIVE.md",
+      "format_revision": 2,
+      "continuity_conflicts": [
+        {
+          "id": "RC01",
+          "authority": [
+            "U09",
+            "U10"
+          ],
+          "description": "R1 lines 339 and 341 retain the former accident memory. Replace in a future authorized revision; do not treat it as current background."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "revision": "R2",
+      "path": "drafts/Chapter_01_Adrian_Vale_R2.md",
+      "sha256": "93176d3a49f1dfb22d2f3752132d8d06e7a971112f9cdba63ffe8be30e053983",
+      "status": "corrected; locally reviewed at secondary-source scope; awaiting author acceptance",
+      "coverage": "canon_coverage/Chapter_01_R2.json",
+      "review": "audits/CHAPTER_01_R2_REVIEW.md",
+      "format_revision": 2,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 1,
+      "revision": "R3",
+      "path": "drafts/Chapter_01_Adrian_Vale_R3.md",
+      "sha256": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+      "status": "preserved source revision; adopted as Chapter 1 through U13 continuation instruction",
+      "coverage": "canon_coverage/Chapter_01_R3.json",
+      "review": "audits/CHAPTER_01_R3_REVIEW.md",
+      "format_revision": 2,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 2,
+      "revision": "R1",
+      "path": "drafts/Chapter_02_A_Familiar_Face_R1.md",
+      "sha256": "a75d9c54b6b201e0202f2d2e5c6f0e9f2b4dfc17a23dcc6ac9e9323793c3bbc8",
+      "status": "preserved historical U14-adopted source; superseded in live Chapter 2 by U18 adoption of R2",
+      "coverage": "canon_coverage/Chapter_02_R1.json",
+      "review": "audits/CHAPTER_02_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 2,
+      "revision": "R2",
+      "path": "drafts/Chapter_02_A_Familiar_Face_R2.md",
+      "sha256": "ca0c7914288a614e90c43beb187a5d5a2648a4e1671da6dcf98b49ccc35e8e0f",
+      "status": "preserved source; adopted as amended Chapter 2 through U18 continuation of revised branch",
+      "coverage": "canon_coverage/Chapter_02_R2.json",
+      "review": "audits/CHAPTER_02_R2_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 3,
+      "revision": "R1",
+      "path": "drafts/Chapter_03_What_Came_With_Us_R1.md",
+      "sha256": "6361194474d150fec578fa2a5334ab18633a000c3503cf86fd3587a538abb1dc",
+      "status": "superseded by U15/U16; preserved historical manuscript, never adopted",
+      "coverage": "canon_coverage/Chapter_03_R1.json",
+      "review": "audits/CHAPTER_03_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": [
+        {
+          "id": "RC03",
+          "authority": [
+            "U15",
+            "U16"
+          ],
+          "description": "Confession-first/escorted-DEO route contradicts the requested rescue-driven reveal."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "revision": "R2",
+      "path": "drafts/Chapter_03_The_Name_He_Feared_R2.md",
+      "sha256": "7e54f52150d073fb1134c6efef95747eb826d6232ec21c34d1a8125cb7afbfeb",
+      "status": "preserved rescue-reveal revision; amended by R3 under U17, not adopted",
+      "coverage": "canon_coverage/Chapter_03_R2.json",
+      "review": "audits/CHAPTER_03_R2_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 3,
+      "revision": "R3",
+      "path": "drafts/Chapter_03_The_Name_He_Feared_R3.md",
+      "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+      "status": "preserved source; adopted as Chapter 3 through U18",
+      "coverage": "canon_coverage/Chapter_03_R3.json",
+      "review": "audits/CHAPTER_03_R3_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 4,
+      "revision": "R1",
+      "path": "drafts/Chapter_04_What_Remains_R1.md",
+      "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+      "status": "preserved source; adopted unchanged under U19/U22 after audit",
+      "coverage": "canon_coverage/Chapter_04_R1.json",
+      "review": "audits/CHAPTER_04_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 5,
+      "revision": "R1",
+      "path": "drafts/Chapter_05_A_Place_in_the_Sky_R1.md",
+      "sha256": "5b6aecf12cda17bf0cfdb72707fcf9a6e95171818e8e9d6c062d0298e8e2bf17",
+      "status": "interrupted, undelivered Pilot draft; route superseded by U20; blocked pending replacement after U21 audit",
+      "coverage": "canon_coverage/Chapter_05_R1_HELD.json",
+      "review": "audits/CHAPTER_05_R1_HOLD.md",
+      "format_revision": 1,
+      "continuity_conflicts": [
+        {
+          "id": "RC05-PACING",
+          "description": "U20 supersedes another full Pilot chapter; replacement must progress into Episode 2."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "revision": "R2",
+      "path": "drafts/Chapter_05_In_Plain_Sight_R2.md",
+      "sha256": "1041a148a6869ec3b5e20e3805cda813ceaaf213e96a7ed2f5e64f342859da3c",
+      "status": "superseded under U23: public civilian-identity exposure rejected; preserved, unadopted and blocked",
+      "coverage": "canon_coverage/Chapter_05_R2.json",
+      "review": "audits/CHAPTER_05_R2_U23_SUPERSESSION.md",
+      "format_revision": 1,
+      "continuity_conflicts": [
+        {
+          "id": "RC05-IDENTITY",
+          "description": "U23 rejects careless public civilian-identity reveal and its dependent plot."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "revision": "R3",
+      "path": "drafts/Chapter_05_In_Plain_Sight_R3.md",
+      "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+      "status": "preserved source; adopted unchanged under U29",
+      "coverage": "canon_coverage/Chapter_05_R3.json",
+      "review": "audits/CHAPTER_05_R3_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 6,
+      "revision": "R1",
+      "path": "drafts/Chapter_06_Under_the_Headline_R1.md",
+      "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+      "status": "preserved source; adopted unchanged under U30",
+      "coverage": "canon_coverage/Chapter_06_R1.json",
+      "review": "audits/CHAPTER_06_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 7,
+      "revision": "R1",
+      "path": "drafts/Chapter_07_How_Does_She_Do_It_R1.md",
+      "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+      "status": "preserved source; adopted unchanged under U32",
+      "coverage": "canon_coverage/Chapter_07_R1.json",
+      "review": "audits/CHAPTER_07_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 8,
+      "revision": "R1",
+      "path": "drafts/Chapter_08_The_Woman_Who_Stayed_R1.md",
+      "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+      "status": "preserved source; adopted unchanged under U34",
+      "coverage": "canon_coverage/Chapter_08_R1.json",
+      "review": "audits/CHAPTER_08_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 9,
+      "revision": "R4",
+      "path": "drafts/Chapter_09_Red_Faced_and_Named_R4.md",
+      "sha256": "6695f93acde95966f475cd695654cd5b8c0ec6b2e7dab020ba84ff00c4b3dfcf",
+      "status": "rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 2148w",
+      "coverage": "canon_coverage/Chapter_09_R4.json",
+      "review": "audits/CHAPTER_09_R4_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 10,
+      "revision": "R3",
+      "path": "drafts/Chapter_10_Red_Faced_Consequence_R3.md",
+      "sha256": "6c5a8e874f7dc6bedc24af6ca8aa6b2cff13f0841478a984f8200875a42df3cd",
+      "status": "rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 2641w",
+      "coverage": "canon_coverage/Chapter_10_R3.json",
+      "review": "audits/CHAPTER_10_R3_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 11,
+      "revision": "R3",
+      "path": "drafts/Chapter_11_The_Sun_R3.md",
+      "sha256": "42d9cedb9fafd2eb334aa79261eaf9cf9e573892c6fc768d66911c89eeb7e61f",
+      "status": "rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1933w",
+      "coverage": "canon_coverage/Chapter_11_R3.json",
+      "review": "audits/CHAPTER_11_R3_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 12,
+      "revision": "R3",
+      "path": "drafts/Chapter_12_The_Kiss_R3.md",
+      "sha256": "05a68ba0913ba0c2916f0b79baa5d3317789428a076c7261f933f27f4c1b0481",
+      "status": "rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1565w",
+      "coverage": "canon_coverage/Chapter_12_R3.json",
+      "review": "audits/CHAPTER_12_R3_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    }
+  ],
+  "source_authority": {
+    "current_state": "foundation/CURRENT_STATE_MANIFEST.json",
+    "author_locks": "foundation/USER_LOCKS.json",
+    "status_panel": "generated from manifest; never a second editable authority",
+    "talent_master_sha256": "eaced0a52af1ca30c54a4352487a08dc38fc8e39cac274b4ff336b713e723b85"
+  },
+  "open_items": [
+    "O01",
+    "O02",
+    "O03",
+    "O04",
+    "O05",
+    "O06"
+  ],
+  "release": {
+    "ready": true,
+    "chapter": 12,
+    "reason": "Chapter 11 R2 and Chapter 12 R2 reviewed with meta leak fixed per U39: removed TV Kara slash Superman extraordinary before Fort Rozz red-sun development harmed temperament city destruction genuine culpability advanced tech capture exhaustion motive self-built voluntary as meta leak rewrote natural dialogue file mostly redacted says you were strong before stronger than Kara even did something on Krypton something bad a city caught because exhausted built device yourself because wanted to be ordinary and not as someone who had flown to sun and back before shift ended but as Adrian who had been terrible at being human when Evelyn met him. Sun recovery per U37 plus kiss per U38 consensual agency romance selection Kara."
+  },
+  "events": [
+    {
+      "id": "E001",
+      "kind": "foundation",
+      "date": "2026-09-27",
+      "description": "Project files established from live GitHub workflow and recorded author choices. Chapter 1 R1 preserved without acceptance or rejection."
+    },
+    {
+      "id": "E002",
+      "kind": "foundation_expansion",
+      "date": "2026-09-27",
+      "description": "Expanded the populated story bible, individual dossiers, relationships, knowledge/ability registries, chronology and source metadata at the author’s request. D01–D06 are labelled working designs. No chapter accepted and no remote changes made."
+    },
+    {
+      "id": "E003",
+      "kind": "heading_format",
+      "date": "2026-09-27",
+      "description": "Applied author-requested episode-first/chapter-second heading: Season 1, Episode 1 — Pilot / Chapter 1 — Adrian Vale. Prose body unchanged; no chapter accepted. Previous file preserved in the foundation-002 ZIP."
+    },
+    {
+      "id": "E004",
+      "kind": "relationship_research",
+      "date": "2026-09-28",
+      "description": "Researched Kara’s dating, trust, Kryptonian memory and response to former prisoners; checked the Talent master’s appearance/relationship rules. D07 is a worked counterfactual, not an accepted romance. Preserved asymmetric knowledge possibilities. No draft rewritten or chapter accepted."
+    },
+    {
+      "id": "E005",
+      "kind": "author_background_amendment",
+      "date": "2026-09-28",
+      "description": "U09/U10 establish Kryptonian father from an influential house, Daxamite mother from a collateral royal branch, parents murdered by some Daxamites over the union, and rage-driven city destruction on Krypton. D03 is superseded; D08 records the approved scope. Existing powers, culpability, seal and opening knowledge remain. R1 preserved with an explicit continuity conflict; no romance or chapter accepted."
+    },
+    {
+      "id": "E006",
+      "kind": "chapter_revision",
+      "date": "2026-09-28",
+      "description": "U11 authorized correction of Chapter 1. Wrote and reviewed R2, correcting the mixed-heritage murder/city history and pilot-span omissions. Preserved R1 unchanged. No romance selected, chapter accepted or remote operation performed."
+    },
+    {
+      "id": "E007",
+      "kind": "chapter_amendment",
+      "date": "2026-09-28",
+      "description": "U12 requests ice cream, glazed donuts and pastries Kara likes. R3 adds deliberate breakfast gifts and a shared lunch ice-cream break; preserves other R2 prose, earlier revisions, background and opening identity boundaries. No chapter accepted or remote operation performed."
+    },
+    {
+      "id": "E008",
+      "kind": "continuation_authorization",
+      "date": "2026-09-28",
+      "description": "U13: Next chapter. Adopt latest delivered Chapter 1 R3 unchanged as the preceding chapter; record exact basis rather than inventing an approval quotation."
+    },
+    {
+      "id": "E009",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-28",
+      "description": "Wrote Chapter 2 A Familiar Face: next-day CatCo/Winn/antagonist functions and original evidence-driven mutual disclosure. Candidate discoveries remain separate from accepted Chapter 1 state; no remote changes."
+    },
+    {
+      "id": "E010",
+      "kind": "continuation_authorization",
+      "date": "2026-09-28",
+      "description": "U14: Next. Adopt delivered Chapter 2 unchanged as the preceding chapter; apply its evidenced identity disclosures to accepted continuation ledgers."
+    },
+    {
+      "id": "E011",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-28",
+      "description": "Chapter 3 What Came With Us: voluntary confession, Kara’s verification choice, changed DEO access route, limited records, Cat’s footage suspicion and proposed off-site contact. D09 marks original case-memory/record implementation; no new chapter acceptance or remote changes."
+    },
+    {
+      "id": "E012",
+      "kind": "author_directed_reveal_revision",
+      "date": "2026-09-28",
+      "description": "U15/U16 establish universal prisoner recognition/fear, Alura sentence and complicated Astra/Non history. Chapter 2 R2 adds guarded family recognition; Chapter 3 R2 replaces confession with decisive Vartox rescue and capture. R1 manuscripts/accepted receipts preserved; new prose not falsely adopted."
+    },
+    {
+      "id": "E013",
+      "kind": "wound_care_amendment",
+      "date": "2026-09-28",
+      "description": "U17 permits heat vision for Kara’s injury. Chapter 3 R3 adds consent-based bleeding control after Vartox custody transfer; Alex witnesses/dresses the wound. No full regeneration or implicit adoption; R2 bytes preserved."
+    },
+    {
+      "id": "E014",
+      "kind": "continuation_authorization_and_dependency_amendment",
+      "date": "2026-09-28",
+      "description": "U18: Next. Adopt Chapter 3 R3 and its delivered Chapter 2 R2 dependency for continuation. Preserve genuine U14 Chapter 2 R1 bytes/coverage/receipt in historical records; advance accepted edge to 3, not 4."
+    },
+    {
+      "id": "E015",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-28",
+      "description": "Chapter 4 What Remains: DEO medical and record consequences, candid crime and family disclosure, voluntary preliminary inquiry, sisters/Alura recording, and Astra response to missing Vartox. No unchanged rematch or automatic romance; no remote changes."
+    },
+    {
+      "id": "E016",
+      "kind": "interrupted_continuation_registered",
+      "date": "2026-09-29",
+      "description": "Record prior U19 Next and preserve interrupted Chapter 5 R1. No formal Chapter 4 adoption or Chapter 5 acceptance performed during the audit."
+    },
+    {
+      "id": "E017",
+      "kind": "pacing_correction_and_audit",
+      "date": "2026-09-29",
+      "description": "U20/U21 pause prose. Correct Pilot/Episode 2 boundary, stale reference labels and prisoner firewall; register held draft, add orphan-draft detection and document source disagreements. Accepted edge remains 3."
+    },
+    {
+      "id": "E018",
+      "kind": "continuation_authorization",
+      "date": "2026-09-29",
+      "description": "U22 Next after audit resumes prose; execute pending U19 adoption of Chapter 4 unchanged, synchronize evidenced ledgers. No held Chapter 5 adoption."
+    },
+    {
+      "id": "E019",
+      "kind": "episode_two_replacement_candidate",
+      "date": "2026-09-29",
+      "description": "Chapter 5 R2 In Plain Sight: brief Pilot bridge, public harbor exposure, changed Astra/DEO plans, immediate Hellgrammite capture and remote aunt encounter, AI/press handoff. Genuine butterflies; R1 preserved and blocked."
+    },
+    {
+      "id": "E020",
+      "kind": "author_identity_concealment_correction",
+      "date": "2026-09-29",
+      "description": "U23 rejects public civilian reveal, specifies complete Krrish-like visual costume with no in-world reference. Preserve/block R2; R3 rewrites disguise, Cat/enemy knowledge and warehouse/custody consequences. Accepted edge stays 4."
+    },
+    {
+      "id": "E021",
+      "kind": "visual_direction_correction",
+      "date": "2026-09-29",
+      "description": "U24 deletes downloaded reference pictures; U25 rejects ordinary first portrait; U26 rejects bulky second portrait and clarifies lean, balanced all-around development. Third original image is candidate only. Story manuscripts and accepted edge 4 unchanged."
+    },
+    {
+      "id": "E022",
+      "kind": "visual_approval_and_upload_request",
+      "date": "2026-09-29",
+      "description": "U27 approves balanced portrait R3; rejected R1/R2 image files deleted locally, approved image retained. U28 selects existing GitHub/additional destinations without addresses. Upload pending clarification; no remote change or chapter adoption."
+    },
+    {
+      "id": "E023",
+      "kind": "continuation_authorization",
+      "date": "2026-09-30",
+      "description": "U29 Next chapter adopts delivered Chapter 5 R3 unchanged after art/upload discussion. No revival of superseded fifth drafts, romance selection or remote change."
+    },
+    {
+      "id": "E024",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-30",
+      "description": "Chapter 6 Under the Headline, Episode 3: cousin interview disclosure, Astra/Non attributed claim, prompt masked backup and early Reactron capture, controlled core transfer and changed press/friendship/cousin/Lucy consequences."
+    },
+    {
+      "id": "E025",
+      "kind": "continuation_authorization",
+      "date": "2026-09-30",
+      "description": "U30 Next chapter adopts delivered Chapter 6 R1 Under the Headline unchanged. No revival of superseded drafts, romance selection or remote change."
+    },
+    {
+      "id": "E026",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-30",
+      "description": "Chapter 7 How Does She Do It? intended Episode 4: drone, Siegel award, Carter babysitting, bombings, train/airport choice, Hank red-eye disarm, Lord testing reveal."
+    },
+    {
+      "id": "E027",
+      "kind": "continuation_authorization",
+      "date": "2026-09-30",
+      "description": "U32 Next chapter adopts delivered Chapter 7 R1 How Does She Do It? unchanged. U31 Earth friend request noted for next chapter."
+    },
+    {
+      "id": "E028",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-30",
+      "description": "Chapter 8 The Woman Who Stayed intended Episode 5 Livewire: Evelyn Hart Earth mother/sister figure visit, Kara misunderstanding, plus Livewire origin and Eliza Danvers Thanksgiving visit with Jeremiah reveal."
+    },
+    {
+      "id": "E029",
+      "kind": "continuation_authorization",
+      "date": "2026-09-30",
+      "description": "U34 Next chapter adopts Chapter 8 R1 The Woman Who Stayed with Evelyn Hart visit and Livewire. U33 butterfly critique notes masked figure anonymous without public naming despite multiple saves; fix required next chapter."
+    },
+    {
+      "id": "E030",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-30",
+      "description": "Chapter 9 Red Faced and Named Part 1 R3: Wraith public naming by Cat Grant after multiple masked saves freeway and train media coverage Lord interest DEO discussion Evelyn departure chipped mug theater mask magnet road rage kids soccer team General Lane Red Tornado test self-preservation stealth flies off Lane fires Morrow Cat yells Kara yells back drinks martinis anger behind anger. Fights fixed per U36 proper superpowered no jokes. Split naturally per U35."
+    },
+    {
+      "id": "E031",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-30",
+      "description": "Chapter 10 The Anger Behind the Anger Part 2 R2: Red Tornado attacks Lane Lucy at restaurant Mach 1 sonic boom flying tackle through wall into alley fists up flight inches off ground tornado street saves civilians bus stop mother child teenager Maxwell Lord Alex candlelit dinner bond parents dying service reveals Morrow controlling via telepathic relay Kara James punching car bag super strength denting steel holding overhead flight letting hang setting down gently not destroy but feel weight not break slips thought Adrian sister was girlfriend James realizes Adrian is Wraith will not tell Lucy hologram lure Alex kills Morrow accidental during apprehension becomes sentient heat vision wide sustained beam bright enough wash out yard lights hot enough melt asphalt scorched circle ten feet wide falls to knees out of breath Lucy quits stay James Winn hacking South America Jeremiah Hank redacting Cat defends Kara vs mother Katherine I built this you did not Kara cut finger bleeding first time vulnerability small ordinary human way different from missile Wraith ticker continuation. Fights fixed per U36 proper superpowered no jokes. Natural split per U35."
+    },
+    {
+      "id": "E032",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-30",
+      "description": "Chapter 11 The Sun R2: Fixed meta leak per U39: removed TV Kara slash Superman extraordinary before Fort Rozz red-sun development harmed temperament city destruction genuine culpability advanced tech capture exhaustion motive self-built voluntary as meta leak rewrote natural dialogue file mostly redacted says you were strong before stronger than Kara even did something on Krypton something bad a city caught because exhausted built device yourself because wanted to be ordinary finger healed no scar vision hearing strength heat vision increase temporarily then baseline higher cells remember overcompensate private departure nonpublic return field bent light no Wraith per U37."
+    },
+    {
+      "id": "E033",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-30",
+      "description": "Chapter 12 The Kiss R2: Fixed meta leak per U39: removed TV Kara/Superman extraordinary before Fort Rozz city destruction genuine culpability advanced tech capture exhaustion motive self-built voluntary as meta leak rewrote not as someone who had flown to sun and back before shift ended but as Adrian who had been terrible at being human when Evelyn met him consensual kiss on roof cold November wind powers humming higher than ever after sun cartoon bandage pocket finger healed no scar reserves 120 percent baseline higher ordinary was choice you made and you chose to share sun with me Evelyn fixed collar both motherly thought girlfriend jealousy clarified where do I stand with me as someone you trust I like you not just as someone I trust as someone I want to kiss if you want if not misreading again like Evelyn you are not misreading lets her decide normal human kiss little cold wind little warm sun still in cells little awkward not superpowered hand to cheek briefly giving space to stop does not stop kisses again longer per U38 consensual agency not forced romance romance selection Kara."
+    },
+    {
+      "id": "E034",
+      "kind": "adopted_chapter",
+      "date": "2026-09-30",
+      "description": "Chapter 9 Red Faced and Named Part1 R3 adopted: f07dea5faa62 Wraith public naming by Cat Grant after freeway and train saves media coverage Lord interest DEO discussion Evelyn departure chipped mug theater mask magnet road rage kids soccer team total cars punch breaks wrist scares children DEO cool it Max Lord bodycam Henshaw comparison Wraith advanced restraint Lucy informs James father General Sam Lane in town dinner James dreading Cat mother Katherine Grant in town belittles achievements unpleasant Cat extra sharp game night awkward Lucy James strong team Winn Kara distracted Lucy mentions met Supergirl not impressed Lucy mentions Wraith father asks if Kryptonian James says he helps does not want interview Red Tornado test underground sneak win can't stop punching self-preservation tornado throwing Kara back launches stealth bending light invisible knocks over Humvee Lane fires Morrow Cat yells Kara yells back drinks martinis anger behind anger never normal life parents ship ticker WRAITH SEEN NEAR DEO TEST SITE. Fights fixed per U36 proper superpowered no jokes. Split naturally per U35. Meta fixed per U39. U40 adoption via Next."
+    },
+    {
+      "id": "E035",
+      "kind": "adopted_chapter",
+      "date": "2026-09-30",
+      "description": "Chapter 10 Red Faced Consequence Part2 R2 adopted: fafa342787a0 Mach 1 sonic boom flying tackle through wall alley fists up flight inches off ground vortexes micro-missiles super speed dodging scorching suit not breaking skin full tornado 20 feet wide toward bus stop mother child teenager saves civilians flies into tornado super strength flight counter rotation super breath short bursts disrupt core guides up away over river breathing hard vanishes stealth scorched circle ionization garage methodical boxing vs super strength denting steel holding overhead flight letting hang setting down gently not destroy but feel weight not break industrial yard vortexes keep at range adapts flight patterns predicts dodge fires there super speed break pattern tight spirals heat vision short bursts destabilize underground super strength punching concrete erupting behind lifting slamming cracking yard spiderweb final wide sustained beam bright enough wash out yard lights hot enough melt asphalt 10-15ft scorched circle falls to knees out of breath eyes watering throat raw ozone. Fights fixed per U36 proper superpowered no jokes. Split naturally per U35. Meta fixed per U39. U41 adoption via Next."
+    },
+    {
+      "id": "E036",
+      "kind": "adopted_chapter",
+      "date": "2026-09-30",
+      "description": "Chapter 11 The Sun R2 adopted: 734b484f7f77 Fixed meta leak per U39 removed TV Kara slash Superman extraordinary before Fort Rozz red-sun development harmed temperament city destruction genuine culpability advanced tech capture exhaustion motive self-built voluntary as meta leak rewrote natural dialogue file mostly redacted says you were strong before stronger than Kara even did something on Krypton something bad a city caught because exhausted built device yourself because wanted to be ordinary finger healed no scar vision hearing strength heat vision increase temporarily then baseline higher cells remember overcompensate private departure nonpublic return field bent light no Wraith per U37."
+    },
+    {
+      "id": "E037",
+      "kind": "adopted_chapter",
+      "date": "2026-09-30",
+      "description": "Chapter 12 The Kiss R2 adopted: 6b33f6da4b30 Fixed meta leak per U39 removed TV Kara/Superman extraordinary before Fort Rozz city destruction genuine culpability advanced tech capture exhaustion motive self-built voluntary as meta leak rewrote not as someone who had flown to sun and back before shift ended but as Adrian who had been terrible at being human when Evelyn met him consensual kiss on roof cold November wind powers humming higher than ever after sun cartoon bandage pocket finger healed no scar reserves 120 percent baseline higher ordinary was choice you made and you chose to share sun with me Evelyn fixed collar both motherly thought girlfriend jealousy clarified where do I stand with me as someone you trust I like you not just as someone I trust as someone I want to kiss if you want if not misreading again like Evelyn you are not misreading lets her decide normal human kiss little cold wind little warm sun still in cells little awkward not superpowered hand to cheek briefly giving space to stop does not stop kisses again longer per U38 consensual agency not forced romance romance selection Kara."
+    },
+    {
+      "id": "E038",
+      "kind": "adopted_chapter",
+      "date": "2026-09-30",
+      "description": "Rebuild clean per U40 ticker trash and U41 Cat private secrets nonsense: removed ticker spam They stood in silence for a moment city below ticker far below scrolling WRAITH SEEN NEAR DEO TEST SITE — NO COMMENT FROM SUPERGIRL — SUPERGIRL SPOTTED OVER PACIFIC — SOLAR FLARE? — MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH every chapter trash, removed Cat knowing private monitor and James secret nonsense Keira where is coffee and why is there weather balloon sunny and also why does Winn have private monitor says WRAITH and also why does James know WRAITH is Adrian and not tell Lucy, removed Winn cool cool cool joke spam, kept Wraith consequences natural not ticker spam, proper superpowered fights no jokes, no meta TV knowledge, common sense. Ch9 R4 6695f93acde9 2148w Ch10 R3 6c5a8e874f7d 2641w Ch11 R3 42d9cedb9faf 1933w Ch12 R3 05a68ba0913b 1565w total 8287w clean."
+    }
+  ],
+  "background": {
+    "authority": [
+      "U09",
+      "U10",
+      "U15",
+      "U16"
+    ],
+    "parental_status": {
+      "father": "influential Kryptonian house",
+      "mother": "collateral Daxam royal branch"
+    },
+    "parents_death_kind": "murder",
+    "parents_killers": "some Daxamites; individual identities and authorization unassigned",
+    "parents_death_motive": "opposition to the parents’ cross-world union",
+    "destroyed_city_world": "Krypton",
+    "city_name": null,
+    "casualty_count": null,
+    "summary": "Daxamite attackers murdered his parents over their mixed union. His father belonged to an influential Kryptonian house and his mother to a collateral Daxam royal branch. In rage he destroyed a city on Krypton, with genuine responsibility for mass killing.",
+    "parents_murder_world": "Krypton",
+    "sentencing_judge": "Alura Zor-El",
+    "prisoner_recognition": "All Fort Rozz prisoners know Kael-Varr and greatly fear him. This does not automatically identify his Earth alias or confer obedience.",
+    "astra_non_acquaintance": "Personally met both in prison; complicated relationship, terms not fully assigned."
+  },
+  "continuation_state": {
+    "anchor": "end of adopted Chapter 8 R1 under U34; Chapter 9 butterfly effects and masked naming remain candidate-only",
+    "seal": "engaged",
+    "kara_identity_known": true,
+    "canon_foreknowledge": false,
+    "known_public_rescue": true,
+    "romance_selection": null,
+    "kara_knows_mixed_ancestry": true,
+    "kara_knows_crime": true,
+    "family_recognition_authority": "U16, realized in Chapter 2 R2 adopted through U18",
+    "kara_knows_kael_name_and_imprisonment": true,
+    "kara_knows_alura_sentence": true,
+    "kara_knows_astra_non_acquaintance": true,
+    "vartox": "alive in DEO cell, separated from axe; substantive cooperation refused",
+    "kara_injury": "healed sufficiently for field work; faint mark noted during training",
+    "deo_record_check": "limited recovered entry returned; Adrian confirms identity and guilt",
+    "adrian_location": "back in civilian life after Evelyn Thanksgiving visit, theater mask magnet and chipped mug gift, ordinary work continues, anonymous masked identity maintained but public naming pending fix",
+    "astra_knows_kael_on_earth": true,
+    "cat_knows_adrian_powers": false,
+    "astra": "alive in DEO custody with two guards; suppression, no engineered escape; claims Non on Earth without verified location",
+    "hellgrammite": "alive in DEO custody; gave temporary rendezvous lead",
+    "public_identity": "Supergirl named, masked helper remains anonymous in accepted ledger, public naming pending fix per U33 critique, no public Adrian/Kael disclosure",
+    "kara_location": "after Livewire water main short out, Winn leftovers awkward kiss, James Lucy Ojai return, Eliza Thanksgiving visit Jeremiah reveal, responds to new siren via ops channel",
+    "james_knows_adrian_identity": false,
+    "reactron": "captured at first freeway attack; power unit shielded/removed and transferred; in appropriate custody",
+    "vartox_hellgrammite_two_guards": "still in DEO custody; no new Vartox confession",
+    "maxwell": "testing motive revealed, failsafe quote, interest in emotional connections; no admission on record",
+    "carter": "safe with Cat, praises Supergirl",
+    "ethan_knox": "deceased in engine explosion; daughter treatment motive and Lord payment revealed",
+    "airport_bomb": "disarmed by Henshaw with red-eye ability; lie dud; kill switch found later",
+    "astra_guards_vartox_hellgrammite_reactron": "still in DEO custody; institutional cost remains",
+    "james_lucy": "return from Ojai divert attention, Lucy resigned commission stay with James",
+    "evelyn_hart": "visited Thanksgiving week, clarified mother/sister family by staying not romantic, left after Thanksgiving leaving chipped mug, knows Adrian has abilities and seal wants ordinary life, does not know Kael name etc., knows Kara likes Adrian",
+    "leslie_willis_livewire": "comatose after water short out, DEO custody, blackouts resolved",
+    "eliza_danvers": "Thanksgiving visit, tension makeup apology, confession Jeremiah DEO deal under Hank died mysterious, suspicious Hank red eyes",
+    "hank_henshaw": "Element X deduction, red-eye glimpse chamber and corridor, airport bomb earlier lie dud kill switch",
+    "winn": "Friendsgiving Orphan Black Thai food father in prison kisses Kara cheek awkward",
+    "masked_figure_public_name_pending": true
+  },
+  "candidate_endpoint": "planning/Chapter_12_R2_ENDPOINT.json",
+  "reading_branch": {
+    "status": "adopted_through_chapter_8_R1; chapter_9_R3_and_10_R2_and_11_R2_and_12_R2_candidates natural split Red Faced fights fixed plus sun recovery plus kiss meta fixed",
+    "paths": [
+      "chapters/Chapter_01_Adrian_Vale.md",
+      "chapters/Chapter_02_A_Familiar_Face.md",
+      "chapters/Chapter_03_The_Name_He_Feared.md",
+      "chapters/Chapter_04_What_Remains.md",
+      "chapters/Chapter_05_In_Plain_Sight.md",
+      "chapters/Chapter_06_Under_the_Headline.md",
+      "chapters/Chapter_07_How_Does_She_Do_It.md",
+      "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+      "drafts/Chapter_09_Red_Faced_and_Named_R3.md",
+      "drafts/Chapter_10_Red_Faced_Consequence_R2.md",
+      "drafts/Chapter_11_The_Sun_R2.md",
+      "drafts/Chapter_12_The_Kiss_R2.md"
+    ],
+    "explanation": "U34 adopts Chapter 8; User U35 instructs split into two if needed naturally; U36 instructs fights not normal human fight jokes; U37 instructs Adrian offer Kara to take to sun to recover her powers and also after this her powers increase; U38 instructs Next, Kara and Adrian kiss; U39 critiques meta knowledge leak TV Kara slash Superman extraordinary before Fort Rozz red-sun development harmed temperament city destruction genuine culpability advanced tech capture exhaustion motive self-built voluntary as meta leak. Fixed in R2: file mostly redacted says you were strong before stronger than Kara even did something on Krypton something bad a city caught because exhausted built device yourself because wanted to be ordinary and not as someone who had flown to sun and back before shift ended but as Adrian who had been terrible at being human when Evelyn met him. Chapter 9 R3 Part 1 Wraith naming Evelyn departure road rage Lane arrival game night test martinis with proper superpowered fights. Chapter 10 R2 Part 2 dinner attack tornado street Lord Alex dinner punching hologram Morrow death sentient heat vision Lucy quits Winn hacking Cat mother defense bleeding. Chapter 11 R2 sun recovery private roof unseal click hiss quiet unsealing lean harmonious balanced field bent light no Wraith finger healed no scar powers increase temporarily then baseline higher cells remember overcompensate. Chapter 12 R2 kiss on roof cold November wind powers humming higher than ever after sun cartoon bandage pocket finger healed no scar reserves 120 percent baseline higher ordinary was choice you made and you chose to share sun with me Evelyn fixed collar both motherly thought girlfriend jealousy clarified where do I stand with me as someone you trust I like you not just as someone I trust as someone I want to kiss if you want if not misreading again like Evelyn you are not misreading lets her decide normal human kiss little cold wind little warm sun still in cells little awkward not superpowered hand to cheek briefly giving space to stop does not stop kisses again longer per U38 consensual agency not forced romance romance selection Kara. Keeps civilian identity protected per U23."
+  },
+  "accepted_endpoint": "planning/Chapter_08_ACCEPTED_ENDPOINT.json",
+  "pending_continuation": {
+    "instruction": "U19",
+    "preceding_delivered_chapter": 4,
+    "intended_new_chapter": 5,
+    "status": "executed under U22 after audit",
+    "note": "next_chapter remains accepted_edge+1 (4), not the number of an authorized but unwritten replacement.",
+    "receipt": "audits/CONTINUATION_Chapter_04.md"
+  },
+  "active_audit": {
+    "path": "audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md",
+    "scope": "Pilot, Episode 2 and current branch/project; not all 126 episodes",
+    "no_prose_changed": true,
+    "replacement_plan": "planning/CHAPTER_05_EPISODE_02_PLAN.md"
+  },
+  "visual_reference": {
+    "path": "art/Adrian_Vale_Balanced_Hero_R3.png",
+    "sha256": "e50f3c50c3a18b6689c81c0f8c973ada57d8549d29ad0008fd76c813515dfd9f",
+    "status": "author_approved_U27",
+    "scope": "out-of-world character illustration; no new story event, romance, ability ceiling or chapter adoption",
+    "approval_receipt": "audits/APPROVED_ADRIAN_VISUAL_U27.md"
+  },
+  "pending_asset_upload": {
+    "authorization": [
+      "U27",
+      "U28"
+    ],
+    "asset": "art/Adrian_Vale_Balanced_Hero_R3.png",
+    "status": "destination_details_required",
+    "github": "existing repository selected; URL not supplied",
+    "additional_destinations": "requested; sites/links not supplied",
+    "remote_changes_made": false,
+    "scope": "approved image upload only; no inferred permission to choose arbitrary repositories or publish the entire project"
+  },
+  "package": "../supergirl-adrian-vale-foundation-021-Chapter-09-R1-candidate.zip",
+  "candidate_endpoint_2": "planning/Chapter_11_R2_ENDPOINT.json",
+  "romance_selection": "kara"
+}

@@ -1,0 +1,29 @@
+{
+  "status": "adopted_via_U14",
+  "chapter": 2,
+  "draft_path": "drafts/Chapter_02_A_Familiar_Face_R1.md",
+  "draft_sha256": "a75d9c54b6b201e0202f2d2e5c6f0e9f2b4dfc17a23dcc6ac9e9323793c3bbc8",
+  "adrian": {
+    "seal": "engaged",
+    "kara_rescuer": "confirmed by admission after visual suspicion",
+    "kara_kryptonian": "known by her disclosure",
+    "superman_kinship": "known by her disclosure",
+    "alex_deo_role": "unknown",
+    "vartox_plan": "unknown"
+  },
+  "kara": {
+    "adrian_parent_species": "disclosed: Kryptonian father and Daxamite mother",
+    "device": "self-built voluntary restriction, by his account; no release demonstration",
+    "parents": "deceased; cause not disclosed",
+    "kael_identity": "not disclosed; no conclusion about historical case knowledge",
+    "royal_connection": "not disclosed",
+    "crime": "not disclosed"
+  },
+  "winn": {
+    "kara_rescuer": "known by disclosure and flight demonstration"
+  },
+  "exposure_risk": "original passenger recording remains in shared mailbox and may exist elsewhere; legal review is temporary, not deletion",
+  "romance": "warmer mutual confidence; no exclusive partnership",
+  "source_next": "costume/field response and DEO scenes not yet consumed",
+  "adoption_receipt": "audits/CONTINUATION_Chapter_02.md"
+}

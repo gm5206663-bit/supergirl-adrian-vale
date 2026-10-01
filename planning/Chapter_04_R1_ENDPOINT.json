@@ -1,0 +1,57 @@
+{
+  "status": "candidate_only",
+  "chapter": 4,
+  "draft_path": "drafts/Chapter_04_What_Remains_R1.md",
+  "draft_sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+  "depends_on": {
+    "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+    "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+    "status": "adopted_U18"
+  },
+  "physical_endpoint": {
+    "adrian": "still unsealed at DEO for voluntary supervised preliminary inquiry; not pardoned, forcibly contained or subjected to device removal",
+    "kara": "home with Alex after blade-fragment removal and wound re-dressing; residual injury, bleeding remains controlled",
+    "vartox": "alive in separate DEO cell, searched and deprived of axe fragments; refuses substantive cooperation while bargaining for separation from Kael",
+    "axe": "secured for analysis; exact energy findings not returned"
+  },
+  "kara": {
+    "new_knowledge": "Adrian confirms guilty city destruction, parents’ murder over union, parental standing, red-sun temperament harm, and Astra/Non prison acquaintance. No present location/survival confirmation or commander identity.",
+    "relationship": "gratitude coexists with hurt over omission; requests time, no forgiveness or romance selected",
+    "agency": "receives noninteractive Alura recording, chooses continued hero work and asks Alex for combat preparation/truthful warnings"
+  },
+  "alex_and_deo": {
+    "record": "limited recovered Kael entry with image, conviction summary and Alura judicial name; Adrian confirms identity and guilt",
+    "family_disclosure": "Alex hears monitored-room conversation; institutional access to that recording is not falsely denied",
+    "plane_lead": "Kara gives recorded recollection; Adrian gives account; neither is Winn audio magically recovered",
+    "adrian_status": "agrees to supervised preliminary questioning, excludes device dismantling; lasting jurisdiction/custody decision unresolved",
+    "commander_identity": "not established; Astra/Non prior acquaintance is a lead, not proof they ordered attack"
+  },
+  "adrian": {
+    "seal": "released throughout",
+    "disclosure": "full offense outline and personal Astra/Non history disclosed to Kara with room monitoring explicit",
+    "present_astra_non_knowledge": "has not spoken to them on Earth; does not know location or current orders"
+  },
+  "winn": {
+    "knowledge": "Kara ends earpiece before transport and private conversations; later reports attacker in custody and Adrian answering questions",
+    "limits": "does not hear Chapter 4 biography or room conversation; no automatic stored recording"
+  },
+  "cat": {
+    "knowledge": "both employees report medical-emergency absence and provide work handoff; no alien-history disclosure"
+  },
+  "astra": {
+    "source_route": "missed check-in plus observer report of human cleanup at power plant; no clear battle/transport identities",
+    "action": "orders identification of captors before sending another operative",
+    "unknown": "does not yet know Kael intervened, nor that Kara has learned prison acquaintance"
+  },
+  "reader_only": "closing scene identifies Astra as commander receiving missing-operative report; characters do not inherit this knowledge",
+  "open_threads": [
+    "DEO jurisdiction/security/further inquiry",
+    "Vartox interrogation and recovered weapon analysis",
+    "Astra/Non current whereabouts and intelligence",
+    "Adrian choice of resealing and return to work",
+    "Kara training and questions",
+    "James next-day rooftop explanation/cape function",
+    "Cat’s footage/exposure risk"
+  ],
+  "romance_selection": null
+}

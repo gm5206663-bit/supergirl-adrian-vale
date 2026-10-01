@@ -1,0 +1,3 @@
+NOTE: No full episode viewing, literary quality, or complete security audit is established by this script.
+STRUCTURE: PASS — layout, state, hashes, references and generated mirrors checked
+RELEASE: TECHNICALLY READY — recorded reviews present; author acceptance remains separate

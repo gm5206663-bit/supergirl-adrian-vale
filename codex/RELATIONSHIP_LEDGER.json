@@ -1,0 +1,854 @@
+{
+  "epoch": "v1",
+  "anchor": "opening baselines and adopted Chapters 1–8; Chapter 9 remains candidate-only",
+  "romance_selection": null,
+  "source_notes": "[2](https://arrow.fandom.com/wiki/Pilot_(Supergirl)) [4](https://www.superherohype.com/features/356903-supergirl-pilot-recap)",
+  "relationships": [
+    {
+      "id": "R01",
+      "from_entity": "adrian",
+      "to_entity": "kara",
+      "kind": "coworkers",
+      "provenance": "user_lock",
+      "baseline": "Knows her as a coworker, not a Kryptonian. No romance selected.",
+      "development": "Romance is under consideration. Test actual pre-pilot interaction, mutual interest, asymmetric identity knowledge, Kryptonian history, culpability and altered pilot causes using ADRIAN_KARA_CANON_STUDY; no starting partnership has been approved. U09/U10 add mixed heritage and a royal maternal branch; Kara’s inherited Daxam prejudice and possible historical recognition now require explicit consideration. U12 directs Adrian to give Kara ice cream, glazed donuts and pastries she likes; R3 implements attentive gifts and reciprocal warmth, without setting a dating label.",
+      "guard": "Human-level sealed access does not permanently prohibit ordinary inference.",
+      "accepted_changes": [
+        {
+          "chapter": 1,
+          "path": "chapters/Chapter_01_Adrian_Vale.md",
+          "sha256": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+          "description": "Adrian gives favored pastries/donuts and ice cream; Kara appreciates the attention and invites him to sit. Warmth established, not exclusivity."
+        },
+        {
+          "chapter": 2,
+          "path": "chapters/Chapter_02_A_Familiar_Face.md",
+          "sha256": "ca0c7914288a614e90c43beb187a5d5a2648a4e1671da6dcf98b49ccc35e8e0f",
+          "description": "Mutual disclosure: Kara confirms rescue, origin and cousin; Adrian discloses ancestry, seal and deceased parents. She chooses further conversation, not exclusivity or forgiveness of undisclosed crimes."
+        },
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Adrian warns about Alura’s enemies but withholds his own case; rescue exposes Kael/prison/Alura association. Kara accepts consensual wound care without forgiving undisclosed history."
+        },
+        {
+          "chapter": 4,
+          "path": "chapters/Chapter_04_What_Remains.md",
+          "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+          "description": "Kara hears fuller guilt/family/Astra–Non account; thanks him for rescue and asks for time. Gratitude, hurt and moral judgment coexist; no forgiveness or romance selected."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Kara thanks him for bringing Astra alive; ordinary conversation resumes without absolution/exclusivity. He supports her independent interview choice."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Kara relays Non claim and lack of location to Adrian; prompt freeway backup changes Reactron outcome; ordinary work/bakery attentiveness continues without absolution."
+        },
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Train choice due to Carter, trusts DEO for airport, calls Adrian as masked backup for train; Lord confrontation shows testing motive."
+        },
+        {
+          "chapter": 8,
+          "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "description": "Evelyn visit triggers Kara misunderstanding jealous then understanding, plus Livewire origin and Eliza visit, ordinary work continues."
+        }
+      ]
+    },
+    {
+      "id": "R02",
+      "from_entity": "adrian",
+      "to_entity": "cat",
+      "kind": "employer_employee",
+      "provenance": "user_lock",
+      "baseline": "Works directly for Cat. Local operations-aide role is assistant implementation.",
+      "development": "Trust grows through reliability, discretion and honest disagreement.",
+      "guard": "Cat retains authority; attractiveness does not exempt him from work.",
+      "accepted_changes": [
+        {
+          "chapter": 1,
+          "path": "chapters/Chapter_01_Adrian_Vale.md",
+          "sha256": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+          "description": "Adrian assists with Tribune review and receives post-rescue logistics duties; Cat observes his band without learning its function."
+        },
+        {
+          "chapter": 4,
+          "path": "chapters/Chapter_04_What_Remains.md",
+          "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+          "description": "Adrian reports emergency absence and work handoff; Cat demands notice but does not know powers."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Anonymous rescue footage does not identify employee; normal work continues, no rejected public-power confession or employment hearing."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Anonymous rescue footage does not identify employee; normal reception work continues; Cat article dispute concerns cousin framing, not Adrian powers."
+        },
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Carter babysitting logistics handled as executive operations aide; Cat award travel arranged; Cat lesson have it all start small adapt."
+        }
+      ]
+    },
+    {
+      "id": "R03",
+      "from_entity": "adrian",
+      "to_entity": "winn",
+      "kind": "workplace_overlap",
+      "provenance": "working_design",
+      "baseline": "Same workplace; personal closeness not established outside R1.",
+      "development": "Technical cooperation may develop if their actual skills overlap.",
+      "guard": "Do not invent automatic jealousy, hacking access or best friendship.",
+      "accepted_changes": [
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Winn receives emergency-contact permission through Kara, calls Adrian during injury and hears rescue dialogue."
+        }
+      ]
+    },
+    {
+      "id": "R04",
+      "from_entity": "adrian",
+      "to_entity": "james",
+      "kind": "professional_overlap",
+      "provenance": "working_design",
+      "baseline": "No accepted personal history. James introduction belongs to source timeline.",
+      "development": "Professional regard or disagreement follows evidence.",
+      "guard": "No automatic romantic rivalry or secret-identity disclosure.",
+      "accepted_changes": []
+    },
+    {
+      "id": "R05",
+      "from_entity": "adrian",
+      "to_entity": "alex",
+      "kind": "no_established_personal_tie",
+      "provenance": "working_design",
+      "baseline": "No personal relationship established.",
+      "development": "A credible later introduction or investigation may create contact.",
+      "guard": "No instant recognition or suspicion without a reason.",
+      "accepted_changes": [
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Alex meets Adrian at rescue, witnesses precision heat vision and asks for a record check."
+        },
+        {
+          "chapter": 4,
+          "path": "chapters/Chapter_04_What_Remains.md",
+          "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+          "description": "Alex removes fragment after his effective field care, hears monitored biography and observes voluntary inquiry."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Informed operation includes masked Adrian; prompt intervention prevents abduction; Alex has shallow graze only."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Alex calls available masked backup promptly via ordinary call; inclusive operation prevents abduction; shallow graze remains; technical liaison role preserved."
+        },
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Alex warns spread thin, provides technical liaison for both train and airport, finds kill switch, questions Hank."
+        }
+      ]
+    },
+    {
+      "id": "R06",
+      "from_entity": "adrian",
+      "to_entity": "deo",
+      "kind": "potential_institutional_interest",
+      "provenance": "working_design",
+      "baseline": "Exact file contents and alias linkage not established.",
+      "development": "Record-based inquiry can have legitimate safety aims.",
+      "guard": "Do not equate possible prisoner record with complete current knowledge.",
+      "accepted_changes": [
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Field responders receive restrained Vartox/axe and hear a new Kael/Adrian identity lead; no returned record or institutional resolution yet."
+        },
+        {
+          "chapter": 4,
+          "path": "chapters/Chapter_04_What_Remains.md",
+          "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+          "description": "Limited record confirms identity/conviction; Adrian agrees to preliminary supervised inquiry, not device surrender or final custody resolution."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Voluntary backup and custody aid coexist with unresolved personal inquiry; no pardon, power ceiling or test of hybrid kryptonite susceptibility."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Voluntary backup and custody aid coexist with unresolved inquiry; no pardon or hybrid susceptibility test; DEO retains alien-custody staff."
+        },
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Voluntary backup at train, custody aid for multiple prisoners continues, no pardon or hybrid test."
+        }
+      ]
+    },
+    {
+      "id": "R07",
+      "from_entity": "adrian",
+      "to_entity": "astra",
+      "kind": "complicated_prison_acquaintance",
+      "provenance": "user_lock",
+      "baseline": "U16: Adrian personally met Astra in prison; U15: she knows and fears him.",
+      "development": "Specific conversations, disputes and bargains remain working scene design. Current Earth location/agenda is not automatically known.",
+      "guard": "Fear does not create friendship, loyalty, rank or automatic cooperation.",
+      "accepted_changes": [
+        {
+          "chapter": 4,
+          "path": "chapters/Chapter_04_What_Remains.md",
+          "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+          "description": "Adrian tells Kara Astra argued with him and feared him; Astra still lacks current Kael information."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Private recognition at rendezvous; Astra fears him, attempts to withdraw and is physically stopped; joins custody after Kara promises to listen, not agree."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Astra claims Non on Earth without verified location; refuses plane-order answer; custody conditions unchanged."
+        }
+      ]
+    },
+    {
+      "id": "R08",
+      "from_entity": "kara",
+      "to_entity": "alex",
+      "kind": "sisters",
+      "provenance": "canon_summary",
+      "baseline": "Family connection is part of the pilot.",
+      "development": "Their privacy and disagreements retain their own motivations.",
+      "guard": "The OC does not replace their emotional bond.",
+      "accepted_changes": [
+        {
+          "chapter": 1,
+          "path": "chapters/Chapter_01_Adrian_Vale.md",
+          "sha256": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+          "description": "Kara saves Alex; their first argument over public exposure remains unresolved."
+        },
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Kara discovers Alex’s DEO role through capture; Alex later responds to power plant and dresses injury."
+        },
+        {
+          "chapter": 4,
+          "path": "chapters/Chapter_04_What_Remains.md",
+          "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+          "description": "Alex acknowledges withholding was unsafe; supplies fixed Alura recording and promises truthful warnings/training."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Disclosed/consented training, field backup and interactive Alura introduction reinforce truthful cooperation."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Sister dinner, Krull/wife reporting, cousin-message support and siren response reinforce truthful cooperation."
+        }
+      ]
+    },
+    {
+      "id": "R09",
+      "from_entity": "kara",
+      "to_entity": "cat",
+      "kind": "employer_employee",
+      "provenance": "canon_summary",
+      "baseline": "Kara is Cat’s assistant at the opening.",
+      "development": "Source relationship develops through work and events.",
+      "guard": "Adrian’s assigned job does not delete Kara’s role.",
+      "accepted_changes": [
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Cat offers direct interview; Kara accepts on her own terms and protects masked helper identity."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Cat interview publishes cousin relationship; Kara protects masked helper identity; article framing dispute and two-word headline change."
+        },
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Cat wins Siegel award, needs babysitter, mother decorative grandmother, Kara volunteers, later Cat correction smart brave kind hero."
+        }
+      ]
+    },
+    {
+      "id": "R10",
+      "from_entity": "kara",
+      "to_entity": "james",
+      "kind": "new_professional_connection",
+      "provenance": "canon_summary",
+      "baseline": "Pilot introduction is an unconsumed source event.",
+      "development": "Retain the scene’s function and their independent choices.",
+      "guard": "Do not fix future romance outcomes before actual branch events.",
+      "accepted_changes": [
+        {
+          "chapter": 1,
+          "path": "chapters/Chapter_01_Adrian_Vale.md",
+          "sha256": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+          "description": "Kara meets James and receives his Superman photograph; no new romance commitment."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Cape gift/independence explanation and teamwork; James refuses to guarantee Cat cannot recognize Kara. No exclusive relationship selected."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Winn passes clear image to James for Reactron recognition; James shares watch existence; Lucy/James dinner agreement private; no exclusive pairing selected."
+        },
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "James at airport for Lucy departure, realizes cares, reconciliation, plus airport bomb context."
+        }
+      ]
+    },
+    {
+      "id": "R11",
+      "from_entity": "adrian",
+      "to_entity": "daren",
+      "kind": "father_son",
+      "provenance": "user_lock",
+      "baseline": "His Kryptonian father came from an influential house and was murdered; Daren Varr is a retained assistant-designed name.",
+      "development": "Develop their actual relationship through a credible memory or historical scene.",
+      "guard": "Do not restore the unrelated accident or infer a specific office from elite status.",
+      "accepted_changes": []
+    },
+    {
+      "id": "R12",
+      "from_entity": "adrian",
+      "to_entity": "ilyra",
+      "kind": "mother_son",
+      "provenance": "user_lock",
+      "baseline": "His Daxamite mother came from a collateral royal branch and was murdered; Ilyra Varr is a retained assistant-designed name.",
+      "development": "Her life and mixed family can matter independently of court politics.",
+      "guard": "Exact royal genealogy, title, birth surname and relations with the ruling family remain unassigned.",
+      "accepted_changes": []
+    },
+    {
+      "id": "R13",
+      "from_entity": "adrian",
+      "to_entity": "mon_el",
+      "kind": "maternal_royal_affiliation",
+      "provenance": "working_design",
+      "baseline": "Maternal royal-branch membership is established; exact kinship to Mon-El and personal acquaintance are not.",
+      "development": "A later contact may involve shared family history if the chronology supports it.",
+      "guard": "No automatic sibling/cousin designation, rivalry or mutual recognition.",
+      "accepted_changes": []
+    },
+    {
+      "id": "R14",
+      "from_entity": "adrian",
+      "to_entity": "rhea",
+      "kind": "unestablished_personal_tie",
+      "provenance": "working_design",
+      "baseline": "Mother’s royal-branch membership does not establish a personal history with Rhea.",
+      "development": "Set genealogy, dates and information before using court history.",
+      "guard": "Rhea is not established as ordering or knowing about the murders.",
+      "accepted_changes": []
+    },
+    {
+      "id": "R15",
+      "from_entity": "adrian",
+      "to_entity": "lar_gand",
+      "kind": "unestablished_personal_tie",
+      "provenance": "working_design",
+      "baseline": "Mother’s royal-branch membership does not establish a personal history with Lar Gand.",
+      "development": "A court or genealogical connection needs a designed chronology.",
+      "guard": "No automatic royal protection, pardon, hostility or knowledge of the Earth alias.",
+      "accepted_changes": []
+    },
+    {
+      "id": "R16",
+      "from_entity": "kara",
+      "to_entity": "winn",
+      "kind": "friends_and_confidants",
+      "provenance": "canon_summary",
+      "baseline": "Coworkers before the opening; private identity not initially disclosed.",
+      "development": "Kara chooses him as a confidant; costume plans follow his own contribution.",
+      "guard": "No automatic jealousy or transfer of Adrian’s undisclosed history.",
+      "accepted_changes": [
+        {
+          "chapter": 2,
+          "path": "chapters/Chapter_02_A_Familiar_Face.md",
+          "sha256": "ca0c7914288a614e90c43beb187a5d5a2648a4e1671da6dcf98b49ccc35e8e0f",
+          "description": "Kara tells Winn and demonstrates flight; they begin costume planning."
+        },
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Winn helps with costumes, maintains live contact, and summons Adrian as authorized backup."
+        },
+        {
+          "chapter": 4,
+          "path": "chapters/Chapter_04_What_Remains.md",
+          "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+          "description": "Kara ends live earpiece before biography and later reports capture/uncertainty to Winn; he offers support without receiving full case."
+        },
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Winn makes ordinary backup call and works with James on smaller rescues; no full Adrian-crime confession imported from held draft."
+        },
+        {
+          "chapter": 6,
+          "path": "chapters/Chapter_06_Under_the_Headline.md",
+          "sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+          "description": "Private workspace and contact policy established; no accidental Superman civilian disclosure; covers for Kara at reception."
+        },
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Winn loses Carter due to curiosity, alerts Kara, follows to station, sees Knox vest, video games on Cat monitor array."
+        }
+      ]
+    },
+    {
+      "id": "R17",
+      "from_entity": "adrian",
+      "to_entity": "non",
+      "kind": "complicated_prison_acquaintance",
+      "provenance": "user_lock",
+      "baseline": "U16: Adrian personally met Non, Astra’s husband and Kara’s uncle by marriage, in prison. Non knows and fears Kael under U15.",
+      "development": "Complicated prior ties may affect recognition and negotiation; detailed terms are unassigned.",
+      "guard": "No automatic alliance, obedience or knowledge of present operations.",
+      "accepted_changes": [
+        {
+          "chapter": 4,
+          "path": "chapters/Chapter_04_What_Remains.md",
+          "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+          "description": "Adrian describes Non as interested in usefulness; no current location or command knowledge follows."
+        }
+      ]
+    },
+    {
+      "id": "R18",
+      "from_entity": "adrian",
+      "to_entity": "vartox",
+      "kind": "known_and_feared_prisoner",
+      "provenance": "user_lock",
+      "baseline": "U15: Vartox knows Kael-Varr and greatly fears him, as do all Fort Rozz prisoners.",
+      "development": "Recognition, overwhelming rescue and capture are realized in adopted Chapter 3 R3 under U18. Further interrogation/intelligence outcomes require their own events.",
+      "guard": "No comparable-power duel; fear does not reveal Adrian’s alias before recognition or bestow mind control.",
+      "accepted_changes": [
+        {
+          "chapter": 3,
+          "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+          "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+          "description": "Vartox recognizes and fears Kael, attempts escape unsuccessfully, exposes prison association, and is captured alive."
+        },
+        {
+          "chapter": 4,
+          "path": "chapters/Chapter_04_What_Remains.md",
+          "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+          "description": "Vartox remains alive/separated from weapon; seeks distance from Kael and refuses substantive interrogation. Fear does not guarantee cooperation."
+        }
+      ]
+    },
+    {
+      "id": "R19",
+      "from_entity": "adrian",
+      "to_entity": "hellgrammite",
+      "kind": "known_and_feared_prisoner",
+      "provenance": "user_lock",
+      "baseline": "U15 covers all Fort Rozz prisoners; knows and fears Kael, not every unknown masked image.",
+      "development": "Private close-range voice/direct confirmation follows decisive field capture in adopted Chapter 5.",
+      "guard": "No supernatural disguise detection, public Earth alias disclosure or automatic truthful cooperation.",
+      "accepted_changes": [
+        {
+          "chapter": 5,
+          "path": "chapters/Chapter_05_In_Plain_Sight.md",
+          "sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+          "description": "Recognizes and fears Kael in closed command vehicle after capture; gives temporary prisoner-delivery rendezvous as a lead."
+        }
+      ]
+    },
+    {
+      "id": "R20",
+      "from_entity": "adrian",
+      "to_entity": "evelyn",
+      "kind": "earth_family_by_staying",
+      "provenance": "user_lock",
+      "baseline": "U31: Evelyn Hart, 34, human actress, mother/sister figure who helped Adrian when he arrived on Earth and sealed power. Met ~4 years before Pilot in same building, theater run, taught shopping, cooking, transit, forms, quiet apartment privacy, emotional steadiness.",
+      "development": "She knows he has unusual abilities and uses band/device to live human-level, wants ordinary life, knows CatCo job, does NOT know Kael name, mass-killing culpability, house standing, Daxam royal collateral, Fort Rozz fear network, DEO custody, Astra/Non, etc. Considers him family, calls him kid/Ade, checks he eats, teases seriousness, protective. Visit Thanksgiving week Vancouver filming between projects.",
+      "guard": "Not romantic, not imported franchise, not DEO, not journalist. Does not know full criminal history or prisoner network. No automatic knowledge of Kara Kryptonian identity until told. No combat training.",
+      "accepted_changes": [
+        {
+          "chapter": 8,
+          "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "description": "Thanksgiving visit, brings soup theater mask magnet chipped mug, mother/sister family by staying not romantic, knows abilities and seal wants ordinary life does NOT know Kael name etc., leaves after Thanksgiving."
+        }
+      ]
+    },
+    {
+      "id": "R21",
+      "from_entity": "kara",
+      "to_entity": "evelyn",
+      "kind": "new_acquaintance_misunderstanding_then_clarified",
+      "provenance": "user_lock",
+      "baseline": "No prior connection. Kara meets Evelyn in CatCo lobby when Evelyn visits Adrian Thanksgiving week. Evelyn beautiful graceful warm, motherly fussing.",
+      "development": "Kara sees Adrian with Evelyn arm in arm collar fixing head on shoulder outside diner, assumes romantic girlfriend because normal appearance, feels awkward jealous pang, retreats professional. Later clarification Adrian explains family by staying mother/sister figure who helped when he arrived and learned to live sealed, not romantic. Evelyn perceptively clarifies with humor fixes Kara collar, notices Kara likes Adrian, tells good for him as friend. Candidate-only until Chapter 8 adoption.",
+      "guard": "No forced romance, no making Kara foolish, no sexualized description. Evelyn mother/sister figure, not romantic partner. Kara reaction human, not accusatory.",
+      "accepted_changes": [
+        {
+          "chapter": 8,
+          "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "description": "Meets in lobby, sees arm in arm collar fixing outside diner misunderstands as romantic girlfriend awkward jealous pang retreats professional, later clarified family by staying not romantic, Evelyn fixes collar notices Kara likes Adrian."
+        }
+      ]
+    },
+    {
+      "id": "R22",
+      "from_entity": "adrian",
+      "to_entity": "maxwell",
+      "kind": "antagonistic_curiosity",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection at opening. Maxwell Lord is Lord Technologies principal, technically knowledgeable, publicity-seeking.",
+      "development": "How Does She Do It? intended: Lord subsidiary bombing, drone surveillance, maglev train debut, offers containment equipment, cultivates publicity/technology interest. Kara confronts balcony about testing and paying Knox daughter care. Adrian as Cat executive aide handles logistics, aware of Lord interest in Supergirl and unknown masked helper, no public identity disclosure. Candidate Livewire not yet adopted.",
+      "guard": "No automatic knowledge of Adrian powers or Kael identity. No imported comics telepathy. No admission on record.",
+      "accepted_changes": [
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Lord subsidiary bombing, drone surveillance, maglev train debut, offers containment equipment, cultivates publicity/technology interest. Kara confronts balcony about testing and paying Knox daughter care."
+        }
+      ]
+    },
+    {
+      "id": "R23",
+      "from_entity": "kara",
+      "to_entity": "maxwell",
+      "kind": "antagonistic_testing",
+      "provenance": "canon_summary",
+      "baseline": "CatCo vs Lord Technologies, media vs tech. No personal connection at opening.",
+      "development": "How Does She Do It?: Lord tests Supergirl agility strength speed with bombings and drone, pays Knox daughter treatment, failsafe quote, interest in emotional connections as weakness. Kara confronts balcony, says testing, he says fascinating theory unprovable. Cat and Lord verbal sparring. Livewire not yet adopted.",
+      "guard": "No romantic, no mind control. Lord does not learn Kara civilian identity via testing in this branch. No real engineering guidance.",
+      "accepted_changes": [
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Tests Supergirl agility strength speed with bombings and drone, pays Knox daughter treatment, failsafe quote, interest in emotional connections as weakness. Kara confronts balcony."
+        }
+      ]
+    },
+    {
+      "id": "R24",
+      "from_entity": "kara",
+      "to_entity": "lucy",
+      "kind": "acquaintance_via_james_awkward",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection. Lucy Lane is Lois Lane younger sister and James Olsen former partner.",
+      "development": "Fight or Flight: Lucy arrives to talk to James about break-up, dinner agreement private, Kara overhears limited phrase walks away. How Does She Do It?: Lucy pumps Kara for info about James dating Supergirl awkward, Lucy heading back to Metropolis airport bomb reconciliation. Kara tries to be professional.",
+      "guard": "No automatic friendship or rivalry. No knowledge of Kara Kryptonian identity via Lucy until told.",
+      "accepted_changes": [
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Lucy pumps Kara for info about James dating Supergirl awkward, heading back to Metropolis airport bomb reconciliation."
+        }
+      ]
+    },
+    {
+      "id": "R25",
+      "from_entity": "james",
+      "to_entity": "lucy",
+      "kind": "former_partners_reconciliation",
+      "provenance": "canon_summary",
+      "baseline": "Former romantic partners before James left Metropolis. History unresolved.",
+      "development": "Fight or Flight: Lucy arrives National City to talk about break-up, private dinner agreement. How Does She Do It?: Lucy heading back to Metropolis, airport bomb, James heads to airport because cares, reconciliation embrace. Ojai trip mentioned.",
+      "guard": "No automatic reunion exclusivity, no new military rank invented.",
+      "accepted_changes": [
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Former partners, Lucy heading back to Metropolis, airport bomb, James heads to airport because cares, reconciliation embrace, Ojai trip mentioned."
+        }
+      ]
+    },
+    {
+      "id": "R26",
+      "from_entity": "kara",
+      "to_entity": "reactron",
+      "kind": "villain_targeting_cousin",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection. Reactron is Ben Krull, human in powered nuclear-energy suit, blames Superman for wife death in reactor incident Superman stopped.",
+      "development": "Fight or Flight intended: public cousin disclosure motivates Reactron to target Supergirl to make Superman suffer, freeway rescue, damages suit, human jurisdiction outside DEO, Winn office HQ, Lord lends containment equipment, early capture at first freeway attack with masked helper support, power unit shielded/removed, transferred to appropriate authorities, no escape/repair/Superman rescue/party rematch. Krull asks Kara to ask cousin about wife.",
+      "guard": "Human, not Fort Rozz prisoner, so U15 prisoner fear does not apply. No comics abilities imported. No wife name invented.",
+      "accepted_changes": [
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Public cousin disclosure motivates targeting, freeway rescue damages suit, early capture at first freeway attack with masked helper support, power unit shielded/removed."
+        }
+      ]
+    },
+    {
+      "id": "R27",
+      "from_entity": "adrian",
+      "to_entity": "reactron",
+      "kind": "brief_field_encounter",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection. Reactron human, not Fort Rozz prisoner.",
+      "development": "Under the Headline: Alex calls available masked backup promptly, Adrian releases/changes privately arrives fully disguised, fast precise interception restraint stops first attack before escape, no equal-power duel or immunity test, supports passenger movement and structural stabilization with inspected machine and technical collaboration, masked departure private change/reseal. No prisoner fear recognition.",
+      "guard": "No automatic knowledge of Adrian identity or Kael history. No anti-Adrian failsafe invented.",
+      "accepted_changes": [
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Fast precise interception restraint stops first attack before escape, no equal-power duel, supports passenger movement and structural stabilization."
+        }
+      ]
+    },
+    {
+      "id": "R28",
+      "from_entity": "adrian",
+      "to_entity": "carter",
+      "kind": "colleague_son_protective",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection. Carter Grant is Cat Grant son, shy gifted Supergirl crush, Settlers of Catan.",
+      "development": "How Does She Do It?: Kara volunteers to babysit Carter for Siegel award ceremony Metropolis, Adrian as executive operations aide handles logistics award travel car security train event timing, moves car to later, tells Kara call Winn first. Train debut Carter curiosity leads him to supertrain hoping to meet Supergirl, Winn loses, Adrian as masked backup supports evacuation and stabilization, ensures Cat son safe.",
+      "guard": "No parental authority, no disclosing powers to child. Cat does not learn Adrian powers via Carter.",
+      "accepted_changes": [
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Carter babysitting logistics handled as executive operations aide, award travel, train debut Carter curiosity leads to supertrain, masked backup supports evacuation ensuring Cat son safe."
+        }
+      ]
+    },
+    {
+      "id": "R29",
+      "from_entity": "kara",
+      "to_entity": "carter",
+      "kind": "babysitter_and_hero",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection. Carter is Cat son.",
+      "development": "How Does She Do It?: Kara volunteers to babysit for Siegel prize, picks up from school late after bomb, bonds over nerdery Catan, sandwich board game, Cat is great mom. Carter disappears to train station hoping to meet Supergirl, Kara chooses train because Carter aboard with Knox vest, moves passengers back, Carter meets Supergirl, thrilled pretty, Cat corrects smart brave kind hero. Lesson have it all start small adapt.",
+      "guard": "No invented age, no parental replacement. Child remains child.",
+      "accepted_changes": [
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Volunteers to babysit for Siegel prize, bonds over Catan, Carter disappears to train station hoping to meet Supergirl, Kara chooses train because Carter aboard, moves passengers back, Carter meets Supergirl."
+        }
+      ]
+    },
+    {
+      "id": "R30",
+      "from_entity": "kara",
+      "to_entity": "livewire",
+      "kind": "creator_and_opponent",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection. Leslie Willis shock jock Alive and Wired, annual list not grateful Supergirl, vulgarity body/dress/sexuality.",
+      "development": "Livewire intended: Cat demotes to traffic chopper Cat-Copter, helicopter lightning storm, Kara saves pilot and helicopter grabs Leslie hand lightning passes through Kara to Leslie coma silver hair, hospital visit, alley power discovery subdues drunk man becomes Livewire, blackouts city, CatCo attack elevator, Henshaw Element X deduction, industrial capacitor trap Ghostbusters, Cat bait radio show where it all began water pipe short out comatose DEO custody.",
+      "guard": "No claim of viewing, secondary recaps only. No real electrical engineering guidance. Leslie not Fort Rozz.",
+      "accepted_changes": [
+        {
+          "chapter": 8,
+          "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "description": "Shock jock annual list not grateful Supergirl vulgarity demoted to traffic chopper helicopter lightning rescue pilot helicopter grabs hand lightning passes through coma hospital alley power discovery blackouts CatCo attack elevator Element X capacitor trap Ghostbusters Cat bait water pipe short out comatose DEO custody."
+        }
+      ]
+    },
+    {
+      "id": "R31",
+      "from_entity": "adrian",
+      "to_entity": "livewire",
+      "kind": "colleague_threat_awareness",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection.",
+      "development": "Livewire intended: CatCo attack, building blackout screens, Cat sends Kara to security, Supergirl shields Cat, elevator drop. Adrian remains sealed civilian support at CatCo ensuring Cat safety, no masked intervention needed because Kara handles with water, identity protected.",
+      "guard": "No automatic knowledge of Livewire powers origin beyond public news. No takeover of Kara victory.",
+      "accepted_changes": [
+        {
+          "chapter": 8,
+          "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "description": "CatCo blackout screens attack, Cat sends Kara to security, Supergirl shields tells Cat leave, remains sealed civilian support ensuring Cat safety no masked takeover."
+        }
+      ]
+    },
+    {
+      "id": "R32",
+      "from_entity": "kara",
+      "to_entity": "eliza",
+      "kind": "foster_daughter_and_mother",
+      "provenance": "canon_summary",
+      "baseline": "Foster mother and daughter, Eliza Danvers is Alex real mother and Kara foster mother, Helen Slater. Thanksgiving visit.",
+      "development": "Livewire intended: Eliza arrives National City Thanksgiving, nervous mother blame, watches news tells turn off, berates Alex for letting Kara become Supergirl, porch flashback Kara convinces Alex sneak out flying roof, Eliza beaming then tension, Thanksgiving dinner, Eliza apology harder on Alex wanted better than her Kara not as hard because child from another planet lost everything, confession Jeremiah worked for DEO under Hank to keep Kara from being studied died mysterious, suspicious Hank red eyes.",
+      "guard": "No invented family trauma beyond source. No claim of viewing.",
+      "accepted_changes": [
+        {
+          "chapter": 8,
+          "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "description": "Thanksgiving visit tension makeup apology confession Jeremiah DEO deal under Hank died mysterious suspicious red eyes."
+        }
+      ]
+    },
+    {
+      "id": "R33",
+      "from_entity": "alex",
+      "to_entity": "eliza",
+      "kind": "real_daughter_and_mother_tension",
+      "provenance": "canon_summary",
+      "baseline": "Real mother and daughter, Alex is Eliza real daughter, plus foster sister to Kara.",
+      "development": "Livewire intended: Alex anxious mother visit blame, tells mother works for DEO not lab, makeup apology, Eliza says you have always been my super girl, Jeremiah DEO deal, Eliza tells turn off news about Supergirl saving Leslie, berates Alex for letting Kara become Supergirl.",
+      "guard": "No invented rank or backstory beyond source.",
+      "accepted_changes": [
+        {
+          "chapter": 8,
+          "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "description": "Thanksgiving visit tension mother blames letting Kara become Supergirl tells mother works for DEO not lab makeup apology harder on Alex wanted better, you have always been my super girl, Jeremiah DEO deal."
+        }
+      ]
+    },
+    {
+      "id": "R34",
+      "from_entity": "adrian",
+      "to_entity": "eliza",
+      "kind": "no_direct_connection",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection. Eliza is Danvers mother visiting Thanksgiving.",
+      "development": "Livewire intended: No direct scene yet. Adrian as Cat aide may be aware of Danvers family visit via Kara, no interaction.",
+      "guard": "No automatic knowledge transfer.",
+      "accepted_changes": []
+    },
+    {
+      "id": "R35",
+      "from_entity": "evelyn",
+      "to_entity": "kara",
+      "kind": "perceptive_older_sister_figure",
+      "provenance": "user_lock",
+      "baseline": "Evelyn meets Kara as Adrian coworker Cat assistant, notices nervous lovely, Settlers of Catan detail.",
+      "development": "Thanksgiving visit: Evelyn notices Kara likes Adrian, gently teases, fixes collar, tells Kara she is good for him as friend, clarifies not girlfriend mother/sister family by staying, warm humor not making Kara feel foolish.",
+      "guard": "Not romantic, not making Kara foolish, not disclosing Adrian full history.",
+      "accepted_changes": [
+        {
+          "chapter": 8,
+          "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "description": "Notices Kara likes Adrian during visit, gently teases fixes collar tells good for him as friend, warm humor not making Kara foolish."
+        }
+      ]
+    },
+    {
+      "id": "R36",
+      "from_entity": "evelyn",
+      "to_entity": "adrian",
+      "kind": "earth_family_by_staying",
+      "provenance": "user_lock",
+      "baseline": "Evelyn met Adrian 4 years before Pilot same building theater run, taught shopping cooking transit forms quiet apartment privacy emotional steadiness when he was terrible at being human.",
+      "development": "Knows he has unusual abilities and uses band/device to live human-level wants ordinary life, knows CatCo job, does NOT know Kael name mass-killing house standing Daxam royal Fort Rozz fear network DEO custody Astra/Non etc. Calls him kid/Ade checks eats teases seriousness protective. Visit Thanksgiving week brings soup theater mask magnet chipped mug.",
+      "guard": "Not romantic, not imported franchise, not DEO, not journalist, no combat training.",
+      "accepted_changes": [
+        {
+          "chapter": 8,
+          "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
+          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "description": "Visit Thanksgiving week, practical help history when he arrived and sealed power, mother/sister calls kid/Ade checks eats teases protective, leaves chipped mug."
+        }
+      ]
+    },
+    {
+      "id": "R37",
+      "from_entity": "kara",
+      "to_entity": "ethan",
+      "kind": "sympathetic_bomber",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection. Ethan Knox former Lord Technologies employee fired missing sick daughter.",
+      "development": "How Does She Do It?: subsidiary bombing, drone surveillance, DEO identifies Knox, train debut bomb vest, Kara talks to him about daughter, he says no one supposed to know it was him doing for daughter, says Supergirl will save them, presses plunger 30 seconds, heat vision separation, front car explosion over water, Knox dies, medical records Lord paid daughter care, testing motive.",
+      "guard": "No daughter name/hospital invented, no bomb composition.",
+      "accepted_changes": [
+        {
+          "chapter": 7,
+          "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
+          "sha256": "f34639e19802d248cdb49e3343a2000096da5e9ab42b93b39b43cd401f4e82ed",
+          "description": "Subsidiary bombing, train bomb vest, dialogue about daughter, 30-second plunger, heat vision separation, front car explosion over water, dies, medical records Lord paid daughter care."
+        }
+      ]
+    },
+    {
+      "id": "R38",
+      "from_entity": "adrian",
+      "to_entity": "ethan",
+      "kind": "no_direct_connection",
+      "provenance": "canon_summary",
+      "baseline": "No prior connection.",
+      "development": "How Does She Do It?: No direct interaction, Adrian as masked backup supports evacuation not Knox dialogue.",
+      "guard": "No automatic knowledge.",
+      "accepted_changes": []
+    }
+  ],
+  "romance_status": "under_consideration",
+  "romance_research": "codex/ADRIAN_KARA_CANON_STUDY.md"
+}

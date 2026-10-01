@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "chapter": 6,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_06_Under_the_Headline_R1.md",
+  "draft_sha256": "40ecb93e759b4293d7e9e5ec90e370114d3df2c72062876b8d3f471d3b57d9b3",
+  "accepted": false,
+  "claimed_episode": "S01E03 — Fight or Flight",
+  "span": "S01E03 from Cat interview to first Reactron defeat with changed outcome, article/reception, Lucy/cousin/sister closing",
+  "sources": [
+    {
+      "id": "SRC-SG-E03-GB",
+      "url": "https://www.gbreviews.com/supergirl-episode-recap-season-1-episode-3-fight-or-flight/",
+      "title": "Supergirl Episode Recap, Season 1 Episode 3: Fight or Flight — GBReviews",
+      "accessed": "2026-09-30",
+      "verification": "Fresh chunk 0, complete story-bearing recap. Secondary; Krull misspelled Kroll, cross-checked."
+    },
+    {
+      "id": "SRC-SG-E03-POP",
+      "url": "https://theworldgoespop.com/2015/11/09/supergirl-season-1-episode-3-fight-or-flight-recap/",
+      "title": "Supergirl Season 1 Episode 3 Fight or Flight Recap — Pop Goes the World",
+      "accessed": "2026-09-30",
+      "verification": "Fresh chunk 0 through substantive plot; corroborates Krull, wife motive, source three-fight sequence and lead core removal. Not direct viewing."
+    },
+    {
+      "id": "SRC-SG-E03-TVF",
+      "url": "https://www.tvfanatic.com/supergirl-season-1-episode-3-recap-fight-or-flight/",
+      "title": "Supergirl Season 1 Episode 3 Recap: Fight or Flight — TV Fanatic",
+      "accessed": "2026-09-30",
+      "verification": "Fresh short full recap; corroborates interview, human jurisdiction, repaired suit, Lucy and lead-shielded core functions."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-E03-01",
+      "status": "covered",
+      "reason": "Interview and accidental public cousin connection; civilian/private helper names withheld.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-02",
+      "status": "changed_with_receipt",
+      "reason": "Breakfast/warnings, Cat article and launch work, plus ongoing captive-Astra institutional consequences.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-03",
+      "status": "changed_with_receipt",
+      "reason": "Freeway rescue/Reactron attack retained, prompt masked backup changes escape to immediate capture.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-04",
+      "status": "changed_with_receipt",
+      "reason": "Human jurisdiction remains but DEO gives technical liaison while guarding captured Kryptonians; human arrest teams handle Krull.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-05",
+      "status": "changed_with_receipt",
+      "reason": "Winn office base/watch discussion retained; explicit privacy protocol replaces careless Clark-name disclosure.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-06",
+      "status": "changed_with_receipt",
+      "reason": "No escape means no Lord abduction/repair. Lord lends shielding equipment and cultivates publicity/information instead.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-07",
+      "status": "covered",
+      "reason": "Alex identifies Ben Krull and wife-loss/reactor grievance, with limits of reports acknowledged.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-08",
+      "status": "changed_with_receipt",
+      "reason": "Second confrontation, defeat and Superman rescue do not occur after first capture; no apology for an unmade call.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-09",
+      "status": "changed_with_receipt",
+      "reason": "Cat article dispute concerns cousin-centered framing and actual rescue; launch reception remains, not false rescue/dependency claims.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-10",
+      "status": "changed_with_receipt",
+      "reason": "Source lead/core neutralization moved into first-operation containment with professional equipment and team roles; no later party attack.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-11",
+      "status": "changed_with_receipt",
+      "reason": "Winn dance and James trust/watch discussion retained without fabricated rescue-call quarrel or dangerous civilian bait stunt.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-12",
+      "status": "changed_with_receipt",
+      "reason": "Lucy reunion and dinner agreement retained; Kara stops listening, private dinner conversation belongs to reader/participants.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-13",
+      "status": "changed_with_receipt",
+      "reason": "Cousin message acknowledges team effort and remembered wife loss, not nonexistent rescue or solo victory.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    },
+    {
+      "id": "SG-E03-14",
+      "status": "covered",
+      "reason": "Sisters discuss article and personal uncertainty; Kara responds to siren with operations contact.",
+      "source_ids": [
+        "SRC-SG-E03-GB",
+        "SRC-SG-E03-POP",
+        "SRC-SG-E03-TVF"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_06_R1_REVIEW.md",
+      "sha256": "920d7c10cdebf38ad7b4c86b97f37be76ffc9b78238129136850fa76dcc77a75"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_06_R1_REVIEW.md",
+      "sha256": "920d7c10cdebf38ad7b4c86b97f37be76ffc9b78238129136850fa76dcc77a75"
+    },
+    "power": {
+      "path": "audits/CHAPTER_06_R1_REVIEW.md",
+      "sha256": "920d7c10cdebf38ad7b4c86b97f37be76ffc9b78238129136850fa76dcc77a75"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_06_R1_REVIEW.md",
+      "sha256": "920d7c10cdebf38ad7b4c86b97f37be76ffc9b78238129136850fa76dcc77a75"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_06_R1_REVIEW.md",
+      "sha256": "920d7c10cdebf38ad7b4c86b97f37be76ffc9b78238129136850fa76dcc77a75"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [
+    {
+      "id": "D14",
+      "cause": "Adopted prompt-backup practice, available overwhelming masked helper and captured Astra",
+      "effect": "Early Reactron arrest/controlled containment, changed resources/press relationships and bounded Non claim; source repeat fights not forced."
+    }
+  ],
+  "notes": "Candidate only. Source functions accounted for honestly; original operational/character execution not claimed television fact.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 3,
+    "canon_title": "Fight or Flight",
+    "chapter": 6,
+    "chapter_title": "Under the Headline"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "status": "candidate_only",
+  "chapter": 5,
+  "revision": "R3",
+  "draft_path": "drafts/Chapter_05_In_Plain_Sight_R3.md",
+  "draft_sha256": "8754a27aaeb8a68c3d2ec799b3fdeac09e84759a5a7925c6eeb7a268e4b16ca7",
+  "depends_on": {
+    "path": "chapters/Chapter_04_What_Remains.md",
+    "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+    "status": "adopted_U19_U22"
+  },
+  "source_span": "brief earlier-week Pilot bridge followed by changed S01E02 arc through Cat interview setup",
+  "public_identity": {
+    "public_figure": "unidentified masked man in complete black suit/coat/gloves/boots",
+    "civilian_identity_revealed": false,
+    "prison_identity_publicly_revealed": false,
+    "cat_identifies_adrian": false,
+    "astra_identifies_kael_from_broadcast": false,
+    "reference_character_exists_in_world": false
+  },
+  "private_recognition": {
+    "hellgrammite": "Hears familiar ordinary voice at close range inside closed DEO command vehicle; studies visible facial portions and asks Kael-Varr. Adrian confirms only that name; Earth alias withheld.",
+    "astra_and_two_guards": "Inside closed warehouse away from street, Adrian removes mask briefly to identify himself to former fellow prisoners; re-masks before Kara/agents arrive and public transfer. They know Kael, not a new civilian name or employer."
+  },
+  "physical_endpoint": {
+    "adrian": "left DEO in ordinary clothes after private change and voluntary reseal; costume secured in case",
+    "kara": "at Cat interview setup; earlier met live captive Astra and interactive Alura program",
+    "alex": "not abducted; shallow stinger graze treated",
+    "vartox": "alive in DEO custody; no new unearned testimony",
+    "hellgrammite": "alive/captured; supplied prisoner-delivery rendezvous address, not entire enemy network",
+    "astra": "captured alive with two guards at temporary rendezvous; no forced original escape or remote-call substitute",
+    "two_guards": "captured alive; unnamed, not falsely identified as Non",
+    "kryptonite": "Astra learns the humans have it through DEO suppression during custody; no knife wound or doctor analysis; Adrian susceptibility untested"
+  },
+  "candidate_knowledge": {
+    "cat": "masked rescuer exists; no confirmed name, power admission by employee or civilian identification. Kara passenger-clip risk remains separately.",
+    "public": "masked rescuer helps Supergirl; no public civilian/Kael identity disclosure",
+    "kara_alex_deo": "Hellgrammite names Astra; occupied rendezvous checked; live Astra and guarded motive exchange confirm survival/association. Aircraft-order question still not answered.",
+    "astra": "does not recognize masked broadcast figure; privately learns Kael is the rescuer and helps Kara/DEO. Learns first name Alex as targeted agent, not automatically sister/civilian identities.",
+    "winn": "ordinary backup call; knows James knows Kara; no full crime confession from held R1 imported",
+    "james": "knows Winn knows Kara; no automatic private Kael history or identification from masked clip",
+    "reader_only": "Astra earlier coercion/rendezvous planning and Hank red-eye cue after Adrian leaves sealed"
+  },
+  "power_access_sequence": [
+    "accepted entry unsealed",
+    "bridge voluntary reseal at home",
+    "ordinary phone call then private release/change into full disguise",
+    "unsealed masked harbor rescue",
+    "private return/change/reseal before editorial meeting",
+    "private gear/release before operation",
+    "unsealed immediate capture and rapid rendezvous arrival; no passive canon-preserving wait",
+    "brief private identification inside closed warehouse, re-mask for transfer",
+    "outside DEO kryptonite field; no hybrid test",
+    "private change and voluntary reseal before leaving"
+  ],
+  "relationships": "Kara retains independent decisions and moral questions; thanks Adrian for bringing aunt alive, no blanket forgiveness or romance. Cat workplace relationship not replaced by rejected exposure hearing.",
+  "open_threads": [
+    "Astra custody/interrogation and evidence, not automatic absolution or predetermined escape",
+    "remaining enemy organization and possible response to missing leaders",
+    "Vartox/aircraft command chain",
+    "ongoing Kael conviction/jurisdiction inquiry",
+    "public masked-hero interest without forced civilian identification",
+    "Cat interview and Kara identity risk",
+    "Alura AI answers not yet specified"
+  ],
+  "romance_selection": null,
+  "next_source_episode": "S01E03 — Fight or Flight; must research and recalculate with Astra captured if continued"
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-28",
+  "revision": "foundation-009",
+  "candidate": "Chapter 3 R1",
+  "python": "3.13.14 (main, Jul 14 2026, 04:45:36) [GCC 14.2.0]",
+  "results": [
+    {
+      "check": "structure",
+      "command": [
+        "/usr/local/bin/python",
+        "tools/verify.py"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "expected_result_observed": true,
+      "seconds": 0.077
+    },
+    {
+      "check": "foundation",
+      "command": [
+        "/usr/local/bin/python",
+        "tools/verify_foundation.py"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "expected_result_observed": true,
+      "seconds": 0.045
+    },
+    {
+      "check": "selftest",
+      "command": [
+        "/usr/local/bin/python",
+        "tools/selftest.py"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "expected_result_observed": true,
+      "seconds": 1.373
+    },
+    {
+      "check": "release",
+      "command": [
+        "/usr/local/bin/python",
+        "tools/verify.py",
+        "--ship",
+        "3"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "expected_result_observed": true,
+      "seconds": 0.077
+    }
+  ],
+  "historical_Chapter_01_R1": "blocked; release_checks invoked directly"
+}

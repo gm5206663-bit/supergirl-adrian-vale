@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "chapter": 3,
+  "revision": "R3",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_03_The_Name_He_Feared_R3.md",
+  "draft_sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+  "accepted": false,
+  "claimed_episode": "S01E01 — Pilot",
+  "span": "Costume/field trials through initial DEO capture and following-workday first Vartox confrontation, decisively altered by rescue/capture.",
+  "sources": [
+    {
+      "id": "SRC-SG-02",
+      "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
+      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "accessed": "2026-09-28",
+      "verification": "secondary recap; fetched chunk 0 before Chapter 3 drafting; source DEO route/disclosure read"
+    },
+    {
+      "id": "SRC-SG-03",
+      "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
+      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "accessed": "2026-09-28",
+      "verification": "ComicBook recap chunk 0 freshly fetched before rescue rewrite; sequence through first Vartox fight checked; no direct episode viewing."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-P10B",
+      "status": "covered",
+      "reason": "Costume trials, cape/bullet damage and public responses in original compressed narration.",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ]
+    },
+    {
+      "id": "SG-P10C1",
+      "status": "covered",
+      "reason": "Fire-response capture restored because prior confession no longer occurs.",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ]
+    },
+    {
+      "id": "SG-P10C2",
+      "status": "covered",
+      "reason": "Alex role, pod custody, Fort Rozz connection and rejection of help; original post-release call adds backup.",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ]
+    },
+    {
+      "id": "SG-P10C3",
+      "status": "outside_span",
+      "reason": "Subsequent assessment/recruitment not covered.",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ]
+    },
+    {
+      "id": "SG-P10D",
+      "status": "changed_with_receipt",
+      "reason": "Naming/bank photograph retained, complicated by existing original passenger footage.",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ]
+    },
+    {
+      "id": "SG-P11A",
+      "status": "changed_with_receipt",
+      "reason": "Winn calls sealed Adrian; voluntary release and overwhelming rescue produce fear/name disclosure and Vartox capture, not source escape.",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ]
+    },
+    {
+      "id": "SG-P11B1",
+      "status": "changed_with_receipt",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ],
+      "reason": "Immediate injury care partly moves to the field: after capture, Adrian uses precisely controlled heat vision with Kara’s consent to stop bleeding; Alex dresses the wound."
+    },
+    {
+      "id": "SG-P11B2",
+      "status": "outside_span",
+      "reason": "Deeper examination, possible fragment removal and fuller Alura/prison explanation remain beyond the endpoint."
+    },
+    {
+      "id": "SG-P11C",
+      "status": "outside_span",
+      "reason": "Later rematch/resolution prerequisites changed; cannot occur unchanged after capture.",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ]
+    },
+    {
+      "id": "SG-P12",
+      "status": "outside_span",
+      "reason": "Later James gift/explanation and closing antagonist scene not covered.",
+      "source_ids": [
+        "SRC-SG-02",
+        "SRC-SG-03"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_03_R3_REVIEW.md",
+      "sha256": "287be2475203ee72d76f5b1fe682c4d8ae192fb8aa36eef34a0aaaedc9800e29"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_03_R3_REVIEW.md",
+      "sha256": "287be2475203ee72d76f5b1fe682c4d8ae192fb8aa36eef34a0aaaedc9800e29"
+    },
+    "power": {
+      "path": "audits/CHAPTER_03_R3_REVIEW.md",
+      "sha256": "287be2475203ee72d76f5b1fe682c4d8ae192fb8aa36eef34a0aaaedc9800e29"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_03_R3_REVIEW.md",
+      "sha256": "287be2475203ee72d76f5b1fe682c4d8ae192fb8aa36eef34a0aaaedc9800e29"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_03_R3_REVIEW.md",
+      "sha256": "287be2475203ee72d76f5b1fe682c4d8ae192fb8aa36eef34a0aaaedc9800e29"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [
+    {
+      "id": "D-C3-R2-01",
+      "cause": "Kara’s post-capture experience",
+      "effect": "Emergency backup arranged with Adrian and relayed to Winn."
+    },
+    {
+      "id": "D-C3-R2-02",
+      "cause": "Phone-delivered injury/location and voluntary unseal",
+      "effect": "Immediate overwhelming rescue."
+    },
+    {
+      "id": "D-C3-R2-03",
+      "cause": "U15 universal prisoner recognition/fear",
+      "effect": "Vartox exposes Kael/Alura link, abandons attack, fails escape; captured alive."
+    },
+    {
+      "id": "D-C3-R2-04",
+      "cause": "Alex arrives after intervention and hears name/identification",
+      "effect": "Record check requested, no returned record; medical response begins."
+    },
+    {
+      "id": "D-C3-R3-U17",
+      "cause": "Author permits controlled heat vision for injury care; Adrian is unsealed and Vartox secured",
+      "effect": "Kara consents to precision bleeding control; Alex witnesses and dresses injury; pain and examination needs remain."
+    }
+  ],
+  "open_items": [
+    "O01",
+    "O02",
+    "O03",
+    "O04",
+    "O05",
+    "O06"
+  ],
+  "notes": "U17 adds controlled heat-vision bleeding control. Rescue-reveal route preserved. Full regeneration and complete medical treatment are not claimed.",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 1,
+    "canon_title": "Pilot",
+    "chapter": 3,
+    "chapter_title": "The Name He Feared"
+  },
+  "status": "reviewed_candidate_pending_adoption"
+}

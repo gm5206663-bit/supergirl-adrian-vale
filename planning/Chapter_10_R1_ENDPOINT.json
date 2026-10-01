@@ -1,0 +1,58 @@
+{
+  "status": "candidate_only",
+  "chapter": 10,
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_10_Red_Faced_Consequence_R1.md",
+  "draft_sha256": "26380a0553301c6edac0017085f58e2be987c3871cc6a54f975fe7e37d4e0733",
+  "depends_on": {
+    "path": "drafts/Chapter_09_Red_Faced_and_Named_R2.md",
+    "sha256": "e0d40b1402d76d289806be5d641b97b513b93bf100d2c6db684d5d9943a1e371",
+    "status": "candidate_R2_Part1"
+  },
+  "source_span": "S01E06 Red Faced Part 2 — dinner attack + tornado street + Lord Alex dinner + punching + hologram + Morrow death + sentient + heat vision + Lucy quits + Winn hacking + Cat mother defense + bleeding",
+  "physical_endpoint": {
+    "adrian": "civilian at CatCo chipped mug theater mask magnet Wraith ticker watches James knows but keeps secret Winn thanks freeway cousin private monitor only identity protected",
+    "kara": "Red Tornado attacks Lane Lucy at restaurant tornado on street saves civilians bus stop mother child teenager, Maxwell Lord Alex candlelit dinner bond parents dying service government reveals Morrow controlling via telepathic relay, Kara James punching car bag anger behind anger never normal life parents ship slips thought Adrian sister was girlfriend James realizes Adrian is Wraith, hologram lure thermally accurate hologram, Alex kills Morrow telepathic relay struggle accidental during apprehension, becomes sentient heat vision destroys rage flashbacks parents loading ship leaves out of breath, Lucy quits stay James, Winn hacking father South America Hank redacting, Cat defends Kara to mother Katherine mother storms out, Kara cut finger cleaning glass bleeding first time vulnerability bandaged cartoon bandage",
+    "james": "Learns Wraith is Adrian via Kara slip will not tell Lucy, dinner tension not good enough tells Lane you are wrong",
+    "lucy_lane": "Resigns commission stay National City with James father's disappointment",
+    "general_lane": "Leaves after Lucy stays tells James not good enough",
+    "red_tornado": "Attacks Lane Lucy tornado street controlled by Morrow revenge Lane pulling plug project, hologram lure Morrow killed by Alex telepathic relay becomes sentient destroyed by Kara heat vision rage",
+    "maxwell_lord": "Candlelit table wants know Alex more chemistry bond parents dying service government reveals Morrow controlling signal logs wants know about Wraith offering reward",
+    "wraith_public_naming": "Ticker continues WRAITH SEEN NEAR DEO TEST SITE NO COMMENT FROM SUPERGIRL CAT GRANT EXCLUSIVE WHO IS WRAITH TONIGHT AT 7 MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH DEO WRAITH OUTSIDE JURISDICTION SUPRGIRL CUTS FINGER NO REALLY SHE BLEEDS, Lord calls CatCo asking interview Wraith offering reward, DEO keep eye outside jurisdiction advanced restraint not brute, Winn private monitor 3 new clips today train station Lord reward posted cousin on bus thank you, James knows will not tell Lucy"
+  },
+  "candidate_knowledge": {
+    "kara": "Knows Wraith is Adrian James now knows via slip will not tell Lucy, bleeding first time vulnerability ordinary way, anger behind anger never normal life parents ship, road rage wrist children flinching, Wraith name ticker",
+    "adrian": "Sees Wraith ticker chipped mug one more chip theater mask magnet James knows but keeps secret Winn thanks freeway cousin private monitor only identity protected",
+    "james": "Learns Wraith is Adrian via Kara slip will not tell Lucy thinks moves like someone who does not want to be seen advanced restraint",
+    "winn": "Private monitor tracks Wraith sightings tag no civilian disclosure cousin on bus thank you, hacking DEO father South America Hank redacting two men entered cave only one left Hank Henshaw",
+    "alex": "Kills Morrow telepathic relay struggle accidental during apprehension, learns father Jeremiah South America Hank redacting eyes glow red, Maxwell Lord dinner bond parents dying service reveals Morrow controlling wants know about Wraith",
+    "lucy_lane": "Resigns commission stay National City with James",
+    "cat": "Defends Kara to mother Katherine I built this you did not you visited I stayed mother leaves, nursing hangover, tells Kara when last tetanus shot do not bleed on Persian rug",
+    "general_lane": "Leaves after Lucy stays tells James not good enough",
+    "public_cat": "Ticker WRAITH SEEN NEAR DEO TEST SITE NO COMMENT FROM SUPERGIRL CAT GRANT EXCLUSIVE WHO IS WRAITH TONIGHT AT 7 MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH DEO WRAITH OUTSIDE JURISDICTION etc."
+  },
+  "power_sequence": [
+    "Kara vs Red Tornado attacks Lane Lucy tornado on street saves civilians bus stop mother child teenager",
+    "Kara vs Red Tornado hologram lure channels rage heat vision destroys sentient android leaves out of breath cut finger bleeding first time",
+    "Adrian remains sealed civilian support at CatCo ensuring Cat safety observes Wraith ticker James knows but keeps secret"
+  ],
+  "original_technology_scope": "Fictional Red Tornado military android anthropomorphic pseudo-entity combat capabilities self-preservation stealth mode tornado missiles thermally accurate hologram telepathic relay industrial capacitor trap Ghostbusters water main short out. No real android engineering guidance. Wraith naming is media butterfly not power.",
+  "source_outcomes_superseded": [
+    "No Wraith public naming in source added natural butterfly after multiple masked saves freeway and train Cat names Wraith media coverage Lord interest DEO discussion addresses U33 critique split into two natural chapters per U35",
+    "No Evelyn Hart in source original Earth mother/sister figure visit aftermath chipped mug callback",
+    "James learns Wraith is Adrian via Kara slip will not tell Lucy added natural consequence of naming"
+  ],
+  "relationships": "Kara/Adrian trust Wraith naming relief worry James now knows will not tell Lucy, Evelyn chipped mug callback, Kara/James punching car bag anger behind anger never normal life parents ship, Alex/Winn hacking father South America Hank redacting, Alex/Maxwell candlelit dinner bond parents dying service reveals Morrow controlling wants know about Wraith, Lucy quits stay James, Cat/Kara mother defense I built this you did not, Kara bleeding first time vulnerability.",
+  "open_threads": [
+    "Wraith public name consequences media Lord reward DEO James knows",
+    "Astra/Non claims and wider prisoner network",
+    "Hank Henshaw red-eye secret and Jeremiah Danvers mystery South America",
+    "Lord testing emotional connections and Wraith interest reward",
+    "Livewire custody",
+    "Evelyn Hart future visits chipped mug",
+    "Kara bleeding first time vulnerability powers",
+    "Kara/Adrian friendship after Evelyn clarification and Wraith naming and James knowing"
+  ],
+  "romance_selection": null,
+  "next_source_order": "Next episodes Human for a Day, Hostile Takeover, Blood Bonds, etc. Research before prose. ORDER_POLICY intended order already handled."
+}

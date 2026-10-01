@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "project_id": "supergirl_adrian_vale",
+  "epoch": "v1",
+  "revision": "foundation-012",
+  "updated_on": "2026-09-28",
+  "phase": "chapter-04-review",
+  "remote": {
+    "configured": false,
+    "repository": null,
+    "changes_made": false
+  },
+  "continuity": {
+    "series": "Supergirl (2015 television series)",
+    "entry": "S01E01 — Pilot",
+    "universe_policy": "this television branch; no automatic comics, DCEU or other-series imports",
+    "accepted_canon_beats": [
+      "SG-P01",
+      "SG-P02",
+      "SG-P03",
+      "SG-P04",
+      "SG-P05",
+      "SG-P06",
+      "SG-P07",
+      "SG-P08",
+      "SG-P09",
+      "SG-P10A",
+      "SG-P10B",
+      "SG-P10C1",
+      "SG-P10C2",
+      "SG-P10D",
+      "SG-P11A",
+      "SG-P11B1"
+    ]
+  },
+  "identity": {
+    "earth_name": "Adrian Vale",
+    "kryptonian_name": "Kael-Varr",
+    "gender": "male",
+    "species": "Kryptonian–Daxamite hybrid",
+    "origin": "native-born",
+    "apparent_age": 29,
+    "chronological_age": null,
+    "name_and_age_provenance": "assistant design under author delegation",
+    "job": "Cat Grant’s executive operations aide",
+    "job_provenance": "assistant implementation of author-selected direct Cat staff",
+    "ancestry": {
+      "father": "Kryptonian",
+      "mother": "Daxamite"
+    }
+  },
+  "opening_state": {
+    "anchor": "before accepted Chapter 1; S01E01 opening baseline",
+    "location": "National City",
+    "seal": "engaged",
+    "voluntary_release": true,
+    "accessible_superpowers": "human-level while sealed",
+    "true_power": "far above the show’s Kara and Superman; already extraordinary before Fort Rozz",
+    "talent": "inseparable; no game System",
+    "kara_identity_known": false,
+    "canon_foreknowledge": false,
+    "learned_skills_erased_by_seal": false
+  },
+  "accepted_edge": 3,
+  "next_chapter": 4,
+  "accepted_chapters": [
+    {
+      "number": 1,
+      "epoch": "v1",
+      "path": "chapters/Chapter_01_Adrian_Vale.md",
+      "sha256": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+      "coverage": "canon_coverage/Chapter_01_ACCEPTED.json",
+      "accepted_on": "2026-09-28",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_01.md — U13: Next chapter; adoption for continuation",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 2,
+      "epoch": "v1",
+      "path": "chapters/Chapter_02_A_Familiar_Face.md",
+      "sha256": "ca0c7914288a614e90c43beb187a5d5a2648a4e1671da6dcf98b49ccc35e8e0f",
+      "coverage": "canon_coverage/Chapter_02_ACCEPTED.json",
+      "accepted_on": "2026-09-28",
+      "acceptance_receipt": "audits/AMENDMENT_Chapter_02_U18.md — U18 continuation from revised branch; U14 original receipt preserved",
+      "acceptance_basis": "continuation_authorization_with_dependency_amendment"
+    },
+    {
+      "number": 3,
+      "epoch": "v1",
+      "path": "chapters/Chapter_03_The_Name_He_Feared.md",
+      "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+      "coverage": "canon_coverage/Chapter_03_ACCEPTED.json",
+      "accepted_on": "2026-09-28",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_03.md — U18: Next; continuation adoption",
+      "acceptance_basis": "continuation_authorization"
+    }
+  ],
+  "drafts": [
+    {
+      "chapter": 1,
+      "revision": "R1",
+      "path": "drafts/Chapter_01_Adrian_Vale_R1.md",
+      "sha256": "6dd0f07897db0573684077491298bb04c016852680f03eb1f6b63a7dc147569c",
+      "status": "unaccepted; preserved, not user-rejected; accident memory superseded by U09/U10",
+      "coverage": "canon_coverage/Chapter_01_R1.json",
+      "review": "audits/CHAPTER_01_RETROSPECTIVE.md",
+      "format_revision": 2,
+      "continuity_conflicts": [
+        {
+          "id": "RC01",
+          "authority": [
+            "U09",
+            "U10"
+          ],
+          "description": "R1 lines 339 and 341 retain the former accident memory. Replace in a future authorized revision; do not treat it as current background."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "revision": "R2",
+      "path": "drafts/Chapter_01_Adrian_Vale_R2.md",
+      "sha256": "93176d3a49f1dfb22d2f3752132d8d06e7a971112f9cdba63ffe8be30e053983",
+      "status": "corrected; locally reviewed at secondary-source scope; awaiting author acceptance",
+      "coverage": "canon_coverage/Chapter_01_R2.json",
+      "review": "audits/CHAPTER_01_R2_REVIEW.md",
+      "format_revision": 2,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 1,
+      "revision": "R3",
+      "path": "drafts/Chapter_01_Adrian_Vale_R3.md",
+      "sha256": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
+      "status": "preserved source revision; adopted as Chapter 1 through U13 continuation instruction",
+      "coverage": "canon_coverage/Chapter_01_R3.json",
+      "review": "audits/CHAPTER_01_R3_REVIEW.md",
+      "format_revision": 2,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 2,
+      "revision": "R1",
+      "path": "drafts/Chapter_02_A_Familiar_Face_R1.md",
+      "sha256": "a75d9c54b6b201e0202f2d2e5c6f0e9f2b4dfc17a23dcc6ac9e9323793c3bbc8",
+      "status": "preserved historical U14-adopted source; superseded in live Chapter 2 by U18 adoption of R2",
+      "coverage": "canon_coverage/Chapter_02_R1.json",
+      "review": "audits/CHAPTER_02_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 3,
+      "revision": "R1",
+      "path": "drafts/Chapter_03_What_Came_With_Us_R1.md",
+      "sha256": "6361194474d150fec578fa2a5334ab18633a000c3503cf86fd3587a538abb1dc",
+      "status": "superseded by U15/U16; preserved historical manuscript, never adopted",
+      "coverage": "canon_coverage/Chapter_03_R1.json",
+      "review": "audits/CHAPTER_03_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": [
+        {
+          "id": "RC03",
+          "authority": [
+            "U15",
+            "U16"
+          ],
+          "description": "Confession-first/escorted-DEO route contradicts the requested rescue-driven reveal."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "revision": "R2",
+      "path": "drafts/Chapter_02_A_Familiar_Face_R2.md",
+      "sha256": "ca0c7914288a614e90c43beb187a5d5a2648a4e1671da6dcf98b49ccc35e8e0f",
+      "status": "preserved source; adopted as amended Chapter 2 through U18 continuation of revised branch",
+      "coverage": "canon_coverage/Chapter_02_R2.json",
+      "review": "audits/CHAPTER_02_R2_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 3,
+      "revision": "R2",
+      "path": "drafts/Chapter_03_The_Name_He_Feared_R2.md",
+      "sha256": "7e54f52150d073fb1134c6efef95747eb826d6232ec21c34d1a8125cb7afbfeb",
+      "status": "preserved rescue-reveal revision; amended by R3 under U17, not adopted",
+      "coverage": "canon_coverage/Chapter_03_R2.json",
+      "review": "audits/CHAPTER_03_R2_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 3,
+      "revision": "R3",
+      "path": "drafts/Chapter_03_The_Name_He_Feared_R3.md",
+      "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
+      "status": "preserved source; adopted as Chapter 3 through U18",
+      "coverage": "canon_coverage/Chapter_03_R3.json",
+      "review": "audits/CHAPTER_03_R3_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 4,
+      "revision": "R1",
+      "path": "drafts/Chapter_04_What_Remains_R1.md",
+      "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
+      "status": "reviewed continuation candidate; not adopted",
+      "coverage": "canon_coverage/Chapter_04_R1.json",
+      "review": "audits/CHAPTER_04_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    }
+  ],
+  "source_authority": {
+    "current_state": "foundation/CURRENT_STATE_MANIFEST.json",
+    "author_locks": "foundation/USER_LOCKS.json",
+    "status_panel": "generated from manifest; never a second editable authority",
+    "talent_master_sha256": "eaced0a52af1ca30c54a4352487a08dc38fc8e39cac274b4ff336b713e723b85"
+  },
+  "open_items": [
+    "O01",
+    "O02",
+    "O03",
+    "O04",
+    "O05",
+    "O06"
+  ],
+  "release": {
+    "ready": true,
+    "chapter": 4,
+    "reason": "Chapter 4 R1 locally reviewed; adopted edge 3 includes U18 Chapter 2 amendment and Chapter 3 R3. Candidate discoveries remain separate."
+  },
+  "events": [
+    {
+      "id": "E001",
+      "kind": "foundation",
+      "date": "2026-09-27",
+      "description": "Project files established from live GitHub workflow and recorded author choices. Chapter 1 R1 preserved without acceptance or rejection."
+    },
+    {
+      "id": "E002",
+      "kind": "foundation_expansion",
+      "date": "2026-09-27",
+      "description": "Expanded the populated story bible, individual dossiers, relationships, knowledge/ability registries, chronology and source metadata at the author’s request. D01–D06 are labelled working designs. No chapter accepted and no remote changes made."
+    },
+    {
+      "id": "E003",
+      "kind": "heading_format",
+      "date": "2026-09-27",
+      "description": "Applied author-requested episode-first/chapter-second heading: Season 1, Episode 1 — Pilot / Chapter 1 — Adrian Vale. Prose body unchanged; no chapter accepted. Previous file preserved in the foundation-002 ZIP."
+    },
+    {
+      "id": "E004",
+      "kind": "relationship_research",
+      "date": "2026-09-28",
+      "description": "Researched Kara’s dating, trust, Kryptonian memory and response to former prisoners; checked the Talent master’s appearance/relationship rules. D07 is a worked counterfactual, not an accepted romance. Preserved asymmetric knowledge possibilities. No draft rewritten or chapter accepted."
+    },
+    {
+      "id": "E005",
+      "kind": "author_background_amendment",
+      "date": "2026-09-28",
+      "description": "U09/U10 establish Kryptonian father from an influential house, Daxamite mother from a collateral royal branch, parents murdered by some Daxamites over the union, and rage-driven city destruction on Krypton. D03 is superseded; D08 records the approved scope. Existing powers, culpability, seal and opening knowledge remain. R1 preserved with an explicit continuity conflict; no romance or chapter accepted."
+    },
+    {
+      "id": "E006",
+      "kind": "chapter_revision",
+      "date": "2026-09-28",
+      "description": "U11 authorized correction of Chapter 1. Wrote and reviewed R2, correcting the mixed-heritage murder/city history and pilot-span omissions. Preserved R1 unchanged. No romance selected, chapter accepted or remote operation performed."
+    },
+    {
+      "id": "E007",
+      "kind": "chapter_amendment",
+      "date": "2026-09-28",
+      "description": "U12 requests ice cream, glazed donuts and pastries Kara likes. R3 adds deliberate breakfast gifts and a shared lunch ice-cream break; preserves other R2 prose, earlier revisions, background and opening identity boundaries. No chapter accepted or remote operation performed."
+    },
+    {
+      "id": "E008",
+      "kind": "continuation_authorization",
+      "date": "2026-09-28",
+      "description": "U13: Next chapter. Adopt latest delivered Chapter 1 R3 unchanged as the preceding chapter; record exact basis rather than inventing an approval quotation."
+    },
+    {
+      "id": "E009",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-28",
+      "description": "Wrote Chapter 2 A Familiar Face: next-day CatCo/Winn/antagonist functions and original evidence-driven mutual disclosure. Candidate discoveries remain separate from accepted Chapter 1 state; no remote changes."
+    },
+    {
+      "id": "E010",
+      "kind": "continuation_authorization",
+      "date": "2026-09-28",
+      "description": "U14: Next. Adopt delivered Chapter 2 unchanged as the preceding chapter; apply its evidenced identity disclosures to accepted continuation ledgers."
+    },
+    {
+      "id": "E011",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-28",
+      "description": "Chapter 3 What Came With Us: voluntary confession, Kara’s verification choice, changed DEO access route, limited records, Cat’s footage suspicion and proposed off-site contact. D09 marks original case-memory/record implementation; no new chapter acceptance or remote changes."
+    },
+    {
+      "id": "E012",
+      "kind": "author_directed_reveal_revision",
+      "date": "2026-09-28",
+      "description": "U15/U16 establish universal prisoner recognition/fear, Alura sentence and complicated Astra/Non history. Chapter 2 R2 adds guarded family recognition; Chapter 3 R2 replaces confession with decisive Vartox rescue and capture. R1 manuscripts/accepted receipts preserved; new prose not falsely adopted."
+    },
+    {
+      "id": "E013",
+      "kind": "wound_care_amendment",
+      "date": "2026-09-28",
+      "description": "U17 permits heat vision for Kara’s injury. Chapter 3 R3 adds consent-based bleeding control after Vartox custody transfer; Alex witnesses/dresses the wound. No full regeneration or implicit adoption; R2 bytes preserved."
+    },
+    {
+      "id": "E014",
+      "kind": "continuation_authorization_and_dependency_amendment",
+      "date": "2026-09-28",
+      "description": "U18: Next. Adopt Chapter 3 R3 and its delivered Chapter 2 R2 dependency for continuation. Preserve genuine U14 Chapter 2 R1 bytes/coverage/receipt in historical records; advance accepted edge to 3, not 4."
+    },
+    {
+      "id": "E015",
+      "kind": "new_chapter_candidate",
+      "date": "2026-09-28",
+      "description": "Chapter 4 What Remains: DEO medical and record consequences, candid crime and family disclosure, voluntary preliminary inquiry, sisters/Alura recording, and Astra response to missing Vartox. No unchanged rematch or automatic romance; no remote changes."
+    }
+  ],
+  "background": {
+    "authority": [
+      "U09",
+      "U10",
+      "U15",
+      "U16"
+    ],
+    "parental_status": {
+      "father": "influential Kryptonian house",
+      "mother": "collateral Daxam royal branch"
+    },
+    "parents_death_kind": "murder",
+    "parents_killers": "some Daxamites; individual identities and authorization unassigned",
+    "parents_death_motive": "opposition to the parents’ cross-world union",
+    "destroyed_city_world": "Krypton",
+    "city_name": null,
+    "casualty_count": null,
+    "summary": "Daxamite attackers murdered his parents over their mixed union. His father belonged to an influential Kryptonian house and his mother to a collateral Daxam royal branch. In rage he destroyed a city on Krypton, with genuine responsibility for mass killing.",
+    "parents_murder_world": "Krypton",
+    "sentencing_judge": "Alura Zor-El",
+    "prisoner_recognition": "All Fort Rozz prisoners know Kael-Varr and greatly fear him. This does not automatically identify his Earth alias or confer obedience.",
+    "astra_non_acquaintance": "Personally met both in prison; complicated relationship, terms not fully assigned."
+  },
+  "continuation_state": {
+    "anchor": "end of adopted Chapter 3 R3; Chapter 2 amendment R2 adopted under U18; Chapter 4 developments remain candidate only",
+    "seal": "released",
+    "kara_identity_known": true,
+    "canon_foreknowledge": false,
+    "known_public_rescue": true,
+    "romance_selection": null,
+    "kara_knows_mixed_ancestry": true,
+    "kara_knows_crime": false,
+    "family_recognition_authority": "U16, realized in Chapter 2 R2 adopted through U18",
+    "kara_knows_kael_name_and_imprisonment": true,
+    "kara_knows_alura_sentence": true,
+    "kara_knows_astra_non_acquaintance": false,
+    "vartox": "alive, restrained in DEO custody at power plant",
+    "kara_injury": "bleeding controlled by precise heat vision; dressed, deeper examination pending",
+    "deo_record_check": "requested, no result yet"
+  },
+  "candidate_endpoint": "planning/Chapter_04_R1_ENDPOINT.json",
+  "reading_branch": {
+    "status": "adopted_through_chapter_3; chapter_4_candidate",
+    "paths": [
+      "chapters/Chapter_01_Adrian_Vale.md",
+      "chapters/Chapter_02_A_Familiar_Face.md",
+      "chapters/Chapter_03_The_Name_He_Feared.md",
+      "drafts/Chapter_04_What_Remains_R1.md"
+    ],
+    "explanation": "U18 adopts the latest delivered branch; earlier U14 Chapter 2 R1 provenance preserved. Chapter 4 awaits continuation/adoption."
+  },
+  "accepted_endpoint": "planning/Chapter_03_R3_ENDPOINT.json"
+}
