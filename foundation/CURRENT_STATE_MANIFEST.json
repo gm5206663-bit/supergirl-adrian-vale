@@ -4,7 +4,7 @@
   "epoch": "v1",
   "revision": "foundation-021",
   "updated_on": "2026-09-30",
-  "phase": "chapter-13-adopted",
+  "phase": "chapter-14-adopted",
   "remote": {
     "configured": false,
     "repository": null,
@@ -113,7 +113,17 @@
       "SG-13-08",
       "SG-13-09",
       "SG-13-10",
-      "SG-13-11"
+      "SG-13-11",
+      "SG-14-01",
+      "SG-14-02",
+      "SG-14-03",
+      "SG-14-04",
+      "SG-14-05",
+      "SG-14-06",
+      "SG-14-07",
+      "SG-14-08",
+      "SG-14-09",
+      "SG-14-10"
     ]
   },
   "identity": {
@@ -152,8 +162,8 @@
     "canon_foreknowledge": false,
     "learned_skills_erased_by_seal": false
   },
-  "accepted_edge": 13,
-  "next_chapter": 14,
+  "accepted_edge": 14,
+  "next_chapter": 15,
   "accepted_chapters": [
     {
       "number": 1,
@@ -287,6 +297,17 @@
       "coverage": "canon_coverage/Chapter_13_ACCEPTED.json",
       "accepted_on": "2026-10-01",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_13.md \u2014 U46: Next",
+      "acceptance_basis": "continuation_authorization",
+      "revision": "R1"
+    },
+    {
+      "number": 14,
+      "epoch": "v1",
+      "path": "chapters/Chapter_14_Hostile_Takeover.md",
+      "sha256": "0db7730f6d1d118b69ee81a5f0a451e8d9a99f150390ee50d6cbf068cc4c1282",
+      "coverage": "canon_coverage/Chapter_14_ACCEPTED.json",
+      "accepted_on": "2026-10-01",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_14.md \u2014 U47: Next",
       "acceptance_basis": "continuation_authorization",
       "revision": "R1"
     }
@@ -539,6 +560,17 @@
       "review": "audits/CHAPTER_13_R1_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
+    },
+    {
+      "chapter": 14,
+      "revision": "R1",
+      "path": "drafts/Chapter_14_Hostile_Takeover_R1.md",
+      "sha256": "0db7730f6d1d118b69ee81a5f0a451e8d9a99f150390ee50d6cbf068cc4c1282",
+      "status": "adopted as Chapter 14 R1 Hostile Takeover clean 2963w",
+      "coverage": "canon_coverage/Chapter_14_R1.json",
+      "review": "audits/CHAPTER_14_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
     }
   ],
   "source_authority": {
@@ -557,8 +589,8 @@
   ],
   "release": {
     "ready": true,
-    "chapter": 13,
-    "reason": "Chapter 13 R1 Human for a Day adopted clean no ticker spam no Cat private secrets, solar flare drain, earthquake Jemm J'onn reveal Astra capture"
+    "chapter": 14,
+    "reason": "Chapter 14 R1 Hostile Takeover adopted clean no ticker spam no Cat private secrets"
   },
   "events": [
     {
