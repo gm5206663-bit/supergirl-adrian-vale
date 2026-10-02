@@ -4,7 +4,7 @@
   "epoch": "v1",
   "revision": "foundation-021",
   "updated_on": "2026-09-30",
-  "phase": "chapter-14-adopted",
+  "phase": "chapter-14-adopted-natural-butterfly",
   "remote": {
     "configured": false,
     "repository": null,
@@ -293,12 +293,12 @@
       "number": 13,
       "epoch": "v1",
       "path": "chapters/Chapter_13_Human_for_a_Day.md",
-      "sha256": "c0cf4b932a6c94c34f8b8df865b597e0bf2a75aeb36872aecafaac387935c45f",
+      "sha256": "15dc592a92f6d7ade38cb7eeb5366dfeea8cf5359ca112dd33a1106ad22e3fe8",
       "coverage": "canon_coverage/Chapter_13_ACCEPTED.json",
-      "accepted_on": "2026-10-01",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_13.md \u2014 U46: Next",
+      "accepted_on": "2026-10-02",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_13.md \u2014 U47: natural butterfly alive Adrian seen",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R1"
+      "revision": "R2"
     },
     {
       "number": 14,
@@ -555,7 +555,7 @@
       "revision": "R1",
       "path": "drafts/Chapter_13_Human_for_a_Day_R1.md",
       "sha256": "c0cf4b932a6c94c34f8b8df865b597e0bf2a75aeb36872aecafaac387935c45f",
-      "status": "adopted as Chapter 13 R1 Human for a Day clean 2460w",
+      "status": "superseded by R2 natural butterfly effects alive Adrian seen",
       "coverage": "canon_coverage/Chapter_13_R1.json",
       "review": "audits/CHAPTER_13_R1_REVIEW.md",
       "format_revision": 1,
@@ -569,6 +569,17 @@
       "status": "adopted as Chapter 14 R1 Hostile Takeover clean 2963w",
       "coverage": "canon_coverage/Chapter_14_R1.json",
       "review": "audits/CHAPTER_14_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 13,
+      "revision": "R2",
+      "path": "drafts/Chapter_13_Human_for_a_Day_R2.md",
+      "sha256": "15dc592a92f6d7ade38cb7eeb5366dfeea8cf5359ca112dd33a1106ad22e3fe8",
+      "status": "adopted as Chapter 13 R2 Human for a Day natural butterfly alive Adrian seen 2694w",
+      "coverage": "canon_coverage/Chapter_13_R2.json",
+      "review": "audits/CHAPTER_13_R2_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }
