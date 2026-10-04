@@ -4,7 +4,7 @@
   "epoch": "v1",
   "revision": "foundation-021",
   "updated_on": "2026-09-30",
-  "phase": "chapter-14-adopted-natural-butterfly-R2",
+  "phase": "chapter-15-adopted-natural-butterfly",
   "remote": {
     "configured": false,
     "repository": null,
@@ -123,7 +123,18 @@
       "SG-14-07",
       "SG-14-08",
       "SG-14-09",
-      "SG-14-10"
+      "SG-14-10",
+      "SG-15-01",
+      "SG-15-02",
+      "SG-15-03",
+      "SG-15-04",
+      "SG-15-05",
+      "SG-15-06",
+      "SG-15-07",
+      "SG-15-08",
+      "SG-15-09",
+      "SG-15-10",
+      "SG-15-11"
     ]
   },
   "identity": {
@@ -162,8 +173,8 @@
     "canon_foreknowledge": false,
     "learned_skills_erased_by_seal": false
   },
-  "accepted_edge": 14,
-  "next_chapter": 15,
+  "accepted_edge": 15,
+  "next_chapter": 16,
   "accepted_chapters": [
     {
       "number": 1,
@@ -310,6 +321,17 @@
       "acceptance_receipt": "audits/CONTINUATION_Chapter_14.md \u2014 U48: natural butterfly alive Adrian seen",
       "acceptance_basis": "continuation_authorization",
       "revision": "R2"
+    },
+    {
+      "number": 15,
+      "epoch": "v1",
+      "path": "chapters/Chapter_15_Blood_Bonds.md",
+      "sha256": "3f18556f908f7fde8a06a79dfff13c07a18f0e602c380af93753a0c512b2c82a",
+      "coverage": "canon_coverage/Chapter_15_ACCEPTED.json",
+      "accepted_on": "2026-10-04",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_15.md \u2014 U49: natural butterfly alive Adrian seen",
+      "acceptance_basis": "continuation_authorization",
+      "revision": "R1"
     }
   ],
   "drafts": [
@@ -591,6 +613,17 @@
       "status": "adopted as Chapter 14 R2 Hostile Takeover natural butterfly alive Adrian seen 2250w",
       "coverage": "canon_coverage/Chapter_14_R2.json",
       "review": "audits/CHAPTER_14_R2_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 15,
+      "revision": "R1",
+      "path": "drafts/Chapter_15_Blood_Bonds_R1.md",
+      "sha256": "3f18556f908f7fde8a06a79dfff13c07a18f0e602c380af93753a0c512b2c82a",
+      "status": "adopted as Chapter 15 R1 Blood Bonds natural butterfly alive Adrian seen 1675w",
+      "coverage": "canon_coverage/Chapter_15_R1.json",
+      "review": "audits/CHAPTER_15_R1_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }
