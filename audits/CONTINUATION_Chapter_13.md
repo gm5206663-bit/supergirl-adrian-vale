@@ -1,2 +1,2 @@
 # Continuation Chapter 13
-Adopted Chapter 13 R1 c0cf4b932a6c94c34f8b8df865b597e0bf2a75aeb36872aecafaac387935c45f Human for a Day clean 2460w per U46 Next
+Adopted Chapter 13 R2 15dc592a92f6d7ade38cb7eeb5366dfeea8cf5359ca112dd33a1106ad22e3fe8 Human for a Day natural butterfly alive Adrian seen 2694w per U47

@@ -1,2 +1,2 @@
 # Continuation Chapter 14
-Adopted Chapter 14 R1 0db7730f6d1d118b69ee81a5f0a451e8d9a99f150390ee50d6cbf068cc4c1282 Hostile Takeover clean 2963w per U47 Next
+Adopted Chapter 14 R2 c8ab97937c01e985a1af9b25e12d5f512692be980761d73ee3f43d37f0d54a78 Hostile Takeover natural butterfly alive Adrian seen 2250w per U48

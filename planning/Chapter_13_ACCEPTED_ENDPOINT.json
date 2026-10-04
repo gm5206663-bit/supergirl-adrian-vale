@@ -1,24 +1,24 @@
 {
-  "status": "adopted_U45",
+  "status": "adopted_U47_natural_butterfly",
   "chapter": 13,
-  "revision": "R1",
-  "draft_path": "drafts/Chapter_13_Human_for_a_Day_R1.md",
-  "draft_sha256": "c0cf4b932a6c94c34f8b8df865b597e0bf2a75aeb36872aecafaac387935c45f",
+  "revision": "R2",
+  "draft_path": "drafts/Chapter_13_Human_for_a_Day_R2.md",
+  "draft_sha256": "15dc592a92f6d7ade38cb7eeb5366dfeea8cf5359ca112dd33a1106ad22e3fe8",
   "depends_on": {
     "path": "chapters/Chapter_12_*.md",
     "sha256": "05a68ba0913ba0c2916f0b79baa5d3317789428a076c7261f933f27f4c1b0481",
     "status": "adopted"
   },
-  "source_span": "Human for a Day - Kara powerless solar flare, earthquake, Jemm escape, J'onn reveal, Astra capture",
+  "source_span": "Human for a Day natural butterfly alive Adrian seen",
   "physical_endpoint": {
-    "adrian": "sealed human-level respects Kara arc",
-    "kara": "powers restored baseline higher settled, captured by Astra"
+    "adrian": "natural butterfly alive seen where to seen",
+    "kara": "powers restored baseline higher settled captured by Astra"
   },
   "candidate_knowledge": {},
   "power_sequence": [],
-  "original_technology_scope": "clean no ticker spam no Cat private secrets",
+  "original_technology_scope": "clean natural butterfly alive",
   "source_outcomes_superseded": [],
-  "relationships": "romance kara after kiss maintained",
+  "relationships": "romance kara Wraith consequences natural",
   "open_threads": [
     "Astra capture"
   ],
