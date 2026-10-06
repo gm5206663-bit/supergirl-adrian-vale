@@ -1,27 +1,25 @@
 {
-  "status": "adopted_U49_natural_butterfly",
+  "status": "adopted_U50_clean_no_meta_r2",
   "chapter": 15,
-  "revision": "R1",
-  "draft_path": "drafts/Chapter_15_Blood_Bonds_R1.md",
-  "draft_sha256": "3f18556f908f7fde8a06a79dfff13c07a18f0e602c380af93753a0c512b2c82a",
+  "revision": "R2",
+  "draft_path": "drafts/Chapter_15_Blood_Bonds_R2.md",
+  "draft_sha256": "f5c6b1ae715eb1a0c18d5556c68e54a5fb3f83d0231743ec6c5e98439d1415c7",
   "depends_on": {
     "path": "chapters/Chapter_14_*.md",
-    "sha256": "c8ab97937c01e985a1af9b25e12d5f512692be980761d73ee3f43d37f0d54a78",
+    "sha256": "prev",
     "status": "adopted"
   },
-  "source_span": "Blood Bonds natural butterfly alive Adrian seen",
+  "source_span": "Clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen R2",
   "physical_endpoint": {
-    "adrian": "natural butterfly alive seen",
-    "kara": "Cat convinced not Supergirl, Astra released, Jane Doe black eyes"
+    "adrian": "clean no meta",
+    "kara": "clean no meta"
   },
   "candidate_knowledge": {},
   "power_sequence": [],
-  "original_technology_scope": "clean natural butterfly alive",
+  "original_technology_scope": "clean no meta",
   "source_outcomes_superseded": [],
-  "relationships": "romance kara Cat knows then convinced not",
-  "open_threads": [
-    "Jane Doe Bizarro, Lord Tech"
-  ],
+  "relationships": "romance kara",
+  "open_threads": [],
   "romance_selection": "kara",
-  "next_source_order": "S01E10 Childish Things"
+  "next_source_order": "clean"
 }

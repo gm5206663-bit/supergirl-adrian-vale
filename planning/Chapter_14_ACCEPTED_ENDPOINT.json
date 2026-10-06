@@ -1,27 +1,25 @@
 {
-  "status": "adopted_U48_natural_butterfly",
+  "status": "adopted_U50_clean_no_meta_r3",
   "chapter": 14,
-  "revision": "R2",
-  "draft_path": "drafts/Chapter_14_Hostile_Takeover_R2.md",
-  "draft_sha256": "c8ab97937c01e985a1af9b25e12d5f512692be980761d73ee3f43d37f0d54a78",
+  "revision": "R3",
+  "draft_path": "drafts/Chapter_14_Hostile_Takeover_R3.md",
+  "draft_sha256": "0db654f315a1affab55d43fdf337c19fcdce3d3596421c29ffdcb70f2fa03e29",
   "depends_on": {
     "path": "chapters/Chapter_13_*.md",
-    "sha256": "15dc592a92f6d7ade38cb7eeb5366dfeea8cf5359ca112dd33a1106ad22e3fe8",
+    "sha256": "prev",
     "status": "adopted"
   },
-  "source_span": "Hostile Takeover natural butterfly alive Adrian seen",
+  "source_span": "Clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen R3",
   "physical_endpoint": {
-    "adrian": "natural butterfly alive seen where to seen",
-    "kara": "Cat knows identity, Astra in DEO, Lord Tech attacked"
+    "adrian": "clean no meta",
+    "kara": "clean no meta"
   },
   "candidate_knowledge": {},
   "power_sequence": [],
-  "original_technology_scope": "clean natural butterfly alive",
+  "original_technology_scope": "clean no meta",
   "source_outcomes_superseded": [],
-  "relationships": "romance kara Cat knows Kara is Supergirl",
-  "open_threads": [
-    "Astra in DEO, Lord Tech attack"
-  ],
+  "relationships": "romance kara",
+  "open_threads": [],
   "romance_selection": "kara",
-  "next_source_order": "S01E09 Blood Bonds"
+  "next_source_order": "clean"
 }

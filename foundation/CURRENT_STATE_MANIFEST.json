@@ -4,7 +4,7 @@
   "epoch": "v1",
   "revision": "foundation-021",
   "updated_on": "2026-09-30",
-  "phase": "chapter-15-adopted-natural-butterfly",
+  "phase": "chapter-15-adopted-clean-no-meta",
   "remote": {
     "configured": false,
     "repository": null,
@@ -304,34 +304,34 @@
       "number": 13,
       "epoch": "v1",
       "path": "chapters/Chapter_13_Human_for_a_Day.md",
-      "sha256": "15dc592a92f6d7ade38cb7eeb5366dfeea8cf5359ca112dd33a1106ad22e3fe8",
+      "sha256": "ef476ae6964ab123f5c664bf39c4bef27ac36e5d4bcc66c7a0b264ccbf8df578",
       "coverage": "canon_coverage/Chapter_13_ACCEPTED.json",
-      "accepted_on": "2026-10-02",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_13.md \u2014 U47: natural butterfly alive Adrian seen",
+      "accepted_on": "2026-10-06",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_13.md \u2014 U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R2"
+      "revision": "R3"
     },
     {
       "number": 14,
       "epoch": "v1",
       "path": "chapters/Chapter_14_Hostile_Takeover.md",
-      "sha256": "c8ab97937c01e985a1af9b25e12d5f512692be980761d73ee3f43d37f0d54a78",
+      "sha256": "0db654f315a1affab55d43fdf337c19fcdce3d3596421c29ffdcb70f2fa03e29",
       "coverage": "canon_coverage/Chapter_14_ACCEPTED.json",
-      "accepted_on": "2026-10-04",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_14.md \u2014 U48: natural butterfly alive Adrian seen",
+      "accepted_on": "2026-10-06",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_14.md \u2014 U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R2"
+      "revision": "R3"
     },
     {
       "number": 15,
       "epoch": "v1",
       "path": "chapters/Chapter_15_Blood_Bonds.md",
-      "sha256": "3f18556f908f7fde8a06a79dfff13c07a18f0e602c380af93753a0c512b2c82a",
+      "sha256": "f5c6b1ae715eb1a0c18d5556c68e54a5fb3f83d0231743ec6c5e98439d1415c7",
       "coverage": "canon_coverage/Chapter_15_ACCEPTED.json",
-      "accepted_on": "2026-10-04",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_15.md \u2014 U49: natural butterfly alive Adrian seen",
+      "accepted_on": "2026-10-06",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_15.md \u2014 U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R1"
+      "revision": "R2"
     }
   ],
   "drafts": [
@@ -626,6 +626,39 @@
       "review": "audits/CHAPTER_15_R1_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
+    },
+    {
+      "chapter": 13,
+      "revision": "R3",
+      "path": "drafts/Chapter_13_Human_for_a_Day_R3.md",
+      "sha256": "ef476ae6964ab123f5c664bf39c4bef27ac36e5d4bcc66c7a0b264ccbf8df578",
+      "status": "candidate R3 clean no meta natural butterfly alive Adrian seen",
+      "coverage": "canon_coverage/Chapter_13_R3.json",
+      "review": "audits/CHAPTER_13_R3_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 14,
+      "revision": "R3",
+      "path": "drafts/Chapter_14_Hostile_Takeover_R3.md",
+      "sha256": "0db654f315a1affab55d43fdf337c19fcdce3d3596421c29ffdcb70f2fa03e29",
+      "status": "candidate R3 clean no meta natural butterfly alive Adrian seen",
+      "coverage": "canon_coverage/Chapter_14_R3.json",
+      "review": "audits/CHAPTER_14_R3_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 15,
+      "revision": "R2",
+      "path": "drafts/Chapter_15_Blood_Bonds_R2.md",
+      "sha256": "f5c6b1ae715eb1a0c18d5556c68e54a5fb3f83d0231743ec6c5e98439d1415c7",
+      "status": "candidate R2 clean no meta natural butterfly alive Adrian seen",
+      "coverage": "canon_coverage/Chapter_15_R2.json",
+      "review": "audits/CHAPTER_15_R2_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
     }
   ],
   "source_authority": {
@@ -644,8 +677,8 @@
   ],
   "release": {
     "ready": true,
-    "chapter": 14,
-    "reason": "Chapter 14 R2 Hostile Takeover natural butterfly alive Adrian seen"
+    "chapter": 15,
+    "reason": "Ch13 R3 1740w + Ch14 R3 1100w + Ch15 R2 1048w clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen, no sealed human-level spam every paragraph, no That was natural butterfly per U39 inside prose"
   },
   "events": [
     {

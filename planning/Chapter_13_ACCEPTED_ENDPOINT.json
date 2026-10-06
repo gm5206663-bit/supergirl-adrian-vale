@@ -1,27 +1,25 @@
 {
-  "status": "adopted_U47_natural_butterfly",
+  "status": "adopted_U50_clean_no_meta_r3",
   "chapter": 13,
-  "revision": "R2",
-  "draft_path": "drafts/Chapter_13_Human_for_a_Day_R2.md",
-  "draft_sha256": "15dc592a92f6d7ade38cb7eeb5366dfeea8cf5359ca112dd33a1106ad22e3fe8",
+  "revision": "R3",
+  "draft_path": "drafts/Chapter_13_Human_for_a_Day_R3.md",
+  "draft_sha256": "ef476ae6964ab123f5c664bf39c4bef27ac36e5d4bcc66c7a0b264ccbf8df578",
   "depends_on": {
     "path": "chapters/Chapter_12_*.md",
-    "sha256": "05a68ba0913ba0c2916f0b79baa5d3317789428a076c7261f933f27f4c1b0481",
+    "sha256": "prev",
     "status": "adopted"
   },
-  "source_span": "Human for a Day natural butterfly alive Adrian seen",
+  "source_span": "Clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen R3",
   "physical_endpoint": {
-    "adrian": "natural butterfly alive seen where to seen",
-    "kara": "powers restored baseline higher settled captured by Astra"
+    "adrian": "clean no meta",
+    "kara": "clean no meta"
   },
   "candidate_knowledge": {},
   "power_sequence": [],
-  "original_technology_scope": "clean natural butterfly alive",
+  "original_technology_scope": "clean no meta",
   "source_outcomes_superseded": [],
-  "relationships": "romance kara Wraith consequences natural",
-  "open_threads": [
-    "Astra capture"
-  ],
+  "relationships": "romance kara",
+  "open_threads": [],
   "romance_selection": "kara",
-  "next_source_order": "S01E08 Hostile Takeover"
+  "next_source_order": "clean"
 }
