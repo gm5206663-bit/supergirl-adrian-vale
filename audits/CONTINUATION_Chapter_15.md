@@ -1,2 +1,2 @@
 # Continuation Chapter 15
-Adopted Chapter 15 R1 3f18556f908f7fde8a06a79dfff13c07a18f0e602c380af93753a0c512b2c82a Blood Bonds natural butterfly alive Adrian seen 1675w per U49
+Adopted Chapter 15 R2 f5c6b1ae715eb1a0c18d5556c68e54a5fb3f83d0231743ec6c5e98439d1415c7 clean no meta per U50

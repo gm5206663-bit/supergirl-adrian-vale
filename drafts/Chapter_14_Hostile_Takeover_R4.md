@@ -14,13 +14,13 @@ In canon, Astra would have said she shielded herself. In our world, the shieldin
 
 Three weeks earlier, after the freeway and the train, Cat Grant had named the masked helper at 7am editorial: The Wraith of National City. Not ticker spam every chapter, but once, natural. Headline. Photo blurred, flight, lifting.
 
-Lord had offered a reward for info on Wraith, once. DEO had said outside jurisdiction, once. Winn had set a private monitor, tag WRAITH, tracking sightings, closed, no civilian disclosure, private means private, Cat only says Keira where is my coffee, not why does Winn have private monitor that says WRAITH.
+Lord had offered a reward for info on Wraith, once. DEO had said outside jurisdiction, once. Winn had set a private monitor, tag WRAITH, tracking sightings, closed, no civilian disclosure.
 
 Lord had not found Wraith. But he had found that Wraith's field bent light, that he absorbed momentum, that he lifted without breaking, that he was not Kryptonian in the usual way.
 
 So Lord had started developing shielding. Not for Wraith — for what Wraith might be fighting. He had pulled Red Tornado's arm after Kara melted asphalt with wide sustained beam in Ch10, had studied the ionization, had kept the Kryptonite he had been stockpiling since Reactron.
 
-During Ch11, when Adrian took Kara close to the sun, not into, close enough full spectrum far enough not burn, field bent light, bio-electric aura filtering, like falling up, prominences flares, white cells drinking water, plugged in, finger healed no scar, Lord's satellites had caught a spike. Not WRAITH SEEN NEAR DEO TEST SITE ticker spam, but a private log, once.
+During Ch11, when Adrian took Kara close to the sun, Lord's satellites had caught a spike. A private log, once.
 
 Lord had combined: Wraith field data + Red Tornado ionization + sun spike + Kryptonite.
 

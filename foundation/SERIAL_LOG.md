@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 79163d49041621a9d3fa2c27982885dca19d5aeed5b255f80b06f38a5163bb62 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ff457c132f4b60db51af4608b29596ce2a6c3bfaba8dbf37f897dfa245c356b4 -->
 
 # Serial log
 
@@ -156,4 +156,4 @@ Chapter 12 The Kiss R2 adopted: 6b33f6da4b30 Fixed meta leak per U39 removed TV 
 
 Rebuild clean per U40 ticker trash and U41 Cat private secrets nonsense: removed ticker spam They stood in silence for a moment city below ticker far below scrolling WRAITH SEEN NEAR DEO TEST SITE — NO COMMENT FROM SUPERGIRL — SUPERGIRL SPOTTED OVER PACIFIC — SOLAR FLARE? — MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH every chapter trash, removed Cat knowing private monitor and James secret nonsense Keira where is coffee and why is there weather balloon sunny and also why does Winn have private monitor says WRAITH and also why does James know WRAITH is Adrian and not tell Lucy, removed Winn cool cool cool joke spam, kept Wraith consequences natural not ticker spam, proper superpowered fights no jokes, no meta TV knowledge, common sense. Ch9 R4 6695f93acde9 2148w Ch10 R3 6c5a8e874f7d 2641w Ch11 R3 42d9cedb9faf 1933w Ch12 R3 05a68ba0913b 1565w total 8287w clean.
 
-Accepted chapter edge: 12. Draft prose is not an accepted event.
+Accepted chapter edge: 15. Draft prose is not an accepted event.
