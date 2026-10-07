@@ -260,45 +260,45 @@
       "number": 9,
       "epoch": "v1",
       "path": "chapters/Chapter_09_Red_Faced_and_Named.md",
-      "sha256": "811af3712b39a1b3893336777ea87f276fd9dac8d27831ffca1dca45409b439a",
+      "sha256": "3dd3335a788691fb6d545515b0021961cd6f8906f86be7970ae6744d94e4fa59",
       "coverage": "canon_coverage/Chapter_09_ACCEPTED.json",
-      "accepted_on": "2026-09-30",
+      "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_09.md \u2014 U44: Rebuild clean no ticker spam no Cat private secrets",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R4"
+      "revision": "R8"
     },
     {
       "number": 10,
       "epoch": "v1",
       "path": "chapters/Chapter_10_Red_Faced_Consequence.md",
-      "sha256": "8580fd176ff5d61f0328333432b2b1af1535214990bbc114d3af285203c02a7f",
+      "sha256": "2d7b91b0b4e839f45cf46007f418d23bea0af0fe6abf1a749b4b5d2ea8051d98",
       "coverage": "canon_coverage/Chapter_10_ACCEPTED.json",
-      "accepted_on": "2026-09-30",
+      "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_10.md \u2014 U44: Rebuild clean no ticker spam no Cat private secrets",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R3"
+      "revision": "R5"
     },
     {
       "number": 11,
       "epoch": "v1",
       "path": "chapters/Chapter_11_The_Sun.md",
-      "sha256": "fd928da4ce1b5c68f518a3249d52942b95d58355bffd069eacbe4047c44ebc0f",
+      "sha256": "016a5dd5b6ca3b8c877a62811642067988f9d98bec3cccaea61d0832e2d54a5f",
       "coverage": "canon_coverage/Chapter_11_ACCEPTED.json",
-      "accepted_on": "2026-09-30",
+      "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_11.md \u2014 U44: Rebuild clean no ticker spam no Cat private secrets",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R3"
+      "revision": "R5"
     },
     {
       "number": 12,
       "epoch": "v1",
       "path": "chapters/Chapter_12_The_Kiss.md",
-      "sha256": "4b4233a5936d2c1baf7aa1a97efd6ae5d642b6e8a982b3964057c9299156e4fd",
+      "sha256": "51f062b962d6410ddc5815d631c97503eab2324c25eb59196952ae757ae0219b",
       "coverage": "canon_coverage/Chapter_12_ACCEPTED.json",
-      "accepted_on": "2026-09-30",
+      "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_12.md \u2014 U44: Rebuild clean no ticker spam no Cat private secrets",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R3"
+      "revision": "R5"
     },
     {
       "number": 13,
@@ -635,6 +635,50 @@
       "status": "adopted as Chapter 13 R5 Human for a Day 3313w full 3000+ not rushing",
       "coverage": "canon_coverage/Chapter_13_R5.json",
       "review": "audits/CHAPTER_13_R5_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 11,
+      "revision": "R5",
+      "path": "drafts/Chapter_11_The_Sun_R5.md",
+      "sha256": "016a5dd5b6ca3b8c877a62811642067988f9d98bec3cccaea61d0832e2d54a5f",
+      "status": "adopted as Chapter 11 R5 full 3000+ not rushing",
+      "coverage": "canon_coverage/Chapter_11_R5.json",
+      "review": "audits/CHAPTER_11_R5_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 12,
+      "revision": "R5",
+      "path": "drafts/Chapter_12_The_Kiss_R5.md",
+      "sha256": "51f062b962d6410ddc5815d631c97503eab2324c25eb59196952ae757ae0219b",
+      "status": "adopted as Chapter 12 R5 full 3000+ not rushing",
+      "coverage": "canon_coverage/Chapter_12_R5.json",
+      "review": "audits/CHAPTER_12_R5_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 9,
+      "revision": "R8",
+      "path": "drafts/Chapter_09_Red_Faced_and_Named_R8.md",
+      "sha256": "3dd3335a788691fb6d545515b0021961cd6f8906f86be7970ae6744d94e4fa59",
+      "status": "adopted as Chapter 9 R8 full 3000+ not rushing",
+      "coverage": "canon_coverage/Chapter_09_R8.json",
+      "review": "audits/CHAPTER_9_R8_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 10,
+      "revision": "R5",
+      "path": "drafts/Chapter_10_Red_Faced_Consequence_R5.md",
+      "sha256": "2d7b91b0b4e839f45cf46007f418d23bea0af0fe6abf1a749b4b5d2ea8051d98",
+      "status": "adopted as Chapter 10 R5 full 3000+ not rushing",
+      "coverage": "canon_coverage/Chapter_10_R5.json",
+      "review": "audits/CHAPTER_10_R5_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }

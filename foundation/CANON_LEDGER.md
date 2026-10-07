@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 9986443ce6821c7889485411d201b8873bd2b8da19dd9c5e1ac208562b09b873 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8440aa35851da7230074ece54dd1d6e1948412ffaecc10b0077a12662ec7a12b -->
 
 # Accepted canon ledger
 
@@ -16,11 +16,11 @@ Accepted beat IDs: SG-10-01, SG-10-02, SG-11-01, SG-11-02, SG-12-01, SG-12-02, S
 - Chapter 6: coverage `canon_coverage/Chapter_06_ACCEPTED.json`; acceptance date 2026-09-30.
 - Chapter 7: coverage `canon_coverage/Chapter_07_ACCEPTED.json`; acceptance date 2026-09-30.
 - Chapter 8: coverage `canon_coverage/Chapter_08_ACCEPTED.json`; acceptance date 2026-09-30.
-- Chapter 9: coverage `canon_coverage/Chapter_09_ACCEPTED.json`; acceptance date 2026-09-30.
-- Chapter 10: coverage `canon_coverage/Chapter_10_ACCEPTED.json`; acceptance date 2026-09-30.
-- Chapter 11: coverage `canon_coverage/Chapter_11_ACCEPTED.json`; acceptance date 2026-09-30.
-- Chapter 12: coverage `canon_coverage/Chapter_12_ACCEPTED.json`; acceptance date 2026-09-30.
-- Chapter 13: coverage `canon_coverage/Chapter_13_ACCEPTED.json`; acceptance date 2026-10-06.
+- Chapter 9: coverage `canon_coverage/Chapter_09_ACCEPTED.json`; acceptance date 2026-10-07.
+- Chapter 10: coverage `canon_coverage/Chapter_10_ACCEPTED.json`; acceptance date 2026-10-07.
+- Chapter 11: coverage `canon_coverage/Chapter_11_ACCEPTED.json`; acceptance date 2026-10-07.
+- Chapter 12: coverage `canon_coverage/Chapter_12_ACCEPTED.json`; acceptance date 2026-10-07.
+- Chapter 13: coverage `canon_coverage/Chapter_13_ACCEPTED.json`; acceptance date 2026-10-07.
 - Chapter 14: coverage `canon_coverage/Chapter_14_ACCEPTED.json`; acceptance date 2026-10-07.
 - Chapter 15: coverage `canon_coverage/Chapter_15_ACCEPTED.json`; acceptance date 2026-10-07.
 

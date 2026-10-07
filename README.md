@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 9986443ce6821c7889485411d201b8873bd2b8da19dd9c5e1ac208562b09b873 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8440aa35851da7230074ece54dd1d6e1948412ffaecc10b0077a12662ec7a12b -->
 
 # Supergirl — Adrian Vale
 
@@ -58,7 +58,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 12](chapters/Chapter_12_The_Kiss.md): audits/CONTINUATION_Chapter_12.md — U44: Rebuild clean no ticker spam no Cat private secrets
 - [Chapter 13](chapters/Chapter_13_Human_for_a_Day.md): audits/CONTINUATION_Chapter_13.md — U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen
 - [Chapter 14](chapters/Chapter_14_Hostile_Takeover.md): audits/CONTINUATION_Chapter_14.md — U52: Kryptonite dagger shown not told
-- [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Ultra clean prose rebuild per sweep flag
+- [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Blood Bonds 2957w proper prose full not rushing per user 3000+ request
 
 ### Preserved drafts and current candidate
 
@@ -81,11 +81,18 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_10_Red_Faced_Consequence_R3.md](drafts/Chapter_10_Red_Faced_Consequence_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 2641w
 - [drafts/Chapter_11_The_Sun_R3.md](drafts/Chapter_11_The_Sun_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1933w
 - [drafts/Chapter_12_The_Kiss_R3.md](drafts/Chapter_12_The_Kiss_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1565w
-- [drafts/Chapter_13_Human_for_a_Day_R3.md](drafts/Chapter_13_Human_for_a_Day_R3.md): candidate R3 clean no meta natural butterfly alive Adrian seen
-- [drafts/Chapter_14_Hostile_Takeover_R5.md](drafts/Chapter_14_Hostile_Takeover_R5.md): adopted as Chapter 14 R5 Hostile Takeover Kryptonite dagger shown not told 1353w clean no meta
-- [drafts/Chapter_15_Blood_Bonds_R4.md](drafts/Chapter_15_Blood_Bonds_R4.md): adopted as Chapter 15 R4 Blood Bonds ultra clean prose per sweep flag
+- [drafts/Chapter_13_Human_for_a_Day_R3.md](drafts/Chapter_13_Human_for_a_Day_R3.md): superseded by R5 3313w full 3000+
+- [drafts/Chapter_14_Hostile_Takeover_R5.md](drafts/Chapter_14_Hostile_Takeover_R5.md): superseded by R8 3554w full 3000+
+- [drafts/Chapter_15_Blood_Bonds_R4.md](drafts/Chapter_15_Blood_Bonds_R4.md): superseded by R5 2957w proper prose full 3000+
+- [drafts/Chapter_15_Blood_Bonds_R5.md](drafts/Chapter_15_Blood_Bonds_R5.md): adopted as Chapter 15 R5 Blood Bonds 2957w proper prose full not rushing 3000+
+- [drafts/Chapter_14_Hostile_Takeover_R8.md](drafts/Chapter_14_Hostile_Takeover_R8.md): adopted as Chapter 14 R8 Hostile Takeover 3554w full 3000+ not rushing
+- [drafts/Chapter_13_Human_for_a_Day_R5.md](drafts/Chapter_13_Human_for_a_Day_R5.md): adopted as Chapter 13 R5 Human for a Day 3313w full 3000+ not rushing
+- [drafts/Chapter_11_The_Sun_R5.md](drafts/Chapter_11_The_Sun_R5.md): adopted as Chapter 11 R5 full 3000+ not rushing
+- [drafts/Chapter_12_The_Kiss_R5.md](drafts/Chapter_12_The_Kiss_R5.md): adopted as Chapter 12 R5 full 3000+ not rushing
+- [drafts/Chapter_09_Red_Faced_and_Named_R8.md](drafts/Chapter_09_Red_Faced_and_Named_R8.md): adopted as Chapter 9 R8 full 3000+ not rushing
+- [drafts/Chapter_10_Red_Faced_Consequence_R5.md](drafts/Chapter_10_Red_Faced_Consequence_R5.md): adopted as Chapter 10 R5 full 3000+ not rushing
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 15, R4**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 10, R5**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -93,7 +100,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 15
+python3 tools/verify.py --ship 10
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.
