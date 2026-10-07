@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ff457c132f4b60db51af4608b29596ce2a6c3bfaba8dbf37f897dfa245c356b4 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: abd543e93cf949f3d1d18f694820300bceafff0855a28cbae2e6863273158850 -->
 
 # Supergirl — Adrian Vale
 
@@ -8,7 +8,7 @@ This is the local, GitHub-ready working project—not another generic DC questio
 
 **Epoch:** v1 · **Revision:** foundation-021  
 **Accepted chapter edge:** 15 · **Next chapter:** 16  
-**Phase:** chapter-15-adopted-clean-no-meta-kryptonite-fix
+**Phase:** chapter-15-adopted-clean-no-meta-kryptonite-shown-not-told
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -57,7 +57,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 11](chapters/Chapter_11_The_Sun.md): audits/CONTINUATION_Chapter_11.md — U44: Rebuild clean no ticker spam no Cat private secrets
 - [Chapter 12](chapters/Chapter_12_The_Kiss.md): audits/CONTINUATION_Chapter_12.md — U44: Rebuild clean no ticker spam no Cat private secrets
 - [Chapter 13](chapters/Chapter_13_Human_for_a_Day.md): audits/CONTINUATION_Chapter_13.md — U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen
-- [Chapter 14](chapters/Chapter_14_Hostile_Takeover.md): audits/CONTINUATION_Chapter_14.md — U51: Kryptonite dagger natural butterfly fix
+- [Chapter 14](chapters/Chapter_14_Hostile_Takeover.md): audits/CONTINUATION_Chapter_14.md — U52: Kryptonite dagger shown not told
 - [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen
 
 ### Preserved drafts and current candidate
@@ -82,11 +82,10 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_11_The_Sun_R3.md](drafts/Chapter_11_The_Sun_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1933w
 - [drafts/Chapter_12_The_Kiss_R3.md](drafts/Chapter_12_The_Kiss_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1565w
 - [drafts/Chapter_13_Human_for_a_Day_R3.md](drafts/Chapter_13_Human_for_a_Day_R3.md): candidate R3 clean no meta natural butterfly alive Adrian seen
-- [drafts/Chapter_14_Hostile_Takeover_R3.md](drafts/Chapter_14_Hostile_Takeover_R3.md): superseded by R4 Kryptonite dagger natural butterfly fix
 - [drafts/Chapter_15_Blood_Bonds_R2.md](drafts/Chapter_15_Blood_Bonds_R2.md): candidate R2 clean no meta natural butterfly alive Adrian seen
-- [drafts/Chapter_14_Hostile_Takeover_R4.md](drafts/Chapter_14_Hostile_Takeover_R4.md): adopted as Chapter 14 R4 Hostile Takeover Kryptonite dagger natural butterfly fix 1551w clean no meta
+- [drafts/Chapter_14_Hostile_Takeover_R5.md](drafts/Chapter_14_Hostile_Takeover_R5.md): adopted as Chapter 14 R5 Hostile Takeover Kryptonite dagger shown not told 1353w clean no meta
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 14, R4**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 14, R5**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 

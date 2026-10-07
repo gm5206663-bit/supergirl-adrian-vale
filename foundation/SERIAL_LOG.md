@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ff457c132f4b60db51af4608b29596ce2a6c3bfaba8dbf37f897dfa245c356b4 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: abd543e93cf949f3d1d18f694820300bceafff0855a28cbae2e6863273158850 -->
 
 # Serial log
 

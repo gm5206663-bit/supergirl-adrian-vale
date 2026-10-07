@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ff457c132f4b60db51af4608b29596ce2a6c3bfaba8dbf37f897dfa245c356b4 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: abd543e93cf949f3d1d18f694820300bceafff0855a28cbae2e6863273158850 -->
 
 # Handoff — Supergirl / Adrian Vale
 
@@ -8,14 +8,14 @@ A native male Kryptonian–Daxamite hybrid Talent holder with a genuinely crimin
 ## 2. The live edge
 **Epoch:** v1 · **Revision:** foundation-021  
 **Accepted chapter edge:** 15 · **Next chapter:** 16  
-**Phase:** chapter-15-adopted-clean-no-meta-kryptonite-fix
+**Phase:** chapter-15-adopted-clean-no-meta-kryptonite-shown-not-told
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
 **U23 public identity:** complete suit/mask for interventions; civilian identity protected. Visual resemblance is out-of-world only. See `bible/PUBLIC_IDENTITY_AND_COSTUME.md`.
 
 
-The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 14, R4**, at `drafts/Chapter_14_Hostile_Takeover_R4.md`: adopted as Chapter 14 R4 Hostile Takeover Kryptonite dagger natural butterfly fix 1551w clean no meta. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
+The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 14, R5**, at `drafts/Chapter_14_Hostile_Takeover_R5.md`: adopted as Chapter 14 R5 Hostile Takeover Kryptonite dagger shown not told 1353w clean no meta. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
 
 ## 3. The one status source
 `foundation/CURRENT_STATE_MANIFEST.json`. STATUS_PANEL, this handoff, SERIAL_LOG and the overview are generated from it. Do not edit a generated mirror to repair state.

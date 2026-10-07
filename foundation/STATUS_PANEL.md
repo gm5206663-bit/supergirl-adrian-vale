@@ -1,10 +1,10 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ff457c132f4b60db51af4608b29596ce2a6c3bfaba8dbf37f897dfa245c356b4 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: abd543e93cf949f3d1d18f694820300bceafff0855a28cbae2e6863273158850 -->
 
 # Current status panel
 
 **Epoch:** v1 · **Revision:** foundation-021  
 **Accepted chapter edge:** 15 · **Next chapter:** 16  
-**Phase:** chapter-15-adopted-clean-no-meta-kryptonite-fix
+**Phase:** chapter-15-adopted-clean-no-meta-kryptonite-shown-not-told
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
