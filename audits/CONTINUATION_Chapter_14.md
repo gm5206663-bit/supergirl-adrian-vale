@@ -1,2 +1,2 @@
 # Continuation Chapter 14
-Adopted Chapter 14 R4 e9fd852515c4a65d5616b9823e6ec2efa6022bef0c5b47fe4cd898b40d6b5682 Hostile Takeover Kryptonite dagger natural butterfly fix 1551w per U51
+Adopted Chapter 14 R5 d788b8e98f68b9c467dc34e36d6548bd544ffb6ce0f607c08212bfb995015617 Hostile Takeover Kryptonite dagger shown not told 1353w per U52
