@@ -304,12 +304,12 @@
       "number": 13,
       "epoch": "v1",
       "path": "chapters/Chapter_13_Human_for_a_Day.md",
-      "sha256": "ef476ae6964ab123f5c664bf39c4bef27ac36e5d4bcc66c7a0b264ccbf8df578",
+      "sha256": "a383f170299e35e797c1f697802512d16d76069b798a4c44f66e3afced58e1b4",
       "coverage": "canon_coverage/Chapter_13_ACCEPTED.json",
-      "accepted_on": "2026-10-06",
+      "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_13.md \u2014 U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R3"
+      "revision": "R5"
     },
     {
       "number": 14,
@@ -577,7 +577,7 @@
       "revision": "R3",
       "path": "drafts/Chapter_13_Human_for_a_Day_R3.md",
       "sha256": "ef476ae6964ab123f5c664bf39c4bef27ac36e5d4bcc66c7a0b264ccbf8df578",
-      "status": "candidate R3 clean no meta natural butterfly alive Adrian seen",
+      "status": "superseded by R5 3313w full 3000+",
       "coverage": "canon_coverage/Chapter_13_R3.json",
       "review": "audits/CHAPTER_13_R3_REVIEW.md",
       "format_revision": 1,
@@ -624,6 +624,17 @@
       "status": "adopted as Chapter 14 R8 Hostile Takeover 3554w full 3000+ not rushing",
       "coverage": "canon_coverage/Chapter_14_R8.json",
       "review": "audits/CHAPTER_14_R8_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 13,
+      "revision": "R5",
+      "path": "drafts/Chapter_13_Human_for_a_Day_R5.md",
+      "sha256": "a383f170299e35e797c1f697802512d16d76069b798a4c44f66e3afced58e1b4",
+      "status": "adopted as Chapter 13 R5 Human for a Day 3313w full 3000+ not rushing",
+      "coverage": "canon_coverage/Chapter_13_R5.json",
+      "review": "audits/CHAPTER_13_R5_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }
