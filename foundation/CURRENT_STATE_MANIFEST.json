@@ -326,12 +326,12 @@
       "number": 15,
       "epoch": "v1",
       "path": "chapters/Chapter_15_Blood_Bonds.md",
-      "sha256": "5426c3f7bec2a4a5f8bc123721372a0db2d712f815fa448ea951e8845b2545c9",
+      "sha256": "9b16317f2296c5bc4f86e36cff015d56b5228439b270c76e97c6f9731280c3e8",
       "coverage": "canon_coverage/Chapter_15_ACCEPTED.json",
       "accepted_on": "2026-10-07",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_15.md \u2014 Ultra clean prose rebuild per sweep flag",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_15.md \u2014 Blood Bonds 2957w proper prose full not rushing per user 3000+ request",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R4"
+      "revision": "R5"
     }
   ],
   "drafts": [
@@ -599,9 +599,20 @@
       "revision": "R4",
       "path": "drafts/Chapter_15_Blood_Bonds_R4.md",
       "sha256": "5426c3f7bec2a4a5f8bc123721372a0db2d712f815fa448ea951e8845b2545c9",
-      "status": "adopted as Chapter 15 R4 Blood Bonds ultra clean prose per sweep flag",
+      "status": "superseded by R5 2957w proper prose full 3000+",
       "coverage": "canon_coverage/Chapter_15_R4.json",
       "review": "audits/CHAPTER_15_R4_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 15,
+      "revision": "R5",
+      "path": "drafts/Chapter_15_Blood_Bonds_R5.md",
+      "sha256": "9b16317f2296c5bc4f86e36cff015d56b5228439b270c76e97c6f9731280c3e8",
+      "status": "adopted as Chapter 15 R5 Blood Bonds 2957w proper prose full not rushing 3000+",
+      "coverage": "canon_coverage/Chapter_15_R5.json",
+      "review": "audits/CHAPTER_15_R5_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }
