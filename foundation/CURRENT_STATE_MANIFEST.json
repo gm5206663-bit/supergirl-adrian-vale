@@ -326,12 +326,12 @@
       "number": 15,
       "epoch": "v1",
       "path": "chapters/Chapter_15_Blood_Bonds.md",
-      "sha256": "fbd67cd27eb90d807ce17eb12183ceaf4a575354d947a42228743a8582069ec6",
+      "sha256": "5426c3f7bec2a4a5f8bc123721372a0db2d712f815fa448ea951e8845b2545c9",
       "coverage": "canon_coverage/Chapter_15_ACCEPTED.json",
-      "accepted_on": "2026-10-06",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_15.md \u2014 U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
+      "accepted_on": "2026-10-07",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_15.md \u2014 Ultra clean prose rebuild per sweep flag",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R2"
+      "revision": "R4"
     }
   ],
   "drafts": [
@@ -588,7 +588,7 @@
       "revision": "R2",
       "path": "drafts/Chapter_15_Blood_Bonds_R2.md",
       "sha256": "fbd67cd27eb90d807ce17eb12183ceaf4a575354d947a42228743a8582069ec6",
-      "status": "candidate R2 clean no meta natural butterfly alive Adrian seen",
+      "status": "superseded by R4 ultra clean prose rebuild",
       "coverage": "canon_coverage/Chapter_15_R2.json",
       "review": "audits/CHAPTER_15_R2_REVIEW.md",
       "format_revision": 1,
@@ -602,6 +602,17 @@
       "status": "adopted as Chapter 14 R5 Hostile Takeover Kryptonite dagger shown not told 1353w clean no meta",
       "coverage": "canon_coverage/Chapter_14_R5.json",
       "review": "audits/CHAPTER_14_R5_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 15,
+      "revision": "R4",
+      "path": "drafts/Chapter_15_Blood_Bonds_R4.md",
+      "sha256": "5426c3f7bec2a4a5f8bc123721372a0db2d712f815fa448ea951e8845b2545c9",
+      "status": "adopted as Chapter 15 R4 Blood Bonds ultra clean prose per sweep flag",
+      "coverage": "canon_coverage/Chapter_15_R4.json",
+      "review": "audits/CHAPTER_15_R4_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }
