@@ -14,11 +14,12 @@ def make_views(root):
     stamp = '<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ' + digest + ' -->\n\n'
     i, s = m['identity'], m['opening_state']
     # 2026-10-07 sweep: never walk dot-directories — the map was listing .git
-# internals (.git/config, objects, FETCH_HEAD ...) as project files, which is
-# 496 dead links in a shipped view and points readers at local state.
-paths = sorted(set(str(p.relative_to(root)) for p in root.rglob('*')
-                    if p.is_file() and not any(part.startswith('.') for part in p.parts)
-                    and '__pycache__' not in p.parts) | set(GENERATED))
+    # internals (.git/config, objects, FETCH_HEAD ...) as project files: 496 dead
+    # links in a shipped view, pointing readers at local state (and at .git/config,
+    # where a tokenized clone keeps its credential).
+    paths = sorted(set(str(p.relative_to(root)) for p in root.rglob('*')
+                       if p.is_file() and not any(part.startswith('.') for part in p.parts)
+                       and '__pycache__' not in p.parts) | set(GENERATED))
     draft_lines = '\n'.join('- [' + d['path'] + '](' + d['path'] + '): ' + d['status'] for d in m['drafts']) or '- None.'
     common = f"**Epoch:** {m['epoch']} · **Revision:** {m['revision']}  \n**Accepted chapter edge:** {m['accepted_edge']} · **Next chapter:** {m['next_chapter']}  \n**Phase:** {m['phase']}"
     if m.get('active_audit'):
