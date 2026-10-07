@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "chapter": 16,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_16_Childish_Things_R1.md",
+  "draft_sha256": "805042d9ebb9183db52fb205b05e6768e6363a7ab824562128eb3e79735b2366",
+  "accepted": true,
+  "claimed_episode": "S01E10 Childish Things",
+  "span": "Childish Things full 3000+ Toyman proper fights natural butterfly alive Adrian seen",
+  "sources": [
+    {
+      "id": "SRC-SG-E10-CB",
+      "url": "http://comicboxcommentary.blogspot.com/2016/01/supergirl-episode-10-childish-things.html",
+      "title": "Supergirl Episode 10 Childish Things - Comic Box Commentary",
+      "accessed": "2026-10-07",
+      "verification": "Toyman Winslow Schott Sr breaks out prison yo-yo bladed circular saw kills guards, J'onn reluctant show powers flying with Kara, FBI Agent Cameron Chase questions Winn about father Toyman staff learns Winn father Toyman, Winn hates father loved dad until murdered 6 people Dunholtz stole designs bomb teddy bear killed assistant co-workers, doll leads boardwalk arcade creepy dolls robotic stuffed animals, FBI storms arcade not real Toyman simulacrum hologram poison gas, Kara vacuum breath inhales gas disperses sky tells Winn needs him, Alex bullies Hank use Martian powers infiltrate Lord Industries Room 52 dinner date MATA HARI, Winn figures father old factory Supergirl confronts trapped thermite quicksand giant building block child steamer trunk shredder, Winn talks apartment worries snap like father genes time bomb Kara response both lives ended day strive give back, Winn kidnapped father insane plan 10 bombs toy convention kill Dunholtz bring closer, Winn refuses kill shoots air Supergirl sprinklers freeze ice wall dome protects, captured relationship damaged Winn confesses love Kara, Alex Kara TV night warning, Maxwell Lord camera Alex purse knows Supergirl Alex sister, Cat Lucy catty Lois job offer"
+    },
+    {
+      "id": "SRC-SG-E10-MY",
+      "url": "http://www.mygeekygeekyways.com/2016/01/supergirl-episode-guide-season-1_18.html",
+      "title": "Supergirl S01E10 Guide Childish Things",
+      "accessed": "2026-10-07",
+      "verification": "Toyman escapes prison talking clown yo-yo daggers, Winn father mad killer Toyman, Kara double duty protect Winn FBI agent prove involved, Winn personality beyond crushing Kara pathos cowardice anger not give in, Toyman darker kidnapper murder Cat son comics, Dollmaker Anton Schott abandoned son obsessed Cat Grant mommy, Animated series Toyman Winslow Schott Jr father framed Intergang Bruno Mannheim revenge, DCTVU Toyman combines elements revenge causing son lose childhood make Winn killer, Van Kell Maximum Security meta-humans, FBI Agent Cameron Chase, Chester Dunholtz corrupt boss stole designs bomb teddy bear killed 6 assistant, doll jester 1970s costume, Superman toy rocket ride arcade, Supergirl inhales poison gas feat comics, J'onn phases through wall Room 52 phasing power, bladed yo-yo shuriken string, hydrochloric acid NaCl H2O lethal, plastic gun bypass metal detectors, Alex dialogue, Lucy Lane West Point Harvard JD-MBA, Winslow Schott Sr 6 counts murder, 90% CatCo women, Max backup cameras sees himself supernatural, Winn kisses Kara apologizes, Lucy job Cat lawyer James photographer, Max camera Alex purse knows Kara Supergirl"
+    },
+    {
+      "id": "SRC-SG-E10-SH",
+      "url": "https://www.superherohype.com/features/363009-supergirl-episode-10-recap-childish-things",
+      "title": "Supergirl Episode 10 Recap Childish Things - SuperHeroHype",
+      "accessed": "2026-10-07",
+      "verification": "Toyman terrifying talking clown yo-yo daggers escapes, news upsets Winn FBI question Kara overhears Winn father Toyman best friend until boss Dunholz stole designs bomb teddy bear 6 innocent, talking toy meet favorite spot Winn tells Chase sting, arcade seaside FBI open fire hologram glass counterattack poison gas Supergirl inhales gas exhales atmosphere, Winn manic father killed next time FBI finds, Supergirl abandoned SlingSchott factory creepy thermite quicksand explosives child screaming steamer trunk shredder forget freeze breath, Winn Kara apartment throw towel call Chase Kara calms comparisons murderous relatives Winn worried snap kisses pulls away, father ethers kidnaps plastic gun convention 10 bombs kill hundreds bring closer best thing ever made robot, Winn refuses kill shoots air Supergirl sprinklers freeze ice wall igloo protects, Winn Minecraft confesses love afraid bottling crazy father, Alex dinner Max Lord powers phasing Room 52 Jane Doe black eyes guard memory loss invisible backup video himself supernatural camera purse Alex Kara flight Supergirl sister, Cat Lucy Lois"
+    },
+    {
+      "id": "SRC-U40-TRASH",
+      "url": "user_request_U40_trash",
+      "title": "No ticker spam",
+      "accessed": "2026-10-07",
+      "verification": "Remove ticker spam WRAITH SEEN NEAR DEO TEST SITE every chapter, Lord reward once DEO outside jurisdiction once Winn private monitor closed"
+    },
+    {
+      "id": "SRC-U41-CAT",
+      "url": "user_request_U41_cat",
+      "title": "No Cat private secrets",
+      "accessed": "2026-10-07",
+      "verification": "Cat must not know private monitor nor James secret, private means private Cat only says Keira where is coffee"
+    },
+    {
+      "id": "SRC-U42-REBUILD",
+      "url": "user_request_U42_rebuild",
+      "title": "Rebuild 9-12 clean proper fights",
+      "accessed": "2026-10-07",
+      "verification": "Rebuild 9-12 clean no ticker no Cat secrets no joke spam proper fights supersonic absorbing momentum"
+    },
+    {
+      "id": "SRC-U52-NATURAL",
+      "url": "user_request_U52_natural_butterfly",
+      "title": "Natural butterfly alive Adrian seen",
+      "accessed": "2026-10-07",
+      "verification": "Natural butterfly effects completely dead and Adrian now where to seen - fixed by Adrian seen early CatCo chipped mug theater mask magnet Evelyn family DEO further back sealed bullpen pen hearing debris help soup Wraith field bent light evac lift beam car ordinary choice share catch Kara quiet you okay share history natural phrasing romance affects Winn James Alex naturally"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-16-01",
+      "status": "covered",
+      "reason": "Toyman Winslow Schott Sr escapes Van Kell prison with bladed yo-yo circular saw kills guards, news upsets Winn",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-02",
+      "status": "covered",
+      "reason": "FBI Agent Cameron Chase questions Winn about father, staff learns Winn father is Toyman, Winn hates father loved dad until murdered 6 people Dunholtz stole toy designs bomb teddy bear killed assistant",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-03",
+      "status": "covered",
+      "reason": "Talking doll jester costume leads Winn to boardwalk arcade Superman rocket ride, FBI sting hologram not real Toyman poison gas trap",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-04",
+      "status": "covered",
+      "reason": "Supergirl vacuum breath inhales poison gas disperses sky, tells Winn needs him, Winn manic father killed next time",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-05",
+      "status": "covered",
+      "reason": "Alex bullies Hank J'onn use Martian powers infiltrate Lord Industries Room 52, dinner date with Max Lord MATA HARI, J'onn phases through door biometric Jane Doe black eyes Bizarro backup cameras sees himself supernatural",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-06",
+      "status": "covered",
+      "reason": "Winn figures father old factory SlingSchott, Supergirl confronts trapped thermite quicksand giant building block child steamer trunk shredder doll, freeze breath escapes",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-07",
+      "status": "covered",
+      "reason": "Winn at Kara apartment worries snap like father genes time bomb cowardice anger, Kara comforts both lives ended day strive give back, Winn kisses Kara pulls away",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-08",
+      "status": "covered",
+      "reason": "Toyman kidnaps Winn ethers, plastic gun bypass metal detectors to kill Dunholtz at toy convention 10 bombs hidden toys kill hundreds bring closer best thing ever made",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-09",
+      "status": "covered",
+      "reason": "Winn at convention cannot kill Dunholtz shoots air, Supergirl saves with sprinklers freeze breath ice dome igloo protects everyone from bombs",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-10",
+      "status": "covered",
+      "reason": "Winn confesses love since before Supergirl Minecraft needs space bottling feelings like father, Lucy job CatCo lawyer JD-MBA Harvard West Point 90% women James reluctant, Lord plants camera Alex purse learns Supergirl is Alex sister CONTINGENCY TV night warning",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-16-11",
+      "status": "changed_with_receipt",
+      "reason": "Adrian natural butterfly alive seen: chipped mug theater mask magnet Evelyn family, bullpen pen hearing hallway text, Wraith field bent light evac lift beam car ordinary choice share catching Kara quiet you okay, sun baseline higher cells remember overcompensate, proper superpowered fights no jokes, no ticker spam Lord reward once DEO outside jurisdiction once Winn private monitor closed, Cat private only coffee, romance affects Winn James Alex naturally",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-MY",
+        "SRC-SG-E10-SH",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT",
+        "SRC-U42-REBUILD",
+        "SRC-U52-NATURAL"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_16_R1_REVIEW.md",
+      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_16_R1_REVIEW.md",
+      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+    },
+    "power": {
+      "path": "audits/CHAPTER_16_R1_REVIEW.md",
+      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_16_R1_REVIEW.md",
+      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_16_R1_REVIEW.md",
+      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [],
+  "notes": "Full 4469w proper prose not rushing per user 3000_plus request S01E10 Childish Things Toyman proper fights natural butterfly alive Adrian seen",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 10,
+    "canon_title": "Childish Things",
+    "chapter": 16,
+    "chapter_title": "Childish Things full 3000+ Toyman proper"
+  }
+}

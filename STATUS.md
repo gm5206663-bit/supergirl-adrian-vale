@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8440aa35851da7230074ece54dd1d6e1948412ffaecc10b0077a12662ec7a12b -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 460a7a2d33a3dbc7e5a8c3e61775c2b2dcee3c757963bdbb552f52767a415c4b -->
 
 # File map
 
@@ -63,6 +63,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/CHAPTER_15_R2_REVIEW.md](audits/CHAPTER_15_R2_REVIEW.md)
 - [audits/CHAPTER_15_R4_REVIEW.md](audits/CHAPTER_15_R4_REVIEW.md)
 - [audits/CHAPTER_15_R5_REVIEW.md](audits/CHAPTER_15_R5_REVIEW.md)
+- [audits/CHAPTER_16_R1_REVIEW.md](audits/CHAPTER_16_R1_REVIEW.md)
 - [audits/CHAPTER_9_R8_REVIEW.md](audits/CHAPTER_9_R8_REVIEW.md)
 - [audits/CHECKSUMS.sha256](audits/CHECKSUMS.sha256)
 - [audits/COMPLETE_CHECK_2026_09_30.md](audits/COMPLETE_CHECK_2026_09_30.md)
@@ -235,6 +236,8 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [canon_coverage/Chapter_15_R2.json](canon_coverage/Chapter_15_R2.json)
 - [canon_coverage/Chapter_15_R4.json](canon_coverage/Chapter_15_R4.json)
 - [canon_coverage/Chapter_15_R5.json](canon_coverage/Chapter_15_R5.json)
+- [canon_coverage/Chapter_16_ACCEPTED.json](canon_coverage/Chapter_16_ACCEPTED.json)
+- [canon_coverage/Chapter_16_R1.json](canon_coverage/Chapter_16_R1.json)
 - [canon_coverage/EPISODE_02_BEAT_MAP.md](canon_coverage/EPISODE_02_BEAT_MAP.md)
 - [canon_coverage/EPISODE_03_BEAT_MAP.md](canon_coverage/EPISODE_03_BEAT_MAP.md)
 - [canon_coverage/EPISODE_04_BEAT_MAP.md](canon_coverage/EPISODE_04_BEAT_MAP.md)
@@ -274,6 +277,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [chapters/Chapter_13_Human_for_a_Day.md](chapters/Chapter_13_Human_for_a_Day.md)
 - [chapters/Chapter_14_Hostile_Takeover.md](chapters/Chapter_14_Hostile_Takeover.md)
 - [chapters/Chapter_15_Blood_Bonds.md](chapters/Chapter_15_Blood_Bonds.md)
+- [chapters/Chapter_16_Childish_Things.md](chapters/Chapter_16_Childish_Things.md)
 - [chapters/README.md](chapters/README.md)
 - [codex/ADRIAN_KARA_CANON_STUDY.md](codex/ADRIAN_KARA_CANON_STUDY.md)
 - [codex/BUTTERFLY_REGISTRY.md](codex/BUTTERFLY_REGISTRY.md)
@@ -338,6 +342,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [drafts/Chapter_14_Hostile_Takeover_R8.md](drafts/Chapter_14_Hostile_Takeover_R8.md)
 - [drafts/Chapter_15_Blood_Bonds_R4.md](drafts/Chapter_15_Blood_Bonds_R4.md)
 - [drafts/Chapter_15_Blood_Bonds_R5.md](drafts/Chapter_15_Blood_Bonds_R5.md)
+- [drafts/Chapter_16_Childish_Things_R1.md](drafts/Chapter_16_Childish_Things_R1.md)
 - [drafts/README.md](drafts/README.md)
 - [foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip](foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip)
 - [foundation/AUTHORITY_AND_PROVENANCE.md](foundation/AUTHORITY_AND_PROVENANCE.md)

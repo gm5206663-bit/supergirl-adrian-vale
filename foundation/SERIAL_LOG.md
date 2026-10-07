@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8440aa35851da7230074ece54dd1d6e1948412ffaecc10b0077a12662ec7a12b -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 460a7a2d33a3dbc7e5a8c3e61775c2b2dcee3c757963bdbb552f52767a415c4b -->
 
 # Serial log
 
@@ -156,4 +156,8 @@ Chapter 12 The Kiss R2 adopted: 6b33f6da4b30 Fixed meta leak per U39 removed TV 
 
 Rebuild clean per U40 ticker trash and U41 Cat private secrets nonsense: removed ticker spam They stood in silence for a moment city below ticker far below scrolling WRAITH SEEN NEAR DEO TEST SITE — NO COMMENT FROM SUPERGIRL — SUPERGIRL SPOTTED OVER PACIFIC — SOLAR FLARE? — MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH every chapter trash, removed Cat knowing private monitor and James secret nonsense Keira where is coffee and why is there weather balloon sunny and also why does Winn have private monitor says WRAITH and also why does James know WRAITH is Adrian and not tell Lucy, removed Winn cool cool cool joke spam, kept Wraith consequences natural not ticker spam, proper superpowered fights no jokes, no meta TV knowledge, common sense. Ch9 R4 6695f93acde9 2148w Ch10 R3 6c5a8e874f7d 2641w Ch11 R3 42d9cedb9faf 1933w Ch12 R3 05a68ba0913b 1565w total 8287w clean.
 
-Accepted chapter edge: 15. Draft prose is not an accepted event.
+## chapter-16-adopted-2026-10-07 — 2026-10-07 — adopted_chapter
+
+Chapter 16 Childish Things R1 adopted 4469w full 3000+ S01E10 Toyman proper fights natural butterfly Adrian seen
+
+Accepted chapter edge: 16. Draft prose is not an accepted event.

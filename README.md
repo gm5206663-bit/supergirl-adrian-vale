@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8440aa35851da7230074ece54dd1d6e1948412ffaecc10b0077a12662ec7a12b -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 460a7a2d33a3dbc7e5a8c3e61775c2b2dcee3c757963bdbb552f52767a415c4b -->
 
 # Supergirl — Adrian Vale
 
@@ -7,8 +7,8 @@
 This is the local, GitHub-ready working project—not another generic DC questionnaire kit. It records the author's chosen Supergirl premise, foundations, original draft, canon research, state and executable checks.
 
 **Epoch:** v1 · **Revision:** foundation-021  
-**Accepted chapter edge:** 15 · **Next chapter:** 16  
-**Phase:** chapter-15-adopted-clean-no-meta-kryptonite-shown-not-told
+**Accepted chapter edge:** 16 · **Next chapter:** 17  
+**Phase:** chapter-16-adopted-childish-things-toyman-4469w-full
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -59,6 +59,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 13](chapters/Chapter_13_Human_for_a_Day.md): audits/CONTINUATION_Chapter_13.md — U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen
 - [Chapter 14](chapters/Chapter_14_Hostile_Takeover.md): audits/CONTINUATION_Chapter_14.md — U52: Kryptonite dagger shown not told
 - [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Blood Bonds 2957w proper prose full not rushing per user 3000+ request
+- [Chapter 16](chapters/Chapter_16_Childish_Things.md): audits/CONTINUATION_Chapter_16.md — Childish Things 4469w full not rushing S01E10 Toyman proper fights
 
 ### Preserved drafts and current candidate
 
@@ -91,8 +92,9 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_12_The_Kiss_R5.md](drafts/Chapter_12_The_Kiss_R5.md): adopted as Chapter 12 R5 full 3000+ not rushing
 - [drafts/Chapter_09_Red_Faced_and_Named_R8.md](drafts/Chapter_09_Red_Faced_and_Named_R8.md): adopted as Chapter 9 R8 full 3000+ not rushing
 - [drafts/Chapter_10_Red_Faced_Consequence_R5.md](drafts/Chapter_10_Red_Faced_Consequence_R5.md): adopted as Chapter 10 R5 full 3000+ not rushing
+- [drafts/Chapter_16_Childish_Things_R1.md](drafts/Chapter_16_Childish_Things_R1.md): adopted as Chapter 16 R1 full 4469w not rushing S01E10 Childish Things Toyman
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 10, R5**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 16, R1**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -100,7 +102,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 10
+python3 tools/verify.py --ship 16
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.
