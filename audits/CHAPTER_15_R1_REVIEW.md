@@ -27,13 +27,13 @@ PASS - Fixed dead butterfly:
 PASS - Proper superpowered fights supersonic absorbing momentum flight counter rotation lifting slamming, Non hit through Lord lab wall, Adrian as Wraith field bent light helping evacuate not head-on Kryptonians civilian identity protected per U23 ordinary choice share. No joke fights.
 
 ## Knowledge
-PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line They stood in silence city below [REMOVED - ticker spam cleaned] WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
+PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line [REMOVED ticker] [REMOVED - ticker spam cleaned] WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
 
 ## Prose
 PASS - Past tense descriptive internal thoughts no ticker spam every chapter no Cat private-secrets nonsense proper choreography.
 
 ## Clean Compliance
-PASS per U40 ticker trash removed U41 Cat private monitor nonsense removed U42 Rebuild clean plus natural butterfly alive Adrian seen.
+PASS [REMOVED] ticker trash removed U41 Cat private monitor nonsense removed U42 Rebuild clean plus natural butterfly alive Adrian seen.
 
 SHA: 3f18556f908f7fde8a06a79dfff13c07a18f0e602c380af93753a0c512b2c82a
 Word count: 1675w

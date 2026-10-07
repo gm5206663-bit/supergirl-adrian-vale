@@ -30,7 +30,7 @@ PASS - Fixed forgetting natural butterfly that already happened:
 PASS - Early CatCo chipped mug theater mask magnet Evelyn family, DEO holding cell further back, bullpen pen hearing, helping move debris soup that counts as soup, Wraith field bent light helping evacuate lifting beam car ordinary choice share catching Kara quiet you okay, sharing family history natural phrasing influential house father collateral royal branch mother murdered Some Daxamites Over union destroyed city genuine responsibility caught because exhausted built device myself because wanted ordinary.
 
 ## No Meta Inside Story
-PASS - No That was natural butterfly per U39 saves in Ch9 media coverage inside prose, no sealed human-level band wrist chipped mug theater mask magnet every paragraph spam, no per U39 per U40 inside chapter, no ticker spam line They stood in silence city below [REMOVED - ticker spam cleaned] [REMOVED - ticker spam cleaned]... No Cat knowing private monitor Wraith nor James secret.
+PASS - No [REMOVED meta note [REMOVED]] saves in Ch9 media coverage inside prose, no sealed human-level band wrist chipped mug theater mask magnet every paragraph spam, no [REMOVED] [REMOVED] inside chapter, no ticker spam line [REMOVED ticker] [REMOVED - ticker spam cleaned] [REMOVED - ticker spam cleaned]... No Cat knowing private monitor Wraith nor James secret.
 
 ## Power
 PASS - Proper superpowered fights supersonic absorbing momentum flight counter rotation lifting slamming, Non hit through wall, Adrian as Wraith field bent light helping evacuate not head-on civilian identity protected.
@@ -42,7 +42,7 @@ PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bull
 PASS - Past tense descriptive internal thoughts, no meta notes inside prose.
 
 ## Clean Compliance
-PASS per U40 ticker trash removed U41 Cat private secrets removed U42 Rebuild clean plus natural butterfly alive Adrian seen plus no meta inside plus Kryptonite dagger natural butterfly fix.
+PASS [REMOVED] ticker trash removed U41 Cat private secrets removed U42 Rebuild clean plus natural butterfly alive Adrian seen plus no meta inside plus Kryptonite dagger natural butterfly fix.
 
 SHA: e9fd852515c4a65d5616b9823e6ec2efa6022bef0c5b47fe4cd898b40d6b5682
 Word count: 1551w

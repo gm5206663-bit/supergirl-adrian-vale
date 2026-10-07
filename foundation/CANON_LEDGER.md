@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 111f90f9242879e56f79f3a7d8cdb5e83e9cb8a2878855244d06fe63631256f0 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 9986443ce6821c7889485411d201b8873bd2b8da19dd9c5e1ac208562b09b873 -->
 
 # Accepted canon ledger
 
@@ -22,6 +22,6 @@ Accepted beat IDs: SG-10-01, SG-10-02, SG-11-01, SG-11-02, SG-12-01, SG-12-02, S
 - Chapter 12: coverage `canon_coverage/Chapter_12_ACCEPTED.json`; acceptance date 2026-09-30.
 - Chapter 13: coverage `canon_coverage/Chapter_13_ACCEPTED.json`; acceptance date 2026-10-06.
 - Chapter 14: coverage `canon_coverage/Chapter_14_ACCEPTED.json`; acceptance date 2026-10-07.
-- Chapter 15: coverage `canon_coverage/Chapter_15_ACCEPTED.json`; acceptance date 2026-10-06.
+- Chapter 15: coverage `canon_coverage/Chapter_15_ACCEPTED.json`; acceptance date 2026-10-07.
 
 Draft-only coverage lives in canon_coverage/. It does not advance this ledger. The pilot map is a planning index, not an accepted span or complete episode-viewing receipt.

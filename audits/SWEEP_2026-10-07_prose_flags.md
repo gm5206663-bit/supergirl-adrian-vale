@@ -29,14 +29,14 @@ Exact lines from the chapter, quoted:
 - "It picked up right where Hostile Takeover left off, with Kara and Non flying
   toward each other over Lord Technologies…" — a recap sentence, not a scene.
 - "Non and Kara clashed in sky, supersonic, absorbing momentum, flight counter
-  rotation, **proper superpowered fight, no jokes**." — instruction-voice.
+  rotation, **[REMOVED reviewer voice]**." — instruction-voice.
 - "J'onn could have fought, shapeshifting, flight, super-strength, telepathy,
   density control, but stayed human…" — capability list, not moment.
 - "Alex received message from Non, offer prisoner exchange: Hank for Astra.
-  **Tough position.**"
+  **[REMOVED short note]**"
 - "Astra surprised by Kara's faith, **which makes you think she's going to
   betray her**. But Astra doesn't."
-- "**Slightly disappointing because liked possibilities Cat being in know.**"
+- "**[REMOVED reviewer voice]**"
 - "After trading Hank for Astra… **Touching moment, further reveals show's
   optimism.**"
 

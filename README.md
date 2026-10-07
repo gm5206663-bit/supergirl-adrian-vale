@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 111f90f9242879e56f79f3a7d8cdb5e83e9cb8a2878855244d06fe63631256f0 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 9986443ce6821c7889485411d201b8873bd2b8da19dd9c5e1ac208562b09b873 -->
 
 # Supergirl — Adrian Vale
 
@@ -58,7 +58,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 12](chapters/Chapter_12_The_Kiss.md): audits/CONTINUATION_Chapter_12.md — U44: Rebuild clean no ticker spam no Cat private secrets
 - [Chapter 13](chapters/Chapter_13_Human_for_a_Day.md): audits/CONTINUATION_Chapter_13.md — U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen
 - [Chapter 14](chapters/Chapter_14_Hostile_Takeover.md): audits/CONTINUATION_Chapter_14.md — U52: Kryptonite dagger shown not told
-- [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen
+- [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Ultra clean prose rebuild per sweep flag
 
 ### Preserved drafts and current candidate
 
@@ -82,10 +82,10 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_11_The_Sun_R3.md](drafts/Chapter_11_The_Sun_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1933w
 - [drafts/Chapter_12_The_Kiss_R3.md](drafts/Chapter_12_The_Kiss_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1565w
 - [drafts/Chapter_13_Human_for_a_Day_R3.md](drafts/Chapter_13_Human_for_a_Day_R3.md): candidate R3 clean no meta natural butterfly alive Adrian seen
-- [drafts/Chapter_15_Blood_Bonds_R2.md](drafts/Chapter_15_Blood_Bonds_R2.md): candidate R2 clean no meta natural butterfly alive Adrian seen
 - [drafts/Chapter_14_Hostile_Takeover_R5.md](drafts/Chapter_14_Hostile_Takeover_R5.md): adopted as Chapter 14 R5 Hostile Takeover Kryptonite dagger shown not told 1353w clean no meta
+- [drafts/Chapter_15_Blood_Bonds_R4.md](drafts/Chapter_15_Blood_Bonds_R4.md): adopted as Chapter 15 R4 Blood Bonds ultra clean prose per sweep flag
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 14, R5**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 15, R4**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -93,7 +93,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 14
+python3 tools/verify.py --ship 15
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.

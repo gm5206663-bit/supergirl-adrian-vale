@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 111f90f9242879e56f79f3a7d8cdb5e83e9cb8a2878855244d06fe63631256f0 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 9986443ce6821c7889485411d201b8873bd2b8da19dd9c5e1ac208562b09b873 -->
 
 # File map
 
@@ -56,6 +56,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/CHAPTER_14_R5_REVIEW.md](audits/CHAPTER_14_R5_REVIEW.md)
 - [audits/CHAPTER_15_R1_REVIEW.md](audits/CHAPTER_15_R1_REVIEW.md)
 - [audits/CHAPTER_15_R2_REVIEW.md](audits/CHAPTER_15_R2_REVIEW.md)
+- [audits/CHAPTER_15_R4_REVIEW.md](audits/CHAPTER_15_R4_REVIEW.md)
 - [audits/CHECKSUMS.sha256](audits/CHECKSUMS.sha256)
 - [audits/COMPLETE_CHECK_2026_09_30.md](audits/COMPLETE_CHECK_2026_09_30.md)
 - [audits/COMPLETE_CHECK_2026_09_30_V2.md](audits/COMPLETE_CHECK_2026_09_30_V2.md)
@@ -219,6 +220,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [canon_coverage/Chapter_15_ACCEPTED.json](canon_coverage/Chapter_15_ACCEPTED.json)
 - [canon_coverage/Chapter_15_R1.json](canon_coverage/Chapter_15_R1.json)
 - [canon_coverage/Chapter_15_R2.json](canon_coverage/Chapter_15_R2.json)
+- [canon_coverage/Chapter_15_R4.json](canon_coverage/Chapter_15_R4.json)
 - [canon_coverage/EPISODE_02_BEAT_MAP.md](canon_coverage/EPISODE_02_BEAT_MAP.md)
 - [canon_coverage/EPISODE_03_BEAT_MAP.md](canon_coverage/EPISODE_03_BEAT_MAP.md)
 - [canon_coverage/EPISODE_04_BEAT_MAP.md](canon_coverage/EPISODE_04_BEAT_MAP.md)
@@ -314,7 +316,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [drafts/Chapter_12_The_Kiss_R3.md](drafts/Chapter_12_The_Kiss_R3.md)
 - [drafts/Chapter_13_Human_for_a_Day_R3.md](drafts/Chapter_13_Human_for_a_Day_R3.md)
 - [drafts/Chapter_14_Hostile_Takeover_R5.md](drafts/Chapter_14_Hostile_Takeover_R5.md)
-- [drafts/Chapter_15_Blood_Bonds_R2.md](drafts/Chapter_15_Blood_Bonds_R2.md)
+- [drafts/Chapter_15_Blood_Bonds_R4.md](drafts/Chapter_15_Blood_Bonds_R4.md)
 - [drafts/README.md](drafts/README.md)
 - [foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip](foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip)
 - [foundation/AUTHORITY_AND_PROVENANCE.md](foundation/AUTHORITY_AND_PROVENANCE.md)

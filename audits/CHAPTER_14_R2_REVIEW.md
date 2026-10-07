@@ -17,7 +17,7 @@ PASS - Previously dead now alive:
 - Wraith public naming by Cat Grant after freeway train saves Ch9 media coverage Lord reward once DEO outside jurisdiction once Winn private monitor tracking Wraith tag closed no civilian disclosure no ticker spam every chapter
 - Sun trip U38 baseline higher settled truly higher permanent cells remember overcompensate not 120% temporary, healing factor arm healed cold gone hearing three blocks, natural butterfly of sun offer
 - Human for a Day consequences: Kara now truly higher baseline, broken arm healed but remembering being human, powers humming baseline higher settled, arm healed cold gone
-- Kiss romance kara per U39 consensual agency after sun: Winn sees vitals spike private monitor after kiss roof cold November wind powers humming higher cartoon bandage pocket finger healed reserves 120% ordinary was choice share sun, then closes monitor private only common sense not telling Cat, James knows Wraith is Adrian guessed not tell Lucy private not told Cat
+- Kiss romance kara [REMOVED] consensual agency after sun: Winn sees vitals spike private monitor after kiss roof cold November wind powers humming higher cartoon bandage pocket finger healed reserves 120% ordinary was choice share sun, then closes monitor private only common sense not telling Cat, James knows Wraith is Adrian guessed not tell Lucy private not told Cat
 - Cat only says Keira where is my coffee and also where is my son, Cat secret Adam not private monitor, private means private common sense, no Cat knowing private monitor Wraith nor James secret
 - Lord reward once not ticker spam every chapter, DEO outside jurisdiction once, Wraith consequences natural not ticker spam
 - J'onn reveal Ch13 natural butterfly: Alex knows Hank is J'onn last son Mars real Henshaw died Peru Jeremiah sacrifice promised protect daughters cannot tell Kara yet, so Alex watches Astra with J'onn both knowing secret Kara does not
@@ -37,13 +37,13 @@ PASS - Previously invisible now seen where to seen:
 PASS - Proper superpowered fights baseline higher settled faster than before Human for a Day cells remember overcompensate supersonic absorbing momentum flight counter rotation lifting slamming, Non hit through wall, Adrian as Wraith field bent light helping evacuate not head-on Kryptonians civilian identity protected per U23, ordinary choice share. No joke fights.
 
 ## Knowledge
-PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line They stood in silence city below [REMOVED - ticker spam cleaned] WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
+PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line [REMOVED ticker] [REMOVED - ticker spam cleaned] WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
 
 ## Prose
 PASS - Past tense descriptive internal thoughts no ticker spam every chapter no Cat private-secrets nonsense proper choreography.
 
 ## Clean Compliance
-PASS per U40 ticker trash removed U41 Cat private monitor nonsense removed U42 Rebuild clean plus natural butterfly alive Adrian seen fix.
+PASS [REMOVED] ticker trash removed U41 Cat private monitor nonsense removed U42 Rebuild clean plus natural butterfly alive Adrian seen fix.
 
 SHA: c8ab97937c01e985a1af9b25e12d5f512692be980761d73ee3f43d37f0d54a78
 Word count: 2250w

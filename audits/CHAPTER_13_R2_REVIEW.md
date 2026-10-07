@@ -35,13 +35,13 @@ PASS - Previously invisible, now seen where to seen:
 PASS - Kara powerless human vulnerable cold broken arm cannot lift table X-ray fails human heroism robbery talk down, adrenaline restores powers flight super breath short bursts not wide beam melt healing factor returns bone knitting, baseline higher settled truly higher permanent cells remember overcompensate. Adrian sealed human-level respects arc not omnipotent solving.
 
 ## Knowledge
-PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line They stood in silence city below [REMOVED - ticker spam cleaned] WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
+PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line [REMOVED ticker] [REMOVED - ticker spam cleaned] WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
 
 ## Prose
 PASS - Past tense descriptive internal thoughts no ticker spam every chapter no Cat private-secrets nonsense proper choreography human heroism.
 
 ## Clean Compliance
-PASS per U40 ticker trash removed U41 Cat private monitor nonsense removed U42 Rebuild clean, plus natural butterfly alive Adrian seen fix per user.
+PASS [REMOVED] ticker trash removed U41 Cat private monitor nonsense removed U42 Rebuild clean, plus natural butterfly alive Adrian seen fix per user.
 
 SHA: 15dc592a92f6d7ade38cb7eeb5366dfeea8cf5359ca112dd33a1106ad22e3fe8
 Word count: 2694w

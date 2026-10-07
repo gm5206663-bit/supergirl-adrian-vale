@@ -140,29 +140,29 @@
   "review_receipts": {
     "canon": {
       "path": "audits/CHAPTER_14_R3_REVIEW.md",
-      "sha256": "775d5df5a72d58d42fa601d7af7c874702c157740bd733e0e99d4b333c9f7bcb"
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     },
     "continuity": {
       "path": "audits/CHAPTER_14_R3_REVIEW.md",
-      "sha256": "775d5df5a72d58d42fa601d7af7c874702c157740bd733e0e99d4b333c9f7bcb"
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     },
     "power": {
       "path": "audits/CHAPTER_14_R3_REVIEW.md",
-      "sha256": "775d5df5a72d58d42fa601d7af7c874702c157740bd733e0e99d4b333c9f7bcb"
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     },
     "knowledge": {
       "path": "audits/CHAPTER_14_R3_REVIEW.md",
-      "sha256": "775d5df5a72d58d42fa601d7af7c874702c157740bd733e0e99d4b333c9f7bcb"
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     },
     "prose": {
       "path": "audits/CHAPTER_14_R3_REVIEW.md",
-      "sha256": "775d5df5a72d58d42fa601d7af7c874702c157740bd733e0e99d4b333c9f7bcb"
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     }
   },
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Clean rebuild R3 no meta notes inside chapter, no sealed human-level spam every paragraph, no That was natural butterfly per U39, common sense proper fights",
+  "notes": "Clean rebuild R3 no meta notes inside chapter, no sealed human-level spam every paragraph, no [REMOVED meta note], common sense proper fights",
   "format_revision": 1,
   "heading": {
     "season": 1,

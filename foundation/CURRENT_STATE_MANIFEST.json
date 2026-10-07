@@ -584,17 +584,6 @@
       "continuity_conflicts": []
     },
     {
-      "chapter": 15,
-      "revision": "R2",
-      "path": "drafts/Chapter_15_Blood_Bonds_R2.md",
-      "sha256": "fbd67cd27eb90d807ce17eb12183ceaf4a575354d947a42228743a8582069ec6",
-      "status": "superseded by R4 ultra clean prose rebuild",
-      "coverage": "canon_coverage/Chapter_15_R2.json",
-      "review": "audits/CHAPTER_15_R2_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
-    },
-    {
       "chapter": 14,
       "revision": "R5",
       "path": "drafts/Chapter_14_Hostile_Takeover_R5.md",

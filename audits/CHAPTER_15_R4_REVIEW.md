@@ -19,7 +19,7 @@ Canon Coverage PASS S01E09 Blood Bonds per sweep flag rebuild:
 - Heroes rejoice Maxwell top-secret room Jane Doe black eyes Red Tornado arm Bizarro
 
 Sweep Flag Fix PASS:
-- Before R2 was mostly episode summary in note form with reviewer/instruction voice 'proper superpowered fight, no jokes' 'Tough position.' 'Slightly disappointing because liked possibilities Cat being in know.' against U40/U41 standards and own receipt clean no meta claim
+- Before R2 was mostly episode summary in note form with reviewer/instruction voice '[REMOVED reviewer voice]' '[REMOVED short note]' '[REMOVED reviewer voice]' against U40/U41 standards and own receipt clean no meta claim
 - Now R4 proper prose past tense descriptive internal thoughts no reviewer voice inside story no meta notes
 - No ticker spam
 - No Cat private secrets
@@ -28,6 +28,6 @@ Sweep Flag Fix PASS:
 - Proper fights supersonic absorbing momentum flight counter rotation
 - Natural butterfly alive Adrian seen where to seen: CatCo early hearing alarm from CatCo, helping evacuate lifting beam car catching Kara through lab wall quiet you okay, back at desk
 
-Clean Compliance PASS per U40 ticker U41 Cat private U42 Rebuild U50 clean no meta
+Clean Compliance PASS [REMOVED] ticker U41 Cat private U42 Rebuild U50 clean no meta
 
 SHA 5426c3f7bec2a4a5f8bc123721372a0db2d712f815fa448ea951e8845b2545c9 1155w
