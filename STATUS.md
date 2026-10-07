@@ -79,6 +79,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/HERITAGE_RETCON_2026_09_28.md](audits/HERITAGE_RETCON_2026_09_28.md)
 - [audits/MISTAKES_AND_CORRECTIONS.md](audits/MISTAKES_AND_CORRECTIONS.md)
 - [audits/RESCUE_REVEAL_REVISION.md](audits/RESCUE_REVEAL_REVISION.md)
+- [audits/SWEEP_2026-10-07_prose_flags.md](audits/SWEEP_2026-10-07_prose_flags.md)
 - [audits/VALIDATION.md](audits/VALIDATION.md)
 - [audits/history/CHAPTER_04_R1_pre_audit_REVIEW.md](audits/history/CHAPTER_04_R1_pre_audit_REVIEW.md)
 - [audits/history/Chapter_02_ACCEPTED_pre_U18.json](audits/history/Chapter_02_ACCEPTED_pre_U18.json)
