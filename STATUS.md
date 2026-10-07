@@ -1,16 +1,12 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: abd543e93cf949f3d1d18f694820300bceafff0855a28cbae2e6863273158850 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 111f90f9242879e56f79f3a7d8cdb5e83e9cb8a2878855244d06fe63631256f0 -->
 
 # File map
 
 Generated project navigation. File presence does not imply approval or canon verification.
 
-- [.git/AUTO_MERGE](.git/AUTO_MERGE)
 - [.git/COMMIT_EDITMSG](.git/COMMIT_EDITMSG)
 - [.git/FETCH_HEAD](.git/FETCH_HEAD)
 - [.git/HEAD](.git/HEAD)
-- [.git/MERGE_HEAD](.git/MERGE_HEAD)
-- [.git/MERGE_MODE](.git/MERGE_MODE)
-- [.git/MERGE_MSG](.git/MERGE_MSG)
 - [.git/ORIG_HEAD](.git/ORIG_HEAD)
 - [.git/description](.git/description)
 - [.git/hooks/applypatch-msg.sample](.git/hooks/applypatch-msg.sample)
@@ -31,7 +27,6 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [.git/info/exclude](.git/info/exclude)
 - [.git/logs/HEAD](.git/logs/HEAD)
 - [.git/logs/refs/heads/main](.git/logs/refs/heads/main)
-- [.git/logs/refs/heads/remote_main](.git/logs/refs/heads/remote_main)
 - [.git/logs/refs/remotes/origin/main](.git/logs/refs/remotes/origin/main)
 - [.git/objects/00/29a268cc510a16e7433e6c1b666cfa9dfc5d57](.git/objects/00/29a268cc510a16e7433e6c1b666cfa9dfc5d57)
 - [.git/objects/00/dc01a73240b79c5bfc2bf7ae2569aef390e126](.git/objects/00/dc01a73240b79c5bfc2bf7ae2569aef390e126)
@@ -106,6 +101,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [.git/objects/21/71264af78bd317d3546f5b4ced47a77eb2dabe](.git/objects/21/71264af78bd317d3546f5b4ced47a77eb2dabe)
 - [.git/objects/21/d90721c54a2ded6cd3037b26b573b396149c66](.git/objects/21/d90721c54a2ded6cd3037b26b573b396149c66)
 - [.git/objects/21/f27e37ac251730ed6621d3c85a7b78661795ab](.git/objects/21/f27e37ac251730ed6621d3c85a7b78661795ab)
+- [.git/objects/22/d7c9342b5928c51c1785f71f17b28a094d57df](.git/objects/22/d7c9342b5928c51c1785f71f17b28a094d57df)
 - [.git/objects/23/1fe073a1d2878b1bffeb7819be47dc394dec93](.git/objects/23/1fe073a1d2878b1bffeb7819be47dc394dec93)
 - [.git/objects/23/2aafac6560b351fbd2755143fdd7598535dc53](.git/objects/23/2aafac6560b351fbd2755143fdd7598535dc53)
 - [.git/objects/24/d34e403dc9becb9bf3937a42b792927f2c1f5e](.git/objects/24/d34e403dc9becb9bf3937a42b792927f2c1f5e)
@@ -525,6 +521,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [.git/objects/d7/455c068c399176438ed78f461a5b20783d15fc](.git/objects/d7/455c068c399176438ed78f461a5b20783d15fc)
 - [.git/objects/d8/16295bf284d288393c8ebf196d272637ac498d](.git/objects/d8/16295bf284d288393c8ebf196d272637ac498d)
 - [.git/objects/d8/f35d1249ee9a76d85427250af6385bb1598d37](.git/objects/d8/f35d1249ee9a76d85427250af6385bb1598d37)
+- [.git/objects/d9/01a9ca4b7f141814849fa2271e5cbeecb24123](.git/objects/d9/01a9ca4b7f141814849fa2271e5cbeecb24123)
 - [.git/objects/d9/39dcb4c2b1846f348d69a6e5da25aec9d26732](.git/objects/d9/39dcb4c2b1846f348d69a6e5da25aec9d26732)
 - [.git/objects/d9/438e29a25498a1410c813583289b04cb0c17ab](.git/objects/d9/438e29a25498a1410c813583289b04cb0c17ab)
 - [.git/objects/d9/a94f94be9eabd724ffcb7bc4cd45205d9f6213](.git/objects/d9/a94f94be9eabd724ffcb7bc4cd45205d9f6213)
@@ -556,6 +553,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [.git/objects/e7/c488bf0fe369899a3b2259c98510af86d440f4](.git/objects/e7/c488bf0fe369899a3b2259c98510af86d440f4)
 - [.git/objects/e7/ee781003892d98bfe25d5724bd41e8d2107f26](.git/objects/e7/ee781003892d98bfe25d5724bd41e8d2107f26)
 - [.git/objects/e8/39ee3801cf24edeaa866ed9dd76765c0a2ff0b](.git/objects/e8/39ee3801cf24edeaa866ed9dd76765c0a2ff0b)
+- [.git/objects/e8/7219e4b4a17202035037abf0c1a9fdcab8d765](.git/objects/e8/7219e4b4a17202035037abf0c1a9fdcab8d765)
 - [.git/objects/e9/76e3a9d7ae2949369a07758edbd2a6db156af4](.git/objects/e9/76e3a9d7ae2949369a07758edbd2a6db156af4)
 - [.git/objects/e9/98d3a8d029b52f0115a669c1ae6bac565e1a54](.git/objects/e9/98d3a8d029b52f0115a669c1ae6bac565e1a54)
 - [.git/objects/e9/cc597622f07e95a00e16c0572c950e7724fe0e](.git/objects/e9/cc597622f07e95a00e16c0572c950e7724fe0e)
@@ -614,7 +612,6 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [.git/objects/ff/850203482f24ad4d8ed0a40f49e33821644d68](.git/objects/ff/850203482f24ad4d8ed0a40f49e33821644d68)
 - [.git/objects/ff/fab125afca380d71ac862abda5749765aadced](.git/objects/ff/fab125afca380d71ac862abda5749765aadced)
 - [.git/refs/heads/main](.git/refs/heads/main)
-- [.git/refs/heads/remote_main](.git/refs/heads/remote_main)
 - [.git/refs/remotes/origin/main](.git/refs/remotes/origin/main)
 - [.gitignore](.gitignore)
 - [AGENTS.md](AGENTS.md)

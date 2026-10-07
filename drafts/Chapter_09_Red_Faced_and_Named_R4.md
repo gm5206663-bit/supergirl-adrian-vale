@@ -51,13 +51,13 @@ Adrian almost smiled. "I did not pick."
 
 Kara flushed. "Ms. Hart, I— about the other day, outside the diner—"
 
-"You thought I was his girlfriend," Evelyn said warmly. "Anyone would. He has that face that makes people assume the obvious."
+"You thought I was his girlfriend," she said warmly. "Anyone would. He has that face that makes people assume the obvious."
 
 "You helped him when he came here?" Kara asked.
 
-"I rented in the same building when he was figuring out how to live like this," Evelyn said, choosing words that did not require an explanation of the band beneath his cuff. "How to shop, how to use the bus, how to not answer every question as if it were an interrogation. He was very serious. He still is, but less."
+"I rented in the same building when he was figuring out how to live like this," she said, choosing words that did not require an explanation of the band beneath his cuff. "How to shop, how to use the bus, how to not answer every question as if it were an interrogation. He was very serious. He still is, but less."
 
-After Evelyn left to finish packing, Kara and Adrian stood in the lobby.
+After she left to finish packing, Kara and Adrian stood in the lobby.
 
 "I am sorry I misunderstood," Kara said.
 
@@ -67,9 +67,9 @@ After Evelyn left to finish packing, Kara and Adrian stood in the lobby.
 
 "It is normal to feel that," he said. "When you see someone important to someone you care about and you do not know where you stand."
 
-Evelyn's cab came at three. Adrian walked her the last block. Kara came to say goodbye.
+she's cab came at three. Adrian walked her the last block. Kara came to say goodbye.
 
-"You will call?" Evelyn asked Adrian.
+"You will call?" she asked Adrian.
 
 "Yes."
 
@@ -81,13 +81,13 @@ She hugged him, then turned to Kara. "Take care of him. He is good at taking car
 
 "I will," Kara said.
 
-After the cab left, Adrian placed the chipped mug on his desk next to the theater mask magnet.
+After the cab left, Adrian placed the mug on his desk next to the theater mask magnet.
 
 ***
 
 The road rage call came while Kara was trying to enjoy five minutes of flying.
 
-She had gone up above the clouds after Evelyn left, just to breathe. For five minutes she could be just Kara.
+She had gone up above the clouds after she left, just to breathe. For five minutes she could be just Kara.
 
 Then two drivers decided a four-way stop was a suggestion.
 
@@ -191,7 +191,7 @@ The army ended the test.
 
 Kara did not stand down.
 
-Her pent-up anger — about the road rage clip, about Cat's mother making Cat sharp, about Evelyn leaving and the chipped mug, about Wraith getting named before she could tell Adrian she was glad he had a name, about never having a normal life because her parents put her in a ship — got the best of her. She kept punching. Her fists blurred. She ripped off a forearm with a scream of tortured metal. Sparks flew. Hydraulic fluid sprayed.
+Her pent-up anger — about the road rage clip, about Cat's mother making Cat sharp, about she leaving and the mug, about Wraith getting named before she could tell Adrian she was glad he had a name, about never having a normal life because her parents put her in a ship — got the best of her. She kept punching. Her fists blurred. She ripped off a forearm with a scream of tortured metal. Sparks flew. Hydraulic fluid sprayed.
 
 Red Tornado's emergency self-preservation protocol activated. Its remaining eye flared, it generated a full tornado around itself, throwing Kara back, then launched straight up, stealth mode engaging, bending light, invisible. The wind from its departure knocked over a Humvee.
 
@@ -221,7 +221,7 @@ During midday martinis at a quiet bar with no cameras, Cat shared how being angr
 
 "You need to find the anger behind the anger," Cat told Kara. "What are you really angry about?"
 
-Kara thought about the ship, about her parents, about never having a normal life, about seeing Adrian with Evelyn and thinking she had lost something before she had it, about breaking a man's wrist and scaring children.
+Kara thought about the ship, about her parents, about never having a normal life, about seeing Adrian with she and thinking she had lost something before she had it, about breaking a man's wrist and scaring children.
 
 "I am angry that I will never have a normal life," she said quietly. "My parents guaranteed that the moment they put me in that ship."
 

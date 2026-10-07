@@ -84,19 +84,19 @@ She set the cup down and hugged him. Not a quick office hug. She put both arms a
 
 Kara managed to smile. “Hi. I am—”
 
-“Kara Danvers. Cat's assistant. The one who is almost as good at Settlers of Catan as Cat.” Evelyn extended a hand, warm. “Evelyn Hart.”
+“Kara Danvers. Cat's assistant. The one who is almost as good at Settlers of Catan as Cat.” Evelyn extended a hand, warm. “she Hart.”
 
-Adrian looked between them. “Evelyn helped me when I first came to National City. When I was—” He searched for a word that would not require an explanation. “Figuring out how to live here.”
+Adrian looked between them. “she helped me when I first came to National City. When I was—” He searched for a word that would not require an explanation. “Figuring out how to live here.”
 
-“She means when he was terrible at being human,” Evelyn said lightly. “He still is, but less.”
+“She means when he was terrible at being human,” she said lightly. “He still is, but less.”
 
-Kara laughed before she could stop herself. Adrian gave Evelyn a look that was half exasperation, half affection.
+Kara laughed before she could stop herself. Adrian gave she a look that was half exasperation, half affection.
 
 “I have to get back to the desk,” Kara said. “Nice to meet you.”
 
-“You too.” Evelyn picked up her duffel. “I will steal him for an hour. Family dinner. He promised he would not work through Thanksgiving.”
+“You too.” she picked up her duffel. “I will steal him for an hour. Family dinner. He promised he would not work through Thanksgiving.”
 
-Kara watched them go toward the elevators, Evelyn's hand briefly on Adrian's arm as she told him about Vancouver, about a director who made everyone do trust falls. The gesture was casual, caring, familiar.
+Kara watched them go toward the elevators, she's hand briefly on Adrian's arm as she told him about Vancouver, about a director who made everyone do trust falls. The gesture was casual, caring, familiar.
 
 It looked like something else if you did not know the history.
 
@@ -176,9 +176,9 @@ She looked at her hands, at the light crawling over them, and smiled evilly befo
 
 ***
 
-Adrian had taken Evelyn to a small diner near his apartment, the kind that served soup that actually counted as soup.
+Adrian had taken she to a small diner near his apartment, the kind that served soup that actually counted as soup.
 
-“You are still doing the thing where you work through holidays,” Evelyn said, stirring her tea.
+“You are still doing the thing where you work through holidays,” she said, stirring her tea.
 
 “I am not. Cat gave us tomorrow off.”
 
@@ -186,7 +186,7 @@ Adrian had taken Evelyn to a small diner near his apartment, the kind that serve
 
 “This morning. Kara—” He stopped. “I had breakfast.”
 
-Evelyn studied him. “Kara is the one you mentioned? The coworker who is—” She searched for his phrasing. “Trying very hard?”
+she studied him. “Kara is the one you mentioned? The coworker who is—” She searched for his phrasing. “Trying very hard?”
 
 “Yes.”
 
@@ -194,7 +194,7 @@ Evelyn studied him. “Kara is the one you mentioned? The coworker who is—” 
 
 Adrian nodded.
 
-Evelyn leaned back. “You like her.”
+she leaned back. “You like her.”
 
 It was not a question. Adrian did not answer immediately.
 
@@ -204,13 +204,13 @@ It was not a question. Adrian did not answer immediately.
 
 “I know.”
 
-Evelyn smiled, soft. “Kid, you are allowed to like people. Even after—” She did not finish. She did not need to. She knew he had come to National City wanting ordinary life after something terrible, knew he used a device to stay at human-level, knew he wanted to be normal. She did not know the city he had destroyed, or the name Kael-Varr, or the prisoners who feared him.
+she smiled, soft. “Kid, you are allowed to like people. Even after—” She did not finish. She did not need to. She knew he had come to National City wanting ordinary life after something terrible, knew he used a device to stay at human-level, knew he wanted to be normal. She did not know the city he had destroyed, or the name Kael-Varr, or the prisoners who feared him.
 
 “I brought you something,” she said, changing subject. She pulled a small, chipped ceramic magnet from her bag, shaped like a theater mask. “For your fridge. So you remember you have a fridge.”
 
 He took it. “Thank you.”
 
-They finished eating. On the way out, Evelyn linked her arm through his, leaning a little because the sidewalk was slick.
+They finished eating. On the way out, she linked her arm through his, leaning a little because the sidewalk was slick.
 
 Kara, coming from the hospital with Cat, saw them from across the street.
 
@@ -282,7 +282,7 @@ She looked at Kara, then at Henshaw.
 
 Kara found Adrian in the break room the next morning. He was alone, making coffee, the theater mask magnet now on the fridge.
 
-Evelyn was not there.
+she was not there.
 
 “Hey,” Kara said, trying to sound normal.
 
@@ -290,7 +290,7 @@ Evelyn was not there.
 
 “Yes. Leslie— she—” She stopped. “How was your dinner?”
 
-Adrian poured coffee. “Good. Evelyn leaves tomorrow morning. She was filming in Vancouver.”
+Adrian poured coffee. “Good. she leaves tomorrow morning. She was filming in Vancouver.”
 
 Kara stared at the magnet. “She is—” She searched for a casual way to ask. “She is your—”
 
@@ -318,7 +318,7 @@ Kara nodded, glasses slipping.
 
 “She is not my girlfriend,” Adrian said. “She is my sister. Not by blood. By—” He searched. “By staying.”
 
-From the doorway, Evelyn's voice: “By being stubborn enough to stay when he was terrible at being human.”
+From the doorway, she's voice: “By being stubborn enough to stay when he was terrible at being human.”
 
 She stood there with two paper cups, hair still damp from rain, smiling at Kara with an actress's perceptiveness.
 
@@ -326,19 +326,19 @@ She stood there with two paper cups, hair still damp from rain, smiling at Kara 
 
 Kara flushed deeper. “I— I misunderstood. I am sorry. I saw you and I—”
 
-“You saw a beautiful woman fussing over him and assumed the obvious,” Evelyn said warmly. “Anyone would. He has that face that makes people assume the obvious.” She handed Kara a cup. “I am Evelyn. I am not his girlfriend. I am the person who taught him that soup comes from a pot, not a vending machine. And that he should wear a coat when it rains.”
+“You saw a beautiful woman fussing over him and assumed the obvious,” she said warmly. “Anyone would. He has that face that makes people assume the obvious.” She handed Kara a cup. “I am she. I am not his girlfriend. I am the person who taught him that soup comes from a pot, not a vending machine. And that he should wear a coat when it rains.”
 
 Kara took the cup. “I thought—”
 
-“I know what you thought,” Evelyn said gently. “It is all right. I have been mistaken for his girlfriend, his mother, his sister and once, memorably, his parole officer. I have been all of those except the first and last.”
+“I know what you thought,” she said gently. “It is all right. I have been mistaken for his girlfriend, his mother, his sister and once, memorably, his parole officer. I have been all of those except the first and last.”
 
 Adrian made a small sound that might have been a laugh.
 
-Evelyn looked at Kara more closely. “You like him.”
+she looked at Kara more closely. “You like him.”
 
 Kara choked on tea. “I— we work together—”
 
-“That is not what I asked either,” Evelyn said, echoing her earlier words to Adrian, and smiled. “It is all right. I like him too. That is why I am hard on him.”
+“That is not what I asked either,” she said, echoing her earlier words to Adrian, and smiled. “It is all right. I like him too. That is why I am hard on him.”
 
 She reached out and fixed Kara's collar, just as she had fixed Adrian's, a quick motherly tug.
 
@@ -348,9 +348,9 @@ Kara looked at Adrian, who was watching them with an expression that was somewhe
 
 “I should go,” Kara said. “Cat wants—”
 
-“Cat wants you to stop apologizing for things that do not need apologies,” Evelyn said. “But go. We will be here when you get back.”
+“Cat wants you to stop apologizing for things that do not need apologies,” she said. “But go. We will be here when you get back.”
 
-After Kara left, Evelyn turned to Adrian.
+After Kara left, she turned to Adrian.
 
 “She likes you,” she said.
 
@@ -360,7 +360,7 @@ After Kara left, Evelyn turned to Adrian.
 
 Adrian did not answer.
 
-Evelyn squeezed his arm. “Kid, you are allowed to be happy that someone likes you. Even if you are still figuring out how to be ordinary.”
+she squeezed his arm. “Kid, you are allowed to be happy that someone likes you. Even if you are still figuring out how to be ordinary.”
 
 ***
 
@@ -406,7 +406,7 @@ Cat was in a holiday spirit, deciding to run photos of people volunteering on Th
 
 “That should probably change,” Kara replied.
 
-Evelyn was leaving that afternoon. Adrian walked her to the small hotel lobby, duffel over his shoulder.
+she was leaving that afternoon. Adrian walked her to the small hotel lobby, duffel over his shoulder.
 
 “You will call?” she asked.
 
@@ -422,17 +422,17 @@ Adrian smiled, genuinely this time. “I will try.”
 
 She hugged him, fierce and brief, then turned to Kara, who had come to say goodbye.
 
-“Take care of him,” Evelyn said to Kara, not as an order but as a trust. “He is good at taking care of other people. He is bad at letting people take care of him.”
+“Take care of him,” she said to Kara, not as an order but as a trust. “He is good at taking care of other people. He is bad at letting people take care of him.”
 
 Kara nodded. “I will.”
 
-After Evelyn left, Kara and Adrian stood in the lobby.
+After she left, Kara and Adrian stood in the lobby.
 
 “I am sorry I misunderstood,” Kara said again.
 
 “You did not do anything wrong,” Adrian said. “Anyone would.”
 
-“I felt—” Kara stopped, looking at the magnet on his fridge in her mind, at the way Evelyn had fixed both their collars. “I felt jealous. And then I felt stupid for feeling jealous.”
+“I felt—” Kara stopped, looking at the magnet on his fridge in her mind, at the way she had fixed both their collars. “I felt jealous. And then I felt stupid for feeling jealous.”
 
 Adrian looked at her.
 
@@ -460,6 +460,6 @@ Adrian nodded. “I will cover the desk if Cat asks where you went.”
 
 She left the lobby, cape hidden beneath her coat, and flew toward the sound.
 
-Behind her, Adrian picked up Evelyn's chipped mug she had left as a gift, placed it on his desk and went back to work.
+Behind her, Adrian picked up she's chipped mug she had left as a gift, placed it on his desk and went back to work.
 
 There would be another headline tomorrow. Tonight, there was ordinary life, still waiting to be lived.

@@ -214,7 +214,7 @@ Cat looked at the blood, then at Kara's face.
 
 Kara went to the bathroom, pressed a tissue to her finger, watched the blood spot spread. It hurt in a small, ordinary, human way that was completely different from taking a missile on the shoulder.
 
-In the lobby, Adrian watched the city through the window, Evelyn's chipped mug in his hand, now with a small chip more from where he had washed it.
+In the lobby, Adrian watched the city through the window, she's mug in his hand, now with a small chip more from where he had washed it.
 
 Winn came down with a laptop, private monitor closed.
 
@@ -236,12 +236,12 @@ Adrian looked at the bandage.
 
 "Yes," Kara said, and sounded surprised and pleased at the same time. "A little."
 
-For a second Kara missed Evelyn, even though she had only known her two days, because Evelyn had fixed both their collars.
+For a second Kara missed she, even though she had only known her two days, because she had fixed both their collars.
 
 Outside, a siren began to rise. She listened, checked the alert, called it in, and stood.
 
 There would be another headline tomorrow. Tonight, there was the fact that she could bleed, and the fact that the man who had taught her to call for help now had a name of his own, and the city was learning to ask for him too, and that was a butterfly she had not expected but could live with, as long as it stayed a name and not a face.
 
-Adrian picked up Evelyn's chipped mug, placed it back on his desk next to the theater mask magnet, and went back to work.
+Adrian picked up she's mug, placed it back on his desk next to the theater mask magnet, and went back to work.
 
 There would be another test tomorrow. Tonight, there was ordinary life, still waiting to be lived, now with a name on the ticker and blood on a tissue and a sister figure's gift that had one more chip.

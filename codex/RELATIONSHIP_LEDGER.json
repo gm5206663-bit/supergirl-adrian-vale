@@ -1,6 +1,6 @@
 {
   "epoch": "v1",
-  "anchor": "opening baselines and adopted Chapters 1–8; Chapter 9 remains candidate-only",
+  "anchor": "opening baselines and adopted Chapters 1\u20138; Chapter 9 remains candidate-only",
   "romance_selection": null,
   "source_notes": "[2](https://arrow.fandom.com/wiki/Pilot_(Supergirl)) [4](https://www.superherohype.com/features/356903-supergirl-pilot-recap)",
   "relationships": [
@@ -11,7 +11,7 @@
       "kind": "coworkers",
       "provenance": "user_lock",
       "baseline": "Knows her as a coworker, not a Kryptonian. No romance selected.",
-      "development": "Romance is under consideration. Test actual pre-pilot interaction, mutual interest, asymmetric identity knowledge, Kryptonian history, culpability and altered pilot causes using ADRIAN_KARA_CANON_STUDY; no starting partnership has been approved. U09/U10 add mixed heritage and a royal maternal branch; Kara’s inherited Daxam prejudice and possible historical recognition now require explicit consideration. U12 directs Adrian to give Kara ice cream, glazed donuts and pastries she likes; R3 implements attentive gifts and reciprocal warmth, without setting a dating label.",
+      "development": "Romance is under consideration. Test actual pre-pilot interaction, mutual interest, asymmetric identity knowledge, Kryptonian history, culpability and altered pilot causes using ADRIAN_KARA_CANON_STUDY; no starting partnership has been approved. U09/U10 add mixed heritage and a royal maternal branch; Kara\u2019s inherited Daxam prejudice and possible historical recognition now require explicit consideration. U12 directs Adrian to give Kara ice cream, glazed donuts and pastries she likes; R3 implements attentive gifts and reciprocal warmth, without setting a dating label.",
       "guard": "Human-level sealed access does not permanently prohibit ordinary inference.",
       "accepted_changes": [
         {
@@ -30,13 +30,13 @@
           "chapter": 3,
           "path": "chapters/Chapter_03_The_Name_He_Feared.md",
           "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
-          "description": "Adrian warns about Alura’s enemies but withholds his own case; rescue exposes Kael/prison/Alura association. Kara accepts consensual wound care without forgiving undisclosed history."
+          "description": "Adrian warns about Alura\u2019s enemies but withholds his own case; rescue exposes Kael/prison/Alura association. Kara accepts consensual wound care without forgiving undisclosed history."
         },
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
           "sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
-          "description": "Kara hears fuller guilt/family/Astra–Non account; thanks him for rescue and asks for time. Gratitude, hurt and moral judgment coexist; no forgiveness or romance selected."
+          "description": "Kara hears fuller guilt/family/Astra\u2013Non account; thanks him for rescue and asks for time. Gratitude, hurt and moral judgment coexist; no forgiveness or romance selected."
         },
         {
           "chapter": 5,
@@ -59,7 +59,7 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "sha256": "f5f1237c0c4afde3cb2e905254f9293d3fbca810d2b16f678d317cfca9665b29",
           "description": "Evelyn visit triggers Kara misunderstanding jealous then understanding, plus Livewire origin and Eliza visit, ordinary work continues."
         }
       ]
@@ -269,7 +269,7 @@
           "chapter": 3,
           "path": "chapters/Chapter_03_The_Name_He_Feared.md",
           "sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
-          "description": "Kara discovers Alex’s DEO role through capture; Alex later responds to power plant and dresses injury."
+          "description": "Kara discovers Alex\u2019s DEO role through capture; Alex later responds to power plant and dresses injury."
         },
         {
           "chapter": 4,
@@ -297,9 +297,9 @@
       "to_entity": "cat",
       "kind": "employer_employee",
       "provenance": "canon_summary",
-      "baseline": "Kara is Cat’s assistant at the opening.",
+      "baseline": "Kara is Cat\u2019s assistant at the opening.",
       "development": "Source relationship develops through work and events.",
-      "guard": "Adrian’s assigned job does not delete Kara’s role.",
+      "guard": "Adrian\u2019s assigned job does not delete Kara\u2019s role.",
       "accepted_changes": [
         {
           "chapter": 5,
@@ -328,7 +328,7 @@
       "kind": "new_professional_connection",
       "provenance": "canon_summary",
       "baseline": "Pilot introduction is an unconsumed source event.",
-      "development": "Retain the scene’s function and their independent choices.",
+      "development": "Retain the scene\u2019s function and their independent choices.",
       "guard": "Do not fix future romance outcomes before actual branch events.",
       "accepted_changes": [
         {
@@ -396,7 +396,7 @@
       "to_entity": "rhea",
       "kind": "unestablished_personal_tie",
       "provenance": "working_design",
-      "baseline": "Mother’s royal-branch membership does not establish a personal history with Rhea.",
+      "baseline": "Mother\u2019s royal-branch membership does not establish a personal history with Rhea.",
       "development": "Set genealogy, dates and information before using court history.",
       "guard": "Rhea is not established as ordering or knowing about the murders.",
       "accepted_changes": []
@@ -407,7 +407,7 @@
       "to_entity": "lar_gand",
       "kind": "unestablished_personal_tie",
       "provenance": "working_design",
-      "baseline": "Mother’s royal-branch membership does not establish a personal history with Lar Gand.",
+      "baseline": "Mother\u2019s royal-branch membership does not establish a personal history with Lar Gand.",
       "development": "A court or genealogical connection needs a designed chronology.",
       "guard": "No automatic royal protection, pardon, hostility or knowledge of the Earth alias.",
       "accepted_changes": []
@@ -420,7 +420,7 @@
       "provenance": "canon_summary",
       "baseline": "Coworkers before the opening; private identity not initially disclosed.",
       "development": "Kara chooses him as a confidant; costume plans follow his own contribution.",
-      "guard": "No automatic jealousy or transfer of Adrian’s undisclosed history.",
+      "guard": "No automatic jealousy or transfer of Adrian\u2019s undisclosed history.",
       "accepted_changes": [
         {
           "chapter": 2,
@@ -466,7 +466,7 @@
       "to_entity": "non",
       "kind": "complicated_prison_acquaintance",
       "provenance": "user_lock",
-      "baseline": "U16: Adrian personally met Non, Astra’s husband and Kara’s uncle by marriage, in prison. Non knows and fears Kael under U15.",
+      "baseline": "U16: Adrian personally met Non, Astra\u2019s husband and Kara\u2019s uncle by marriage, in prison. Non knows and fears Kael under U15.",
       "development": "Complicated prior ties may affect recognition and negotiation; detailed terms are unassigned.",
       "guard": "No automatic alliance, obedience or knowledge of present operations.",
       "accepted_changes": [
@@ -486,7 +486,7 @@
       "provenance": "user_lock",
       "baseline": "U15: Vartox knows Kael-Varr and greatly fears him, as do all Fort Rozz prisoners.",
       "development": "Recognition, overwhelming rescue and capture are realized in adopted Chapter 3 R3 under U18. Further interrogation/intelligence outcomes require their own events.",
-      "guard": "No comparable-power duel; fear does not reveal Adrian’s alias before recognition or bestow mind control.",
+      "guard": "No comparable-power duel; fear does not reveal Adrian\u2019s alias before recognition or bestow mind control.",
       "accepted_changes": [
         {
           "chapter": 3,
@@ -533,7 +533,7 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "sha256": "f5f1237c0c4afde3cb2e905254f9293d3fbca810d2b16f678d317cfca9665b29",
           "description": "Thanksgiving visit, brings soup theater mask magnet chipped mug, mother/sister family by staying not romantic, knows abilities and seal wants ordinary life does NOT know Kael name etc., leaves after Thanksgiving."
         }
       ]
@@ -551,7 +551,7 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "sha256": "f5f1237c0c4afde3cb2e905254f9293d3fbca810d2b16f678d317cfca9665b29",
           "description": "Meets in lobby, sees arm in arm collar fixing outside diner misunderstands as romantic girlfriend awkward jealous pang retreats professional, later clarified family by staying not romantic, Evelyn fixes collar notices Kara likes Adrian."
         }
       ]
@@ -713,7 +713,7 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "sha256": "f5f1237c0c4afde3cb2e905254f9293d3fbca810d2b16f678d317cfca9665b29",
           "description": "Shock jock annual list not grateful Supergirl vulgarity demoted to traffic chopper helicopter lightning rescue pilot helicopter grabs hand lightning passes through coma hospital alley power discovery blackouts CatCo attack elevator Element X capacitor trap Ghostbusters Cat bait water pipe short out comatose DEO custody."
         }
       ]
@@ -731,7 +731,7 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "sha256": "f5f1237c0c4afde3cb2e905254f9293d3fbca810d2b16f678d317cfca9665b29",
           "description": "CatCo blackout screens attack, Cat sends Kara to security, Supergirl shields tells Cat leave, remains sealed civilian support ensuring Cat safety no masked takeover."
         }
       ]
@@ -749,7 +749,7 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "sha256": "f5f1237c0c4afde3cb2e905254f9293d3fbca810d2b16f678d317cfca9665b29",
           "description": "Thanksgiving visit tension makeup apology confession Jeremiah DEO deal under Hank died mysterious suspicious red eyes."
         }
       ]
@@ -767,7 +767,7 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "sha256": "f5f1237c0c4afde3cb2e905254f9293d3fbca810d2b16f678d317cfca9665b29",
           "description": "Thanksgiving visit tension mother blames letting Kara become Supergirl tells mother works for DEO not lab makeup apology harder on Alex wanted better, you have always been my super girl, Jeremiah DEO deal."
         }
       ]
@@ -796,7 +796,7 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "sha256": "f5f1237c0c4afde3cb2e905254f9293d3fbca810d2b16f678d317cfca9665b29",
           "description": "Notices Kara likes Adrian during visit, gently teases fixes collar tells good for him as friend, warm humor not making Kara foolish."
         }
       ]
@@ -814,7 +814,7 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "1d66a5829c72f6d79b44cd594678dccafaec9cf6d666e24d454e897dfbfa4a17",
+          "sha256": "f5f1237c0c4afde3cb2e905254f9293d3fbca810d2b16f678d317cfca9665b29",
           "description": "Visit Thanksgiving week, practical help history when he arrived and sealed power, mother/sister calls kid/Ade checks eats teases protective, leaves chipped mug."
         }
       ]

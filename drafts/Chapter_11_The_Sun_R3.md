@@ -136,7 +136,7 @@ Alex stared. "Your—"
 
 "My powers increased," Kara said, and to prove it, she lifted the water tower on the next roof over with one hand, something that would have taken two hands and effort before. Now it was easy. She set it down gently, not a drop spilled. "Baseline higher. Temporarily more, then settles higher than before."
 
-She looked at Adrian, who had resealed on the way down, the band back at his wrist, human-level again, ordinary clothes, chipped mug waiting inside.
+She looked at Adrian, who had resealed on the way down, the band back at his wrist, human-level again, ordinary clothes, mug waiting inside.
 
 "You okay?" she asked him.
 
@@ -168,7 +168,7 @@ From inside, Cat's voice over intercom: "Keira! Where is my coffee?"
 
 Kara laughed, a real laugh that was brighter than before, and flew down through the open roof hatch, landing lightly.
 
-Adrian picked up Evelyn's chipped mug, placed it back on his desk next to the theater mask magnet, and went back to work, sealed, ordinary, human-level, as if he had not just flown to the sun and back before Alex's shift ended.
+Adrian picked up Evelyn's mug, placed it back on his desk next to the theater mask magnet, and went back to work, ordinary, ordinary, human-level, as if he had not just flown to the sun and back before Alex's shift ended.
 
 But Kara, at her desk, typing with fingers that did not ache, with vision that could see the individual dust motes in Cat's office from the bullpen, with hearing that could hear Adrian's pen from across the room, knew that ordinary was a choice he made, and that he had chosen to share the sun with her.
 
@@ -184,4 +184,4 @@ Kara looked at the scorched circle, at her hands, at the place where the cut had
 
 Kara watched the city through the window, powers humming higher than ever, finger healed, and thought that maybe being able to bleed and being able to go to the sun were two sides of the same thing: vulnerability and strength, and choosing when to share either.
 
-There would be another headline tomorrow. Tonight, there was sun still in her cells, and a chipped mug on a desk, and a friend who had taken her to a star and back and asked for nothing.
+There would be another headline tomorrow. Tonight, there was sun still in her cells, and a mug on a desk, and a friend who had taken her to a star and back and asked for nothing.

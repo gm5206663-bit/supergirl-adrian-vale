@@ -122,7 +122,7 @@ Kara looked at Adrian, who had chipped mug in hand again, because he had gone ba
 
 "Do you have family?" Kara asked, because Astra was family and mother used her to lure Astra and Cat had son she did not speak to.
 
-Adrian looked at the theater mask magnet, at the chipped mug.
+Adrian looked at the magnet, at the mug.
 
 "I did," he said. "On Krypton. My father was from an influential house, my mother from a collateral royal branch. They were murdered. Some Daxamites, over their union. I destroyed a city. I was responsible. Caught because exhausted. Built device myself because wanted to be ordinary."
 
@@ -138,4 +138,4 @@ From DEO, Alex's voice private channel: "Kara, Astra is awake again. Wants only 
 
 Kara tapped earpiece. "Coming."
 
-Adrian placed his mug back on his desk, next to the theater mask magnet, and went back to work.
+Adrian placed his mug back on his desk, next to the magnet, and went back to work.

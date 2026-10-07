@@ -68,7 +68,7 @@ James said, "Don't tell Kara."
 
 James told him about biometric door, Max punching, camera broken.
 
-Adrian looked at theater mask magnet in pocket and said, "You should not go alone next time."
+Adrian looked at magnet in pocket and said, "You should not go alone next time."
 
 Later, during exchange, Adrian was already there, helping evacuate, moving debris, lifting car that had trapped guard, set down gently, not fighting Kryptonians head-on, because even stronger now, two Kryptonians plus prisoners not fight he could win without revealing, and civilian identity protected, and also because this was Kara's family, not his.
 
@@ -80,4 +80,4 @@ He caught Kara when Non hit her through Lord lab wall.
 
 From downstairs, Cat's voice: "Keira! Where is my coffee?"
 
-Adrian, back at desk, chipped mug next to small theater mask magnet Evelyn left after Thanksgiving, looked up and went back to work.
+Adrian, back at desk, mug next to small magnet Evelyn left after Thanksgiving, looked up and went back to work.
