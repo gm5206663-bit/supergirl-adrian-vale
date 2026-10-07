@@ -315,12 +315,12 @@
       "number": 14,
       "epoch": "v1",
       "path": "chapters/Chapter_14_Hostile_Takeover.md",
-      "sha256": "f900703be26b0b1d6dec71e25ab64d032f03172f7590b86f45b4a610c06ea404",
+      "sha256": "445fbba56addda25cc7ccad4293b39339b3655f007880e796f5d77f60bab9557",
       "coverage": "canon_coverage/Chapter_14_ACCEPTED.json",
       "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_14.md \u2014 U52: Kryptonite dagger shown not told",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R5"
+      "revision": "R8"
     },
     {
       "number": 15,
@@ -588,7 +588,7 @@
       "revision": "R5",
       "path": "drafts/Chapter_14_Hostile_Takeover_R5.md",
       "sha256": "f900703be26b0b1d6dec71e25ab64d032f03172f7590b86f45b4a610c06ea404",
-      "status": "adopted as Chapter 14 R5 Hostile Takeover Kryptonite dagger shown not told 1353w clean no meta",
+      "status": "superseded by R8 3554w full 3000+",
       "coverage": "canon_coverage/Chapter_14_R5.json",
       "review": "audits/CHAPTER_14_R5_REVIEW.md",
       "format_revision": 1,
@@ -613,6 +613,17 @@
       "status": "adopted as Chapter 15 R5 Blood Bonds 2957w proper prose full not rushing 3000+",
       "coverage": "canon_coverage/Chapter_15_R5.json",
       "review": "audits/CHAPTER_15_R5_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 14,
+      "revision": "R8",
+      "path": "drafts/Chapter_14_Hostile_Takeover_R8.md",
+      "sha256": "445fbba56addda25cc7ccad4293b39339b3655f007880e796f5d77f60bab9557",
+      "status": "adopted as Chapter 14 R8 Hostile Takeover 3554w full 3000+ not rushing",
+      "coverage": "canon_coverage/Chapter_14_R8.json",
+      "review": "audits/CHAPTER_14_R8_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }

@@ -1,2 +1,2 @@
 # Continuation Chapter 14
-Adopted Chapter 14 R5 d788b8e98f68b9c467dc34e36d6548bd544ffb6ce0f607c08212bfb995015617 Hostile Takeover Kryptonite dagger shown not told 1353w per U52
+Adopted Chapter 14 R8 445fbba56addda25cc7ccad4293b39339b3655f007880e796f5d77f60bab9557 Hostile Takeover 3554w full not rushing 3000_plus
