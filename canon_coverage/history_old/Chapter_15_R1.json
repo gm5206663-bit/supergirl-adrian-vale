@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "chapter": 15,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_15_Blood_Bonds_R1.md",
+  "draft_sha256": "3f18556f908f7fde8a06a79dfff13c07a18f0e602c380af93753a0c512b2c82a",
+  "accepted": false,
+  "claimed_episode": "S01E09 Blood Bonds",
+  "span": "Blood Bonds - Astra in DEO Non captures Hank prisoner exchange Cat knows Kara is Supergirl",
+  "sources": [
+    {
+      "id": "SRC-SG-E09-EW",
+      "url": "https://ew.com/recap/supergirl-season-1-episode-9/",
+      "title": "Supergirl recap Blood Bonds EW",
+      "accessed": "2026-10-01",
+      "verification": "Non takes Hank prisoner James starts investigate Maxwell Lord, Astra uses kryptonite against Kara does not affect, Kara escapes Astra explains Alex Hank Astra has suit immune kryptonite, Cat email hacked personal info published Cat asks Kara go through emails look for anything used against her, Astra determined convince Kara join rather than fight, Alex concerned Kara not ready kill Astra if comes, Kara overhears chairman board Armstrong saying hired someone hack Cat remove company Kara James Winn go Lucy legal advice, Kara Astra fight Kara can't finish brings DEO, Winn plan get access Armstrong computer files, Astra wakes only talk Kara tells mother used her lure Astra out hiding, Kara asks virtual mother if true frustrated can't give all info learns Cat has another son sends money hasn't spoken years, James Lucy Winn find proof Armstrong hacking, James tells Winn should tell Kara how feels, Alex figures out Astra wanted Kara defeat her, Cat figures out Kara is Supergirl, Astra goons attack Lord Technologies cliffhanger, Non takes Hank prisoner battle sky unconvincing CGI crash Earth Hank runs help Kara Non takes hostage flies off, DEO doesn't know why Fort Rozz prisoners attacked Lord Technologies Maxwell corporate espionage liar doesn't trust government aliens Alex DEO figure out own, Hank out Alex in charge Director Danvers, Kara tries getting answers Astra fails not willing torture line Astra teases memory-ruining knowledge Alura, Alex receives message Non offer prisoner exchange Hank for Astra tough position Gen Sam Lane storms DEO presidential order taking over command because DEO needs someone not emotionally involved Director Danvers acquiesces, Maxwell told reporters incident corporate espionage liar James decides visit find out why lied conversation doesn't go well Maxwell takes issue James close relationship Supergirl accuses media obscuring real threat planning major move against Kryptonians, Kara tries fails convince Cat not Supergirl Cat interrogates past ability answer every question correctly further confirms suspicions how Cat caught Lance Armstrong lies, DEO Gen Lane uses Kryptonite liquid torture answers Astra Kara barges stop can't because weakened Kryptonite lined walls Geneva Accords don't apply aliens, Unable at DEO Kara returns work where James lies about what found at Lord Tech Winn knows lying James explains did to protect her always works convinces Winn help break into Lord Technologies, Cat gives ultimatum prove not Supergirl or fired reasoning every minute assistant is minute not saving someone, Astra gives up Non position DEO follows intel Kara accompanies skip Lane humans only mission nonsense obvious trap find bomb most army dies torture never works, Winn helps James infiltrate Lord Technologies typing really quickly James finds suspicious door biometric scanner knocked out by Max and men Maxwell ties chair punches breaks camera settling like men, Supergirl exploring alterity us vs them other less than human usual decorum doesn't matter Lane Maxwell stooping to aliens supposed level beat them extends to those who work with others like James, Kara world falling apart goes to Cat tries reason saying needs Cat because one turns to when confused overwhelmed Cat unfazed leaves no choice resign goes down secret lair finds bloodied James loses chill realizes lied Maxwell behind starts storm off handle Max like Astra would but Winn James remind humanity not completely powerless, With pep talk Kara pays Astra another visit ready hear what happened between mother right before Alura sentenced Phantom Zone assured Astra believed Krypton doomed but planned save planet through hope not fear imprisoning for crimes unforgivable intentions believing still some good Kara agrees go through trade Astra surprised by Kara faith definitely going to betray but doesn't, After trading Hank for Astra Non summons Fort Rozz prisoners prepares attack DEO but Astra orders stand down touching moment optimism Astra showing more humanity than Lane Maxwell undercuts weak criteria distinguishes humans Kryptonians similar capacity evil good more alike, Once return DEO Hank kicks Lane out assures Supergirl idealism will save planet not doom, Hank comes clean to Kara about identity blows mind quickly realizes can use to save job posing as Supergirl Hank pays Cat visit Kara walks into office same time convincing Cat not Supergirl slightly disappointing liked possibilities Cat being in know, Heroes rejoice Kara James Winn make plans stop Maxwell right way Maxwell visits top-secret room where woman Jane Doe strapped table brain trauma bracelet opens eyes black like Supernatural demon holographic projection Red Tornado torn-off arm speculation Bizarro Supergirl Galatea"
+    },
+    {
+      "id": "SRC-U40-TRASH",
+      "url": "user_request_U40_trash",
+      "title": "No ticker spam",
+      "accessed": "2026-10-01",
+      "verification": "Remove ticker spam every chapter"
+    },
+    {
+      "id": "SRC-U41-CAT",
+      "url": "user_request_U41_cat",
+      "title": "No Cat private secrets",
+      "accessed": "2026-10-01",
+      "verification": "Cat must not know private monitor nor James secret"
+    },
+    {
+      "id": "SRC-U47-NATURAL",
+      "url": "user_request_U47_natural",
+      "title": "Natural butterfly effects alive Adrian seen",
+      "accessed": "2026-10-01",
+      "verification": "Natural butterfly effects completely dead and Adrian now where to seen - fixed by making Adrian seen where to seen early CatCo chipped mug theater mask magnet Evelyn family DEO holding cell further back bullpen pen hearing helping move debris soup Wraith field bent light lifting beam car ordinary choice share catching Kara"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-15-01",
+      "status": "covered",
+      "reason": "Non takes Hank prisoner battle sky crash Earth, DEO doesn't know why attacked Lord Tech Maxwell corporate espionage liar",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-02",
+      "status": "covered",
+      "reason": "Alex Director Danvers, Kara tries get answers Astra not torture, Astra teases Alura knowledge",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-03",
+      "status": "covered",
+      "reason": "Non prisoner exchange Hank for Astra, Gen Lane presidential order takes over DEO emotionally involved",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-04",
+      "status": "covered",
+      "reason": "James investigates Lord why lied, Maxwell takes issue James close Supergirl planning major move",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-05",
+      "status": "covered",
+      "reason": "Cat interrogates Kara past Titanic trivia Lance Armstrong, proves not Supergirl ultimatum fired",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-06",
+      "status": "covered",
+      "reason": "Lane uses Kryptonite liquid torture Astra, Kara barges weakened Kryptonite walls Geneva Accords",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-07",
+      "status": "covered",
+      "reason": "James lies about Lord Tech Winn knows lying protect her, Winn helps infiltrate Lord Tech typing quickly biometric door knocked out Max punches breaks camera",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-08",
+      "status": "covered",
+      "reason": "Cat ultimatum prove not Supergirl or fired, Astra gives up Non position trap bomb army dies torture never works",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-09",
+      "status": "covered",
+      "reason": "Kara finds bloodied James loses chill wants handle Max like Astra would Winn James remind humanity, pays Astra visit Alura believed Krypton doomed save through hope not fear crimes unforgivable, agrees trade Astra surprised faith doesn't betray",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-10",
+      "status": "covered",
+      "reason": "Trading Hank for Astra Non summons Fort Rozz prisoners attack DEO Astra orders stand down more humanity than Lane Maxwell, Hank kicks Lane out idealism save planet, comes clean to Kara about identity J'onn, poses as Supergirl to convince Cat not Supergirl, heroes rejoice, Maxwell top-secret room Jane Doe black eyes Red Tornado arm Bizarro Galatea",
+      "source_ids": [
+        "SRC-SG-E09-EW"
+      ]
+    },
+    {
+      "id": "SG-15-11",
+      "status": "changed_with_receipt",
+      "reason": "Adrian natural butterfly alive seen where to seen early CatCo chipped mug theater mask magnet Evelyn family DEO holding cell further back bullpen pen hearing helping move debris soup Wraith field bent light lifting beam car ordinary choice share catching Kara through Lord lab wall quiet you okay sharing family history natural phrasing not meta file, Wraith naming Lord reward DEO outside jurisdiction Winn private monitor closed James secret private Cat only coffee, sun baseline higher settled cells remember, Human for a Day healing, kiss romance affects Winn James Alex, Cat knows Kara is Supergirl Sherlock glasses",
+      "source_ids": [
+        "SRC-SG-E09-EW",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT",
+        "SRC-U47-NATURAL"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_15_R1_REVIEW.md",
+      "sha256": "c815debae1293906468862cee1d34dc210c59029a047e74d1a449d3a18508eb9"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_15_R1_REVIEW.md",
+      "sha256": "c815debae1293906468862cee1d34dc210c59029a047e74d1a449d3a18508eb9"
+    },
+    "power": {
+      "path": "audits/CHAPTER_15_R1_REVIEW.md",
+      "sha256": "c815debae1293906468862cee1d34dc210c59029a047e74d1a449d3a18508eb9"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_15_R1_REVIEW.md",
+      "sha256": "c815debae1293906468862cee1d34dc210c59029a047e74d1a449d3a18508eb9"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_15_R1_REVIEW.md",
+      "sha256": "c815debae1293906468862cee1d34dc210c59029a047e74d1a449d3a18508eb9"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [],
+  "notes": "Chapter 15 Blood Bonds R1 natural butterfly alive Adrian seen",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 9,
+    "canon_title": "Blood Bonds",
+    "chapter": 15,
+    "chapter_title": "Blood Bonds"
+  }
+}

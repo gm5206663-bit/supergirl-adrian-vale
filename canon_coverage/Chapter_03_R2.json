@@ -6,20 +6,20 @@
   "draft_path": "drafts/Chapter_03_The_Name_He_Feared_R2.md",
   "draft_sha256": "7e54f52150d073fb1134c6efef95747eb826d6232ec21c34d1a8125cb7afbfeb",
   "accepted": false,
-  "claimed_episode": "S01E01 — Pilot",
+  "claimed_episode": "S01E01 \u2014 Pilot",
   "span": "Costume/field trials through initial DEO capture and following-workday first Vartox confrontation, decisively altered by rescue/capture.",
   "sources": [
     {
       "id": "SRC-SG-02",
       "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
-      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "title": "Supergirl Pilot Recap \u2014 SuperHeroHype",
       "accessed": "2026-09-28",
       "verification": "secondary recap; fetched chunk 0 before Chapter 3 drafting; source DEO route/disclosure read"
     },
     {
       "id": "SRC-SG-03",
       "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
-      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "title": "Supergirl Recap With Spoilers: Pilot \u2014 ComicBook",
       "accessed": "2026-09-28",
       "verification": "ComicBook recap chunk 0 freshly fetched before rescue rewrite; sequence through first Vartox fight checked; no direct episode viewing."
     }
@@ -141,7 +141,7 @@
   "original_scene_amendments": [
     {
       "id": "D-C3-R2-01",
-      "cause": "Kara’s post-capture experience",
+      "cause": "Kara\u2019s post-capture experience",
       "effect": "Emergency backup arranged with Adrian and relayed to Winn."
     },
     {

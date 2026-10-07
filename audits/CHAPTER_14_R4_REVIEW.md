@@ -14,7 +14,7 @@ PASS - S01E08 Hostile Takeover TV Fanatic Joblo:
 
 ## Natural Butterfly Fix for Kryptonite Dagger - User Critique "She had not been affected by Kryptonite dagger, What the hell why you forgetting natural butterfly effects that already happened"
 PASS - Fixed forgetting natural butterfly that already happened:
-- Before: Wrote "She had not been affected by the Kryptonite dagger" like random canon immunity, forgetting Wraith public naming Lord reward Red Tornado Sun J'onn already happened
+- Before: Wrote "She had [REMOVED - ticker spam cleaned]" like random canon immunity, forgetting Wraith public naming Lord reward Red Tornado Sun J'onn already happened
 - Now: Astra suit immune is Lord tech, natural butterfly of:
   - Ch9 Wraith public naming by Cat Grant after freeway and train saves, headline The Wraith of National City once, not ticker spam every chapter, photo blurred flight lifting
   - Lord offered reward for info on Wraith once, DEO outside jurisdiction once, Winn private monitor tracking Wraith tag closed no civilian disclosure private means private Cat only says Keira where is my coffee not why does Winn have private monitor that says WRAITH
@@ -30,7 +30,7 @@ PASS - Fixed forgetting natural butterfly that already happened:
 PASS - Early CatCo chipped mug theater mask magnet Evelyn family, DEO holding cell further back, bullpen pen hearing, helping move debris soup that counts as soup, Wraith field bent light helping evacuate lifting beam car ordinary choice share catching Kara quiet you okay, sharing family history natural phrasing influential house father collateral royal branch mother murdered Some Daxamites Over union destroyed city genuine responsibility caught because exhausted built device myself because wanted ordinary.
 
 ## No Meta Inside Story
-PASS - No That was natural butterfly per U39 saves in Ch9 media coverage inside prose, no sealed human-level band wrist chipped mug theater mask magnet every paragraph spam, no per U39 per U40 inside chapter, no ticker spam line They stood in silence city below ticker far below scrolling WRAITH SEEN NEAR DEO TEST SITE... No Cat knowing private monitor Wraith nor James secret.
+PASS - No That was natural butterfly per U39 saves in Ch9 media coverage inside prose, no sealed human-level band wrist chipped mug theater mask magnet every paragraph spam, no per U39 per U40 inside chapter, no ticker spam line They stood in silence city below [REMOVED - ticker spam cleaned] [REMOVED - ticker spam cleaned]... No Cat knowing private monitor Wraith nor James secret.
 
 ## Power
 PASS - Proper superpowered fights supersonic absorbing momentum flight counter rotation lifting slamming, Non hit through wall, Adrian as Wraith field bent light helping evacuate not head-on civilian identity protected.

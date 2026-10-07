@@ -6,20 +6,20 @@
   "draft_path": "drafts/Chapter_03_The_Name_He_Feared_R3.md",
   "draft_sha256": "0e83f764462756af6191f3c04568088305c5984a6cd991c66654fda5239321b6",
   "accepted": true,
-  "claimed_episode": "S01E01 — Pilot",
+  "claimed_episode": "S01E01 \u2014 Pilot",
   "span": "Costume/field trials through initial DEO capture and following-workday first Vartox confrontation, decisively altered by rescue/capture.",
   "sources": [
     {
       "id": "SRC-SG-02",
       "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
-      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "title": "Supergirl Pilot Recap \u2014 SuperHeroHype",
       "accessed": "2026-09-28",
       "verification": "secondary recap; fetched chunk 0 before Chapter 3 drafting; source DEO route/disclosure read"
     },
     {
       "id": "SRC-SG-03",
       "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
-      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "title": "Supergirl Recap With Spoilers: Pilot \u2014 ComicBook",
       "accessed": "2026-09-28",
       "verification": "ComicBook recap chunk 0 freshly fetched before rescue rewrite; sequence through first Vartox fight checked; no direct episode viewing."
     }
@@ -86,7 +86,7 @@
         "SRC-SG-02",
         "SRC-SG-03"
       ],
-      "reason": "Immediate injury care partly moves to the field: after capture, Adrian uses precisely controlled heat vision with Kara’s consent to stop bleeding; Alex dresses the wound."
+      "reason": "Immediate injury care partly moves to the field: after capture, Adrian uses precisely controlled heat vision with Kara\u2019s consent to stop bleeding; Alex dresses the wound."
     },
     {
       "id": "SG-P11B2",
@@ -146,7 +146,7 @@
   "original_scene_amendments": [
     {
       "id": "D-C3-R2-01",
-      "cause": "Kara’s post-capture experience",
+      "cause": "Kara\u2019s post-capture experience",
       "effect": "Emergency backup arranged with Adrian and relayed to Winn."
     },
     {
@@ -190,5 +190,5 @@
   "status": "adopted_via_U18_continuation",
   "accepted_path": "chapters/Chapter_03_The_Name_He_Feared.md",
   "accepted_on": "2026-09-28",
-  "acceptance_receipt": "audits/CONTINUATION_Chapter_03.md — U18 continuation authorization"
+  "acceptance_receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18 continuation authorization"
 }

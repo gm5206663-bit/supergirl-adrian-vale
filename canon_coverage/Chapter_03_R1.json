@@ -6,20 +6,20 @@
   "draft_path": "drafts/Chapter_03_What_Came_With_Us_R1.md",
   "draft_sha256": "6361194474d150fec578fa2a5334ab18633a000c3503cf86fd3587a538abb1dc",
   "accepted": false,
-  "claimed_episode": "S01E01 — Pilot",
+  "claimed_episode": "S01E01 \u2014 Pilot",
   "span": "Continuation of private conversation through early-evening DEO contact; altered SG-P10C1/C2.",
   "sources": [
     {
       "id": "SRC-SG-02",
       "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
-      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "title": "Supergirl Pilot Recap \u2014 SuperHeroHype",
       "accessed": "2026-09-28",
       "verification": "secondary recap; fetched chunk 0 before Chapter 3 drafting; source DEO route/disclosure read"
     },
     {
       "id": "SRC-SG-03",
       "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
-      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "title": "Supergirl Recap With Spoilers: Pilot \u2014 ComicBook",
       "accessed": "2026-09-28",
       "verification": "secondary recap retained from earlier fetched pilot source; corroborating context, not a fresh fetch this turn"
     }
@@ -37,7 +37,7 @@
         "SRC-SG-02",
         "SRC-SG-03"
       ],
-      "reason": "Prior mutual disclosure leads to Adrian’s confession, Kara’s questions to Alex and voluntary escorted DEO access. The original fire/ambush/capture route does not occur."
+      "reason": "Prior mutual disclosure leads to Adrian\u2019s confession, Kara\u2019s questions to Alex and voluntary escorted DEO access. The original fire/ambush/capture route does not occur."
     },
     {
       "id": "SG-P10C2",
@@ -46,7 +46,7 @@
         "SRC-SG-02",
         "SRC-SG-03"
       ],
-      "reason": "Alex’s role, pod custody and prison/pod connection are disclosed through voluntary contact. Limited Kael record and alias inquiry are original additions."
+      "reason": "Alex\u2019s role, pod custody and prison/pod connection are disclosed through voluntary contact. Limited Kael record and alias inquiry are original additions."
     },
     {
       "id": "SG-P10C3",

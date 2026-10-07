@@ -10,7 +10,7 @@ PASS - Fixed dead butterfly and Adrian invisible:
 - No "sealed human-level,, how many times you write" spam - reduced to natural mentions
 - Adrian seen where to seen: early CatCo, DEO, bullpen, debris help, Wraith evacuate, catch Kara, family now Evelyn you Alex Winn James even Cat, chipped mug theater mask magnet visible but not repeated every line
 - Natural butterfly: sun trip gave more energy so solar flare bigger deeper drain longer than canon 48h, Wraith naming Lord reward DEO outside jurisdiction Winn private monitor closed James secret private Cat only coffee, sun baseline higher settled cells remember, Human for a Day healing, kiss romance affects Winn James Alex naturally, Cat knows Kara is Supergirl Sherlock glasses, Evelyn mother/sister theater mask magnet
-- No ticker spam line "They stood in silence city below ticker far below scrolling WRAITH SEEN NEAR DEO TEST SITE..." removed
+- No ticker spam line "They stood in silence city below [REMOVED - ticker spam cleaned] [REMOVED - ticker spam cleaned]..." removed
 - No Cat knowing private monitor Wraith nor James secret, Cat only says Keira where is my coffee and also where is my son, private means private common sense
 
 ## Power

@@ -6,20 +6,20 @@
   "draft_path": "drafts/Chapter_04_What_Remains_R1.md",
   "draft_sha256": "910a22a1718be0eb8492126edd998663ac389676747bc49f7185f50c1cce5043",
   "accepted": true,
-  "claimed_episode": "S01E01 — Pilot",
+  "claimed_episode": "S01E01 \u2014 Pilot",
   "span": "Power-plant departure through DEO consequences, evening sisters/Alura recording and closing Astra response; later James rooftop function remains pending.",
   "sources": [
     {
       "id": "SRC-SG-03",
       "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
-      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "title": "Supergirl Recap With Spoilers: Pilot \u2014 ComicBook",
       "accessed": "2026-09-28",
       "verification": "Freshly fetched chunks 0 and 1 before Chapter 4 drafting: medical fragment/Alura explanation, pod projection, original rematch/suicide, later James/cape and Astra ending. Secondary recap, not direct viewing."
     },
     {
       "id": "SRC-SG-02",
       "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
-      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "title": "Supergirl Pilot Recap \u2014 SuperHeroHype",
       "accessed": "2026-09-28",
       "verification": "Previously checked project corroboration, not freshly fetched for Chapter 4."
     }
@@ -39,7 +39,7 @@
       "source_ids": [
         "SRC-SG-03"
       ],
-      "reason": "Evening sister support and pod-derived Alura recording retained in changed circumstances of rescued Kara learning Adrian’s crime/Astra acquaintance; she chooses continued action and combat preparation."
+      "reason": "Evening sister support and pod-derived Alura recording retained in changed circumstances of rescued Kara learning Adrian\u2019s crime/Astra acquaintance; she chooses continued action and combat preparation."
     },
     {
       "id": "SG-P11C2",
@@ -60,7 +60,7 @@
       "source_ids": [
         "SRC-SG-03"
       ],
-      "reason": "Astra ending responds to missed check-in and observed human cleanup rather than original Vartox defeat report; she orders captor identification, unaware of Kael’s intervention."
+      "reason": "Astra ending responds to missed check-in and observed human cleanup rather than original Vartox defeat report; she orders captor identification, unaware of Kael\u2019s intervention."
     },
     {
       "id": "SG-P10C3",

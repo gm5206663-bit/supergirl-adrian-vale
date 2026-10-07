@@ -6,27 +6,27 @@
   "draft_path": "drafts/Chapter_05_In_Plain_Sight_R2.md",
   "draft_sha256": "1041a148a6869ec3b5e20e3805cda813ceaaf213e96a7ed2f5e64f342859da3c",
   "accepted": false,
-  "claimed_episode": "S01E02 — Stronger Together",
+  "claimed_episode": "S01E02 \u2014 Stronger Together",
   "span": "Brief labelled earlier-week Pilot bridge, then transformed Episode 2 arc through Cat interview setup.",
   "sources": [
     {
       "id": "SRC-SG-E02-SHH",
       "url": "https://www.superherohype.com/features/357567-supergirl-episode-2-recap-and-preview-for-next-week",
-      "title": "Supergirl Episode 2 Recap and Preview for Next Week — SuperHeroHype",
+      "title": "Supergirl Episode 2 Recap and Preview for Next Week \u2014 SuperHeroHype",
       "accessed": "2026-09-29",
-      "verification": "Fresh chunks 0–1 this continuation: story-bearing narrative, not direct viewing. Cross-check death shorthand, Hank speculation and final-location conflict."
+      "verification": "Fresh chunks 0\u20131 this continuation: story-bearing narrative, not direct viewing. Cross-check death shorthand, Hank speculation and final-location conflict."
     },
     {
       "id": "SRC-SG-E02-VULTURE",
       "url": "https://www.vulture.com/2015/11/supergirl-recap-season-1-episode-2.html",
-      "title": "Supergirl Recap: Public Relations — Vulture",
+      "title": "Supergirl Recap: Public Relations \u2014 Vulture",
       "accessed": "2026-09-29",
-      "verification": "Fresh chunks 0–1 this continuation; corroborated training/harbor/Hellgrammite/Astra/AI/interview source functions. Secondary recap."
+      "verification": "Fresh chunks 0\u20131 this continuation; corroborated training/harbor/Hellgrammite/Astra/AI/interview source functions. Secondary recap."
     },
     {
       "id": "SRC-SG-03",
       "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
-      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "title": "Supergirl Recap With Spoilers: Pilot \u2014 ComicBook",
       "accessed": "2026-09-29",
       "verification": "Both chunks checked during prior audit; retained Pilot cape/cooperation source, not claimed refetched this continuation."
     }
@@ -69,7 +69,7 @@
     {
       "id": "SG-E02-03",
       "status": "changed_with_receipt",
-      "reason": "Maxwell criticism targets actual fire/control risk, not nonexistent spill; Cat recognizes Adrian but still demands Supergirl’s own interview.",
+      "reason": "Maxwell criticism targets actual fire/control risk, not nonexistent spill; Cat recognizes Adrian but still demands Supergirl\u2019s own interview.",
       "source_ids": [
         "SRC-SG-E02-SHH",
         "SRC-SG-E02-VULTURE"
@@ -105,7 +105,7 @@
     {
       "id": "SG-E02-07",
       "status": "changed_with_receipt",
-      "reason": "Astra’s prisoner coercion changes when she sees public Kael footage: evacuation/surveillance, not unchanged kidnapping plan. Hellgrammite fears Kael explicitly.",
+      "reason": "Astra\u2019s prisoner coercion changes when she sees public Kael footage: evacuation/surveillance, not unchanged kidnapping plan. Hellgrammite fears Kael explicitly.",
       "source_ids": [
         "SRC-SG-E02-SHH",
         "SRC-SG-E02-VULTURE"
@@ -132,7 +132,7 @@
     {
       "id": "SG-E02-10",
       "status": "changed_with_receipt",
-      "reason": "Live video from captured operative’s phone replaces warehouse duel; current Astra survival/association confirmed, aircraft-order question unanswered. Hellgrammite captured alive; no physical Astra fight.",
+      "reason": "Live video from captured operative\u2019s phone replaces warehouse duel; current Astra survival/association confirmed, aircraft-order question unanswered. Hellgrammite captured alive; no physical Astra fight.",
       "source_ids": [
         "SRC-SG-E02-SHH",
         "SRC-SG-E02-VULTURE"
@@ -159,7 +159,7 @@
     {
       "id": "SG-E02-13",
       "status": "covered",
-      "reason": "Kara chooses own interview and takes Cat’s car to nonspecific secluded location; full interview left to next episode.",
+      "reason": "Kara chooses own interview and takes Cat\u2019s car to nonspecific secluded location; full interview left to next episode.",
       "source_ids": [
         "SRC-SG-E02-SHH",
         "SRC-SG-E02-VULTURE"

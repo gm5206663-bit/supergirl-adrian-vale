@@ -37,7 +37,7 @@ PASS - Previously invisible now seen where to seen:
 PASS - Proper superpowered fights baseline higher settled faster than before Human for a Day cells remember overcompensate supersonic absorbing momentum flight counter rotation lifting slamming, Non hit through wall, Adrian as Wraith field bent light helping evacuate not head-on Kryptonians civilian identity protected per U23, ordinary choice share. No joke fights.
 
 ## Knowledge
-PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line They stood in silence city below ticker far below scrolling WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
+PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line They stood in silence city below [REMOVED - ticker spam cleaned] WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
 
 ## Prose
 PASS - Past tense descriptive internal thoughts no ticker spam every chapter no Cat private-secrets nonsense proper choreography.

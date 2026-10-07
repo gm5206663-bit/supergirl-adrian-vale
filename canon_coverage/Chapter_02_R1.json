@@ -6,27 +6,27 @@
   "draft_path": "drafts/Chapter_02_A_Familiar_Face_R1.md",
   "draft_sha256": "a75d9c54b6b201e0202f2d2e5c6f0e9f2b4dfc17a23dcc6ac9e9323793c3bbc8",
   "accepted": false,
-  "claimed_episode": "S01E01 — Pilot",
+  "claimed_episode": "S01E01 \u2014 Pilot",
   "span": "Next morning through workday mutual disclosure; SG-P09 and SG-P10A. Original footage/disclosure branch added.",
   "sources": [
     {
       "id": "SRC-SG-02",
       "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
-      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "title": "Supergirl Pilot Recap \u2014 SuperHeroHype",
       "accessed": "2026-09-28",
       "verification": "secondary recap; fetched chunk 0 before Chapter 2 drafting; relevant morning and antagonist scenes present"
     },
     {
       "id": "SRC-SG-03",
       "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
-      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "title": "Supergirl Recap With Spoilers: Pilot \u2014 ComicBook",
       "accessed": "2026-09-28",
       "verification": "secondary recap; fetched chunk 0 before Chapter 2 drafting; relevant morning and antagonist scenes present"
     },
     {
       "id": "SRC-SG-DAXAM-01",
       "url": "https://www.denofgeek.com/tv/supergirl-season-2-episode-3-welcome-to-earth-review/",
-      "title": "Welcome to Earth review — inherited Daxam prejudice",
+      "title": "Welcome to Earth review \u2014 inherited Daxam prejudice",
       "accessed": "2026-09-28",
       "verification": "earlier project research; characterization reference, not a pilot-era experience or fresh fetch this turn"
     }
@@ -39,7 +39,7 @@
         "SRC-SG-02",
         "SRC-SG-03"
       ],
-      "evidence": "Morning coverage, Cat’s Tribune hold, James/Superman connection and Winn rooftop revelation."
+      "evidence": "Morning coverage, Cat\u2019s Tribune hold, James/Superman connection and Winn rooftop revelation."
     },
     {
       "id": "SG-P10A",

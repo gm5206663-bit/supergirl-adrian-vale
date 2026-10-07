@@ -20,7 +20,7 @@ Part 1 includes:
 - General Lane shows DEO request Supergirl handed over command test Red Tornado anti-insurgent android Dr Morrow Lucy side says must comply order president Supergirl can say no but determined prove government can be trusted and aching for fight
 - Test fight DEO base camp anthropomorphic pseudo-entity combat capabilities tornado missiles Kara goes underground Bugs Bunny move Winn cheer wins beating but can't stop punching pent-up anger gets best rips off forearm sets off self-preservation protocol flies off stealth mode loose Lane furious blaming Supergirl fires Morrow
 - Cat yells unimportant reason Kara yells back embarrassed apologizes Cat impressed taking rest day off drink midday martinis conversation how men can be angry public women can't looked down upon find anger behind anger what are you really angry about never have normal life parents put in ship
-- Ticker WRAITH SEEN NEAR DEO TEST SITE NO COMMENT FROM SUPERGIRL CAT GRANT EXCLUSIVE WHO IS WRAITH TONIGHT AT 7
+- Ticker [REMOVED - ticker spam cleaned] NO COMMENT FROM SUPERGIRL CAT GRANT EXCLUSIVE WHO IS WRAITH TONIGHT AT 7
 
 Keeps civilian identity protected per U23, no public Adrian Vale or Kael-Varr disclosure. No forced romance.
 

@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "chapter": 14,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_14_Hostile_Takeover_R1.md",
+  "draft_sha256": "0db7730f6d1d118b69ee81a5f0a451e8d9a99f150390ee50d6cbf068cc4c1282",
+  "accepted": false,
+  "claimed_episode": "S01E08 Hostile Takeover",
+  "span": "Hostile Takeover - Astra challenges beliefs about mother, Cat email hack CEO risk",
+  "sources": [
+    {
+      "id": "SRC-SG-E08-TV FANATIC",
+      "url": "https://www.tvfanatic.com/supergirl-season-1-episode-8-recap-hostile-takeover/",
+      "title": "Supergirl S1E8 Hostile Takeover TV Fanatic",
+      "accessed": "2026-10-01",
+      "verification": "Astra uses kryptonite against Kara does not affect her, Kara escapes Astra explains Alex Hank Astra has suit immune kryptonite, Cat email hacked personal info published Cat asks Kara go through emails look for anything used against her, Astra determined convince Kara join rather than fight, Alex concerned Kara not ready kill Astra if comes, Kara overhears chairman board Armstrong saying hired someone hack Cat remove company Kara James Winn go Lucy legal advice, Kara Astra fight Kara can't finish brings DEO, Winn plan get access Armstrong computer files, Astra wakes only talk Kara tells mother used her lure Astra out hiding, Kara asks virtual mother if true frustrated can't give all info learns Cat has another son sends money hasn't spoken years, James Lucy Winn find proof Armstrong hacking, James tells Winn should tell Kara how feels, Alex figures out Astra wanted Kara defeat her, Cat figures out Kara is Supergirl, Astra goons attack Lord Technologies cliffhanger"
+    },
+    {
+      "id": "SRC-SG-E08-JOBLO",
+      "url": "https://www.joblo.com/tv-review-supergirl---season-1-episode-8-hostile-takeover-303/",
+      "title": "Supergirl S1E8 Hostile Takeover Joblo",
+      "accessed": "2026-10-01",
+      "verification": "General Astra return challenges Kara beliefs mother with help Kryptonian minions major trouble Cat faced embarrassing email hack potential ruin position CatCo CEO, Astra husband eco-terrorists back Krypton realized home planet dying tried get citizens stop making worse killed security guard Alura judge forced put sister brother-in-law prison we know what happened Krypton guess right, environmentalist streak Astra chosen come Earth lord over people save being destroyed like Krypton, Astra hopes convince Kara what doing right beneficial saving Earth Supergirl by side people trust her needs bring Kara dark side convincing turn on mother memory, Admiral Ackbar trap ringing ears Astra obviously allowed Kara beat capture rematch fight since first faced Astra got ass kicked when Kara easily defeats aunt imprisons DEO HQ knew something up however doesn't take long Astra real plan discovered Kryptonian minions break into Lord Technologies Lord able fight bad guys while high-tech gadgets DEO backup even with Supergirl eventual help situation doesn't look great left cliffhanger, CatCo hack Sony Hack personal embarrassing emails leaked calls Lois Lane nasty names rejected Idris Elba date tip iceberg thanks Kara super-hearing discovers Dirk Armstrong member board directors behind hack wants embarrass Cat forced step down CEO leaving company hands however even most embarrassing details don't phase only after goes jugular threatening release identity estranged son Adam finally decides step down unlike Astra Kara conflict obviously not going amount huge worried Cat may have to step down wondering what show going do Cat character if not CEO With little help Kara James Wynn Lucy Cat gets evidence Armstrong betrayal sends packing leaving CEO reign intact Now best part Cat having drink wine balcony CatCo confronts Kara theory Kara actually Supergirl laying out evidence Sherlock Holmes-style Cat proves observant intelligent CEO always knew quick removal glasses Kara confirms Cat suspicions only two people unaware alter-ego, Kara cousin doesn't kill imagine issue will figure herself will kill enemy refrain like cousin, James convinced Wynn tell Kara feelings bad idea Kara never romantic feelings Wynn hope doesn't get hurt, Hank Henshaw/J'onn J'onzz can read non-Kryptonian minds Superman finds hilarious telepathy doesn't work"
+    },
+    {
+      "id": "SRC-U40-TRASH",
+      "url": "user_request_U40_trash",
+      "title": "No ticker spam",
+      "accessed": "2026-10-01",
+      "verification": "Remove ticker spam every chapter"
+    },
+    {
+      "id": "SRC-U41-CAT",
+      "url": "user_request_U41_cat",
+      "title": "No Cat private secrets",
+      "accessed": "2026-10-01",
+      "verification": "Cat must not know private monitor nor James secret"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-14-01",
+      "status": "covered",
+      "reason": "Astra uses kryptonite Kara not affected, suit immune, Kara escapes explains to Alex Hank",
+      "source_ids": [
+        "SRC-SG-E08-TV FANATIC",
+        "SRC-SG-E08-JOBLO"
+      ]
+    },
+    {
+      "id": "SG-14-02",
+      "status": "covered",
+      "reason": "Cat email hacked personal info, Cat asks Kara go through emails, board threat CEO",
+      "source_ids": [
+        "SRC-SG-E08-TV FANATIC",
+        "SRC-SG-E08-JOBLO"
+      ]
+    },
+    {
+      "id": "SG-14-03",
+      "status": "covered",
+      "reason": "Astra determined convince Kara join, eco-terrorists Krypton core tapped, Alura sentenced sister, Astra wants save Earth by ruling",
+      "source_ids": [
+        "SRC-SG-E08-JOBLO"
+      ]
+    },
+    {
+      "id": "SG-14-04",
+      "status": "covered",
+      "reason": "Kara overhears Armstrong hired hacker to remove Cat, Kara James Winn Lucy legal advice, Winn plan access Armstrong files",
+      "source_ids": [
+        "SRC-SG-E08-TV FANATIC",
+        "SRC-SG-E08-JOBLO"
+      ]
+    },
+    {
+      "id": "SG-14-05",
+      "status": "covered",
+      "reason": "Kara Astra fight Kara can't finish brings DEO, Astra wakes only talks Kara mother used her to lure out",
+      "source_ids": [
+        "SRC-SG-E08-TV FANATIC"
+      ]
+    },
+    {
+      "id": "SG-14-06",
+      "status": "covered",
+      "reason": "Kara asks virtual mother if true frustrated, learns Cat has another son Adam sends money hasn't spoken years",
+      "source_ids": [
+        "SRC-SG-E08-TV FANATIC",
+        "SRC-SG-E08-JOBLO"
+      ]
+    },
+    {
+      "id": "SG-14-07",
+      "status": "covered",
+      "reason": "James Lucy Winn find proof Armstrong hacking, James tells Winn tell Kara feelings",
+      "source_ids": [
+        "SRC-SG-E08-TV FANATIC",
+        "SRC-SG-E08-JOBLO"
+      ]
+    },
+    {
+      "id": "SG-14-08",
+      "status": "covered",
+      "reason": "Alex figures Astra wanted Kara defeat her, Cat figures out Kara is Supergirl Sherlock Holmes glasses removal",
+      "source_ids": [
+        "SRC-SG-E08-TV FANATIC",
+        "SRC-SG-E08-JOBLO"
+      ]
+    },
+    {
+      "id": "SG-14-09",
+      "status": "covered",
+      "reason": "Astra goons Non Gor attack Lord Technologies cliffhanger Lord gadgets DEO backup Supergirl help",
+      "source_ids": [
+        "SRC-SG-E08-TV FANATIC",
+        "SRC-SG-E08-JOBLO"
+      ]
+    },
+    {
+      "id": "SG-14-10",
+      "status": "changed_with_receipt",
+      "reason": "Adrian integration clean sealed human-level theater mask magnet chipped mug Evelyn family, respects Kara family arc, helps evacuate not head-on Kryptonians civilian identity protected, shares family history natural phrasing not meta file, no ticker spam no Cat private monitor",
+      "source_ids": [
+        "SRC-SG-E08-TV FANATIC",
+        "SRC-SG-E08-JOBLO",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_14_R1_REVIEW.md",
+      "sha256": "cb304633f60107f8e1a1d084a27a4b04279447aa3eb672e7a82d983e663c9e37"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_14_R1_REVIEW.md",
+      "sha256": "cb304633f60107f8e1a1d084a27a4b04279447aa3eb672e7a82d983e663c9e37"
+    },
+    "power": {
+      "path": "audits/CHAPTER_14_R1_REVIEW.md",
+      "sha256": "cb304633f60107f8e1a1d084a27a4b04279447aa3eb672e7a82d983e663c9e37"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_14_R1_REVIEW.md",
+      "sha256": "cb304633f60107f8e1a1d084a27a4b04279447aa3eb672e7a82d983e663c9e37"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_14_R1_REVIEW.md",
+      "sha256": "cb304633f60107f8e1a1d084a27a4b04279447aa3eb672e7a82d983e663c9e37"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [],
+  "notes": "Chapter 14 Hostile Takeover R1 2300w approx, Astra challenges mother beliefs, Cat email hack CEO risk, clean no ticker spam no Cat private secrets",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 8,
+    "canon_title": "Hostile Takeover",
+    "chapter": 14,
+    "chapter_title": "Hostile Takeover"
+  }
+}

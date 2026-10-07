@@ -35,7 +35,7 @@ PASS - Previously invisible, now seen where to seen:
 PASS - Kara powerless human vulnerable cold broken arm cannot lift table X-ray fails human heroism robbery talk down, adrenaline restores powers flight super breath short bursts not wide beam melt healing factor returns bone knitting, baseline higher settled truly higher permanent cells remember overcompensate. Adrian sealed human-level respects arc not omnipotent solving.
 
 ## Knowledge
-PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line They stood in silence city below ticker far below scrolling WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
+PASS - No meta TV knowledge far above TV Kara slash Superman, no design doc bullets as file, natural phrasing. No ticker spam line They stood in silence city below [REMOVED - ticker spam cleaned] WRAITH SEEN... No Cat knowing private monitor Wraith nor James secret.
 
 ## Prose
 PASS - Past tense descriptive internal thoughts no ticker spam every chapter no Cat private-secrets nonsense proper choreography human heroism.

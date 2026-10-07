@@ -6,13 +6,13 @@
   "draft_path": "drafts/Chapter_05_A_Place_in_the_Sky_R1.md",
   "draft_sha256": "5b6aecf12cda17bf0cfdb72707fcf9a6e95171818e8e9d6c062d0298e8e2bf17",
   "accepted": false,
-  "claimed_episode": "S01E01 — Pilot",
+  "claimed_episode": "S01E01 \u2014 Pilot",
   "span": "Interrupted Pilot aftermath; superseded route, not Episode 2.",
   "sources": [
     {
       "id": "SRC-SG-03",
       "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
-      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "title": "Supergirl Recap With Spoilers: Pilot \u2014 ComicBook",
       "accessed": "2026-09-28",
       "verification": "Freshly fetched chunks 0 and 1 before Chapter 4 drafting: medical fragment/Alura explanation, pod projection, original rematch/suicide, later James/cape and Astra ending. Secondary recap, not direct viewing."
     }

@@ -140,29 +140,29 @@
   "review_receipts": {
     "canon": {
       "path": "audits/CHAPTER_14_R5_REVIEW.md",
-      "sha256": "38829bdb7d9b8f7b7a610fd36fe2f63b878bacad9d5f1e825b2ce987b748cd27"
+      "sha256": "7e103149c0567b6675a01aee7b0309165948554a852526fdb0ddfd5a4cc91f35"
     },
     "continuity": {
       "path": "audits/CHAPTER_14_R5_REVIEW.md",
-      "sha256": "38829bdb7d9b8f7b7a610fd36fe2f63b878bacad9d5f1e825b2ce987b748cd27"
+      "sha256": "7e103149c0567b6675a01aee7b0309165948554a852526fdb0ddfd5a4cc91f35"
     },
     "power": {
       "path": "audits/CHAPTER_14_R5_REVIEW.md",
-      "sha256": "38829bdb7d9b8f7b7a610fd36fe2f63b878bacad9d5f1e825b2ce987b748cd27"
+      "sha256": "7e103149c0567b6675a01aee7b0309165948554a852526fdb0ddfd5a4cc91f35"
     },
     "knowledge": {
       "path": "audits/CHAPTER_14_R5_REVIEW.md",
-      "sha256": "38829bdb7d9b8f7b7a610fd36fe2f63b878bacad9d5f1e825b2ce987b748cd27"
+      "sha256": "7e103149c0567b6675a01aee7b0309165948554a852526fdb0ddfd5a4cc91f35"
     },
     "prose": {
       "path": "audits/CHAPTER_14_R5_REVIEW.md",
-      "sha256": "38829bdb7d9b8f7b7a610fd36fe2f63b878bacad9d5f1e825b2ce987b748cd27"
+      "sha256": "7e103149c0567b6675a01aee7b0309165948554a852526fdb0ddfd5a4cc91f35"
     }
   },
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Fixed Kryptonite dagger line: removed meta sentence That was why she had not been affected by the Kryptonite dagger in the alley Not random canon immunity Natural butterfly of... which was author note inside story. Now history shown naturally as facts: Wraith naming Ch9 Lord reward DEO outside jurisdiction Winn private monitor closed, Lord research field bent light Red Tornado arm ionization sun spike private log, combined into lining thin like DEO walls, Astra took it during Lord Tech attack case open empty suit new sheen wrists, why not affected shown through history not meta note.",
+  "notes": "Fixed Kryptonite dagger line: removed meta sentence That was why she had [REMOVED - ticker spam cleaned] in the alley [REMOVED] Natural butterfly of... which was author note inside story. Now history shown naturally as facts: Wraith naming Ch9 Lord reward DEO outside jurisdiction Winn private monitor closed, Lord research field bent light Red Tornado arm ionization sun spike private log, combined into lining thin like DEO walls, Astra took it during Lord Tech attack case open empty suit new sheen wrists, why not affected shown through history not meta note.",
   "format_revision": 1,
   "heading": {
     "season": 1,

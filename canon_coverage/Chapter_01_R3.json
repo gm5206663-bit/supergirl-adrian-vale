@@ -6,20 +6,20 @@
   "draft_path": "drafts/Chapter_01_Adrian_Vale_R3.md",
   "draft_sha256": "4f03fa62bf39dc6eb9b41d6bf5e5d7dc6cdac81c9a12bd17c64d4e0b0343e6cf",
   "accepted": false,
-  "claimed_episode": "S01E01 — Pilot",
-  "span": "opening through first post-rescue Kara/Alex disagreement; SG-P01–SG-P08, not full episode",
+  "claimed_episode": "S01E01 \u2014 Pilot",
+  "span": "opening through first post-rescue Kara/Alex disagreement; SG-P01\u2013SG-P08, not full episode",
   "sources": [
     {
       "id": "SRC-SG-02",
       "url": "https://www.superherohype.com/features/356903-supergirl-pilot-recap",
-      "title": "Supergirl Pilot Recap — SuperHeroHype",
+      "title": "Supergirl Pilot Recap \u2014 SuperHeroHype",
       "accessed": "2026-09-28",
       "verification": "secondary recap; fetched chunk 0; selected span present"
     },
     {
       "id": "SRC-SG-03",
       "url": "https://comicbook.com/comicbook/news/supergirl-recap-with-spoilers-pilot/",
-      "title": "Supergirl Recap With Spoilers: Pilot — ComicBook",
+      "title": "Supergirl Recap With Spoilers: Pilot \u2014 ComicBook",
       "accessed": "2026-09-28",
       "verification": "secondary recap; fetched chunk 0; selected span present"
     }
@@ -51,7 +51,7 @@
         "SRC-SG-03"
       ],
       "evidence": "Tribune staffing conflict with original Adrian analysis/internal-referral contribution.",
-      "reason": "Adrian participates in the existing Tribune staffing conflict and checks internal openings. The termination request and Cat’s authority remain; the referrals are an original butterfly, not a source event."
+      "reason": "Adrian participates in the existing Tribune staffing conflict and checks internal openings. The termination request and Cat\u2019s authority remain; the referrals are an original butterfly, not a source event."
     },
     {
       "id": "SG-P04",
