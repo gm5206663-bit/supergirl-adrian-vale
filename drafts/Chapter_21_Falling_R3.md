@@ -1,0 +1,232 @@
+# Chapter 21: Falling
+
+The call came at 2:17 p.m. Chemical plant on the edge of National City, fire in the storage wing, three workers trapped on the second floor catwalk, wind pushing smoke toward the river.
+
+Kara was already moving before Alex finished the sentence.
+
+She hit the sky over CatCo, cape snapping, and went supersonic in the climb. She had learned to absorb her own momentum on takeoff after the Fort Rozz mess, to roll her shoulders and counter-rotate so the windows below didn't shudder. Ninety seconds. She could see the column now, black and orange, and the DEO chatter in her ear.
+
+"Second floor, north side. Beam's giving."
+
+She didn't try to be clever. Freeze breath first, wide and controlled, the way J'onn had shown her to think about Torquasm Vo as closing a door, not holding back a flood. She laid a sheet of ice across the lower doors to choke the fire, then dropped through the smoke.
+
+The catwalk was buckling. Two men and a woman in hard hats, coughing, holding a rail. The main support beam had slipped six inches and was pinning the exit.
+
+Kara got under it. She set her feet, breathed once, and lifted. She made herself feel the weight transfer the way Adrian had described it once after the train — not lifting the world, just taking the momentum into your own frame and not letting it go anywhere else. The beam came up. She held it with one hand and pulled the three of them through with the other.
+
+"Go," she said, voice rough from smoke. "Straight down the stairs, don't stop."
+
+She carried the beam out to the yard and set it down like it was glass. When she turned back, the storage drums on the far wall were venting. A fine red dust had burst from one of them, caught in the heat. It glittered.
+
+She breathed it before she could think not to.
+
+It didn't burn. It didn't make her weak. It just... sat, behind her eyes. She coughed once, shook her head, and flew the workers to the paramedic line. Alex was calling her name. She told Alex she was fine.
+
+She wasn't.
+
+---
+
+The next morning Cat Grant arrived at 9:30 and said, "Keira, where is my coffee?"
+
+Kara was already at the desk, but not in the cardigan she'd worn the day before. She was wearing a striped dress that clung and cut out at the midriff, and heels that made her taller than James, and lipstick that Cat herself would have called aggressive. She handed Cat the coffee without spilling and smiled in a way that was all teeth.
+
+Siobhan stared. Winn stared.
+
+Cat took the coffee, looked Kara up and down, and said, "Well. Who died and made you me?"
+
+Kara laughed. "No one. I just got tired of being told to smile smaller."
+
+James came over with a contact sheet from the plant. "Hey. You left before I could —"
+
+He reached for her arm. She didn't mean to grip back hard, but she did. Her fingers closed around his wrist and didn't let go right away. He winced.
+
+"Kara, you're hurting me."
+
+She let go. The smile didn't drop. "Sorry. You startled me."
+
+Winn watched that hand. He'd seen Kara catch a falling light rig one-handed and set it down like it was nothing, always careful to make it look effortless, always checking if anyone was hurt. This was different. This was careless.
+
+By lunch she had rewritten Siobhan's copy in front of Siobhan, told a junior reporter his pitch was boring, and told Cat that the magazine spread needed more skin because "awe is a kind of honesty."
+
+Cat, who had sat with presidents and pop stars and knew when someone was performing, watched her for a long time and then called Supergirl to her office.
+
+Supergirl arrived in a new suit. Not the blue and red, but black, severe, cut like armor. It was not Bizarro wrong, eyes wrong teeth many. It was deliberate. Kara had taken the pattern and made it sharp.
+
+Cat closed the blinds.
+
+"You want to tell me what's going on?" Cat said.
+
+Kara — no, Supergirl — perched on the edge of the desk. "People love me when I'm nice. They worship me when I'm not."
+
+That night she went to Noonan's. Not for pie. She stood on the bar and told everyone that National City didn't deserve her. She used a handful of peanuts to shatter three bottles behind the counter just to hear them pop. People filmed it. She liked that.
+
+Winn called James. James called Alex.
+
+At the DEO, Alex had a sample of the red dust from Kara's cape. She'd sent it to the lab without telling Kara.
+
+"It's synthetic," the tech said. "Kryptonite, but not green. Red."
+
+Hank — J'onn — frowned. "Red doesn't weaken. Red changes."
+
+Alex's phone rang. Maxwell Lord.
+
+Lord didn't bother with hello. "Is she angry? Is she... different? Wearing different clothes, being cruel, enjoying it?"
+
+Alex put him on speaker.
+
+Lord talked fast. He'd been trying to make synthetic Kryptonite to build a trap for Non. He'd wanted something that would take a Kryptonian off the board without killing them. He got the lattice wrong. The result didn't sap strength. It rewired affect. It made Kryptonians progressively more aggressive, more grandiose, less inhibited. It was a lab accident. A Gone Horribly Wrong.
+
+"And you let it sit in a chemical plant?" Alex said.
+
+"I didn't let it — the shipment was mislabeled, I — look, I'm not asking for forgiveness. I'm asking to fix it. I have an idea for a counteragent, but I need a DEO lab."
+
+J'onn looked at Alex. This was the man who had made Bizarro. This was also the man who sounded, for the first time since they'd met him, genuinely remorseful. Out of character, but not impossible.
+
+"Bring him in," J'onn said.
+
+---
+
+Kara was over downtown now, high enough that the city was a grid. She'd stopped answering her comms. She'd told Alex she didn't need a sister who worried, told J'onn she didn't need a father figure who hid, told James she didn't need a boyfriend who flinched.
+
+She hadn't told Adrian anything. She hadn't seen him since yesterday morning, when he'd come in at 8:50 with his chipped mug and put it back next to the theater mask magnet on the filing cabinet and gone back to typing. He'd looked tired. She'd liked that he looked tired and kept working anyway. Now she didn't like anything.
+
+She dropped to the roof of CatCo and broadcast without a filter.
+
+"Do you know how hard I work?" she said, voice carrying. People on the street stopped. Phones came up. "I catch your trucks when your drivers fall asleep. I catch your bridges. I freeze your fires. And you love me best when I'm small. No more. No one on Earth can stop me."
+
+She meant it as a triumph. She felt huge, bright, finally honest.
+
+It was a classic mistake.
+
+A shadow detached from the next building. Not Wraith — J'onn had learned not to let Adrian take those calls alone anymore, and Adrian wasn't here. This was J'onn as himself, seven feet tall, white eyes, Martian.
+
+"Kara Zor-El," he said, and his voice wasn't Hank's. It was older. "You are not well."
+
+She swung at him. She didn't hold back. He didn't dodge. He let her hit him and took a step back and said, in a language that made the air hum, "H'ronmeer."
+
+She knew that word. J'onn had taught her and Adrian the shape of it, not the sound — Torquasm Vo, closing the mind, Torquasm Rao, projecting it. She'd practiced it after the sun, after her finger healed and her baseline came up higher than ever, heart faster, vision sharper. She'd practiced it because Adrian did.
+
+J'onn didn't attack. He put a hand on her forehead and showed her a memory that wasn't hers: Mars, a furnace, two small graves. The grief was so clean it cut through the red.
+
+Kara gasped.
+
+Inside the quiet, J'onn spread ice from his feet, an ice dome to make a room where sound went flat. She could hear her own heartbeat, irregular, fast.
+
+Alex was there then, with Lord's counteragent in a pressurized syringe. J'onn held Kara while Alex pressed it to her neck.
+
+The red drained out of her eyes first, then her voice.
+
+She looked down at the black suit, at her hands, at the city staring up.
+
+"Did I kill anyone?" she whispered. It was the first thing she said. Thou shalt not kill — not a rule she recited, just who she was.
+
+J'onn said, "No."
+
+Alex said, "You nearly destroyed the riverfront. You didn't."
+
+Lord, behind them, said, "The effect is reversible. The personality change — the megalomania, the demand for awe and worship, the cruelty — it fades. The memory doesn't."
+
+They took her to the DEO. They gave her water. They gave her a blanket. They didn't give her a lecture.
+
+---
+
+Hours later, after the med bay lights had dimmed, Kara sat on the edge of the bed with her boots off and her cape folded beside her. Alex sat next to her. J'onn stood by the door, back in Hank's face because the DEO still needed Hank.
+
+Kara kept turning her hands over. The same hands that had gripped James too hard.
+
+"It was just dust," she said. "Just Red Kryptonite. I breathed it and I was... I liked being angry. I liked being mean. I wanted everyone to look at me and be scared and love me anyway."
+
+Alex said, "It affects minds. Makes you progressively more aggressive. It's not you."
+
+Kara shook her head. "But it was me. It was my anger, just louder. And it was only Red Kryptonite. Just that. Just one exposure."
+
+She went quiet. Then she said, very quietly, "Adrian."
+
+Alex looked up.
+
+Kara said, "Just Red Kryptonite made me so angry I nearly tore the city apart. I wanted to. I thought no one could stop me. And I was only under it for a day. Adrian was under a red sun his whole childhood. Not a day. His whole life. Red sun development harmed temperament and emotional stability, not just life experiences. You told me that. His father was from an influential Kryptonian house, his mother from a collateral Daxamite royal branch, and Daxamite attackers murdered them both because of the mixed union. And he destroyed a city. A real city, on Krypton. Not because he wanted to be worshipped. Because he was in rage and grief and his power was unstable under a red sun that never let him be steady."
+
+Alex didn't interrupt. J'onn didn't.
+
+Kara's voice was thin. "He did it. Genuinely did it. Not framed. Genuine mass-killing culpability. And they caught him because he was exhausted, not because he wanted to be caught, caught because exhausted. Advanced Kryptonian technology had to bring him in. No nerf to make the capture make sense. He was that strong even under a red sun. And then he built the device himself. The seal. He wanted ordinary. He built it himself to suppress himself to human-level so he wouldn't hurt anyone again."
+
+She wiped her eyes.
+
+"Just Red Kryptonite made me so angry, so malicious, so dangerous. I demanded awe and worship and shattered bottles with peanuts for laughs and wore that awful dress to prove I could be Cat and hurt James without meaning to. Just that. And he destroyed a city after his parents died even though he was affected by a red sun completely. He was affected completely. And now he controls enough to hear a pen across the room and not use it, to feel a field bend light around a car and choose to lift it like a person would, to text from the hallway when a friend needs help instead of listening through walls. That's willpower. That's strong willpower. How much is he holding back all the time?"
+
+J'onn spoke, low. "Red sun power development does harm temperament. It did harm his. He knows it. He controls it anyway. That is not a small thing. That shows strong willpower."
+
+Alex said, "You're realizing how much he's controlling."
+
+Kara nodded, tears finally coming. "Just Red Kryptonite made me so angry. And he destroyed a city after his parents died even though he was affected by a red sun completely. That actually also shows how strong his willpower is."
+
+She had texted Adrian at 3:04 p.m., during the worst of it, when she was on the bar at Noonan's: "Kara, heartbeat irregular. Are you okay? I'm in hallway if you need." He hadn't come to the roof. He'd stayed in the hallway, where she could find him if she wanted, where he wouldn't be another person telling her who to be.
+
+She called him now. He picked up on the second ring.
+
+"I'm at CatCo," he said. "I put your mug back."
+
+"I'm okay now," she said, voice still rough. "It was Red Kryptonite. Synthetic. Max Lord made it trying to trap Non. Gone Horribly Wrong, doesn't weaken, affects minds, makes you progressively more aggressive."
+
+"Are you hurt?" he asked.
+
+"No. Did I kill anyone? No. Nearly destroyed city, but no."
+
+He was quiet. Then, "Do you want me to come to DEO or do you want to come here?"
+
+"Here," she said. "CatCo. I want ordinary."
+
+He was there when she arrived, not in the Wraith suit, not as a headline, just Adrian in a soft shirt with the band at his wrist, typing. He had left space on the desk next to his keyboard where her chipped mug usually sat.
+
+She sat. She didn't touch him right away. She just breathed.
+
+"You controlled it for a day," he said quietly. "I didn't control it at all."
+
+"That's what I told Alex," Kara said. "Just Red Kryptonite made me so angry, but you destroyed a city after your parents died even though you were affected by a red sun completely. Red sun completely. And you control it now. You control it every day. You hear everything and you choose to hear pen across room and not use it. You could bend light and be invisible and you choose to lift cars like a person would. You built device yourself because you wanted ordinary. That shows strong willpower. How much you are controlling."
+
+Adrian's hand found hers under the desk, not big, not showy, just there.
+
+"I am still learning," he said. "Torquasm Vo and Rao help. Thinking about sun helps. Thinking about you helps."
+
+Kara squeezed. She had told Adam months ago on the roof in November cold, before the lean, hand up gentle but firm, boundary clear, "I'm with Adrian," because she wanted to, because she is Kara who chooses who to kiss. Agency shown through events, not told through repetitive paragraph.
+
+Now she said it again, to herself.
+
+"I'm with Adrian," she whispered, and it steadied her more than any counteragent.
+
+
+Kara tried to get up that evening and go back to work, but Alex made her sit. Lord's counteragent left her shaky, like coming down from too much coffee, hands buzzing. J'onn brought her a glass of water and sat across from her in the med bay and didn't try to read her mind. He just waited.
+
+"I kept thinking about my parents," Kara said finally. "Not my Earth parents. My birth parents. About being put in the pod at thirteen. About finding anger behind anger, what are you really angry about, never having a normal life. Red Kryptonite gave me a reason to say it out loud."
+
+Alex said, "You get to be angry without Red Kryptonite too. You just don't get to be cruel."
+
+Kara looked at her sister. "I was cruel. I liked it. I told James he was boring. I told Winn his games were for kids. I told Siobhan she would never be Cat."
+
+"And you will apologize," Alex said, not unkindly. "Because you're you, not the dust."
+
+Upstairs, Lord was still in the interview room, hands cuffed to the table because protocol, but talking. He kept saying it was an accident, that he'd been trying to make a weapon for Non, a trap, and got the lattice wrong. He kept saying he hadn't meant for it to be in a civilian supply chain. J'onn listened the way J'onn listens, which is like being seen through, and after a while Lord stopped defending and just said, "I will fix it. I will help you fix whatever he builds next."
+
+Hank's voice over the intercom: "He's remorseful. Actually remorseful. That's new."
+
+Kara thought about Bizarro, about the girl in the other lab with black eyes and too many teeth, about how Lord had looked at that girl like a thing. Now he looked at Kara like a person he'd almost killed. Out-of-character moment, but people can have them.
+
+The ice dome had melted by then. Water ran off the roof and into the gutters. Kara had sat in it, soaked, in the black suit, and asked if she'd killed anyone. That was the first thing. Thou shalt not kill.
+
+J'onn had answered, "No," and it had been true.
+
+Later, at her apartment, she found the second toothbrush, blue, by the sink, and the second jacket that was too big hanging by the door, and the book about the sun open to the page about light pressure. Adrian had left them there because he wanted ordinary, because he had built the device himself to be ordinary, because he controlled even under a red sun completely, and that showed strong willpower.
+
+She sat on the floor and cried, not because of Red Kryptonite, but because she finally understood how much Adrian was controlling every day.
+
+
+At CatCo the next morning, things were ordinary on purpose.
+
+Cat said, "Keira, where is my coffee?" and Kara, back in her own coat, the one Adrian had once said looked nice, brought it with both hands and didn't spill. No slinky dress. No heels that could cut.
+
+Winn came over and put a bagel on her desk without comment. James left a contact sheet face-down — not of her in the black suit, but of the workers from the plant, safe, with their families.
+
+At noon Adam Foster came by with coffee for everyone because he'd heard about the plant and wanted to make sure Kara was okay. He was friends, not a date, because Kara had told him clearly months ago that she had a boyfriend, and he had listened. He stayed for ten minutes and left.
+
+There would be another headline tomorrow. Tonight there was just coffee, and a mug put back where it belonged, and the quiet knowledge of how much control it takes to live under a red sun and still choose to be ordinary — and how much stronger that made Adrian's willpower than any synthetic red dust ever could.
+

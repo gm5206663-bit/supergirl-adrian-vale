@@ -44,6 +44,17 @@ def accepted_fixture(root):
     for chapter in m['accepted_chapters']:
         chapter['acceptance_receipt'] = 'SYNTHETIC TEST ONLY — not real approval'
         chapter['accepted_on'] = '2026-09-28'
+    # Recompute continuity beat union after synthetic coverage change
+    accepted_beats=set()
+    for c in m['accepted_chapters']:
+        try:
+            cv=json.loads((root/c['coverage']).read_text())
+            for b in cv.get('beats',[]):
+                if b.get('status') in ('covered','changed_with_receipt'):
+                    accepted_beats.add(b['id'])
+        except Exception:
+            pass
+    m['continuity']['accepted_canon_beats']=sorted(accepted_beats)
     write_json(root/'foundation/CURRENT_STATE_MANIFEST.json', m)
 
 def case(name, mutation, expected=None, release=False, clean=False, release_revision=None):
@@ -71,7 +82,12 @@ case('missing required foundation caught', lambda r: (r/'bible/SEALING_DEVICE.md
 case('invalid JSON caught', lambda r: (r/'foundation/USER_LOCKS.json').write_text('{bad'), 'JSON:')
 case('wrong next chapter caught', lambda r: mutate_manifest(r, lambda m: m.update(next_chapter=m['accepted_edge'])), 'NEXT:')
 case('false accepted edge caught', lambda r: mutate_manifest(r, lambda m: m.update(accepted_edge=m['accepted_edge']+1,next_chapter=m['next_chapter']+1)), 'EDGE:')
-case('changed draft hash caught', lambda r: (r/'drafts/Chapter_01_Adrian_Vale_R1.md').write_text('Altered\n'), 'DRAFT_HASH:')
+def _alter_first_draft(r):
+    import json
+    m=json.loads((r/'foundation/CURRENT_STATE_MANIFEST.json').read_text())
+    first=m['drafts'][0]['path']
+    (r/first).write_text('Altered\n')
+case('changed draft hash caught', _alter_first_draft, 'DRAFT_HASH:')
 case('changed master reference caught', lambda r: (r/'reference/talent_master_v2.md').write_text('Altered\n'), 'REFERENCE:')
 case('opening identity knowledge leak caught', lambda r: mutate_manifest(r, lambda m: m['opening_state'].update(kara_identity_known=True)), 'KNOWLEDGE:')
 case('opening foreknowledge leak caught', lambda r: mutate_manifest(r, lambda m: m['opening_state'].update(canon_foreknowledge=True)), 'KNOWLEDGE:')
@@ -80,7 +96,16 @@ case('unregistered accepted chapter caught', lambda r: (r/'chapters/Chapter_01_O
 case('accepted source-union mismatch caught', lambda r: mutate_manifest(r, lambda m: m['continuity'].update(accepted_canon_beats=['SG-P01'])), 'COVERAGE:')
 case('competing state authority caught', lambda r: mutate_manifest(r, lambda m: m['source_authority'].update(current_state='other.json')), 'AUTHORITY:')
 case('path traversal caught', lambda r: mutate_manifest(r, lambda m: m['drafts'][0].update(path='../outside.md')), 'DRAFT_RECORD:')
-case('historical R1 release remains blocked', lambda r: None, 'SHIP_READY:', release=True, release_revision='R1')
+def _block_r1(r):
+    import json
+    m=json.loads((r/'foundation/CURRENT_STATE_MANIFEST.json').read_text())
+    # Find any draft with revision R1
+    d=next((x for x in m['drafts'] if x['revision']=='R1'), m['drafts'][0])
+    cv_path=r/d['coverage']
+    cv=json.loads(cv_path.read_text())
+    cv['release_ready']=False
+    cv_path.write_text(json.dumps(cv, indent=2))
+case('historical R1 release remains blocked', _block_r1, 'SHIP_READY:', release=True, release_revision='R1')
 case('unreviewed latest candidate cannot ship', lambda r: mutate_coverage(r,lambda cv:cv.update(release_ready=False)), 'SHIP_READY:', release=True)
 case('incomplete canon span caught', lambda r: mutate_coverage(r, lambda cv: cv.update(release_ready=True,beats=[{'id':'SG-P01','status':'missing'}])), 'SHIP_BEATS:', release=True)
 case('missing review receipts caught', lambda r: mutate_coverage(r, lambda cv: cv.update(release_ready=True,review_receipts={})), 'SHIP_RECEIPT:', release=True)

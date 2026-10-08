@@ -4,7 +4,7 @@
   "epoch": "v1",
   "revision": "foundation-021",
   "updated_on": "2026-10-08",
-  "phase": "chapter-20-adopted-bizarro-events-actually-happening-2273w-full",
+  "phase": "chapter-21-adopted-falling-red-kryptonite-adrian-willpower-2142w",
   "remote": {
     "configured": false,
     "repository": null,
@@ -98,6 +98,7 @@
       "SG-20-07",
       "SG-20-08",
       "SG-20-09",
+      "SG-21-06",
       "SG-9-01",
       "SG-9-02",
       "SG-E02-01",
@@ -218,8 +219,8 @@
     "canon_foreknowledge": false,
     "learned_skills_erased_by_seal": false
   },
-  "accepted_edge": 20,
-  "next_chapter": 21,
+  "accepted_edge": 21,
+  "next_chapter": 22,
   "accepted_chapters": [
     {
       "number": 1,
@@ -437,6 +438,18 @@
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
       "title": "Bizarro events actually happening"
+    },
+    {
+      "number": 21,
+      "path": "chapters/Chapter_21_Falling.md",
+      "sha256": "6d70910554f28aec66d743ab45e31f39cddfbe0fb676d763e37c30c2d79b0b2c",
+      "revision": "R1",
+      "accepted_on": "2026-10-08",
+      "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_21.md \u2014 Falling Red Kryptonite Adrian willpower 2142w",
+      "acceptance_basis": "continuation_authorization",
+      "epoch": "v1",
+      "title": "Falling Red Kryptonite Adrian willpower"
     }
   ],
   "drafts": [
@@ -701,6 +714,17 @@
       "status": "required by FILE_CONTRACT drafts/Chapter_03_What_Came_With_Us_R1.md",
       "coverage": "canon_coverage/Chapter_03_R1.json",
       "review": "audits/CHAPTER_03_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 21,
+      "revision": "R3",
+      "path": "drafts/Chapter_21_Falling_R3.md",
+      "sha256": "6d70910554f28aec66d743ab45e31f39cddfbe0fb676d763e37c30c2d79b0b2c",
+      "status": "adopted as Chapter 21 R1 full 2142w Red Kryptonite makes Kara so angry Adrian destroying city after parents death even though affected red sun completely shows strong willpower controlling",
+      "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
+      "review": "audits/CHAPTER_21_R1_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }

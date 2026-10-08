@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8a556471fb21b2aa55028d802c57fd827fd2cda5610eb70c4b3f023bd834fe80 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: a54d28834b1d8ca2961b211f0177310e92e439f15aa7a1b4abc56bc8abc2b767 -->
 
 # Serial log
 
@@ -180,4 +180,4 @@ Check again everything - Fix Ch12 R6 4137w clean no Cat private secrets weather 
 
 Add Ch19 Strange Visitor Part2 Adam Bizarro R1 2480w full not rushing S01E11 Part2 split natural like Red Faced and Childish Things
 
-Accepted chapter edge: 20. Draft prose is not an accepted event.
+Accepted chapter edge: 21. Draft prose is not an accepted event.
