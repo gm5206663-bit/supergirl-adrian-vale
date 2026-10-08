@@ -4,6 +4,7 @@
 
 Generated project navigation. File presence does not imply approval or canon verification.
 
+- [ADRIAN_POWERS_COMPLETE.md](ADRIAN_POWERS_COMPLETE.md)
 - [AGENTS.md](AGENTS.md)
 - [CHECKSUMS.sha256](CHECKSUMS.sha256)
 - [EXPLANATION.md](EXPLANATION.md)
