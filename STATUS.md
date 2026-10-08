@@ -14,6 +14,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [PROJECT_ATLAS.md](PROJECT_ATLAS.md)
 - [README.md](README.md)
 - [STATUS.md](STATUS.md)
+- [WHAT_YOU_ASKED_EXPLANATION.md](WHAT_YOU_ASKED_EXPLANATION.md)
 - [art/Adrian_Vale_Balanced_Hero_R3.png](art/Adrian_Vale_Balanced_Hero_R3.png)
 - [art/README.md](art/README.md)
 - [audits/AMENDMENT_Chapter_02_U18.md](audits/AMENDMENT_Chapter_02_U18.md)
