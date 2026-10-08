@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ccc4b721cdafd6384a7e4d625362ff041e139e0ce33378356212f0232baef010 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 04b7e1b73ba41b324eaf20f501184c74da734dda94aa6dd67b1bfa5759bff8f4 -->
 
 # File map
 
@@ -379,9 +379,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [drafts/Chapter_17_Childish_Things_Part2_R1.md](drafts/Chapter_17_Childish_Things_Part2_R1.md)
 - [drafts/Chapter_17_Childish_Things_Part2_R2.md](drafts/Chapter_17_Childish_Things_Part2_R2.md)
 - [drafts/Chapter_17_Childish_Things_Part2_R4.md](drafts/Chapter_17_Childish_Things_Part2_R4.md)
-- [drafts/Chapter_18_Strange_Visitor_Part1_R1.md](drafts/Chapter_18_Strange_Visitor_Part1_R1.md)
 - [drafts/Chapter_18_Strange_Visitor_Part1_R2.md](drafts/Chapter_18_Strange_Visitor_Part1_R2.md)
-- [drafts/Chapter_19_Strange_Visitor_Part2_R1.md](drafts/Chapter_19_Strange_Visitor_Part2_R1.md)
 - [drafts/Chapter_19_Strange_Visitor_Part2_R2.md](drafts/Chapter_19_Strange_Visitor_Part2_R2.md)
 - [drafts/README.md](drafts/README.md)
 - [foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip](foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip)

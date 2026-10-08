@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ccc4b721cdafd6384a7e4d625362ff041e139e0ce33378356212f0232baef010 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 04b7e1b73ba41b324eaf20f501184c74da734dda94aa6dd67b1bfa5759bff8f4 -->
 
 # Supergirl — Adrian Vale
 
@@ -104,8 +104,6 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_17_Childish_Things_Part2_R4.md](drafts/Chapter_17_Childish_Things_Part2_R4.md): adopted as Chapter 17 R4 full 6835w complete serious rebuild everything fixed not just kiss
 - [drafts/Chapter_12_The_Kiss_R6.md](drafts/Chapter_12_The_Kiss_R6.md): adopted as Chapter 12 R6 full 4137w complete clean no ticker no Cat private proper fights natural butterfly
 - [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md): adopted as Chapter 16 R5 full 4127w complete clean no ticker no Cat private proper fights natural butterfly
-- [drafts/Chapter_18_Strange_Visitor_Part1_R1.md](drafts/Chapter_18_Strange_Visitor_Part1_R1.md): adopted as Chapter 18 R1 full 2556w not rushing S01E11 Strange Visitor Part1 White Martian
-- [drafts/Chapter_19_Strange_Visitor_Part2_R1.md](drafts/Chapter_19_Strange_Visitor_Part2_R1.md): adopted as Chapter 19 R1 full 2480w not rushing S01E11 Strange Visitor Part2 Adam Bizarro
 - [drafts/Chapter_18_Strange_Visitor_Part1_R2.md](drafts/Chapter_18_Strange_Visitor_Part1_R2.md): adopted as Chapter 18 R2 full 3665w not rushing Strange Visitor Part1 White Martian + Torquasm Vo Rao Torquasm Vo Rao
 - [drafts/Chapter_19_Strange_Visitor_Part2_R2.md](drafts/Chapter_19_Strange_Visitor_Part2_R2.md): adopted as Chapter 19 R2 full 3122w not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao
 

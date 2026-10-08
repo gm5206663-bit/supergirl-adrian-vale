@@ -58,7 +58,6 @@ Now at CatCo next morning, before forest fire? No, after forest fire, before Sen
 
 James arrived at 0910, contact sheet from toy convention ice dome, photo of Supergirl, photo of Wraith? No, Wraith not at convention, Wraith at CatCo placing mug back ordinary. James knows Adrian is Wraith moves like someone who does not want to be seen advanced restraint field bent light absorbing momentum will not tell Lucy private means private.
 
-Cat arrived at 0930, Keira where is my coffee. Kara handed coffee. Cat looked at Kara, at Adrian, at empty Winn desk, and said nothing about Winn needing space, because Cat only says Keira where is my coffee, private means private, no private monitor knowledge, no weather balloon sunny, just coffee.
 
 At Noonan's, Kara and Alex went for coffee because CatCo coffee is always too hot and Noonan's coffee is always just right and because Alex wanted to talk about Winn and about Adrian and about J'onn who had been using powers too much and about Torquasm Vo Rao.
 
