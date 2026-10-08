@@ -3,7 +3,7 @@
   "project_id": "supergirl_adrian_vale",
   "epoch": "v1",
   "revision": "foundation-021",
-  "updated_on": "2026-10-07",
+  "updated_on": "2026-10-08",
   "phase": "chapter-16-adopted-childish-things-toyman-4469w-full",
   "remote": {
     "configured": false,
@@ -59,11 +59,13 @@
       "SG-16-04",
       "SG-16-05",
       "SG-16-06",
-      "SG-16-07",
-      "SG-16-08",
-      "SG-16-09",
-      "SG-16-10",
-      "SG-16-11",
+      "SG-17-01",
+      "SG-17-02",
+      "SG-17-03",
+      "SG-17-04",
+      "SG-17-05",
+      "SG-17-06",
+      "SG-17-07",
       "SG-9-01",
       "SG-9-02",
       "SG-E02-01",
@@ -184,8 +186,8 @@
     "canon_foreknowledge": false,
     "learned_skills_erased_by_seal": false
   },
-  "accepted_edge": 16,
-  "next_chapter": 17,
+  "accepted_edge": 17,
+  "next_chapter": 18,
   "accepted_chapters": [
     {
       "number": 1,
@@ -347,14 +349,26 @@
     {
       "number": 16,
       "path": "chapters/Chapter_16_Childish_Things.md",
-      "sha256": "805042d9ebb9183db52fb205b05e6768e6363a7ab824562128eb3e79735b2366",
-      "revision": "R1",
-      "accepted_on": "2026-10-07",
+      "sha256": "07e1171c3aa7ce5f743175cf98756c3ea1504be44855cec0f461ebd2fad4f015",
+      "revision": "R2",
+      "accepted_on": "2026-10-08",
       "title": "Childish Things",
       "epoch": "v1",
       "coverage": "canon_coverage/Chapter_16_ACCEPTED.json",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_16.md \u2014 Childish Things 4469w full not rushing S01E10 Toyman proper fights",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_16.md \u2014 Childish Things Part 1 - Toyman Returns 3050w full not rushing split natural",
       "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 17,
+      "path": "chapters/Chapter_17_Childish_Things_Convention.md",
+      "sha256": "e9ef36a8c70943c1cf690ff15cfc828edd70fdb0aa805cbd19dbdbc44508b947",
+      "revision": "R1",
+      "accepted_on": "2026-10-08",
+      "coverage": "canon_coverage/Chapter_17_ACCEPTED.json",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_17.md \u2014 Childish Things Part 2 - The Convention 3498w full not rushing split natural",
+      "acceptance_basis": "continuation_authorization",
+      "epoch": "v1",
+      "title": "Childish Things Part 2 - The Convention"
     }
   ],
   "drafts": [
@@ -715,6 +729,28 @@
       "review": "audits/CHAPTER_16_R1_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
+    },
+    {
+      "chapter": 16,
+      "revision": "R2",
+      "path": "drafts/Chapter_16_Childish_Things_Part1_R2.md",
+      "sha256": "07e1171c3aa7ce5f743175cf98756c3ea1504be44855cec0f461ebd2fad4f015",
+      "status": "adopted as Chapter 16 R2 full 3050w not rushing split natural S01E10 Childish Things Toyman",
+      "coverage": "canon_coverage/Chapter_16_R2.json",
+      "review": "audits/CHAPTER_16_R2_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 17,
+      "revision": "R1",
+      "path": "drafts/Chapter_17_Childish_Things_Part2_R1.md",
+      "sha256": "e9ef36a8c70943c1cf690ff15cfc828edd70fdb0aa805cbd19dbdbc44508b947",
+      "status": "adopted as Chapter 17 R1 full 3498w not rushing split natural S01E10 Childish Things Toyman",
+      "coverage": "canon_coverage/Chapter_17_R1.json",
+      "review": "audits/CHAPTER_17_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
     }
   ],
   "source_authority": {
@@ -970,6 +1006,12 @@
       "date": "2026-10-07",
       "description": "Chapter 16 Childish Things R1 adopted 4469w full 3000+ S01E10 Toyman proper fights natural butterfly Adrian seen",
       "kind": "adopted_chapter"
+    },
+    {
+      "id": "E040",
+      "kind": "adopted_chapter",
+      "date": "2026-10-08",
+      "description": "Split S01E10 Childish Things into TWO natural chapters like Red Faced U36: Ch16 R2 3050w Toyman Returns + Ch17 R1 3498w The Convention full 3000+ not rushing per user feedback entire episode into one chapter mistake"
     }
   ],
   "background": {

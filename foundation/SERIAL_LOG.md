@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 460a7a2d33a3dbc7e5a8c3e61775c2b2dcee3c757963bdbb552f52767a415c4b -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: c8c85e1e3af55e1f9074425c82023d3d93e09e7c5988665c47e8de97b515ab35 -->
 
 # Serial log
 
@@ -160,4 +160,8 @@ Rebuild clean per U40 ticker trash and U41 Cat private secrets nonsense: removed
 
 Chapter 16 Childish Things R1 adopted 4469w full 3000+ S01E10 Toyman proper fights natural butterfly Adrian seen
 
-Accepted chapter edge: 16. Draft prose is not an accepted event.
+## E040 — 2026-10-08 — adopted_chapter
+
+Split S01E10 Childish Things into TWO natural chapters like Red Faced U36: Ch16 R2 3050w Toyman Returns + Ch17 R1 3498w The Convention full 3000+ not rushing per user feedback entire episode into one chapter mistake
+
+Accepted chapter edge: 17. Draft prose is not an accepted event.

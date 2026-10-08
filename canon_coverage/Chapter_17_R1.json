@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "chapter": 17,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_17_Childish_Things_Part2_R1.md",
+  "draft_sha256": "e9ef36a8c70943c1cf690ff15cfc828edd70fdb0aa805cbd19dbdbc44508b947",
+  "accepted": true,
+  "claimed_episode": "S01E10 Childish Things Part 2",
+  "span": "Childish Things Part 2 - The Convention full 3000+ split natural",
+  "sources": [
+    {
+      "id": "SRC-SG-E10-CB",
+      "url": "http://comicboxcommentary.blogspot.com/2016/01/supergirl-episode-10-childish-things.html",
+      "title": "Supergirl Episode 10 Childish Things - Comic Box Commentary",
+      "accessed": "2026-10-07",
+      "verification": "Factory thermite quicksand, Winn kisses Kara, kidnapped plastic gun convention 10 bombs sprinklers ice dome, Winn confesses love, Lucy job, Lord camera learns Supergirl sister"
+    },
+    {
+      "id": "SRC-SG-E10-SH",
+      "url": "https://www.superherohype.com/features/363009-supergirl-episode-10-recap-childish-things",
+      "title": "Supergirl Episode 10 Recap - SuperHeroHype",
+      "accessed": "2026-10-07",
+      "verification": "Factory quicksand freeze breath child trunk doll, Winn apartment worries snap genes, kiss pulls away, ether kidnapped plastic gun convention 10 bombs sprinklers ice wall, Minecraft confesses love, camera purse Alex Kara flight"
+    },
+    {
+      "id": "SRC-U40-TRASH",
+      "url": "user_request_U40_trash",
+      "title": "No ticker spam",
+      "accessed": "2026-10-07",
+      "verification": "No ticker spam"
+    },
+    {
+      "id": "SRC-U41-CAT",
+      "url": "user_request_U41_cat",
+      "title": "No Cat private",
+      "accessed": "2026-10-07",
+      "verification": "Cat only coffee"
+    },
+    {
+      "id": "SRC-U52-NATURAL",
+      "url": "user_request_U52_natural",
+      "title": "Natural butterfly alive Adrian seen",
+      "accessed": "2026-10-07",
+      "verification": "Adrian seen chipped mug theater mask magnet hallway text pen across room"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-17-01",
+      "status": "covered",
+      "reason": "Schott Toys factory abandoned thermite quicksand giant building block child trunk shredder doll freeze breath escape",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-17-02",
+      "status": "covered",
+      "reason": "Winn at Kara apartment worries snap like father genes time bomb Kara comforts both lives ended day strive give back",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-17-03",
+      "status": "covered",
+      "reason": "Winn kisses Kara pulls away, ether kidnapped van toy handcuffs plastic gun kill Dunholtz convention 10 bombs bring closer best thing ever made",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-17-04",
+      "status": "covered",
+      "reason": "Toy convention bright Dunholtz award Winn cannot kill shoots ceiling, Supergirl sprinklers freeze breath ice dome protects from bombs",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-17-05",
+      "status": "covered",
+      "reason": "Winn confesses love since before Supergirl Minecraft needs space bottling feelings, Lucy job CatCo lawyer Harvard West Point 90% women James reluctant, TV night warning",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-17-06",
+      "status": "covered",
+      "reason": "Maxwell Lord backup cameras sees himself supernatural phasing, plants camera Alex purse learns Supergirl is Alex sister CONTINGENCY",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-SH"
+      ]
+    },
+    {
+      "id": "SG-17-07",
+      "status": "changed_with_receipt",
+      "reason": "Adrian natural butterfly alive seen chipped mug theater mask magnet hallway text pen across room ordinary choice share history romance affects Winn James Alex naturally proper fights",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-SH",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT",
+        "SRC-U52-NATURAL"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_17_R1_REVIEW.md",
+      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_17_R1_REVIEW.md",
+      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+    },
+    "power": {
+      "path": "audits/CHAPTER_17_R1_REVIEW.md",
+      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_17_R1_REVIEW.md",
+      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_17_R1_REVIEW.md",
+      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [],
+  "notes": "Full 3498w proper prose not rushing split natural like Red Faced Ch9+Ch10 S01E10 Childish Things Toyman",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 10,
+    "canon_title": "Childish Things",
+    "chapter": 17,
+    "chapter_title": "Childish Things Part 2 - The Convention"
+  }
+}
