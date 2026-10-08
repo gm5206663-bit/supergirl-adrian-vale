@@ -1,5 +1,7 @@
 # Chapter 16: Childish Things
 
+*Episode: S01E10 - Childish Things*
+
 The morning started with a yo-yo.
 
 Not the kind from a toy aisle at National City Mall, not the kind Winn had played with as a child when his father still made toys for him and not for revenge. The news clip on the break room television at CatCo showed Van Kell Maximum Security at 0600, concrete and chain-link and guard towers that had been guard towers for twenty years. The clip was grainy, security footage, timestamped, routine that had been routine for six years since Winslow Schott Sr. had been sentenced for six counts of murder.
@@ -41,7 +43,6 @@ Agent Chase said, "He broke out at 0600 with a weaponized yo-yo. He killed two g
 Winn's hands were fists on his desk, knuckles white, the kind of white that comes before punch. "Because I hate him."
 
 "Why?" Chase asked, not unkindly, but directly, FBI direct.
-
 
 "Because he was my best friend," Winn said, voice that was eleven again. "When I was a kid he made toys. Not for money, for me. He made a robot that could walk and a doll that could say my name, Winn, my boy, my best creation. He worked for Chester Dunholtz at Schott Toys. Dunholtz stole his designs. All of them. The jumping jack that became a bestseller, the talking bear, the robot, everything. My dad was... he was not a brave man. He was cowardly. He bottled things up. He did not yell, he did not fight, he did not tell Dunholtz to stop stealing, he just... held it. And one day he snapped. He put a bomb in a teddy bear and mailed it to Dunholtz's office. A teddy bear bomb."
 
@@ -104,7 +105,6 @@ Supergirl ripped through the arcade's side wall, not the door, the wall, because
 She inhaled.
 
 It was not a small breath. Kryptonian lungs, filled with sun from the trip with Adrian where he had taken her above the atmosphere and held her hand while her cells drank light and remembered to overcompensate, baseline higher temporarily then settles higher than before cells remember overcompensate, could hold a gymnasium of air, could hold a swimming pool of air. She took in the entire cloud, every molecule of poison, in one vast vacuum breath that pulled posters off walls and made the stuffed animals collapse inward and made Winn's hair fly back and made Agent Chase's hat fly off and made the Superman rocket ride outside rattle.
-
 
 She landed back in the arcade, boots soft on broken glass, cape not even dusty because she had flown so fast dust did not have time to settle, and looked at Winn, and at Agent Chase who was on knees coughing but alive.
 

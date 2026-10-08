@@ -1,5 +1,7 @@
 # Chapter 21: Falling
 
+*Episode: S01E16 - Falling*
+
 The call came at 2:17 p.m. Chemical plant on the edge of National City, fire in the storage wing, three workers trapped on the second floor catwalk, wind pushing smoke toward the river.
 
 Kara was already moving before Alex finished the sentence.
@@ -194,7 +196,6 @@ Now she said it again, to herself.
 
 "I'm with Adrian," she whispered, and it steadied her more than any counteragent.
 
-
 Kara tried to get up that evening and go back to work, but Alex made her sit. Lord's counteragent left her shaky, like coming down from too much coffee, hands buzzing. J'onn brought her a glass of water and sat across from her in the med bay and didn't try to read her mind. He just waited.
 
 "I kept thinking about my parents," Kara said finally. "Not my Earth parents. My birth parents. About being put in the pod at thirteen. About finding anger behind anger, what are you really angry about, never having a normal life. Red Kryptonite gave me a reason to say it out loud."
@@ -219,7 +220,6 @@ Later, at her apartment, she found the , blue, by the sink, and the second jacke
 
 She sat on the floor and cried, not because of Red Kryptonite, but because she finally understood how much Adrian was controlling every day.
 
-
 At CatCo the next morning, things were ordinary on purpose.
 
 Cat said, "Keira, where is my coffee?" and Kara, back in her own coat, the one Adrian had once said looked nice, brought it with both hands and didn't spill. No slinky dress. No heels that could cut.
@@ -227,7 +227,6 @@ Cat said, "Keira, where is my coffee?" and Kara, back in her own coat, the one A
 Winn came over and put a bagel on her desk without comment. James left a contact sheet face-down — not of her in the black suit, but of the workers from the plant, safe, with their families.
 
 At noon Adam Foster came by with coffee for everyone because he'd heard about the plant and wanted to make sure Kara was okay. He was friends, not a date, because Kara had told him clearly months ago that she had a boyfriend, and he had listened. He stayed for ten minutes and left.
-
 
 Cat was booked on The Talk that afternoon. She had been asked to discuss Supergirl, because Supergirl had been seen on a bar at Noonan's shattering bottles with peanuts and demanding worship.
 
@@ -238,8 +237,6 @@ The hosts asked if Supergirl was dangerous.
 Cat said, "She is dangerous the way a storm is dangerous. You respect it. You don't poke it with a stick. And you don't put it on a bar and film it."
 
 Kara watched it from the DEO med bay, in the black suit, and started crying again.
-
-
 
 At the DEO, Alex stayed late to file the report. She wrote: exposure to synthetic red Kryptonite, subject: Kara Danvers, alias Supergirl, duration: approximately 26 hours, symptoms: progressive aggression, grandiosity, decreased inhibition, megalomania, demand for awe and worship, reenactment of Superman III peanut scene, wearing of non-standard uniforms including slinky striped dress with peekaboo midriff and black catsuit, grip strength unregulated causing minor injury to civilian James Olsen, no fatalities, cure: counteragent developed by Maxwell Lord in cooperation with DEO, remorseful cooperation noted, Out-of-Character Moment but documented.
 
@@ -268,8 +265,6 @@ Later, when Adrian came to the DEO to bring her coat, the one she had left at Ca
 He nodded. "Ordinary."
 
 They flew home together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so the building didn't shake, flight counter rotation, quiet you okay at the end, not because they had to, but because they wanted to.
-
-
 
 There would be another headline tomorrow. Tonight there was just coffee, and a mug put back where it belonged, and the quiet knowledge of how much control it takes to live under a red sun and still choose to be ordinary — and how much stronger that made Adrian's willpower than any synthetic red dust ever could.
 

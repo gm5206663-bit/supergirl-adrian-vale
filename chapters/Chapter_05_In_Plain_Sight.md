@@ -1,6 +1,6 @@
 # Chapter 5: In Plain Sight
 
-## Chapter 5 — In Plain Sight
+*Episode: S01E02 - Stronger Together*
 
 *Earlier that week*
 

@@ -1,6 +1,6 @@
 # Chapter 8: The Woman Who Stayed
 
-## Chapter 8 — The Woman Who Stayed
+*Episode: S01E04 - Livewire*
 
 The apartment smelled like coffee and reheated soup when Kara arrived.
 

@@ -1,5 +1,7 @@
 # Chapter 17: The Convention
 
+*Episode: S01E10 - Childish Things*
+
 The Schott Toys factory was abandoned in the way only a toy factory can be abandoned when the owner goes to prison for six counts of murder and the city does not know what to do with building that still has toys in it. Not empty, but full of things that had been left mid-motion, mid-assembly, mid-paint. Assembly lines still, dust thick enough to write name in, windows broken, giant building blocks six feet tall stacked like a child's playroom but covered in cobwebs and bird droppings and old safety notices that said WEAR GOGGLES. The air smelled like old plastic and oil and something sweet that had gone bad, like the strawberry scent they put in dolls that had gone rancid.
 
 Winslow Schott Sr. was there, sitting on a block, holding another doll, this one a little girl with yarn hair that had been white once and now was gray. He looked tired now, not calm, not the soft pleased father from arcade hologram, tired like a man who had walked too far from Van Kell to National City Industrial, tired like a man who had not slept because he was thinking about his son and about Chester Dunholtz and about how to make them meet.
@@ -40,9 +42,7 @@ She left the doll on the block, not breaking it, because breaking a child's toy,
 
 ---
 
-
 He sat on her couch, holding a beer he did not drink, because he does not drink when nervous, he types when nervous, looking at the blanket Alex had left, at the TV that was off, at the mug on Kara's counter that was not the same mug as CatCo's but similar, because Kara had bought one like it after Evelyn left because she liked the weight and because Evelyn had left mug at CatCo and Adrian placed it back every morning ordinary human-level and Kara wanted one at home too.
-
 
 "I worry I will snap one day," he said, quiet, not looking at Kara, looking at his hands that were good with computers and bad with people, that were good with making suit better and bad with telling woman he loves her when she is with his friend. "Like him. I am so like him. Same cowardice, same anger. I bottle things up. I... I see the same genes as time bombs. My dad was a coward who bottled things up until he mailed a bomb. I bottle things up until I... I don't know. Until I kiss my best friend who is with my friend? Until I..."
 
@@ -58,15 +58,11 @@ Winn laughed, a little, broken, and his eyes flicked to Kara's counter, to the s
 
 "Winn?" Kara asked, because his heartbeat had gone fast again, 120 then 140, and because she can hear heartbeat from across room now after sun baseline higher.
 
-
 Kara's hand was on his shoulder, gentle, not romantic, friend. "Winn—"
-
 
 He started to lean in, she put her hand up gentle but firm, "I'm with Adrian," boundary clear, before any kiss, agency respected.
 
-
 Kara pulled away immediately, gentle but firm, hand on his shoulder, not pushing, just holding, boundary clear because she had agency and because she had kissed Adrian on roof November cold consensual agency romance_selection kara and she knew what choosing meant and what being chosen meant.
-
 
 Winn stood, embarrassed, sad, both, the worst combination, plus guilt now, guilt that he had kissed taken Kara, guilt that he had kissed friend's girlfriend, guilt that he had kissed best friend who is with friend, guilt that he had become his father in small way, bottling then exploding, guilt that he had not texted Adrian sorry yet.
 
@@ -111,7 +107,6 @@ He had fixed Kara's computer. He had made her suit better. He had placed a mug b
 He pointed it at the ceiling, high, away from children, away from parents, away from Dunholtz, and fired. The plastic gun cracked, a small pop, not loud, but loud enough for quiet convention hall, loud enough for security to hear.
 
 The crowd screamed. Children cried. Parents pulled them close. Collectors ducked. Cosplayers dropped props.
-
 
 She saw Toyman hiding beneath the stage, phone in hand, thumb over detonate, smiling sad father smile, the kind of smile that comes when son does not do what father wants.
 
@@ -204,6 +199,5 @@ Kara at her desk typing fingers not ache vision sees individual dust motes Cat o
 There would be another headline tomorrow. Tonight there was space given, and a secret kept, and a secret learned, and a kiss that knew she is with Adrian and was told no with kindness and with boundary and with love as family.
 
 Adrian went back to work.
-
 
 At CatCo, Adrian placed a chipped mug on his desk next to theater mask magnet, ordinary, and went back to work.

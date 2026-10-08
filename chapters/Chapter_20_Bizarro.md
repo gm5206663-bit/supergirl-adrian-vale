@@ -1,5 +1,7 @@
 # Chapter 20: Bizarro
 
+*Episode: S01E12 - Bizarro*
+
 The truck was falling.
 
 It was not supposed to be falling. It was supposed to be on bridge, National City bridge, 1400, sun, wind, truck driver who had been driving for twelve hours and who had fallen asleep for two seconds, two seconds is enough, truck went through guardrail, through air, toward river, driver inside, awake now, screaming.
@@ -15,7 +17,6 @@ She flew truck to road, not clearing, road, dropped it, truck landed hard, drive
 Alex stood, remote in hand, pizza falling. "Kara, that is not you."
 
 Kara stood, cape not on, but Supergirl inside, powers humming higher than ever finger healed heart faster baseline higher after sun baseline higher cells remember overcompensate, vision seeing individual dust motes in Cat office from bullpen and hearing Adrian pen across room and baseline higher.
-
 
 Alex called DEO. DEO said we have White Martian in custody, now Bizarro on bridge, what next.
 
@@ -55,7 +56,6 @@ At DEO, Alex and Hank and J'onn talked about Bizarro, about White Martian in cus
 
 J'onn said, "Bizarro is not telepath, but is copy, evil knockoff, Lord's Lab 52, Room 52, Jane Doe strapped table brain trauma bracelet opens eyes black like Supernatural demon holographic projection Red Tornado torn-off arm speculation Bizarro Supergirl Galatea, Maxwell Lord top-secret room."
 
-
 Kara arrived at DEO, not as Kara Danvers but as Supergirl, cape, boots, proper superpowered, supersonic, absorbing momentum so DEO launch bay did not crack, flight counter rotation.
 
 "Bizarro is on bridge again," Hank said, as Hank Henshaw, not as J'onn J'onzz, because he is pretending to be human, because he is reluctant to show who he is or openly use powers.
@@ -88,15 +88,11 @@ J'onn used telepathy, H'ronmeer's mind, Green Martian similar disciplines, Torqu
 
 Alex arrived, with Kryptonite? No, not Kryptonite, with... with DEO van, with... with sedative, "Sedative. You're welcome."
 
-
-
-
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
 
 Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made.
-
 
 Adrian went back to work, ordinary.
 
@@ -118,14 +114,11 @@ Alex said, "Adrian thinks about mind, not just body, because body can lift train
 
 Kara nodded, because Alex is right, because Adrian thinks about mind, because Adrian is lean balanced not bulky and is good for her and thought Kara Torquasm Vo & Rao before White Martian.
 
-
-
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
 
 Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made.
-
 
 Adrian went back to work, ordinary.
 
@@ -135,12 +128,9 @@ Adrian went back to work, ordinary.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss.
 
-
 Adrian went back to work, ordinary.
 
-
 At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
@@ -150,10 +140,7 @@ Kara, in the bullpen, typed, not hearing as background, but as choice. She typed
 
 There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
-
-
 At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
@@ -163,10 +150,7 @@ Kara, in the bullpen, typed, not hearing as background, but as choice. She typed
 
 There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
-
-
 At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
@@ -176,10 +160,7 @@ Kara, in the bullpen, typed, not hearing as background, but as choice. She typed
 
 There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
-
-
 At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 

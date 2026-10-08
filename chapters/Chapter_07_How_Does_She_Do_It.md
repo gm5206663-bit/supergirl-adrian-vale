@@ -1,6 +1,6 @@
 # Chapter 7: How Does She Do It
 
-## Chapter 7 — How Does She Do It?
+*Episode: S01E05 - How Does She Do It?*
 
 The drone followed her for three blocks before Kara decided it was not a hobbyist losing control of a toy.
 

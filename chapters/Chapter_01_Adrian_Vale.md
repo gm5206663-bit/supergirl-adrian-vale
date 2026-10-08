@@ -1,6 +1,6 @@
 # Chapter 1: Adrian Vale
 
-## Chapter 1 — Adrian Vale
+*Episode: S01E01 - Pilot*
 
 Kara had been given someone to look after.
 

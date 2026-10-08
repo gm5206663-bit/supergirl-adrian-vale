@@ -1,5 +1,6 @@
 # Chapter 13: Human for a Day
-# S01E07 Human for a Day - Full 3000+ Words
+
+*Episode: S01E07 - Human for a Day*
 
 Hank had Kara on Kryptonite again.
 
@@ -295,9 +296,7 @@ She thought maybe being able to bleed and being able to go to sun and being able
 
 Adrian went back to work.
 
-
 At the DEO, Alex reviewed the file for Chapter_13_Human_for_a_Day.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
@@ -307,10 +306,7 @@ Kara, in the bullpen, typed, not hearing work as background, but as choice. She 
 
 There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
-
-
 At the DEO, Alex reviewed the file for Chapter_13_Human_for_a_Day.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
@@ -319,7 +315,5 @@ Hank said, "Adrian is learning too. Red sun development harmed temperament emoti
 Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not Ch12 kiss but roof November cold since sun.
 
 There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
-
-
 
 At CatCo the next morning, Adrian arrived at 8:50, band at wrist, chipped mug in hand, theater mask magnet on the filing cabinet, ordinary, and placed mug back next to magnet and went back to typing.

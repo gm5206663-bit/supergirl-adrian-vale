@@ -1,6 +1,6 @@
 # Chapter 4: What Remains
 
-## Chapter 4 — What Remains
+*Episode: S01E01 - Pilot*
 
 Winn was still talking into Kara’s ear.
 

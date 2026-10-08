@@ -1,6 +1,6 @@
 # Chapter 3: The Name He Feared
 
-## Chapter 3 — The Name He Feared
+*Episode: S01E01 - Pilot*
 
 Winn had brought more fabric than Kara thought any one person could need.
 

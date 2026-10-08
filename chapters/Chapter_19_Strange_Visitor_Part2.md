@@ -1,5 +1,7 @@
 # Chapter 19: The White Martian
 
+*Episode: S01E11 - Strange Visitor From Another Planet*
+
 Cat's emergency was not an emergency in the way DEO emergency is emergency. It was Cat emergency, which is different kind of emergency, the kind that involves mother and son and letter and Kara Danvers who finished discarded note and sent on behalf of boss.
 
 The young man at Noonan's who had expressed condolences for working for Cat Grant and who had asked if she breathes fire and eats babies and who had said he heard she sat down with Vladimir Putin, Pope Francis, and Taylor Swift and was not worried about dinner with son, was Adam Foster. Blake Jenner, Glee co-star and then-husband of Melissa Benoist in real life, Casting Gag, Ship Tease obviously interested in Kara and openly flirts with her, Cat plays Shipper on Deck for them, they have a date by the end of the episode.
@@ -120,7 +122,6 @@ James knows Adrian is Wraith moves like someone who does not want to be seen adv
 
 Lucy by elevator with resume folder because Cat offered job as lawyer and she was deciding and she had JD-MBA from Harvard and West Point degree and Cat likes women who have done things and 90 percent of CatCo companies are run by women, and Lucy will accept Monday, will become Cat lawyer, will work with James, will make James reluctant, will make James think about Kara and about Adrian and about Winn and about Adam.
 
-
 Kara looks at Adrian mug smiles small, powers humming higher than ever finger healed heart faster baseline higher, mug magnet, no ticker, just city lights, just coffee, just forest fire saved and White Martian and son who is not son and son who is son and truck that is saved by Supergirl who is not Supergirl.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, mug next to magnet, toothbrusha apartment, jacket, book, Evelyn's mug, magnet, second mug blue not pink.
@@ -157,9 +158,7 @@ There would be another headline tomorrow. Tonight there was White Martian and Se
 
 Adrian went back to work.
 
-
 At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 

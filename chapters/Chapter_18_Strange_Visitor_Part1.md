@@ -1,5 +1,7 @@
 # Chapter 18: Strange Visitor
 
+*Episode: S01E11 - Strange Visitor From Another Planet*
+
 The forest fire was not supposed to be there.
 
 It was late January, National City hills dry from no rain, wind from Santa Ana, camper parked where campers should not park, family inside that had thought forest fire season was over. It was not over. The fire surrounded camper in ten minutes, pine and dry brush and wind, and the family inside had a dad and a mom and a son who was eight and who had a Superman toy that he held even though Superman was not real and Supergirl was.
@@ -33,7 +35,6 @@ At CatCo next morning, ordinary was different because Winn was not at his desk. 
 Kara arrived at 0845, coat that Adrian said looked nice once, mug in hand that was not Evelyn's but similar, because she had bought one like it after Evelyn left. Adrian arrived at 0850, band at wrist, mug in hand, magnet in pocket because taken from fridge to clean forgotten to leave inside, ordinary. He placed mug back next to coffee machine, next to magnet, next to Evelyn's niece's magnet, and went back to typing, pen audible to Kara but not to others, because Kara's hearing after sun baseline higher sees individual dust motes in Cat office from bullpen and hears Adrian pen and baseline higher cells remember overcompensate.
 
 James arrived at 0910, contact sheet from toy convention ice dome, photo of Supergirl, photo of Wraith? No, Wraith not at convention, Wraith at CatCo placing mug back ordinary. James knows Adrian is Wraith moves like someone who does not want to be seen advanced restraint light absorbing momentum will not tell Lucy private means private.
-
 
 At Noonan's, Kara and Alex went for coffee because CatCo coffee is always too hot and Noonan's coffee is always just right and because Alex wanted to talk about Winn and about Adrian and about J'onn who had been using powers too much.
 
@@ -134,7 +135,6 @@ James at desk, contact sheet from toy convention ice dome, plus forest fire camp
 James knows Adrian is Wraith moves like someone who does not want to be seen advanced restraint light absorbing momentum will not tell Lucy private means private, will not tell Lucy because private means private and because James respects privacy and because James is still thinking about Kara and about Lucy and about Adrian who is with Kara and about Winn who kissed Kara knowing she is with Adrian and needs space.
 
 Lucy by elevator with resume folder because Cat offered job as lawyer and she was deciding and she had JD-MBA from Harvard and West Point degree and Cat likes women who have done things and 90 percent of CatCo companies are run by women, and Lucy will accept Monday, will become Cat lawyer, will work with James, will make James reluctant.
-
 
 Kara looks at Adrian mug smiles small, powers humming higher than ever finger healed heart faster baseline higher, mug magnet, no ticker, just city lights, just coffee, just forest fire saved and White Martian coming and son who is not son.
 

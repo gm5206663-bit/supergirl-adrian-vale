@@ -1,6 +1,6 @@
 # Chapter 6: Under the Headline
 
-## Chapter 6 — Under the Headline
+*Episode: S01E03 - Fight or Flight*
 
 Cat set her phone on the roof of the car, checked that it was recording and looked up at Supergirl.
 

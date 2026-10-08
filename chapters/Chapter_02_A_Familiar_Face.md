@@ -1,6 +1,6 @@
 # Chapter 2: A Familiar Face
 
-## Chapter 2 — A Familiar Face
+*Episode: S01E01 - Pilot*
 
 By morning, Kara had watched herself save the plane from four different angles.
 

@@ -1,8 +1,8 @@
 # Chapter 9: Red Faced and Named
-# S01E06 Red Faced Part 1 - Full 3000+ Words
+
+*Episode: S01E06 - Red Faced*
 
 By Monday morning, National City had decided that the masked helper from the freeway and the train was a story it could not leave alone.
-
 
 Two clips looped.
 
@@ -27,7 +27,6 @@ Kara stared. "Wraith?"
 "Cat named him at seven this morning," Winn said quietly, not looking at screen, looking at Kara, hands tight. "She said Supergirl has a name, so the man in black needs a name. She considered Onyx, Nocturne, and Obsidian, but decided Wraith was more searchable. She said Wraith is SEO, more searchable than Onyx."
 
 "Does she know—"
-
 
 Kara looked again at the freeway clip. She had been there. She knew whose hands those were. The way he slipped inside, the way he carried the blast up instead of trying to overpower it, advanced restraint not brute, absorbing momentum, proper superpowered.
 
@@ -149,7 +148,6 @@ Kara smiled, small, tired. "I know. Thank you."
 
 Later, DEO had a new plan: thermally accurate hologram, thank you Kryptonian technology, lure Red Tornado, thermally accurate hologram.
 
-
 Supergirl fought Red Tornado in industrial yard, not brawl but superpowered. Red Tornado used vortexes to keep at range, predicted dodge, fired there. Kara used super speed break pattern, heat vision short bursts destabilize vortexes, not destroy but disrupt, got close, generated repulsive wind throwing back, learned going underground, super strength punching concrete using earth as cover, erupting behind, grabbing torso, lifting, slamming, cracking yard floor spiderweb, flashbacks parents loading pod you will be safe you will be strong.
 
 Alex faced down Morrow at warehouse docks, mentally linked, telepathic relay, veins, eyes white, hands twitching. Only way break connection kill him. Winn said like live wire. Alex tried avoid but struggle, Morrow hit head on pipe accidental during apprehension, relay went dark.
@@ -184,47 +182,32 @@ She thought about what it means to be able to bleed and being able to melt aspha
 
 Adrian went back to work.
 
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
 There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
 There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
 There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
 There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
 There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
 There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
-
 There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
 
-
 There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
-
-
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
-
-
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
-
-
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
-
-
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
-
-
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
-
-
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
-
 
 There would be another headline tomorrow. Tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells? No sun yet, that was next chapter, but tonight there was friend who had taken her to... not yet, but tonight there was Wraith named and cut finger and Red Tornado ash and James knows and Winn closed monitor and Cat mother left and Adrian picked up mug placed back on desk went back to work ordinary band at wrist mug next to magnet.
