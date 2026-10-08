@@ -1,4 +1,4 @@
-# Season 1, Episode 5 — Livewire
+# Chapter 8: The Woman Who Stayed
 
 ## Chapter 8 — The Woman Who Stayed
 

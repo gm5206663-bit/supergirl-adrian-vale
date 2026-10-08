@@ -1,4 +1,4 @@
-# Chapter 9 — Red Faced and Named
+# Chapter 9: Red Faced and Named
 # S01E06 Red Faced Part 1 - Full 3000+ Words
 
 By Monday morning, National City had decided that the masked helper from the freeway and the train was a story it could not leave alone.

@@ -87,7 +87,7 @@
       "fact": "alex_deo_role",
       "state": "known",
       "provenance": "accepted_event",
-      "evidence": "Kara tells Adrian about Alex’s DEO role after the first capture; Alex then appears at the rescue.",
+      "evidence": "Kara tells Adrian about Alex\u2019s DEO role after the first capture; Alex then appears at the rescue.",
       "source_chapter": 3,
       "source_path": "chapters/Chapter_03_The_Name_He_Feared.md"
     },
@@ -151,7 +151,7 @@
       "fact": "public_flying_woman_rescued_aircraft",
       "state": "known",
       "provenance": "accepted_event",
-      "evidence": "Cat’s call and distant news footage after landing; no face/species identification.",
+      "evidence": "Cat\u2019s call and distant news footage after landing; no face/species identification.",
       "source_chapter": 1,
       "source_path": "chapters/Chapter_01_Adrian_Vale.md"
     },
@@ -251,7 +251,7 @@
       "fact": "alura_sentenced_him",
       "state": "known",
       "provenance": "user_lock",
-      "evidence": "U16: Alura sentenced him; lived history, not a deduction from Kara’s powers."
+      "evidence": "U16: Alura sentenced him; lived history, not a deduction from Kara\u2019s powers."
     },
     {
       "id": "K28",

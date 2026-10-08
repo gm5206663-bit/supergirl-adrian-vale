@@ -1,4 +1,4 @@
-# Chapter 17: Childish Things Part 2 R1 - The Convention 4000w+ Full Not Rushing
+# Chapter 17: Childish Things Part 2
 
 The Schott Toys factory was abandoned in the way only a toy factory can be abandoned. Not empty, but full of things that had been left mid-motion. Assembly lines still, dust thick, windows broken, giant building blocks six feet tall stacked like a child's playroom but covered in cobwebs and bird droppings. The air smelled like old plastic and oil and something sweet that had gone bad.
 

@@ -1,4 +1,4 @@
-# Chapter 16: Childish Things Part 1 R2 - Toyman Returns 4000w+ Full Not Rushing
+# Chapter 16: Childish Things Part 1
 
 The morning started with a yo-yo.
 

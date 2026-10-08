@@ -1,4 +1,4 @@
-# Chapter 20: Bizarro R1 - Events Actually Happening 4000w+ Full Not Rushing Natural Butterfly Complete
+# Chapter 20: Bizarro
 
 The truck was falling.
 

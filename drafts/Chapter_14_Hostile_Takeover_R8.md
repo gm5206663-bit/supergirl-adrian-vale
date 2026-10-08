@@ -1,4 +1,4 @@
-# Chapter 14 — Hostile Takeover
+# Chapter 14: Hostile Takeover
 # S01E08 Hostile Takeover - Full 3000+ Words
 
 Astra sat inside, wrists bound with cuffs that glowed faint Kryptonian script, light catching the edges, pulsing faintly with each breath. On the table outside the cell, in a sealed case, was a dagger. Green glow. Kryptonite. Light pulsing faintly, humming, green light reflecting off the glass.

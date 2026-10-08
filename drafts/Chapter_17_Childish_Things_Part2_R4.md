@@ -1,4 +1,4 @@
-# Chapter 17: Childish Things Part 2 R4 - The Convention - Complete Serious Rebuild 5500w+ Full Not Rushing Natural Butterfly Everything Fixed
+# Chapter 17: Childish Things Part 2
 
 The Schott Toys factory was abandoned in the way only a toy factory can be abandoned when the owner goes to prison for six counts of murder and the city does not know what to do with building that still has toys in it. Not empty, but full of things that had been left mid-motion, mid-assembly, mid-paint. Assembly lines still, dust thick enough to write name in, windows broken, giant building blocks six feet tall stacked like a child's playroom but covered in cobwebs and bird droppings and old safety notices that said WEAR GOGGLES. The air smelled like old plastic and oil and something sweet that had gone bad, like the strawberry scent they put in dolls that had gone rancid.
 

@@ -1,4 +1,4 @@
-# Chapter 15 — Blood Bonds
+# Chapter 15: Blood Bonds
 # S01E09 Blood Bonds - Full 3000+ Words
 
 The night air over Lord Technologies still smelled of scorched concrete and ozone.

@@ -1,4 +1,4 @@
-# Chapter 19: Strange Visitor From Another Planet Part 2 R2 - Adam and Bizarro + Torquasm Vo Rao 4000w+ Full Not Rushing Natural Butterfly Complete
+# Chapter 19: Strange Visitor From Another Planet Part 2
 
 Cat's emergency was not an emergency in the way DEO emergency is emergency. It was Cat emergency, which is different kind of emergency, the kind that involves mother and son and letter and Kara Danvers who finished discarded note and sent on behalf of boss.
 

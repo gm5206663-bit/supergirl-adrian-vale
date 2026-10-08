@@ -1,4 +1,4 @@
-# Season 1, Episode 1 — Pilot
+# Chapter 1: Adrian Vale
 
 ## Chapter 1 — Adrian Vale
 

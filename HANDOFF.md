@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 597556745e05c07304cc114d458bbcbb341e29d08e698aa409479f6b4a495e73 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: eefdf9b699d3ace60c319e1e8f3cf90b6117498dd4107e0d3fc54f442c4324a3 -->
 
 # Handoff — Supergirl / Adrian Vale
 

@@ -1,4 +1,4 @@
-# Chapter 12: The Kiss R6 - Complete Clean Rebuild 4200w+ Full Not Rushing No Ticker No Cat Private Proper
+# Chapter 12: The Kiss
 
 Roof cold again not cold of space where no air to carry cold just radiation light but November National City cold wind gap between collar and skin Kara pull coat tighter even though Supergirl powers humming higher than ever after sun, cartoon bandage little dog with cape pocket not on finger finger healed no scar no line as if never bled reminded she could bleed and could heal and could choose when to show either.
 

@@ -1,4 +1,4 @@
-# Chapter 16: Childish Things Part 1 R4 - Toyman Returns - Complete Serious Rebuild 4500w+ Full Not Rushing Natural Butterfly Everything
+# Chapter 16: Childish Things Part 1
 
 The morning started with a yo-yo.
 

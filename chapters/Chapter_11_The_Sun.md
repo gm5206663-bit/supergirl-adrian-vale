@@ -1,4 +1,4 @@
-# Chapter 11 — The Sun
+# Chapter 11: The Sun
 # S01E07 The Sun - Full 3000+ Words
 
 By Tuesday, Kara could not lift a bus.

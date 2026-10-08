@@ -1,4 +1,4 @@
-# Chapter 13 — Human for a Day
+# Chapter 13: Human for a Day
 # S01E07 Human for a Day - Full 3000+ Words
 
 Hank had Kara on Kryptonite again.

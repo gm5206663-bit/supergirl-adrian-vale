@@ -1,4 +1,4 @@
-# Season 1, Episode 2 — Stronger Together
+# Chapter 5: In Plain Sight
 
 ## Chapter 5 — In Plain Sight
 

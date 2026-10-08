@@ -1,4 +1,4 @@
-# Chapter 18: Strange Visitor From Another Planet Part 1 R2 - White Martian + Torquasm Vo & Rao 4000w+ Full Not Rushing Natural Butterfly Complete
+# Chapter 18: Strange Visitor From Another Planet Part 1
 
 The forest fire was not supposed to be there.
 

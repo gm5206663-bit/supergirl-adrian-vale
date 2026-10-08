@@ -1,4 +1,4 @@
-# Chapter 10 — Red Faced Consequence
+# Chapter 10: Red Faced Consequence
 # S01E06 Red Faced Part 2 - Full 3000+ Words
 
 Kara kept the cartoon bandage in her pocket. Small dog with cape, Winn had given it, said it reminded her she could bleed, said it reminded her she could bleed first time life.

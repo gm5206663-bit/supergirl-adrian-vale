@@ -1,4 +1,4 @@
-# Chapter 17: Childish Things Part 2 R6 - Convention Agency Natural Syn No Forcing Canon 4000w+ Full Not Rushing
+# Chapter 17: Childish Things Part 2
 
 Kara sat next to him, not too close, because she had learned from James and from Adrian that closeness is a choice and that giving space is also a choice, and that sometimes close is too close when someone is about to explode like father.
 
