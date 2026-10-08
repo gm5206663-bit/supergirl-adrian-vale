@@ -108,3 +108,31 @@ Kara at her desk typing fingers not ache vision sees individual dust motes Cat o
 There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam and Bizarro and Torquasm Vo & Rao.
 
 Adrian went back to work.
+
+---
+
+At CatCo the next morning after Adam arrived and after White Martian sewers and after desert battle and after Bizarro truck river and after Winn tried to kiss but Kara stopped before kiss because agency no forcing canon, ordinary was different because Cat had son who had stayed and because Winn was not at desk taking space.
+
+Adam Foster had stayed in National City, not because Cat asked him to stay but because Kara had asked him to stay as friend, and because National City has good coffee that is not CatCo coffee always too hot, and because he had seen Kara save truck on television while Kara was sitting with Alex blankets pizza Game of Thrones and had thought who is saving truck if Kara is sitting here, and had thought maybe National City is interesting city where Supergirl saves truck while sitting.
+
+Kara arrived at 0845, coat that Adrian said looked nice once, chipped mug in hand that was not Evelyn's but similar. Adrian arrived at 0850, band at wrist, chipped mug in hand, theater mask magnet in pocket, ordinary. He placed mug back next to coffee machine, next to theater mask magnet, and went back to typing, pen across room audible to Kara but not to others, because Kara's hearing after sun baseline higher sees individual dust motes in Cat office from bullpen and hears Adrian pen across room.
+
+Winn was still at home, playing Minecraft, building house destroying house, taking space not forever just for now, but he had texted Kara after forest fire camper rescue nice save you okay, and after White Martian sewers nice save you okay, and after desert battle nice save you okay, and Kara had texted back thanks you are my best friend when ready chipped mug theater mask magnet will be here, and Winn had texted back need space not forever just for now but thanks.
+
+James at desk, contact sheet from toy convention ice dome plus forest fire camper plus Senator Crane anti-alien rally plus Adam Foster plus Bizarro truck river, plus White Martian finger Fingore This Was His True Form, plus sewers Alex hostage, plus desert battle Let them come, plus Like a Daughter to Me.
+
+James knows Adrian is Wraith moves like someone who does not want to be seen advanced restraint field bent light absorbing momentum will not tell Lucy private means private, will not tell Lucy because private means private and because James respects privacy and because James is still thinking about Kara and about Lucy and about Adrian who is with Kara and about Winn who tried to kiss Kara knowing she is with Adrian and Kara stopped before kiss because agency no forcing canon and needs space and about Adam who flirted with Kara who is with Adrian.
+
+Lucy by elevator with resume folder because Cat offered job as lawyer and she was deciding and she had JD-MBA from Harvard and West Point degree and Cat likes women who have done things and 90 percent of CatCo companies are run by women, and Lucy will accept Monday, will become Cat lawyer, will work with James, will make James reluctant, will make James think about Kara and about Adrian and about Winn and about Adam.
+
+Cat intercom Keira where is my coffee, not weather balloon sunny, not private monitor WRAITH, not James know WRAITH is Adrian, just coffee, private means private, Cat only says Keira where is my coffee.
+
+Kara looks at Adrian mug smiles small, powers humming higher than ever finger healed heart faster baseline higher, chipped mug theater mask magnet, no ticker, just city lights, just coffee, just forest fire saved and White Martian and son who is not son and son who is son and truck that is saved by Supergirl who is not Supergirl and agency Kara is Kara.
+
+Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, mug next to magnet, second toothbrush blue at Kara apartment, second jacket too big, book open sun, Evelyn's chipped mug, theater mask magnet, second mug blue not pink.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to respect agency.
+
+There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam who is Cat's son and date that is not date because Kara with Adrian and Bizarro who is Supergirl copy and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made and agency Kara is Kara no forcing canon.
+
+Adrian went back to work, ordinary.

@@ -152,3 +152,30 @@ Right before episode ends, she opened eyes, and they were black.
 Adrian, back at desk, mug next to magnet Evelyn left after Thanksgiving, looked up and went back to work.
 
 There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes.
+
+
+---
+
+At CatCo the next morning after Ch15, ordinary was different because Winn was not at his desk? No, Winn was at his desk, but Kara was at her desk typing fingers not ache because baseline higher after sun vision seeing individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to respect agency Kara is Kara who has agency who stops kiss before it happens because she does not want it and because she is with Adrian and because agency no forcing canon.
+
+Adrian at desk pen across room chipped mug next to theater mask magnet second toothbrush blue at Kara apartment second jacket too big book open sun Evelyn's chipped mug theater mask magnet second mug blue not pink and thought about Kara is Kara who has agency.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
+
+Adrian went back to work ordinary human-level band at wrist mug next to magnet.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made.
+
+There would be another headline tomorrow. Tonight there was Ch15 and agency and Kara is Kara and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made.
+
+Adrian went back to work ordinary.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
+
+Adrian went back to work ordinary.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
+
+There would be another headline tomorrow. Tonight there was Ch15 and agency and Kara is Kara.
+
+Adrian went back to work.
