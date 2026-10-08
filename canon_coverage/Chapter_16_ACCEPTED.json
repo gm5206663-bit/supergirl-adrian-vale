@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "chapter": 16,
-  "revision": "R5",
+  "revision": "R4",
   "epoch": "v1",
-  "draft_path": "chapters/Chapter_16_Childish_Things.md",
+  "draft_path": "drafts/Chapter_16_Childish_Things_Part1_R4.md",
   "draft_sha256": "61123ee393afb8fce1d97e43dad287b4b93944f2d04614ff51f1e97570ec37f1",
   "accepted": true,
   "claimed_episode": "S01E10 Childish Things Part 1",

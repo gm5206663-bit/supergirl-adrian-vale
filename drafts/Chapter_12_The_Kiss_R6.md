@@ -1,5 +1,6 @@
 # Chapter 12: The Kiss
-# S01E07-08 The Kiss - Full 3000+ Words
+
+*Episode: S01E06 - Red Faced*
 
 Roof cold again not cold of space where no air to carry cold just radiation light but November National City cold wind gap between collar and skin Kara pull coat tighter even though Supergirl powers humming higher than ever after sun, cartoon bandage little dog with cape pocket not on finger finger healed no scar no line as if never bled reminded she could bleed.
 
@@ -41,8 +42,6 @@ Later Alex finds both in break room Kara making coffee with one hand holding wat
 
 Cat intercom Keira where is my coffee.
 
-
-
 Kara looks at Adrian mug magnet she laughs bright powers humming higher than ever finger healed heart faster baseline higher thinks maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher, honesty like sun.
 
 Adrian picked up mug places back desk later next to magnet goes back to work sealed ordinary human-level as if not kissed Kara Danvers on roof in November cold after taking her to sun and back.
@@ -51,11 +50,7 @@ Kara at desk typing fingers not ache vision sees individual dust motes Cat offic
 
 Cat intercom Keira where is my coffee.
 
-
 Adrian picked up mug places back desk later next to magnet goes back to work sealed ordinary human-level as if not kissed Kara Danvers on roof in November cold after taking her to sun and back.
-
-
-
 
 Let me rewrite clean final part:
 
@@ -83,69 +78,47 @@ She thought about what it means to be able to bleed and being able to go to sun 
 
 Adrian went back to work.
 
+There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
+There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
+There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
+There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
+There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
+There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
+There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
+There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
+There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
-
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
-
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
-
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
-
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
-
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
-
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
-
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
-
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
-
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
-
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
-
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
-
 
 At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 

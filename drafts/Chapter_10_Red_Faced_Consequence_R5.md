@@ -1,5 +1,6 @@
 # Chapter 10: Red Faced Consequence
-# S01E06 Red Faced Part 2 - Full 3000+ Words
+
+*Episode: S01E06 - Red Faced*
 
 Kara kept the cartoon bandage in her pocket. Small dog with cape, Winn had given it, said it reminded her she could bleed, said it reminded her she could bleed first time life.
 
@@ -71,7 +72,6 @@ Lucy said, "He thinks you are not good enough for me because you are photographe
 
 James said, "He is wrong about many things. He is wrong about Supergirl, he is wrong about Wraith, he is wrong about you."
 
-
 Kara at desk, typing, fingers not ache, vision sees individual dust motes in Cat office from bullpen, hearing hears Adrian pen, ordinary was choice he made and he chose to share sun with her later, but now just ordinary, ordinary was choice he made.
 
 Later, Alex and Kara at apartment, pizza, TV night, Game of Thrones, blankets, pizza, TV night, Alex said she pushed Henshaw into using powers he did not want to, said she had date with Maxwell Lord, can handle him, that he wouldn't be able to do anything without her seeing it coming, that he wouldn't be able to do anything without her seeing it coming.
@@ -87,7 +87,6 @@ Alex said, "You trust him?"
 Alex nodded. "Good. Then we trust him. Good."
 
 ---
-
 
 Kara could not sleep, powers humming higher than ever after Red Tornado fight, baseline higher temporarily, cells remember overcompensate, finger healed, no scar.
 
@@ -193,7 +192,6 @@ Lucy said, "He thinks you are not good enough for me because you are photographe
 
 James said, "He is wrong about many things. He is wrong about Supergirl, he is wrong about Wraith, he is wrong about you, he is wrong about what distinguishes humans from Kryptonians."
 
-
 Kara at desk, typing, fingers not ache, vision sees individual dust motes in Cat office from bullpen, hearing hears Adrian pen, ordinary was choice he made and he chose to share sun with her later, but now just ordinary, ordinary was choice he made.
 
 Later, Alex and Kara at apartment, pizza, TV night, Game of Thrones, blankets, pizza, TV night, Alex said she pushed Henshaw into using powers he did not want to, said she had date with Maxwell Lord, can handle him, that he wouldn't be able to do anything without her seeing it coming, that he wouldn't be able to do anything without her seeing it coming.
@@ -209,7 +207,6 @@ Alex said, "You trust him?"
 Alex nodded. "Good. Then we trust him. Good."
 
 ---
-
 
 Kara could not sleep, powers humming higher than ever after Red Tornado fight, baseline higher temporarily, cells remember overcompensate, finger healed, no scar.
 
@@ -271,9 +268,7 @@ There would be another headline tomorrow. Tonight there was cut finger and Red T
 
 Adrian went back to work.
 
-
 At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 

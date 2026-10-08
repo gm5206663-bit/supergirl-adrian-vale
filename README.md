@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 90392e927d799aef56f512d9c2c3a979ec0c55a41d5ff78d420ff6814352ef3e -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ba83c5c456d226221df547b3b68d7823794ad9502c698336983a653b7e949686 -->
 
 # Supergirl — Adrian Vale
 
@@ -88,13 +88,13 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_18_Strange_Visitor_Part1_R3.md](drafts/Chapter_18_Strange_Visitor_Part1_R3.md): adopted as Chapter 18 R3 natural
 - [drafts/Chapter_19_Strange_Visitor_Part2_R3.md](drafts/Chapter_19_Strange_Visitor_Part2_R3.md): adopted as Chapter 19 R3 natural
 - [drafts/Chapter_20_Bizarro_R2.md](drafts/Chapter_20_Bizarro_R2.md): adopted as Chapter 20 R2 natural
+- [drafts/Chapter_21_Falling_R3.md](drafts/Chapter_21_Falling_R3.md): adopted as Chapter 21 R3 natural
 - [drafts/Chapter_01_Adrian_Vale_R2.md](drafts/Chapter_01_Adrian_Vale_R2.md): required by FILE_CONTRACT drafts/Chapter_01_Adrian_Vale_R2.md
 - [drafts/Chapter_02_A_Familiar_Face_R1.md](drafts/Chapter_02_A_Familiar_Face_R1.md): required by FILE_CONTRACT drafts/Chapter_02_A_Familiar_Face_R1.md
-- [drafts/Chapter_03_The_Name_He_Feared_R2.md](drafts/Chapter_03_The_Name_He_Feared_R2.md): required by FILE_CONTRACT drafts/Chapter_03_The_Name_He_Feared_R2.md
 - [drafts/Chapter_03_What_Came_With_Us_R1.md](drafts/Chapter_03_What_Came_With_Us_R1.md): required by FILE_CONTRACT drafts/Chapter_03_What_Came_With_Us_R1.md
-- [drafts/Chapter_21_Falling_R3.md](drafts/Chapter_21_Falling_R3.md): adopted as Chapter 21 R3 natural
+- [drafts/Chapter_03_The_Name_He_Feared_R2.md](drafts/Chapter_03_The_Name_He_Feared_R2.md): required by FILE_CONTRACT drafts/Chapter_03_The_Name_He_Feared_R2.md
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 21, R3**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 3, R2**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -102,7 +102,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 21
+python3 tools/verify.py --ship 3
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.

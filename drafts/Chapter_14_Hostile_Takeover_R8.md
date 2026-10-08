@@ -1,5 +1,6 @@
 # Chapter 14: Hostile Takeover
-# S01E08 Hostile Takeover - Full 3000+ Words
+
+*Episode: S01E08 - Hostile Takeover*
 
 Astra sat inside, wrists bound with cuffs that glowed faint Kryptonian script, light catching the edges, pulsing faintly with each breath. On the table outside the cell, in a sealed case, was a dagger. Green glow. Kryptonite. Light pulsing faintly, humming, green light reflecting off the glass.
 
@@ -14,7 +15,6 @@ Kara had asked, "How? You should be burning."
 Astra had said, "Lord made it. I took it. He made shielding to capture Wraith. I took it during attack."
 
 Three weeks earlier after freeway and train, after bus on side and maglev car separating, after figure in black catching gauntlet mid-blast turning blast into sky moving inside line of fire catching forearm carrying motion upward with leverage not brute force, after lean figure in long high-collared split coat bracing door with shoulder weight distributed door held not ripped, Cat Grant named masked helper at 7am editorial, headline photo blurred flight lifting, The Wraith of National City — Meet the Man Who Isn't Supergirl. She had considered Onyx, Nocturne, Midnight Tailor, Obsidian, but decided Wraith was more searchable, SEO, more searchable.
-
 
 Lord had not found Wraith but found field bent light absorbing momentum lifting without breaking not Kryptonian usual way, not brute force, leverage, weight distributed, door held not ripped, beam lifted not overpowering but leverage, catching Kara through lab wall absorbing momentum. Started developing shielding not for Wraith but for what Wraith might be fighting, for what might be stronger than Wraith, for what might be Kryptonian but different. Pulled Red Tornado arm after Kara melted asphalt with wide beam in industrial yard, ten feet wide then fifteen feet wide after sun, studied ionization, kept Kryptonite stockpiling, green rocks in cases, green glow.
 
@@ -105,7 +105,6 @@ She nodded.
 There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and case open empty and suit new sheen wrists and Adrian helped evacuate and caught Kara and quiet you okay and Cat coffee and history shared naturally not meta sentence That was why she had not been affected.
 
 Kara understood that now standing outside cell, looking at dagger green glow, looking at Astra wrists bound cuffs glowing faint Kryptonian script, looking at case open empty in DEO lab, looking at Adrian further back ordinary band at wrist hearing from bullpen.
-
 
 Adrian went back to work.
 
@@ -221,7 +220,6 @@ There would be another headline tomorrow. Tonight there was Astra in DEO and Lor
 
 Kara understood that now standing outside cell, looking at dagger green glow, looking at Astra wrists bound cuffs glowing faint Kryptonian script, looking at case open empty in DEO lab, looking at Adrian further back ordinary band at wrist hearing from bullpen.
 
-
 Adrian went back to work.
 
 There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and Adrian helped and case open empty and suit new sheen and history shown naturally as facts not meta note.
@@ -256,9 +254,7 @@ She thought maybe being able to bleed and being able to go to sun and being able
 
 Adrian went back to work.
 
-
 At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
@@ -268,10 +264,7 @@ Kara, in the bullpen, typed, not hearing as background, but as choice. She typed
 
 There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
-
-
 At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
-
 
 Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
