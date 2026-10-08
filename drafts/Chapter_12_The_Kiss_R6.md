@@ -22,7 +22,7 @@ Kara step closer wind pulled coat hair glasses off could see better without them
 
 Adrian sets chipped mug down on ledge carefully so not fall, so it would not fall, carefully, band at wrist, ordinary human-level.
 
-"You are not misreading," he said, voice quiet, steady but little faster too, heart faster too. He does not move closer lets her decide, gives space, agency, romance_selection kara consensual.
+"You are not misreading," he said, voice quiet, steady but little faster too, heart faster too. He does not move closer lets her decide, gives space, agency,  consensual.
 
 Kara does reaches up not pulling just placing hand on collar way Evelyn fixed it motherly but this not motherly asking and then kisses him not superpowered kiss no sonic boom no Mach 1 no heat vision no wide sustained beam melting asphalt normal human kiss little cold from wind little warm from sun still in cells little awkward because not kissed anyone since before bled first time since before went to sun, since before cut finger bleeding first time life, since before sun, since before.
 

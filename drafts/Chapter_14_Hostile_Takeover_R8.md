@@ -106,7 +106,6 @@ There would be another headline tomorrow. Tonight there was Astra in DEO and Lor
 
 Kara understood that now standing outside cell, looking at dagger green glow, looking at Astra wrists bound cuffs glowing faint Kryptonian script, looking at case open empty in DEO lab, looking at Adrian further back ordinary band at wrist hearing from bullpen.
 
-She understood history shown naturally as facts: Wraith naming Ch9 Lord reward DEO outside jurisdiction Winn private monitor closed, Lord research field bent light Red Tornado arm ionization sun spike private log, combined into lining thin like DEO walls, Astra took it during Lord Tech attack case open empty suit new sheen wrists, why not affected shown through history not meta note, why not affected shown through history not meta note like That was why she had not been affected by the Kryptonite dagger in the alley Not random canon immunity Natural butterfly of Wraith public naming → Lord reward → Lord develops shielding to capture Wraith → Astra steals it during Lord Tech attack which was meta author note inside story trash.
 
 Adrian went back to work.
 
@@ -222,7 +221,6 @@ There would be another headline tomorrow. Tonight there was Astra in DEO and Lor
 
 Kara understood that now standing outside cell, looking at dagger green glow, looking at Astra wrists bound cuffs glowing faint Kryptonian script, looking at case open empty in DEO lab, looking at Adrian further back ordinary band at wrist hearing from bullpen.
 
-She understood history shown naturally as facts: Wraith naming Ch9 Lord reward DEO outside jurisdiction Winn private monitor closed, Lord research field bent light Red Tornado arm ionization sun spike private log, combined into lining thin like DEO walls, Astra took it during Lord Tech attack case open empty suit new sheen wrists, why not affected shown through history not meta note.
 
 Adrian went back to work.
 

@@ -9,9 +9,7 @@ Hank had her on Kryptonite exposure test, small piece in sealed case on table ou
 
 Alex said, "We need to know how long you can stay near it. Baseline higher after sun? No after Red Tornado, before sun, cells depleted."
 
-Kara breathed hard, hands on knees, cape pooling, dust. "How long? Forty-eight hours in canon? Longer here because you pushed harder?"
 
-Alex said, "Forty-eight hours in canon, but here longer because you pushed harder, because you ripped forearm hydraulic fluid spray, because you kept punching after it was done, because you melted asphalt with wide beam ten feet wide."
 
 Kara sat, breathing hard, cape pooling, hands on knees.
 

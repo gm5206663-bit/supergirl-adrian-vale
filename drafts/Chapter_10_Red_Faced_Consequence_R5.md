@@ -118,7 +118,6 @@ Kara stared. "You did something bad a city?"
 
 "Yes. Wanted ordinary. Now choosing when not ordinary."
 
-Kara was quiet, wind, then, "Thank you for telling me. For sharing history natural phrasing not design bullets as file."
 
 Adrian nodded, went back to work next morning, ordinary, human-level, as if not flown, as if not told history, band at wrist, mug next to magnet, theater mask magnet.
 
@@ -241,7 +240,6 @@ Kara stared. "You did something bad a city?"
 
 "Yes. Wanted ordinary. Now choosing when not ordinary."
 
-Kara was quiet, wind, then, "Thank you for telling me. For sharing history natural phrasing not design bullets as file."
 
 Adrian nodded, went back to work next morning, ordinary, human-level, as if not flown, as if not told history, band at wrist, mug next to magnet, theater mask magnet.
 

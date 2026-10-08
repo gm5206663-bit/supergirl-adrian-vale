@@ -38,7 +38,6 @@ Adam laughed, and Cat laughed, small, and for minute it was mother and son and a
 
 Later, Cat botched it by only talking about herself and name dropping Putin Pope Francis Taylor Swift, and Adam was about to give up on Cat, about to leave, about to say calling parents by name Adam's argument with Cat ends with him calling her by name, Cat not mother but Cat, because son calling mother by name is worst.
 
-Kara stepped in as mediator between two and manages to patch up relationship from awkward and bitter to pretty darn chummy. She told Adam about Cat's photo hidden, about Cat's money sent but not spoken years, about Cat's other son? No, Cat has another son? Actually Cat has son Adam and... need check: Cat has another son? In canon, Cat has son Adam and... actually Cat has son Adam Foster and... maybe other? In Blood Bonds, Cat has another son she sends money hasn't spoken years. That is Adam? No, Blood Bonds says Cat has another son sends money hasn't spoken years - that is maybe second son? But here Adam is estranged son who visits. So Cat has at least Adam, maybe other son also. But here focus on Adam.
 
 Kara convinced Adam to give Cat second chance, which he does, and mother and son reforge relationship, chummy, pretty darn chummy.
 
@@ -48,7 +47,7 @@ Adam obviously interested in Kara and openly flirts with her. Cat plays Shipper 
 
 At Noonan's again, after mediation, Adam asks Kara, "Do you want to get coffee? No, with me, not with Alex, with me, date?"
 
-Kara blushes, because she is with Adrian since Ch12 kiss roof November cold consensual agency romance_selection kara, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, since Adrian places mug back ordinary human-level and texts hallway single word and trusts and thought Kara Torquasm Vo & Rao. She is with Adrian, not looking for date with Adam, even though Adam is handsome and kind and Cat's son and played by Blake Jenner.
+Kara blushes, because she is with Adrian since roof November cold, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, since Adrian places mug back ordinary human-level and texts hallway single word and trusts and thought Kara Torquasm Vo & Rao. She is with Adrian, not looking for date with Adam, even though Adam is handsome and kind and Cat's son and played by Blake Jenner.
 
 "I... I have a boyfriend," Kara says, quiet, honest, because Alex said be honest, because Torquasm Vo is honesty with self, closing mind to not honest. "I have a boyfriend, Adrian, he works at CatCo, he places chipped mug back next to theater mask magnet ordinary human-level, he... he is my boyfriend since roof November cold since sun. I am with Adrian. He thought I should learn Torquasm Vo and Rao, Kryptonian mental martial arts, defensive and offensive, mind like ice dome and heat vision for thoughts, because White Martians are telepaths and J'onn is telepath and I am vulnerable."
 

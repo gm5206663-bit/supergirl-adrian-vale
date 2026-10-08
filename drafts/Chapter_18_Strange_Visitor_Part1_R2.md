@@ -34,7 +34,7 @@ Kara arrived at 0845, coat that Adrian said looked nice once, chipped mug in han
 
 Before that, Adrian thought Kara Torquasm Vo & Torquasm Rao (Kryptonian Mental Martial Arts). It was not random thought. It was thought that had been in his head since S01E08 Red Faced, since General Sam Lane Red Kryptonite experiment made Kara angry and not herself, since Kara had been vulnerable to something that was not physical but mental, since Astra had died and Non had been angry and since J'onn had been using telepathy and since Maxwell Lord had backup cameras invisible vent pinhole infrared and camera purse grain of rice seam.
 
-Adrian had been researching Kryptonian culture, not because he wanted to be Kryptonian but because he wanted to understand Kara, because he is with Kara since Ch12 kiss roof November cold consensual agency romance_selection kara, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, and because he had access to Fortress via Kara? No, not Fortress, but via Kelex? Actually Kelex is in Fortress, but Kara had told him about Kelex once, about Alura, about Kryptonian archives, about how Kryptonians had mental disciplines.
+Adrian had been researching Kryptonian culture, not because he wanted to be Kryptonian but because he wanted to understand Kara, because he is with Kara since roof November cold, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, and because he had access to Fortress via Kara? No, not Fortress, but via Kelex? Actually Kelex is in Fortress, but Kara had told him about Kelex once, about Alura, about Kryptonian archives, about how Kryptonians had mental disciplines.
 
 He had asked Kara, three days ago, at her apartment, after second toothbrush blue, after book open sun, after pen across room, after hallway text single word, after ordinary was a choice he made and he chose to share sun and kiss.
 
@@ -73,7 +73,7 @@ Kara said, "What? No, he was just... he was just asking about Cat."
 
 Alex said, "Kara, he asked if you want to get coffee sometime and you said I have coffee and he said no, with me, and you said I have coffee with Alex and he said no, with me, and you said I have coffee with Alex and he laughed and left. That was flirting. That was blatant flirting. How are you that naive to not recognize such blatant flirting?"
 
-Kara blushed, because she is with Adrian since Ch12 kiss roof November cold consensual agency romance_selection kara, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, and she is not looking for flirting, and also because Winn kissed her knowing she is with Adrian and she told him no with boundary and now young man flirting feels weird, and also because Adrian thought Kara Torquasm Vo & Rao and she had asked J'onn and J'onn had said he would teach her.
+Kara blushed, because she is with Adrian since roof November cold, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, and she is not looking for flirting, and also because Winn kissed her knowing she is with Adrian and she told him no with boundary and now young man flirting feels weird, and also because Adrian thought Kara Torquasm Vo & Rao and she had asked J'onn and J'onn had said he would teach her.
 
 Adrian at his desk, pen across room, heard Alex say flirting, gave tiny nod not jealous, trusts, ordinary, places mug back, thought Torquasm Vo Rao.
 

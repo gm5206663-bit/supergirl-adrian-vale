@@ -64,7 +64,7 @@ Then he leaned in and kissed her.
 
 It was not a long kiss. It was a scared kiss, a bottled-up-for-years kiss, a kiss that had been waiting since before she was Supergirl, since CatCo, since she smiled at him when he fixed her computer and she did not know how to turn it on and he did not know how to tell her she was beautiful without sounding creepy. His lips were chapped, his breath smelled like beer he had not drunk, his hands were shaking and he knew even as he did it that it was wrong, that she was with Adrian, that Adrian was his friend, that Adrian had placed chipped mug back ordinary human-level and had heard his pen across room and had texted hallway.
 
-Kara pulled away immediately, gentle but firm, hand on his shoulder, not pushing, just holding, boundary clear because she had agency and because she had kissed Adrian on roof November cold consensual agency romance_selection kara and she knew what choosing meant.
+Kara pulled away immediately, gentle but firm, hand on his shoulder, not pushing, just holding, boundary clear because she had agency and because she had kissed Adrian on roof November cold  and she knew what choosing meant.
 
 "Winn," she said, voice soft but clear, not vague like canon single Kara who says I don't want things to change. "Winn, I'm with Adrian. You know I'm with Adrian. You just said you know I'm with Adrian. I love you as my best friend, as my guy in the chair, as family, but I am with Adrian and I am happy and I need you as my friend, not as... not as this. You cannot kiss me when I am with Adrian, when Adrian is your friend, when he helped you."
 
