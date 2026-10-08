@@ -350,23 +350,23 @@
     {
       "number": 16,
       "path": "chapters/Chapter_16_Childish_Things.md",
-      "sha256": "9d896b1527d6ecca3da456c4865183519a141d1171659ac2aea81d2c99a61865",
-      "revision": "R3",
+      "sha256": "91fd07bbfe7b5113d480da985fe20b1c48438e079620594910fc2bdb41c27bad",
+      "revision": "R4",
       "accepted_on": "2026-10-08",
       "title": "Childish Things",
       "epoch": "v1",
       "coverage": "canon_coverage/Chapter_16_ACCEPTED.json",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_16.md \u2014 Childish Things Part 1 - Toyman Returns Natural Butterfly Fixed 3142w full not rushing natural butterfly fixed kiss knows with Adrian",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_16.md \u2014 Childish Things Part 1 - Toyman Returns Complete Serious Rebuild Everything Fixed 4126w complete serious rebuild everything fixed",
       "acceptance_basis": "continuation_authorization"
     },
     {
       "number": 17,
       "path": "chapters/Chapter_17_Childish_Things_Convention.md",
-      "sha256": "0d1010db6b9e7d7ccd81c1c2823adf0f55a4100f241972c3cd7dbd87e223c6e1",
-      "revision": "R2",
+      "sha256": "4af31ea4635a4c1dc33367bfa410ddd31a3bcbcdaf912db034f9bb466bb97b82",
+      "revision": "R4",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_17_ACCEPTED.json",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_17.md \u2014 Childish Things Part 2 - The Convention Natural Butterfly Fixed Kiss Knows With Adrian 4699w full not rushing natural butterfly fixed kiss knows with Adrian",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_17.md \u2014 Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss 6835w complete serious rebuild everything fixed",
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
       "title": "Childish Things Part 2 - The Convention"
@@ -774,6 +774,28 @@
       "review": "audits/CHAPTER_17_R2_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
+    },
+    {
+      "chapter": 16,
+      "revision": "R4",
+      "path": "drafts/Chapter_16_Childish_Things_Part1_R4.md",
+      "sha256": "91fd07bbfe7b5113d480da985fe20b1c48438e079620594910fc2bdb41c27bad",
+      "status": "adopted as Chapter 16 R4 full 4126w complete serious rebuild everything fixed not just kiss",
+      "coverage": "canon_coverage/Chapter_16_R4.json",
+      "review": "audits/CHAPTER_16_R4_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 17,
+      "revision": "R4",
+      "path": "drafts/Chapter_17_Childish_Things_Part2_R4.md",
+      "sha256": "4af31ea4635a4c1dc33367bfa410ddd31a3bcbcdaf912db034f9bb466bb97b82",
+      "status": "adopted as Chapter 17 R4 full 6835w complete serious rebuild everything fixed not just kiss",
+      "coverage": "canon_coverage/Chapter_17_R4.json",
+      "review": "audits/CHAPTER_17_R4_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
     }
   ],
   "source_authority": {
@@ -1041,6 +1063,12 @@
       "kind": "adopted_chapter",
       "date": "2026-10-08",
       "description": "Fix natural butterfly dead Then he leaned in and kissed her - Winn knows Kara with Adrian since Ch12 kiss roof November cold chipped mug theater mask magnet pen across room hallway text, Adrian hears heartbeat irregular texts hallway does not storm possessive trusts Kara, Kara pulls away boundary I'm with Adrian you know I'm with Adrian love you as best friend as family but I'm with Adrian happy need you as friend not this, Winn guilt amplified knows Adrian is friend helped private monitor closed, confession includes I know you're with Adrian since sun since chipped mug since you smiled different happy for you Adrian is my friend, Ch16 R3 3142w Ch17 R2 4699w full 3000+ not rushing split natural butterfly file foundation/BUTTERFLY_EFFECTS_CH10_17_NATURAL.md"
+    },
+    {
+      "id": "E042",
+      "kind": "adopted_chapter",
+      "date": "2026-10-08",
+      "description": "Complete serious rebuild everything fixed not just kiss - Ch16 R4 4126w Ch17 R4 6835w full 4500-5500w like Ch1-5 natural butterfly everything, Then he leaned in and kissed her dead butterfly fixed Winn knows Kara with Adrian since Ch12 chipped mug theater mask magnet pen across room hallway text Adrian texts hallway not possessive trusts Kara pulls away I'm with Adrian boundary, total 67219w-> new total"
     }
   ],
   "background": {

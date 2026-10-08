@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8821a4da2a1730274cb6a7645f3e744b3d553b29340e460fb3f400af3fa70d39 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: df43e621552023e3153743e8dc268960ee4e883b529914fe37ed1ab347eada94 -->
 
 # Serial log
 
@@ -167,5 +167,9 @@ Split S01E10 Childish Things into TWO natural chapters like Red Faced U36: Ch16 
 ## E041 — 2026-10-08 — adopted_chapter
 
 Fix natural butterfly dead Then he leaned in and kissed her - Winn knows Kara with Adrian since Ch12 kiss roof November cold chipped mug theater mask magnet pen across room hallway text, Adrian hears heartbeat irregular texts hallway does not storm possessive trusts Kara, Kara pulls away boundary I'm with Adrian you know I'm with Adrian love you as best friend as family but I'm with Adrian happy need you as friend not this, Winn guilt amplified knows Adrian is friend helped private monitor closed, confession includes I know you're with Adrian since sun since chipped mug since you smiled different happy for you Adrian is my friend, Ch16 R3 3142w Ch17 R2 4699w full 3000+ not rushing split natural butterfly file foundation/BUTTERFLY_EFFECTS_CH10_17_NATURAL.md
+
+## E042 — 2026-10-08 — adopted_chapter
+
+Complete serious rebuild everything fixed not just kiss - Ch16 R4 4126w Ch17 R4 6835w full 4500-5500w like Ch1-5 natural butterfly everything, Then he leaned in and kissed her dead butterfly fixed Winn knows Kara with Adrian since Ch12 chipped mug theater mask magnet pen across room hallway text Adrian texts hallway not possessive trusts Kara pulls away I'm with Adrian boundary, total 67219w-> new total
 
 Accepted chapter edge: 17. Draft prose is not an accepted event.

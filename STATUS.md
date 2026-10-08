@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8821a4da2a1730274cb6a7645f3e744b3d553b29340e460fb3f400af3fa70d39 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: df43e621552023e3153743e8dc268960ee4e883b529914fe37ed1ab347eada94 -->
 
 # File map
 
@@ -66,8 +66,10 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/CHAPTER_16_R1_REVIEW.md](audits/CHAPTER_16_R1_REVIEW.md)
 - [audits/CHAPTER_16_R2_REVIEW.md](audits/CHAPTER_16_R2_REVIEW.md)
 - [audits/CHAPTER_16_R3_REVIEW.md](audits/CHAPTER_16_R3_REVIEW.md)
+- [audits/CHAPTER_16_R4_REVIEW.md](audits/CHAPTER_16_R4_REVIEW.md)
 - [audits/CHAPTER_17_R1_REVIEW.md](audits/CHAPTER_17_R1_REVIEW.md)
 - [audits/CHAPTER_17_R2_REVIEW.md](audits/CHAPTER_17_R2_REVIEW.md)
+- [audits/CHAPTER_17_R4_REVIEW.md](audits/CHAPTER_17_R4_REVIEW.md)
 - [audits/CHAPTER_9_R8_REVIEW.md](audits/CHAPTER_9_R8_REVIEW.md)
 - [audits/CHECKSUMS.sha256](audits/CHECKSUMS.sha256)
 - [audits/COMPLETE_CHECK_2026_09_30.md](audits/COMPLETE_CHECK_2026_09_30.md)
@@ -244,9 +246,11 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [canon_coverage/Chapter_16_R1.json](canon_coverage/Chapter_16_R1.json)
 - [canon_coverage/Chapter_16_R2.json](canon_coverage/Chapter_16_R2.json)
 - [canon_coverage/Chapter_16_R3.json](canon_coverage/Chapter_16_R3.json)
+- [canon_coverage/Chapter_16_R4.json](canon_coverage/Chapter_16_R4.json)
 - [canon_coverage/Chapter_17_ACCEPTED.json](canon_coverage/Chapter_17_ACCEPTED.json)
 - [canon_coverage/Chapter_17_R1.json](canon_coverage/Chapter_17_R1.json)
 - [canon_coverage/Chapter_17_R2.json](canon_coverage/Chapter_17_R2.json)
+- [canon_coverage/Chapter_17_R4.json](canon_coverage/Chapter_17_R4.json)
 - [canon_coverage/EPISODE_02_BEAT_MAP.md](canon_coverage/EPISODE_02_BEAT_MAP.md)
 - [canon_coverage/EPISODE_03_BEAT_MAP.md](canon_coverage/EPISODE_03_BEAT_MAP.md)
 - [canon_coverage/EPISODE_04_BEAT_MAP.md](canon_coverage/EPISODE_04_BEAT_MAP.md)
@@ -353,9 +357,11 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [drafts/Chapter_15_Blood_Bonds_R4.md](drafts/Chapter_15_Blood_Bonds_R4.md)
 - [drafts/Chapter_15_Blood_Bonds_R5.md](drafts/Chapter_15_Blood_Bonds_R5.md)
 - [drafts/Chapter_16_Childish_Things_Part1_R2.md](drafts/Chapter_16_Childish_Things_Part1_R2.md)
+- [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md)
 - [drafts/Chapter_16_Childish_Things_R1.md](drafts/Chapter_16_Childish_Things_R1.md)
 - [drafts/Chapter_17_Childish_Things_Part2_R1.md](drafts/Chapter_17_Childish_Things_Part2_R1.md)
 - [drafts/Chapter_17_Childish_Things_Part2_R2.md](drafts/Chapter_17_Childish_Things_Part2_R2.md)
+- [drafts/Chapter_17_Childish_Things_Part2_R4.md](drafts/Chapter_17_Childish_Things_Part2_R4.md)
 - [drafts/README.md](drafts/README.md)
 - [foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip](foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip)
 - [foundation/AUTHORITY_AND_PROVENANCE.md](foundation/AUTHORITY_AND_PROVENANCE.md)
