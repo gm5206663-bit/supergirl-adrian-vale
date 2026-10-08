@@ -368,7 +368,7 @@
     {
       "number": 17,
       "path": "chapters/Chapter_17_Childish_Things_Convention.md",
-      "sha256": "c84e281337b8eade26a4bb424812ef5a352d2fc5a3331c15b633460bec72ab29",
+      "sha256": "3162601f9cccfb5259f064c74cf9b5591717765ab1a67b7d41e5b523d4f8796a",
       "revision": "R4",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_17_ACCEPTED.json",
@@ -796,7 +796,7 @@
       "chapter": 17,
       "revision": "R4",
       "path": "drafts/Chapter_17_Childish_Things_Part2_R4.md",
-      "sha256": "c84e281337b8eade26a4bb424812ef5a352d2fc5a3331c15b633460bec72ab29",
+      "sha256": "3162601f9cccfb5259f064c74cf9b5591717765ab1a67b7d41e5b523d4f8796a",
       "status": "adopted as Chapter 17 R4 full 6835w complete serious rebuild everything fixed not just kiss",
       "coverage": "canon_coverage/Chapter_17_R4.json",
       "review": "audits/CHAPTER_17_R4_REVIEW.md",

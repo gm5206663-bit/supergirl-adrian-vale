@@ -117,7 +117,6 @@ He pointed it at the ceiling, high, away from children, away from parents, away 
 
 The crowd screamed. Children cried. Parents pulled them close. Collectors ducked. Cosplayers dropped props.
 
-Supergirl was already there. She had been following Winn since he left Kara's building, because Adrian had heard Winn's heartbeat go irregular in the hallway and had texted Kara a single word: hallway. And Kara had followed, quiet, no ticker, no ticker — NO COMMENT FROM SUPERGIRL — SUPERGIRL SPOTTED OVER PACIFIC — SOLAR FLARE? — MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH every chapter trash, just a friend following a friend, because she had learned from Alex that sometimes you follow without asking, and because Adrian had trusted her to handle and she wanted to be worthy of trust.
 
 She saw Toyman hiding beneath the stage, phone in hand, thumb over detonate, smiling sad father smile, the kind of smile that comes when son does not do what father wants.
 
