@@ -460,6 +460,6 @@ Adrian nodded. “I will cover the desk if Cat asks where you went.”
 
 She left the lobby, cape hidden beneath her coat, and flew toward the sound.
 
-Behind her, Adrian picked up she's chipped mug she had left as a gift, placed it on his desk and went back to work.
+Behind her, Adrian picked up she's mug she had left as a gift, placed it on his desk and went back to work.
 
 There would be another headline tomorrow. Tonight, there was ordinary life, still waiting to be lived.

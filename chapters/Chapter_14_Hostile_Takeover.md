@@ -26,9 +26,9 @@ Astra had not built it she had taken it during attack on Lord Technologies at en
 
 Now case open in DEO lab empty and Astra suit new sheen at wrists where cuffs glowed, where shielding caught light, where cuffs glowed faint Kryptonian script.
 
-Kara understood that now standing outside cell, looking at dagger green glow, looking at Astra wrists bound cuffs glowing faint Kryptonian script, looking at case open empty in DEO lab, looking at Adrian further back ordinary band at wrist hearing from bullpen pen across room but did not say, Evelyn's theater mask magnet in his pocket because he had taken it from his desk after Cat's emails were hacked and he wanted something ordinary to hold.
+Kara understood that now standing outside cell, looking at dagger green glow, looking at Astra wrists bound cuffs glowing faint Kryptonian script, looking at case open empty in DEO lab, looking at Adrian further back ordinary band at wrist hearing from bullpen pen but did not say, Evelyn's magnet in his pocket because he had taken it from his desk after Cat's emails were hacked and he wanted something ordinary to hold.
 
-Adrian stood further back, ordinary, band at wrist, human-level again, ordinary clothes, hearing from bullpen pen across room but did not say, further back.
+Adrian stood further back, ordinary, band at wrist, human-level again, ordinary clothes, hearing from bullpen pen but did not say, further back.
 
 ---
 
@@ -84,15 +84,15 @@ Astra goons Non Gor attacked Lord Technologies cliffhanger, Non and Commander Go
 
 Kara hit Non mid-flight supersonic absorbing momentum flight counter rotation lifting slamming cracking lab wall, Non hit through lab wall, Kara hit Non through lab wall, proper superpowered, no jokes, no one-liners, just weight and speed, fists forward, flight inches off ground, super speed break pattern.
 
-Adrian helped evacuate lifting beam and car and catching Kara through lab wall quiet you okay from across room, field bent light, not breaking, weight distributed, door held not ripped, beam lifted not overpowering but leverage, catching Kara through lab wall absorbing momentum, setting down gently.
+Adrian helped evacuate lifting beam and car and catching Kara through lab wall quiet you okay from across room, light, not breaking, weight distributed, door held not ripped, beam lifted not overpowering but leverage, catching Kara through lab wall absorbing momentum, setting down gently.
 
 Non grabbed more than Hank grabbed case with shielding, case with lining thin like DEO walls, case open empty in DEO lab now.
 
 Later DEO lab case open empty suit new sheen wrists.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate.
 
-Adrian placed mug back on desk next to theater mask magnet, went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady, hearing still.
+Adrian placed mug back on desk next to magnet, went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady, hearing still.
 
 Cat intercom Keira where is my coffee.
 
@@ -115,14 +115,15 @@ There would be another headline tomorrow. Tonight there was Astra in DEO and Lor
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, as if not helped evacuate Lord Technologies and caught Kara through lab wall, as if not heard alarm from CatCo.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate and catching her and quiet you okay.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate and catching her and quiet you okay.
 
 She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
 
 She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and Adrian helped and case open empty and suit new sheen and history shown naturally as facts not meta note.
 
 Kara looked at Adrian across bullpen, small smile.
 
@@ -148,7 +149,7 @@ Kara looked at Astra inside cell. Astra looked back, calm, not burning despite K
 
 "How?" Kara asked.
 
-Astra said, "Lord made it to capture Wraith. I took it during attack. He offered reward for info on Wraith once. He studied Wraith field bent light absorbing momentum lifting without breaking not Kryptonian usual way. He pulled Red Tornado arm after you melted asphalt with wide beam in industrial yard studied ionization. He caught sun spike private log once when Adrian took you close to sun. He combined."
+Astra said, "Lord made it to capture Wraith. I took it during attack. He offered reward for info on Wraith once. He studied lightmomentum lifting without breaking not Kryptonian usual way. He pulled Red Tornado arm after you melted asphalt with wide beam in industrial yard studied ionization. He caught sun spike private log once when Adrian took you close to sun. He combined."
 
 Kara stared. "You took it during Lord Tech attack."
 
@@ -156,7 +157,7 @@ Kara stared. "You took it during Lord Tech attack."
 
 Kara understood that now standing outside cell, history shown naturally as facts, not meta sentence That was why she had not been affected.
 
-Adrian stood further back, ordinary, band at wrist, hearing from bullpen pen across room but did not say.
+Adrian stood further back, ordinary, band at wrist, hearing from bullpen pen but did not say.
 
 He had heard Astra's explanation from further back, because hearing, baseline higher after sun, but did not say, just listened.
 
@@ -198,15 +199,15 @@ Astra goons Non Gor attacked Lord Technologies cliffhanger, Non and Commander Go
 
 Kara hit Non mid-flight supersonic absorbing momentum flight counter rotation lifting slamming cracking lab wall, proper superpowered, no jokes.
 
-Adrian helped evacuate lifting beam and car and catching Kara through lab wall quiet you okay from across room, field bent light, not breaking, weight distributed, door held not ripped, beam lifted not overpowering but leverage.
+Adrian helped evacuate lifting beam and car and catching Kara through lab wall quiet you okay from across room, light, not breaking, weight distributed, door held not ripped, beam lifted not overpowering but leverage.
 
 Non grabbed more than Hank grabbed case with shielding.
 
 Later DEO lab case open empty suit new sheen wrists.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate.
 
-Adrian placed mug back on desk next to theater mask magnet, went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady.
+Adrian placed mug back on desk next to magnet, went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady.
 
 Cat intercom Keira where is my coffee.
 
@@ -216,12 +217,14 @@ Adrian nodded, quiet you okay from across room, mouth.
 
 She nodded.
 
+There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and case open empty and suit new sheen wrists and Adrian helped evacuate and caught Kara and quiet you okay and Cat coffee and history shared naturally not meta sentence.
 
 Kara understood that now standing outside cell, looking at dagger green glow, looking at Astra wrists bound cuffs glowing faint Kryptonian script, looking at case open empty in DEO lab, looking at Adrian further back ordinary band at wrist hearing from bullpen.
 
 
 Adrian went back to work.
 
+There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and Adrian helped and case open empty and suit new sheen and history shown naturally as facts not meta note.
 
 Kara looked at Adrian across bullpen, small smile.
 
@@ -229,14 +232,15 @@ Adrian nodded.
 
 Adrian placed mug back on desk, went back to work.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate and catching her and quiet you okay.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate and catching her and quiet you okay.
 
 She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
 
 She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and Adrian helped and case open empty and suit new sheen and history shown naturally as facts not meta note.
 
 Kara looked at Adrian across bullpen, small smile.
 
@@ -244,10 +248,36 @@ Adrian nodded.
 
 Adrian placed mug back on desk, went back to work.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate and catching her and quiet you okay.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history and now helping evacuate and catching her and quiet you okay.
 
 She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
 
 She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
 Adrian went back to work.
+
+
+At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+
+
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+
+Kara, in the bullpen, typed, not hearing as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun.
+
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+
+
+
+At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+
+
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+
+Kara, in the bullpen, typed, not hearing as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun.
+
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+

@@ -176,13 +176,13 @@ He was quiet. Then, "Do you want me to come to DEO or do you want to come here?"
 
 "Here," she said. "CatCo. I want ordinary."
 
-He was there when she arrived, not in the Wraith suit, not as a headline, just Adrian in a soft shirt with the band at his wrist, typing. He had left space on the desk next to his keyboard where her chipped mug usually sat.
+He was there when she arrived, not in the Wraith suit, not as a headline, just Adrian in a soft shirt with the band at his wrist, typing. He had left space on the desk next to his keyboard where her  usually sat.
 
 She sat. She didn't touch him right away. She just breathed.
 
 "You controlled it for a day," he said quietly. "I didn't control it at all."
 
-"That's what I told Alex," Kara said. "Just Red Kryptonite made me so angry, but you destroyed a city after your parents died even though you were affected by a red sun completely. Red sun completely. And you control it now. You control it every day. You hear everything and you choose to hear pen across room and not use it. You could bend light and be invisible and you choose to lift cars like a person would. You built device yourself because you wanted ordinary. That shows strong willpower. How much you are controlling."
+"That's what I told Alex," Kara said. "Just Red Kryptonite made me so angry, but you destroyed a city after your parents died even though you were affected by a red sun completely. Red sun completely. And you control it now. You control it every day. You hear everything and you choose to hear  and not use it. You could bend light and be invisible and you choose to lift cars like a person would. You built device yourself because you wanted ordinary. That shows strong willpower. How much you are controlling."
 
 Adrian's hand found hers under the desk, not big, not showy, just there.
 
@@ -215,7 +215,7 @@ The ice dome had melted by then. Water ran off the roof and into the gutters. Ka
 
 J'onn had answered, "No," and it had been true.
 
-Later, at her apartment, she found the second toothbrush, blue, by the sink, and the second jacket that was too big hanging by the door, and the book about the sun open to the page about light pressure. Adrian had left them there because he wanted ordinary, because he had built the device himself to be ordinary, because he controlled even under a red sun completely, and that showed strong willpower.
+Later, at her apartment, she found the , blue, by the sink, and the second jacket that was too big hanging by the door, and the book about the sun open to the page about light pressure. Adrian had left them there because he wanted ordinary, because he had built the device himself to be ordinary, because he controlled even under a red sun completely, and that showed strong willpower.
 
 She sat on the floor and cried, not because of Red Kryptonite, but because she finally understood how much Adrian was controlling every day.
 
@@ -238,6 +238,37 @@ The hosts asked if Supergirl was dangerous.
 Cat said, "She is dangerous the way a storm is dangerous. You respect it. You don't poke it with a stick. And you don't put it on a bar and film it."
 
 Kara watched it from the DEO med bay, in the black suit, and started crying again.
+
+
+
+At the DEO, Alex stayed late to file the report. She wrote: exposure to synthetic red Kryptonite, subject: Kara Danvers, alias Supergirl, duration: approximately 26 hours, symptoms: progressive aggression, grandiosity, decreased inhibition, megalomania, demand for awe and worship, reenactment of Superman III peanut scene, wearing of non-standard uniforms including slinky striped dress with peekaboo midriff and black catsuit, grip strength unregulated causing minor injury to civilian James Olsen, no fatalities, cure: counteragent developed by Maxwell Lord in cooperation with DEO, remorseful cooperation noted, Out-of-Character Moment but documented.
+
+She paused at the last line, then added: subject's first words upon cure: "Did I kill anyone?" Thou Shalt Not Kill principle intact.
+
+J'onn read it over her shoulder and said, "You should add that she nearly destroyed city. This Is Your Brain on Evil. And that she was stopped by Martian Manhunter after Tempting Fate statement no one on Earth can stop me."
+
+Alex added it.
+
+Downstairs, Lord was still waiting for his escort. He looked smaller without his usual entourage, hands still cuffed, but talking to the guard about lattice structures and how he had been trying to make a trap for Non and got it wrong, Gone Horribly Wrong. The guard didn't understand, but Lord kept talking because remorse needs a listener.
+
+Kara, in the med bay, asked for her phone. She had three missed calls from Cat, one from James, one from Winn, and one from Adam Foster that just said "saw news, you okay? not a date, just friends, you said you have boyfriend Adrian since roof in November cold, I remember, you put hand up gentle but firm before lean, I remember."
+
+She texted Adam back: "I'm okay. Red Kryptonite. Not me. Friends still. Thank you."
+
+She texted James: "Sorry I hurt your wrist. It was Red. Not me. Can we talk tomorrow?"
+
+She texted Winn: "Sorry I was cruel about games. You were right about DEO wanting me to cool it."
+
+She didn't text Cat. Cat had already said what she needed to say on The Talk.
+
+Later, when Adrian came to the DEO to bring her coat, the one she had left at CatCo, he didn't ask about the black suit or the peanuts or the dress. He just handed her the coat and said, "You want to go home or you want to stay?"
+
+"Home," she said. "My apartment. Where toothbrush is blue and second jacket is too big and book about sun is open. Ordinary."
+
+He nodded. "Ordinary."
+
+They flew home together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so the building didn't shake, flight counter rotation, quiet you okay at the end, not because they had to, but because they wanted to.
+
 
 
 There would be another headline tomorrow. Tonight there was just coffee, and a mug put back where it belonged, and the quiet knowledge of how much control it takes to live under a red sun and still choose to be ordinary — and how much stronger that made Adrian's willpower than any synthetic red dust ever could.

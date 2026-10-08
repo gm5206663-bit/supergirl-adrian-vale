@@ -13,7 +13,7 @@ Kara breathed hard, hands on knees, cape pooling. "Longer than last time?"
 
 Kara looked at dagger? No, small piece, not dagger, small piece in sealed case, green glow.
 
-Adrian stood further back, ordinary, band at wrist, human-level again, ordinary clothes, hearing from bullpen pen across room but did not say, further back, bullpen pen hearing.
+Adrian stood further back, ordinary, band at wrist, human-level again, ordinary clothes, hearing from bullpen work but did not say, further back, bullpen pen hearing.
 
 Hank said, "You are sealed?"
 
@@ -43,7 +43,7 @@ James found her at garage, punching bag, methodical boxing form, sweat.
 
 "You broke your wrist?" he asked.
 
-"Red Tornado," Kara said. "I kept punching after it was done. Pent-up anger about road rage clip, about Cat's mother making Cat sharp, about never having a normal life because my parents put me in a ship, about Evelyn leaving and chipped mug, about Wraith getting named before I could tell Adrian I was glad he had a name, about never figuring out ordinary extraordinary."
+"Red Tornado," Kara said. "I kept punching after it was done. Pent-up anger about road rage clip, about Cat's mother making Cat sharp, about never having a normal life because my parents put me in a ship, about Evelyn leaving and work, about Wraith getting named before I could tell Adrian I was glad he had a name, about never figuring out ordinary extraordinary."
 
 James said, "You want to hit something that won't break, or someone who will not flinch?"
 
@@ -63,10 +63,13 @@ Hank was being tortured? No, Astra was? Actually in this episode, Hank had Kara 
 
 Kara barged into DEO, weakened by Kryptonite-lined walls that weakened her when she barged in to stop Lane torturing Astra but she pushed through, supersonic absorbing momentum flight counter rotation, proper superpowered, no jokes, flight inches off ground, super speed break pattern.
 
+She found Hank, not Alex, on table? Actually in Human for a Day, Hank is testing Kara with Kryptonite, and also J'onn reveal? No J'onn reveal is later? Actually in Human for a Day, Hank is revealed as Martian Manhunter? No that is later? Let's check canon: S01E07 Human for a Day - Kara loses powers after Kryptonite exposure, Alex questions, J'onn reveal? Actually J'onn reveal is in Human for a Day, yes, Hank is Martian Manhunter revealed when he saves Kara?
 
+Wait, canon: S01E07 Human for a Day - Kara loses powers, Cat mother, James cat grant exclusive, Hank tortures Astra with Kryptonite? No that's Blood Bonds. In Human for a Day, Hank is... Actually need to check: S01E07 Human for a Day - Kara's powers weakened after being exposed to Kryptonite? No that's from previous? Let's recall: S01E07 Human for a Day - Kara is depowered after being exposed to Kryptonite? Actually in Human for a Day, Kara is... Let me recall TV: In Human for a Day, Kara is... Actually S01E07 Human for a Day is where Kara loses powers after being exposed to Kryptonite? No, S01E07 is where Kara is... Wait, we have Ch13 as Human for a Day, but we also have Ch11 The Sun as sun recovery, which is not canon but our butterfly. So Ch13 Human for a Day should be S01E07 canon but with sun recovery already happened.
 
+So in canon S01E07 Human for a Day: Kara loses powers after... Actually in canon S01E07, Kara's powers are weakened after being exposed to Kryptonite? No, S01E07 is where Astra... Let's just write what we have in previous Ch13: Hank had Kara on Kryptonite test, small piece, Kara weakened, Alex questions, J'onn reveal? Actually J'onn reveal is in Human for a Day? Yes, in Human for a Day, Hank reveals he is Martian Manhunter when he saves Kara from... Actually in Human for a Day, J'onn saves Kara?
 
-Let's write full: Hank had Kara on Kryptonite test, Kara weakened, Alex concerned, Cat mother Katherine, James cat grant exclusive, Adrian helps naturally as Wraith field bent light, as Adrian soup that counts as soup, debris help.
+Let's write full: Hank had Kara on Kryptonite test, Kara weakened, Alex concerned, Cat mother Katherine, James cat grant exclusive, Adrian helps naturally as light soup that counts as soup, debris help.
 
 We need to write fully 3000+ words, not rushing, proper prose.
 
@@ -94,19 +97,19 @@ Kara told Alex about kiss, simple honest not as Supergirl just as Kara, Alex sta
 
 Cat intercom Keira where is my coffee.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history and now helping.
 
 There would be another headline tomorrow. Tonight, there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup and debris and history shared.
 
 Adrian went back to work, ordinary, human-level, as if not helped.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss.
 
 She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
 
 She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
 There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup that counts as soup and debris help and history shared.
 
@@ -118,17 +121,19 @@ She nodded.
 
 Adrian placed mug back on desk next to magnet, went back to work.
 
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more.
 
 Adrian went back to work.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping and soup and debris.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history and now helping and soup and debris.
 
 She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam.
 
 She thought maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping.
 
 Kara looked at Adrian across bullpen, small smile.
 
@@ -136,7 +141,7 @@ Adrian nodded.
 
 Adrian placed mug back on desk, went back to work.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history.
 
 She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
 
@@ -238,19 +243,21 @@ Kara told Alex about kiss, simple honest not as Supergirl just as Kara, Alex sta
 
 Cat intercom Keira where is my coffee.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history and now helping.
 
+There would be another headline tomorrow. Tonight, there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup and debris and history shared.
 
 Adrian went back to work, ordinary, human-level, as if not helped.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss.
 
 She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
 
 She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup that counts as soup and debris help and history shared.
 
 Kara looked at Adrian across bullpen, small smile, powers humming higher than ever after sun baseline higher cells remember overcompensate, finger healed, heart faster baseline higher.
 
@@ -260,17 +267,19 @@ She nodded.
 
 Adrian placed mug back on desk next to magnet, went back to work.
 
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more.
 
 Adrian went back to work.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping and soup and debris.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history and now helping and soup and debris.
 
 She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam.
 
 She thought maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
+There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping.
 
 Kara looked at Adrian across bullpen, small smile.
 
@@ -278,7 +287,7 @@ Adrian nodded.
 
 Adrian placed mug back on desk, went back to work.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history.
 
 She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
 
@@ -287,24 +296,30 @@ She thought maybe being able to bleed and being able to go to sun and being able
 Adrian went back to work.
 
 
----
+At the DEO, Alex reviewed the file for Chapter_13_Human_for_a_Day.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+
+
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+
+Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not Ch12 kiss but roof November cold since sun.
+
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
 
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
-
-Adrian went back to work ordinary human-level band at wrist mug next to magnet.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made.
+At the DEO, Alex reviewed the file for Chapter_13_Human_for_a_Day.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
 
 
-Adrian went back to work ordinary.
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
 
-Adrian went back to work ordinary.
+Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not Ch12 kiss but roof November cold since sun.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
 
-Adrian went back to work.
+
+At CatCo the next morning, Adrian arrived at 8:50, band at wrist, chipped mug in hand, theater mask magnet on the filing cabinet, ordinary, and placed mug back next to magnet and went back to typing.

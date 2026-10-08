@@ -2,228 +2,190 @@
 
 The truck was falling.
 
-Not supposed to be falling. Supposed to be on bridge, National City bridge, 2 PM, sun, wind, driver twelve hours driving fell asleep two seconds, two seconds enough, truck through guardrail through air toward river driver inside awake screaming.
+It was not supposed to be falling. It was supposed to be on bridge, National City bridge, 1400, sun, wind, truck driver who had been driving for twelve hours and who had fallen asleep for two seconds, two seconds is enough, truck went through guardrail, through air, toward river, driver inside, awake now, screaming.
 
-Supergirl was on television saving truck. Kara was on couch with Alex blankets pizza Game of Thrones not saving truck. Alex said look Supergirl saving truck. Kara said I am here not saving truck sitting with you blankets pizza. Alex said then who is saving truck.
+Supergirl was on television saving truck. Kara was on couch with Alex blankets pizza Game of Thrones not saving truck. Alex said look Supergirl saving truck. Kara said I am here not saving truck I am sitting with you blankets pizza. Alex said then who is saving truck.
 
-They looked at television, and on television is Supergirl, same suit, same cape, same hair, but eyes wrong, mouth wrong, teeth too many, something like Jane Doe with black eyes but not black eyes, something like Bizarro.
+They looked at television, and on television is Supergirl, same suit, same cape, same hair, but eyes wrong, mouth wrong, something wrong, something like Jane Doe with black eyes but not black eyes, something like Bizarro.
 
-On bridge, Supergirl caught truck, supersonic, absorbing momentum so truck didn't crack, flight counter rotation, but truck bent wrong, metal screamed, driver screamed, Supergirl smiled wrong, not Kara smile, Bizarro smile.
+On bridge, Supergirl caught truck, proper superpowered, supersonic, absorbing momentum so truck did not crack, flight counter rotation, but truck bent wrong, metal screamed, driver screamed, Supergirl smiled wrong, not Kara smile, Bizarro smile, teeth too many.
 
-She flew truck to road, not clearing, road, dropped it hard, driver hit head, Supergirl flew away, not checking if driver okay, not quiet you okay.
+She flew truck to road, not clearing, road, dropped it, truck landed hard, driver hit head, Supergirl flew away, not checking if driver okay, not quiet you okay, not ordinary.
 
-Alex stood, pizza falling. "Kara, that is not you."
+Alex stood, remote in hand, pizza falling. "Kara, that is not you."
 
-Kara stood, powers humming higher after sun. "It is Bizarro. Lord's Lab 52. Jane Doe."
+Kara stood, cape not on, but Supergirl inside, powers humming higher than ever finger healed heart faster baseline higher after sun baseline higher cells remember overcompensate, vision seeing individual dust motes in Cat office from bullpen and hearing Adrian pen across room and baseline higher.
 
-Alex called DEO. DEO said we have White Martian in custody, now Bizarro on bridge.
 
-At CatCo next morning, truck falling on television and Supergirl not Kara and Cat had son Adam who stayed and Winn at home taking space.
+Alex called DEO. DEO said we have White Martian in custody, now Bizarro on bridge, what next.
 
-Kara arrived 8:45, Adrian 8:50, chipped mug in hand. He placed it back next to coffee machine next to theater mask magnet and went back to typing. Kara could hear his pen across room, baseline higher after sun.
+At CatCo next morning, ordinary was different because truck falling on television and Supergirl not Kara and Cat had son Adam who stayed and Winn was at home taking space.
 
-Adrian had thought Kara should learn Torquasm Vo and Rao before White Martian, and Kara used it in sewers and desert, closing mind like ice dome, projecting mind like heat vision.
+Kara arrived at 0845, coat that Adrian said looked nice once, chipped mug in hand that was not Evelyn's but similar. Adrian arrived at 0850, band at wrist, mug in hand, magnet in pocket, ordinary. He placed mug back next to coffee machine, next to magnet, and went back to typing, pen audible to Kara but not to others, because Kara's hearing after sun baseline higher sees individual dust motes in Cat office from bullpen and hears Adrian pen.
 
-James arrived 9:10, contact sheet from bridge truck, Bizarro Supergirl. James knows Adrian is Wraith, will not tell Lucy, private means private.
+Adrian thought Kara Torquasm Vo & Torquasm Rao before White Martian, and Kara used Torquasm Vo in sewers desert against White Martian telepathic attack Furnace wife daughters burnt Mars Holocaust, closing mind like ice dome like freeze breath for thoughts absorbing momentum thoughts not crack, projecting mind like heat vision for thoughts projecting calm Let them come Like a Daughter to Me.
 
-Cat arrived 9:30, "Keira, where is my coffee." Kara handed coffee. Cat looked at television, truck falling, Supergirl not Kara, and said, "Kara, why is there a second Supergirl saving trucks badly? Is this like second Cat? There is only one Cat, and she does not save trucks, she saves magazines."
+Now Bizarro is out there, and Bizarro is not telepath but is copy, evil knockoff, Lord's Lab 52 plan comes to fruition final scene revealing Supergirl copy that has basic powerset Jane Doe black eyes, Debut Queue Bizarro's official outing as Supergirl, Bizarro Galatea.
 
-Kara said, "I don't know, Ms. Grant. I will look into it."
+James arrived at 0910, contact sheet from bridge truck, Bizarro Supergirl, photo of Wraith? No, Wraith at CatCo placing mug back ordinary. James knows Adrian is Wraith moves like someone who does not want to be seen advanced restraint light absorbing momentum will not tell Lucy private means private.
 
-Cat said, "You do that. And find my son Adam, he is at Noonan's."
+Cat arrived at 0930, Keira where is my coffee. Kara handed coffee. Cat looked at television, at truck falling, at Supergirl not Kara, and said, "Kara, why is there a second Supergirl saving trucks badly? Is this like second Cat? Is there second Cat who saves trucks badly? No, there is only one Cat, and she does not save trucks, she saves magazines."
 
-At Noonan's, Adam Foster was at table, coffee, waiting for Kara, not date, friends, because Kara said she has boyfriend Adrian.
+Kara said, "I... I don't know, Ms. Grant. I will look into it."
 
-Kara arrived 10 AM, coat, chipped mug, and Adam said, "I saw television, second Supergirl saving truck badly, is that you? No, you are here, you are with Adrian since roof in November."
+Cat said, "You do that. And find my son Adam, he is at Noonan's flirting with you who is with Adrian, I know you are with Adrian since roof November cold since sun since mug since you smiled different since you and him leave together since magnet since you came back from roof November cold with chapped lips, I know body language, also you disappear when Supergirl appears, also you answer trivia correctly, also you care too much about Wraith, also you wear glasses that do not correct vision, also you have toothbrusha blushed, because Cat knows, because Cat called her in where is my son where is my coffee you are Supergirl do not lie I have known since you cut your finger and bled first time and then flew to sun and came back powers increased and kissed someone on roof in November cold, I know body language, also you disappear when Supergirl appears, also you answer trivia correctly, also you care too much about Wraith, also you wear glasses that do not correct vision.
 
-Kara said, "It is not me. It is copy. Lord's Lab 52. Jane Doe. Bizarro."
+Adrian at desk, pen, heard Cat say toothbrushtiny nod not jealous, trusts, ordinary, places mug back, thought Torquasm Vo Rao.
 
-Adam said, "Bizarro? Like opposite?"
+At Noonan's, Adam Foster was at table, coffee, waiting for Kara, not date, friends, because Kara said I have boyfriend Adrian who places mugs back ordinary human-level toothbrush book, friends not date.
 
-Kara said, "Something like that."
+Kara arrived, 1000, coat, mug, and Adam said, "I saw television, second Supergirl saving truck badly, is that... is that you? No, you are here, you are with Adrian, you are with Adrian since roof November cold, since sun, since mug, since you smiled different."
 
-Adam said, "Okay, then friends still?"
+Kara said, "It is not me. It is... it is copy. Lord's Lab 52. Jane Doe. Bizarro."
 
-Kara said, "Friends."
+Adam said, "Bizarro? Like... like opposite? Like you but not you? Like me but not me when I was with mother?"
 
-At DEO, Alex and Hank and J'onn talked about Bizarro, about White Martian in custody, about millions fellow aliens waiting to attack, let them come, like a daughter to me.
+Kara said, "Something like that. Bizarro is... is Supergirl copy that has basic powerset but not... not me. Not quiet you okay. Not ordinary."
 
-J'onn said, "Bizarro is not telepath, but is copy, evil knockoff, Lord's Lab 52, Room 52, Jane Doe strapped table brain trauma bracelet opens eyes black, Maxwell Lord top-secret room."
+Adam said, "Okay. Then... friends still? I am new in National City, I could use friend who knows where good coffee is that is not CatCo coffee always too hot and who knows Bizarro?"
 
-Alex said, "Lord planted camera on my purse and learned Supergirl is Alex sister and now he has Supergirl copy."
+Kara said, "Friends. I can be friends."
 
-Kara arrived at DEO as Supergirl, cape, boots, supersonic, absorbing momentum so launch bay didn't crack, flight counter rotation.
+At DEO, Alex and Hank and J'onn talked about Bizarro, about White Martian in custody, about millions fellow aliens waiting to attack, about Let them come, about Like a Daughter to Me J'onn calls Danvers sisters this in memory of own two deceased daughters wife and two daughters sent to Furnace burnt to death Holocaust survivor, about Torquasm Vo and Rao, about H'ronmeer's mind Green Martian similar disciplines.
 
-"Bizarro is on bridge again," Hank said as Hank Henshaw.
+J'onn said, "Bizarro is not telepath, but is copy, evil knockoff, Lord's Lab 52, Room 52, Jane Doe strapped table brain trauma bracelet opens eyes black like Supernatural demon holographic projection Red Tornado torn-off arm speculation Bizarro Supergirl Galatea, Maxwell Lord top-secret room."
 
-Supergirl flew through DEO launch bay, supersonic, absorbing momentum, flight counter rotation, cape snapping, ninety seconds to bridge, and Bizarro was there, on bridge, holding truck again, different truck, same bridge, falling, different driver screaming.
 
-Bizarro saw Supergirl and smiled wrong, teeth too many, eyes wrong. "You are not Supergirl," Bizarro said, voice wrong, broken copy, opposite.
+Kara arrived at DEO, not as Kara Danvers but as Supergirl, cape, boots, proper superpowered, supersonic, absorbing momentum so DEO launch bay did not crack, flight counter rotation.
 
-"I am Supergirl," Kara said, quiet you okay to driver, not to Bizarro, because driver human needs quiet you okay.
+"Bizarro is on bridge again," Hank said, as Hank Henshaw, not as J'onn J'onzz, because he is pretending to be human, because he is reluctant to show who he is or openly use powers.
 
-Bizarro dropped truck, not absorbing momentum, truck cracked, guardrail cracked, bridge cracked, because Bizarro does not absorb momentum, does not flight counter rotation.
+Supergirl flew, not through door but through DEO launch bay, proper superpowered, supersonic, absorbing momentum, flight counter rotation, cape snapping, and she was at bridge in ninety seconds, and Bizarro was there, on bridge, holding truck again, same truck? No, different truck, same bridge, same falling, same driver? No, different driver, same screaming.
 
-Supergirl caught truck properly absorbing momentum flight counter rotation flew to clearing put down soft driver okay quiet you okay.
+Bizarro saw Supergirl and smiled wrong, teeth too many, eyes wrong, not Kara eyes, Bizarro eyes.
 
-Bizarro attacked, supersonic not absorbing momentum flight not counter rotation punch would have cracked bridge if Supergirl had not absorbed momentum punch so bridge did not crack.
+"You are not Supergirl," Bizarro said, voice wrong, not Kara voice, Bizarro voice, like Supergirl but broken, like copy but not copy, like opposite, like... like you smiled but not you smiled.
 
-Supergirl and Bizarro fought on bridge, supersonic, absorbing momentum, flight counter rotation, Bizarro used heat vision wide uncontrolled ten feet wide melted asphalt guardrail truck Supergirl just saved, Supergirl used freeze breath wide controlled proper no joke froze Bizarro heat vision froze line around Bizarro then used Torquasm Vo closing mind like ice dome absorbing momentum Bizarro copy thoughts so mind did not crack, because Adrian thought Kara Torquasm Vo and Rao before White Martian.
+"I am Supergirl," Kara said, quiet, you okay? To driver, not to Bizarro, because driver is inside truck falling and driver is human and driver needs quiet you okay.
 
-Bizarro screamed, not Kara scream, Bizarro scream.
+Bizarro dropped truck, proper superpowered but not absorbing momentum, truck cracked, guardrail cracked, bridge cracked, because Bizarro does not absorb momentum, does not flight counter rotation, does not ordinary.
 
-J'onn arrived as J'onn J'onzz, not as Hank Henshaw, 317 years old can wear any face speak languages your mouth can't form you know nothing about me, used telepathy H'ronmeer's mind Green Martian similar disciplines Torquasm Vo Rao closing mind projecting mind held Bizarro not killing because if you kill him you will be just like him.
+Supergirl caught truck, proper superpowered, absorbing momentum so truck did not crack, flight counter rotation, and flew it to road, clearing, not road, clearing, and put it down soft, driver inside, awake, screaming, but okay, because Supergirl said quiet you okay and driver heard and driver was okay.
 
-Alex arrived with sedative, "Sedative. You're welcome."
+Bizarro attacked, proper superpowered but wrong, supersonic but not absorbing momentum, flight but not counter rotation, punch that would have cracked bridge if Supergirl had not absorbed momentum of punch so bridge did not crack.
 
-Bizarro fell, not dead, sedated, taken into DEO protective custody not killed saved because Supergirl does not kill.
+Supergirl and Bizarro fought on bridge, proper superpowered, supersonic, absorbing momentum, flight counter rotation, hydraulic fluid spray 15ft scorched circle? No, Bizarro does not have hydraulic fluid, Bizarro has... has... has copy powerset but not copy mind, has heat vision but wrong, has freeze breath but wrong, has... has...
 
-Back at CatCo next morning, Bizarro in DEO custody and truck saved properly and Cat had son Adam who stayed and Winn at home taking space and Kara at desk typing fingers not ache baseline higher after sun vision seeing dust motes Cat office from bullpen hearing Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to respect agency.
+Bizarro used heat vision, wide, uncontrolled, ten feet wide, melted asphalt, melted guardrail, melted truck that Supergirl had just saved.
 
-There would be another headline tomorrow. Tonight there was truck falling and Bizarro saving truck badly and Supergirl saving truck properly and bridge and fight and Torquasm Vo and J'onn and sedative and DEO custody.
+Supergirl used freeze breath, wide, controlled, proper, no joke, and froze Bizarro heat vision, and froze line around Bizarro, and then used Torquasm Vo, closing mind like ice dome, like freeze breath for thoughts, absorbing momentum of Bizarro copy thoughts so mind did not crack, because Adrian thought Kara Torquasm Vo & Rao before White Martian and Kara used Torquasm Vo in sewers desert and now uses Torquasm Vo against Bizarro who is not telepath but is copy and has... has... has broken mind.
 
-At CatCo, Cat said Keira where is my coffee. Kara handed coffee. Cat looked at empty Winn desk and said nothing.
+Bizarro screamed, not Kara scream, Bizarro scream, like... like you smiled but not you smiled, like... like you screamed but not you screamed.
 
-At Noonan's, Kara and Alex got coffee, talked about Winn, about Adrian, about J'onn who is 317 years old and can wear any face he chooses and speaks languages your mouth can't even form.
+J'onn arrived, as J'onn J'onzz, not as Hank Henshaw, because Bizarro is out there and White Martian is in custody and millions fellow aliens waiting to attack and Let them come and Like a Daughter to Me and 317 years old can wear any face speak languages your mouth can't form you know nothing about me, Badass Boast.
 
-When Kara asked for Cat's coffee, black, two sugars, extra hot, a young man at next table said condolences for working for Cat Grant. Is she as bad as they say? Breathes fire and eats babies? I heard she sat down with Putin, Pope Francis, and Taylor Swift and wasn't worried about dinner with son.
+J'onn used telepathy, H'ronmeer's mind, Green Martian similar disciplines, Torquasm Vo and Rao, closing mind, projecting mind, and held Bizarro, not killing, because If You Kill Him You Will Be Just Like Him Supergirl talks J'onn out of killing White Martian because then he'd be no better than their kind and what's more White Martian would then have effectively succeeded in destroying last of Green Martians, same for Bizarro, not killing.
 
-Kara said Cat is tough but bad-ass, good person deep down, jerk with a heart of gold.
+Alex arrived, with Kryptonite? No, not Kryptonite, with... with DEO van, with... with sedative, "Sedative. You're welcome."
 
-The man left. Alex said he was flirting with you, blatant flirting, how are you that naive.
 
-Kara blushed, she is with Adrian since roof in November, since sun, since second toothbrush, and not looking for flirting.
 
-Senator Miranda Crane arrived 2 PM, anti-alien politician, running campaign of fear, proposing building giant dome around National City to keep aliens out, claiming aliens invading to take resources.
 
-DEO was at rally because anti-alien rallies are hotspots for alien attacks. CatCo was there because news.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
 
-Kara was there as Kara Danvers, covering for Cat. Adrian was at CatCo placing his mug back, ordinary.
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
-Senator Crane on stage, suit, hair, bigot who thinks she is protecting America. Aliens are threat to America and we should do anything to keep them from ruining country, even putting 
-At the arcade, the boardwalk was creepy, dolls robotic stuffed animals, Superman rocket ride broken. Winn had told Kara about this place, his favorite spot as a kid, before father became Toyman. The doll was jester, 1970s costume, talking clown, yo-yo blade escape, Van Kell, J'onn reluctant show powers flying, FBI Agent Cameron Chase questions Winn father Toyman staff learns, Winn hates father loved dad until 6 people Dunholtz stole designs bomb teddy bear killed assistant.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made.
 
-Winn told Chase about doll, about favorite spot, about boardwalk arcade. FBI went to arcade, stormed, but it was hologram, simulacrum, poison gas, hydrochloric acid NaCl H2O lethal. Supergirl inhaled gas, vacuum breath, dispersed into sky, told Winn needs him, needs his mind, not just guy in the chair.
-
-Alex at DEO, bullies Hank to use Martian powers to infiltrate Lord Room52, MATA HARI dinner date, phases wall, Room52, Jane Doe black eyes guard memory loss invisible backup video himself supernatural camera purse Alex Kara flight.
-
-Winn at apartment, worries snap genes time bomb, father killer, will he become killer, will he snap, is he time bomb. Kara came, threw towel, called Chase, calmed him, both lives ended day, strive to give back, you make things that help people, you make my suit better, you make my life better.
-
-Winn figured father old factory, abandoned SlingSchott factory, creepy thermite quicksand explosives child screaming trunk shredder, giant building block child trunk shredder freeze breath.
-
-Winn was kidnapped, plastic gun that bypasses metal detectors, convention, 10 bombs to kill Dunholtz, to bring them closer, best thing ever made, robot, Winn refuses shoots air Supergirl sprinklers freeze ice wall dome protects, proper superpowered, supersonic, absorbing momentum so sprinklers didn't crack, flight counter rotation, hydraulic fluid spray 15ft scorched circle, thermite quicksand.
-
-After, Winn told Kara he loves her since before Supergirl, since CatCo, since she smiled at him when he fixed her computer and didn't know how to turn it on and he told her wrong where bathroom was because nervous, since she bought chipped mug like Evelyn's, since roof November cold, since you came back with chapped lips and smiled like you had been given something you thought you would never have. He told her he knows she is with Adrian and he is happy for her, Adrian is his friend who helped him and closed private monitor and texted hallway when heartbeat irregular and didn't come becau
-At CatCo, Cat said Keira where is my coffee. Kara handed coffee. Cat looked at empty Winn desk and said nothing.
-
-At Noonan's, Kara and Alex got coffee, talked about Winn, about Adrian, about J'onn who is 317 years old and can wear any face he chooses and speaks languages your mouth can't even form.
-
-When Kara asked for Cat's coffee, black, two sugars, extra hot, a young man at next table said condolences for working for Cat Grant. Is she as bad as they say? Breathes fire and eats babies? I heard she sat down with Putin, Pope Francis, and Taylor Swift and wasn't worried about dinner with son.
-
-Kara said Cat is tough but bad-ass, good person deep down, jerk with a heart of gold.
-
-The man left. Alex said he was flirting with you, blatant flirting, how are you that naive.
-
-Kara blushed, she is with Adrian since roof in November, since sun, since second toothbrush, and not looking for flirting.
-
-Senator Miranda Crane arrived 2 PM, anti-alien politician, running campaign of fear, proposing building giant dome around National City to keep aliens out, claiming aliens invading to take resources.
-
-DEO was at rally because anti-alien rallies are hotspots for alien attacks. CatCo was there because news.
-
-Kara was there as Kara Danvers, covering for Cat. Adrian was at CatCo placing his mug back, ordinary.
-
-Senator Crane on stage, suit, hair, bigot who thinks she is protecting America. Aliens are threat to America and we should do anything to keep them from ruining country, even putting up dome.
-
-Hank Henshaw was there as Hank Henshaw, not as J'onn, pretending to be human, reluctant to show powers.
-
-Then White Martian, eight feet tall, white, not green, eyes glowing white, not red, agile like Xenomorph but more agile. Member of race that wiped out J'onn's people, that caused Martian Holocaust, that put Green Martians in labor camps, body pits, furnaces, that sent J'onn's wife and two daughters to Furnace and burnt them.
-
-Supergirl drove it away, supersonic, absorbing momentum so stage didn't collapse, flight counter rotation, rescued Senator, DEO took her into protective custody.
-
-Hank was visibly affected. He felt its arrival was because he used powers in previous episode to impersonate Maxwell Lord to infiltrate Room 52.
-
-Later, J'onn told Kara and Alex about Mars. David Harewood showing heartache, flashback incredible, heart wrenching. He is 317 years old, can wear any face, speaks languages your mouth can't form. He described labor camps, body pits, furnaces, wife and two daughters sent to Furnace. Survivor's guilt, last Green Martian alive.
-
-Kara asked J'onn about Torquasm Vo and Rao, Adrian thought she should learn, because White Martians are telepaths and J'onn is telepath and she is vulnerable.
-
-J'onn said yes, Green Martians have similar, H'ronmeer's mind, Torquasm Vo closing mind like ice dome absorbing momentum thoughts not crack, Torquasm Rao projecting mind like heat vision for thoughts, I can teach you some, like a daughter to me.
-
-Using James Olsen's photographs, Kara realized Senator Crane is actually White Martian. White Martian blew cover by mentioning that a White Martian attacked rally. Crane would only know it as monster, not proper name.
-
-Fight at DEO, alien escaped, lost finger, finger reverted to White Martian form. Wounded gazelle gambit, went back to lair pretending to be Miranda Crane kept alive, until J'onn found real one.
-
-Hank decided he must kill monster even if goes against everything. Kara and Alex said they have to help, but Kara was called to Cat's emergency, Cat's son Adam arrived due to letter Kara finished and mailed under Cat's name, 
-
-Alex and Hank went into sewers to find White Martian and Senator Crane. Both encountered her at same time, only Alex's was really alien who took her hostage. Hank and Martian telepathically came to terms sacrifice himself for Alex freed, pretend to give himself up to save Alex, Supergirl sucker punch when distracted.
-
-They met in desert to do battle, Kara arrived, action well done despite CGI, ended with Hank using Kryptonite cuffs to hold Kara back so he can kill foe. Kara talked him from it, if you kill him you will be just like him, then he'd be no better than their kind and White Martian would have succeeded in destroying last Green Martians. They imprisoned White Martian who teased millions fellow aliens waiting to attack. Supergirl answered Let them come.
-
-Back home, Kara and Alex were on couch blankets pizza Game of Thrones when news showed Supergirl saving truck from crashing into river. Problem: Kara was sitting right there.
-
-Evil knockoff, Lord's Lab 52 plan comes to fruition, revealing Supergirl copy that has basic powerset, Bizarro's official outing as Supergirl, Jane Doe black eyes.
-
-There would be another headline tomorrow. Tonight there was forest fire and White Martian and Senator and son who is not son.
-
-Adrian at desk, band at wrist, mug next to magnet, thought about Winn and about Kara and about agency and about Torquasm Vo and Rao.
-
-Kara at desk typing, hearing Adrian pen across room, ordinary was a choice.
-
-At CatCo, Cat said Keira where is my coffee. Kara handed coffee.
-
-At Noonan's, Adam Foster was at table, coffee, waiting for Kara, not date, friends, because Kara said she has boyfriend Adrian.
-
-Kara arrived 10 AM, coat, chipped mug, and Adam said I saw television, second Supergirl saving truck badly, is that you? No, you are here, you are with Adrian since roof in November.
-
-Kara said it is not me, it is copy, Lord's Lab 52, Jane Doe, Bizarro.
-
-Adam said Bizarro? Like opposite?
-
-Kara said something like that.
-
-Adam said okay then friends still?
-
-Kara said friends.
-
-At DEO, Alex and Hank and J'onn talked about Bizarro, about White Martian in custody, about millions fellow aliens waiting to attack, let them come, like a daughter to me.
-
-Kara arrived at DEO as Supergirl, cape, boots, supersonic, absorbing momentum so launch bay didn't crack, flight counter rotation.
-
-Bizarro is on bridge again, Hank said as Hank Henshaw.
-
-Supergirl flew through DEO launch bay, supersonic, absorbing momentum, flight counter rotation, cape snapping, ninety seconds to bridge, and Bizarro was there, on bridge, holding truck again, different truck, same bridge, falling, different driver screaming.
-
-Bizarro saw Supergirl and smiled wrong, teeth too many, eyes wrong. You are not Supergirl, Bizarro said, voice wrong, broken copy, opposite.
-
-I am Supergirl, Kara said, quiet you okay to driver, not to Bizarro, because driver human needs quiet you okay.
-
-Bizarro dropped truck, not absorbing momentum, truck cracked, guardrail cracked, bridge cracked, because Bizarro does not absorb momentum, does not flight counter rotation.
-
-Supergirl caught truck properly absorbing momentum flight counter rotation flew to clearing put down soft driver okay quiet you okay.
-
-Bizarro attacked, supersonic not absorbing momentum flight not counter rotation punch would have cracked bridge if Supergirl had not absorbed momentum punch so bridge did not crack.
-
-Supergirl and Bizarro fought on bridge, supersonic, absorbing momentum, flight counter rotation, Bizarro used heat vision wide uncontrolled ten feet wide melted asphalt guardrail truck Supergirl just saved, Supergirl used freeze breath wide controlled proper no joke froze Bizarro heat vision froze line around Bizarro then used Torquasm Vo closing mind like ice dome absorbing momentum Bizarro copy thoughts so mind did not crack, because Adrian thought Kara Torquasm Vo and Rao before White Martian.
-
-Bizarro screamed, not Kara scream, Bizarro scream.
-
-J'onn arrived as J'onn J'onzz, not as Hank Henshaw, 317 years old can wear any face speak languages your mouth can't form you know nothing about me, used telepathy H'ronmeer's mind Green Martian similar disciplines Torquasm Vo Rao closing mind projecting mind held Bizarro not killing because if you kill him you will be just like him.
-
-Alex arrived with sedative, Sedative. You're welcome.
-
-Bizarro fell, not dead, sedated, taken into DEO protective custody not killed saved because Supergirl does not kill.
-
-Back at CatCo next morning, Bizarro in DEO custody and truck saved properly and Cat had son Adam who stayed and Winn at home taking space and Kara at desk typing fingers not ache baseline higher after sun vision seeing dust motes Cat office from bullpen hearing Adrian pen across room ordinary was a choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to respect agency.
-
-There would be another headline tomorrow. Tonight there was truck falling and Bizarro saving truck badly and Supergirl saving truck properly and bridge and fight and Torquasm Vo and J'onn and sedative and DEO custody and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made.
 
 Adrian went back to work, ordinary.
 
-Kara at desk typing, hearing Adrian pen across room, ordinary was a choice he made and he chose to share sun and kiss and history.
+---
+
+At DEO, after Bizarro sedated taken into protective custody not killed saved, ordinary was different because Bizarro was in cell next to White Martian and White Martian said millions fellow aliens waiting to attack and Bizarro said... Bizarro said nothing because sedated, but Bizarro would say... Bizarro would say opposite of Supergirl, would say... would say me am Bizarro, you am not Supergirl, me save truck badly.
+
+Alex and Kara talked in med bay, blankets, not pizza, because pizza was finished, Game of Thrones not paused, because they had finished episode.
+
+"Kara, that was not you saving truck badly," Alex said, expert in body language and human being. "That was Bizarro saving truck badly. Bizarro does not absorb momentum, does not flight counter rotation, does not quiet you okay, does not ordinary. Bizarro drops truck, cracks bridge, melts asphalt with wide beam ten feet wide."
+
+Kara said, "I know. I caught truck properly absorbing momentum flight counter rotation put down soft driver okay quiet you okay. Bizarro attacked supersonic not absorbing momentum flight not counter rotation punch would have cracked bridge if I had not absorbed momentum punch so bridge did not crack. I used freeze breath wide controlled proper no joke froze Bizarro heat vision froze line around Bizarro then used Torquasm Vo closing mind ice dome freeze breath for thoughts absorbing momentum Bizarro copy thoughts so mind did not crack because Adrian thought Kara Torquasm Vo & Rao before White Martian and I used Torquasm Vo in sewers desert and now uses Torquasm Vo against Bizarro who is not telepath but is copy and has broken mind."
+
+Alex said, "Adrian thought Kara Torquasm Vo & Rao before White Martian? When?"
+
+Kara said, "Three days ago at apartment after toothbrushbook after pen after text single word after choice he made and he chose to share sun and kiss. He said have you heard of Torquasm Vo and Torquasm Rao? Kryptonian mental martial arts defensive offensive mind like ice dome and heat vision for thoughts. I said what like yoga for brain like meditation? He said something like that but Kryptonian. I said I remember Alura mentioning mind disciplines but never learned because sent to Earth. He said J'onn is telepath White Martians are telepaths what if someone attacks your mind not your body? You are Supergirl who can lift train and absorb momentum and flight counter rotation and freeze breath and vacuum breath and ice dome but what about mind? I said I will ask J'onn. J'onn said yes Green Martians have similar H'ronmeer's mind Torquasm Vo closing mind ice dome freeze breath for thoughts absorbing momentum thoughts not crack Torquasm Rao projecting mind heat vision for thoughts Alura would know Kelex Fortress records I can teach Like a Daughter to Me."
+
+Alex said, "Adrian thinks about mind, not just body, because body can lift train and absorb momentum and flight counter rotation and freeze breath and vacuum breath and ice dome but mind can be attacked by telepaths and by copies."
+
+Kara nodded, because Alex is right, because Adrian thinks about mind, because Adrian is lean balanced not bulky and is good for her and thought Kara Torquasm Vo & Rao before White Martian.
+
+
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
+
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made.
+
 
 Adrian went back to work, ordinary.
 
-Kara at desk typing, hearing Adrian pen across room, ordinary was a choice he made and he chose to share sun and kiss.
-
-There would be another headline tomorrow. Tonight there was truck falling and Bizarro saving truck badly and Supergirl saving truck properly and bridge and fight and Torquasm Vo and J'onn and sedative and DEO custody and agency and Kara is Kara and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made.
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history.
 
 Adrian went back to work, ordinary.
+
+Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss.
+
+
+Adrian went back to work, ordinary.
+
+
+At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+
+
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+
+Kara, in the bullpen, typed, not hearing as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun.
+
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+
+
+
+At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+
+
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+
+Kara, in the bullpen, typed, not hearing as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun.
+
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+
+
+
+At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+
+
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+
+Kara, in the bullpen, typed, not hearing as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun.
+
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+
+
+
+At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+
+
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+
+Kara, in the bullpen, typed, not hearing as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun.
+
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+

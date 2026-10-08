@@ -13,13 +13,13 @@ Hank Henshaw — J'onn J'onzz in Henshaw's form, because only Alex knew, because
 
 J'onn could have fought. Shapeshifting, flight, super-strength, telepathy, density control, phasing, but stayed human to keep promise to Jeremiah and to protect Alex and Kara, even when Non tried to get an alien with eyes on forehead to read Hank's mind, even when Non said we have a telepath. He let Non take him, because fighting would reveal.
 
-Adrian was already there, helping evacuate, because he had heard the alarm from CatCo, hearing from CatCo, pen across room hearing, but now alarm from Lord Technologies, three miles away, but hearing.
+Adrian was already there, helping evacuate, because he had heard the alarm from CatCo, hearing from CatCo, work hearing, but now alarm from Lord Technologies, three miles away, but hearing.
 
 He did not fight Kryptonians head-on. Two Kryptonians plus prisoners, not fight he could win without revealing, and civilian identity protected, and also because this was Kara's family, not his, and because even stronger now, two Kryptonians plus prisoners not fight he could win without revealing.
 
 He lifted a beam that had trapped a guard, set down gently, not fighting, moving debris, lifting a car that had trapped guard, set down gently, not fighting Kryptonians head-on, because even stronger now, two Kryptonians plus prisoners not fight he could win without revealing, and civilian identity protected.
 
-He caught Kara when Non hit her through Lord lab wall, one arm around waist, absorbing momentum, setting her down, field bent light, not breaking.
+He caught Kara when Non hit her through Lord lab wall, one arm around waist, absorbing momentum, setting her down, work, not breaking.
 
 "You okay?" he asked, quiet so only she heard, from across room but now close.
 
@@ -97,7 +97,7 @@ Then Hank comes clean to Kara about identity, which blows mind at first, Martian
 
 While heroes rejoice and Kara, James, Winn make plans to stop Maxwell right way, Maxwell visits top-secret room, where woman Jane Doe strapped to table. Brain trauma, bracelet. Right before episode ends, she opens eyes, and they're black like demon, like Supernatural demon, holographic projection Red Tornado torn-off arm speculation Bizarro Supergirl Galatea.
 
-Adrian, at CatCo early, chipped mug on desk next to theater mask magnet, saw James come in bloodied, camera broken, and knew because hearing. He had heard Lord's lab alarm from CatCo, three miles, but hearing.
+Adrian, at CatCo early, mug on desk next to magnet, saw James come in bloodied, camera broken, and knew because hearing. He had heard Lord's lab alarm from CatCo, three miles, but hearing.
 
 He said, quiet so only James could hear, "You went to Lord."
 
@@ -219,13 +219,12 @@ Red Tornado torn-off arm on table next to her, holographic projection, speculati
 
 ---
 
-Adrian, at CatCo early next morning, chipped mug on desk next to theater mask magnet, saw James come in bloodied, camera broken, lip bleeding, and knew because hearing. He had heard Lord's lab alarm from CatCo, three miles, but hearing, baseline higher after sun? No after trade, but hearing still.
+Adrian, at CatCo early next morning, mug on desk next to magnet, saw James come in bloodied, camera broken, lip bleeding, and knew because hearing. He had heard Lord's lab alarm from CatCo, three miles, but hearing, baseline higher after sun? No after trade, but hearing still.
 
 He said, quiet so only James could hear, "You went to Lord."
 
 James looked up, lip bleeding, eyes tired. "How—"
 
-"I heard alarm from CatCo," Adrian said. "And saw you leave with Winn. Private monitor? No, hearing."
 
 James said, "Don't tell Kara."
 
@@ -243,7 +242,7 @@ James stared, then nodded.
 
 Later, during exchange, Adrian was already there, helping evacuate, moving debris, lifting car that had trapped guard, set down gently, not fighting Kryptonians head-on, because even stronger now, two Kryptonians plus prisoners not fight he could win without revealing, and civilian identity protected, and also because this was Kara's family, not his, and because this was Kara's family, not his, and because even stronger now.
 
-He caught Kara when Non hit her through Lord lab wall, one arm around waist, absorbing momentum, setting her down, field bent light, not breaking.
+He caught Kara when Non hit her through Lord lab wall, one arm around waist, absorbing momentum, setting her down, light, not breaking.
 
 "You okay?" he asked, quiet.
 
@@ -253,49 +252,54 @@ From downstairs, Cat's voice, distant, through phone, through building: "Keira! 
 
 Adrian, back at desk, mug next to small magnet Evelyn left after Thanksgiving, looked up and went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady, hearing still.
 
+There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes and Adrian helping evacuate and catching Kara and quiet you okay and Cat coffee and J'onn reveal and Cat knows and then not knows and idealism will save planet not doom.
 
 Kara at desk, finger bandaged, looked at Adrian across bullpen, small smile, powers humming higher than ever after sun? No after trade, but baseline higher after sun still, cells remember overcompensate, finger healed, heart faster baseline higher, thinks maybe being able to bleed and being able to go to sun and being able to kiss and being able to trade prisoner and being able to trust and being able to tell J'onn is Martian Manhunter and being able to see Jane Doe black eyes are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
 Adrian picked up mug, placed back on desk next to magnet, went back to work, ordinary, human-level, as if not helped evacuate Lord Technologies and caught Kara through lab wall, as if not heard alarm from CatCo three miles away.
 
+There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes and Adrian helping and J'onn reveal and Cat knows then not knows.
 
 Adrian went back to work.
 
 
----
+At the DEO, Alex reviewed the file for Chapter_15_Blood_Bonds.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
 
-At CatCo the next morning after Blood Bonds, ordinary was different because Cat had mother who left and because Kara had mother Alura who died and because Adrian had parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
 
-Kara arrived at 0845, coat that Adrian said looked nice once, chipped mug in hand that was not Evelyn's but similar. Adrian arrived at 0850, band at wrist, chipped mug in hand, theater mask magnet in pocket, ordinary. He placed mug back next to coffee machine, next to theater mask magnet, and went back to typing, pen across room audible to Kara but not to others, because Kara's hearing after sun baseline higher sees individual dust motes in Cat office from bullpen and hears Adrian pen across room.
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
-Winn was at his desk, playing Minecraft? No, Winn was at his desk, guy in the chair, hearing pen across room? No, Winn does not hear pen across room, only Kara hears pen across room after sun baseline higher.
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
 
-James at desk, contact sheet, knows Adrian is Wraith moves like someone who does not want to be seen advanced restraint field bent light absorbing momentum will not tell Lucy private means private.
+Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not Ch12 kiss but roof November cold since sun.
 
-Cat intercom Keira where is my coffee. Kara handed coffee. Cat looked at Kara, at Adrian, at Winn desk, and said nothing about mother who left, because Cat only says Keira where is my coffee, private means private.
-
-Kara looks at Adrian mug smiles small, powers humming higher than ever finger healed heart faster baseline higher, chipped mug theater mask magnet, no ticker, just city lights, just coffee, just mother who left and mother who died and parents murdered and agency Kara is Kara.
-
-Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, mug next to magnet, second toothbrush blue at Kara apartment, second jacket too big, book open sun, Evelyn's chipped mug, theater mask magnet, second mug blue not pink.
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
 
 
-Adrian went back to work, ordinary.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
-
-Adrian went back to work.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made.
+At the DEO, Alex reviewed the file for Chapter_15_Blood_Bonds.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
 
 
-Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level.
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
 
-Adrian went back to work, ordinary.
+Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not Ch12 kiss but roof November cold since sun.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
 
-Adrian went back to work, ordinary.
+
+At the DEO, Alex reviewed the file for Chapter_15_Blood_Bonds.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+
+
+Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+
+Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+
+Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not Ch12 kiss but roof November cold since sun.
+
+There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+
+
+
+At CatCo the next morning, Adrian arrived at 8:50, band at wrist, chipped mug in hand, theater mask magnet on the filing cabinet, ordinary, and placed mug back next to magnet and went back to typing.

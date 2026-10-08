@@ -1,4 +1,4 @@
-# Chapter 3: The Name He Feared
+# Season 1, Episode 1 — Pilot
 
 ## Chapter 3 — The Name He Feared
 
@@ -606,42 +606,6 @@ It did not fit the man kneeling beside her now, looking at her injured arm witho
 
 It did not stop being the same man.
 
-Alex called for the medical kit. Adrian's gaze dropped to the fresh blood slipping beneath Kara's torn sleeve.
-
-“I can stop that,” he said.
-
-Kara followed his gaze. “How?”
-
-“Heat vision. Just enough to stop the bleeding.”
-
-Alex looked sharply at him. “You can control it that closely?”
-
-“Yes.” He kept his attention on Kara. “It won't repair everything the axe did. You'll still need the wound checked.”
-
-Kara had used heat vision. She knew how easily its power could spread beyond the place she meant to strike.
-
-She looked at his eyes, then at the blood on her arm.
-
-“All right.”
-
-He waited while she moved the loose fabric clear.
-
-The red light was narrow and steady. It touched only the bleeding points along the wound, not the whole ragged cut. Kara caught her breath at the brief sting and held still.
-
-Then the light was gone.
-
-Fresh blood no longer followed the old tracks down her skin. The deeper ache remained, but the warmth spreading beneath her sleeve had stopped.
-
-Alex leaned closer to look. She did not try to hide her surprise.
-
-“Keep that arm still,” she said. “Let me dress it.”
-
-Kara nodded, then looked back at Adrian. “Thank you.”
-
-He nodded and gave Alex room to work.
-
-Kara could accept his help without putting her questions aside.
-
 “You knew who I was,” she said.
 
 He met her eyes.
@@ -668,6 +632,6 @@ He had come when Winn called. He had put himself between her and the weapon befo
 
 So was the part he had not told her.
 
-Alex settled a clean dressing over the injury.
+Alex called for the medical kit.
 
 Kara remained where she was, with the man who had saved her beside her and his other name still sounding in her ears.

@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: a11ad76983cd7a99c6ce97064b2810ec1d847dc7c4fd27f9a98bd99c3a95fea0 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: c6f30495f266f355de68ff26320a596c39b7d733a0396b7006126083597f7c19 -->
 
 # Handoff — Supergirl / Adrian Vale
 
@@ -8,14 +8,14 @@ A native male Kryptonian–Daxamite hybrid Talent holder with a genuinely crimin
 ## 2. The live edge
 **Epoch:** v1 · **Revision:** foundation-021  
 **Accepted chapter edge:** 21 · **Next chapter:** 22  
-**Phase:** chapter-21-adopted-falling-red-kryptonite-adrian-willpower-2142w
+**Phase:** chapter-20-adopted-bizarro-events-actually-happening-2273w-full
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
 **U23 public identity:** complete suit/mask for interventions; civilian identity protected. Visual resemblance is out-of-world only. See `bible/PUBLIC_IDENTITY_AND_COSTUME.md`.
 
 
-The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 21, R3**, at `drafts/Chapter_21_Falling_R3.md`: adopted as Chapter 21 R1 full 2142w Red Kryptonite makes Kara so angry Adrian destroying city after parents death even though affected red sun completely shows strong willpower controlling. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
+The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 21, R3**, at `drafts/Chapter_21_Falling_R3.md`: adopted as Chapter 21 R3 natural. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
 
 ## 3. The one status source
 `foundation/CURRENT_STATE_MANIFEST.json`. STATUS_PANEL, this handoff, SERIAL_LOG and the overview are generated from it. Do not edit a generated mirror to repair state.

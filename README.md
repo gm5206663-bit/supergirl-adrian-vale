@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: a11ad76983cd7a99c6ce97064b2810ec1d847dc7c4fd27f9a98bd99c3a95fea0 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: c6f30495f266f355de68ff26320a596c39b7d733a0396b7006126083597f7c19 -->
 
 # Supergirl — Adrian Vale
 
@@ -8,7 +8,7 @@ This is the local, GitHub-ready working project—not another generic DC questio
 
 **Epoch:** v1 · **Revision:** foundation-021  
 **Accepted chapter edge:** 21 · **Next chapter:** 22  
-**Phase:** chapter-21-adopted-falling-red-kryptonite-adrian-willpower-2142w
+**Phase:** chapter-20-adopted-bizarro-events-actually-happening-2273w-full
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -64,7 +64,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 18](chapters/Chapter_18_Strange_Visitor_Part1.md): audits/CONTINUATION_Chapter_18.md — natural events actually happening 1259w
 - [Chapter 19](chapters/Chapter_19_Strange_Visitor_Part2.md): audits/CONTINUATION_Chapter_19.md — natural events actually happening 1242w
 - [Chapter 20](chapters/Chapter_20_Bizarro.md): audits/CONTINUATION_Chapter_20.md — natural events actually happening 1044w
-- [Chapter 21](chapters/Chapter_21_Falling.md): audits/CONTINUATION_Chapter_21.md — Falling Red Kryptonite Adrian willpower 2142w
+- [Chapter 21](chapters/Chapter_21_Falling.md): User approved via review
 
 ### Preserved drafts and current candidate
 
@@ -92,7 +92,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_02_A_Familiar_Face_R1.md](drafts/Chapter_02_A_Familiar_Face_R1.md): required by FILE_CONTRACT drafts/Chapter_02_A_Familiar_Face_R1.md
 - [drafts/Chapter_03_The_Name_He_Feared_R2.md](drafts/Chapter_03_The_Name_He_Feared_R2.md): required by FILE_CONTRACT drafts/Chapter_03_The_Name_He_Feared_R2.md
 - [drafts/Chapter_03_What_Came_With_Us_R1.md](drafts/Chapter_03_What_Came_With_Us_R1.md): required by FILE_CONTRACT drafts/Chapter_03_What_Came_With_Us_R1.md
-- [drafts/Chapter_21_Falling_R3.md](drafts/Chapter_21_Falling_R3.md): adopted as Chapter 21 R1 full 2142w Red Kryptonite makes Kara so angry Adrian destroying city after parents death even though affected red sun completely shows strong willpower controlling
+- [drafts/Chapter_21_Falling_R3.md](drafts/Chapter_21_Falling_R3.md): adopted as Chapter 21 R3 natural
 
 Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 21, R3**; use its own coverage and review receipts. No revision is automatically accepted.
 

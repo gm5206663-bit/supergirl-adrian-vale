@@ -1,4 +1,4 @@
-# Chapter 16: Childish Things Part 1
+# Chapter 16: Childish Things
 
 The morning started with a yo-yo.
 
@@ -20,15 +20,15 @@ Winn walked in, saw the television, and went pale in a way Kara had never seen, 
 
 "It's nothing," he said, too fast, too loud for bullpen, too loud for 0900. "Prison break. Old news. Van Kell. Old news."
 
-Adrian was at his desk in the bullpen, hearing Winn's pen stop scratching. He could hear the heartbeat from across the room, a fast irregular thump, 110 BPM then 130 then 90, and the way Winn held his breath, and the way his chair squeaked when he shifted weight. He did not look up. Ordinary was a choice he made, built device himself because wanted ordinary, parents murdered mixed union Daxamites murdered parents over mixed union father Kryptonian influential house mother Daxamite collateral royal branch, city destruction genuine culpability, caught because exhausted, wanted ordinary. Part of ordinary was not staring when someone wanted to not be seen. He placed a file on Cat's desk, the chipped mug next to the theater mask magnet, and went back to typing, pen across room audible to Kara but not to others, because Kara's hearing after sun sees individual dust motes in Cat office from bullpen and hears Adrian pen across room and baseline higher.
+Adrian was at his desk in the bullpen, hearing Winn's pen stop scratching. He could hear the heartbeat from across the room, a fast irregular thump, 110 BPM then 130 then 90, and the way Winn held his breath, and the way his chair squeaked when he shifted weight. He did not look up. choice he made, built device himself because wanted ordinary, parents murdered mixed union Daxamites murdered parents over mixed union father Kryptonian influential house mother Daxamite collateral royal branch, city destruction genuine culpability, caught because exhausted, wanted ordinary. Part of ordinary was not staring when someone wanted to not be seen. He placed a file on Cat's desk, the mug next to the magnet, and went back to typing, pen audible to Kara but not to others, because Kara's hearing after sun sees individual dust motes in Cat office from bullpen and hears Adrian pen and baseline higher.
 
-Winn saw the mug, saw Adrian's hand place it back ordinary human-level, saw Kara's smile when Adrian handed her file, small different smile since sun since roof November cold since roof November cold, since Kara is with Adrian, since they leave together, since theater mask magnet, since Adrian texted hallway once before, and Winn's jaw tightened because he had known since sun, since chipped mug shared, since they leave together, since theater mask magnet, since Adrian placed mug back ordinary and Kara smiled different, that Kara is with Adrian, that Adrian is her boyfriend, that his best friend is with his crush, that his guy in the chair is dating his crush, and he bottled it like his father bottled, which is why his heartbeat was irregular now, which is why his pen stopped.
+Winn saw the mug, saw Adrian's hand place it back ordinary human-level, saw Kara's smile when Adrian handed her file, small different smile since sun since roof November cold since Ch12 kiss consensual agency romance_selection kara, since Kara is with Adrian, since they leave together, since magnet, since Adrian texted hallway once before, and Winn's jaw tightened because he had known since sun, since mug shared, since they leave together, since magnet, since Adrian placed mug back ordinary and Kara smiled different, that Kara is with Adrian, that Adrian is her boyfriend, that his best friend is with his crush, that his guy in the chair is dating his crush, and he bottled it like his father bottled, which is why his heartbeat was irregular now, which is why his pen stopped.
 
 Ten minutes later two people in dark suits arrived. FBI. Agent Cameron Chase, sharp eyes, sharper suit, the kind of person who had read every file before she walked into a room and still asked questions as if she had not, the kind of person who had been on Buffy once in another life as Anya but now was FBI and was here for Winn and had a gun and a badge and a file that was thicker than Winn's employee file.
 
 "Winn Schott Jr.," she said, voice that did not ask, told. "We need to ask you about your father."
 
-The bullpen went quiet, the kind of quiet CatCo gets when Cat is about to yell but Cat is not yet in, but her office door was open and the light was on and the chipped mug was on her desk next to theater mask magnet and James was at his desk with a contact sheet from toy convention that had not happened yet and Lucy was by the elevator with a resume folder because Cat had offered her a job the week before as lawyer and she was deciding and she had JD-MBA from Harvard and West Point degree and Cat likes women who have done things and 90 percent of CatCo companies are run by women.
+The bullpen went quiet, the kind of quiet CatCo gets when Cat is about to yell but Cat is not yet in, but her office door was open and the light was on and the mug was on her desk next to magnet and James was at his desk with a contact sheet from toy convention that had not happened yet and Lucy was by the elevator with a resume folder because Cat had offered her a job the week before as lawyer and she was deciding and she had JD-MBA from Harvard and West Point degree and Cat likes women who have done things and 90 percent of CatCo companies are run by women.
 
 James looked up, because he had known Winn for two years and had never heard him talk about his father, and because he knows Adrian is Wraith and will not tell Lucy private means private.
 
@@ -42,7 +42,6 @@ Winn's hands were fists on his desk, knuckles white, the kind of white that come
 
 "Why?" Chase asked, not unkindly, but directly, FBI direct.
 
-Winn looked at the desk, at the chipped mug that was not his, at the theater mask magnet, at the monitor that was angled away from the door because he had closed the private Wraith clips after Alex told him private means private and Winn had learned that some things are not for showing Cat, after James told him private means private, after Adrian placed mug back ordinary. Private monitor closed, no civilian disclosure, private means private, Winn private monitor closed angled away door sticky note DO NOT SHOW CAT YET.
 
 "Because he was my best friend," Winn said, voice that was eleven again. "When I was a kid he made toys. Not for money, for me. He made a robot that could walk and a doll that could say my name, Winn, my boy, my best creation. He worked for Chester Dunholtz at Schott Toys. Dunholtz stole his designs. All of them. The jumping jack that became a bestseller, the talking bear, the robot, everything. My dad was... he was not a brave man. He was cowardly. He bottled things up. He did not yell, he did not fight, he did not tell Dunholtz to stop stealing, he just... held it. And one day he snapped. He put a bomb in a teddy bear and mailed it to Dunholtz's office. A teddy bear bomb."
 
@@ -70,7 +69,7 @@ Kara was in the hallway, holding a file she did not need to hold, because she ha
 
 "I will be nearby," Kara said. "Not as... I will be nearby. As Kara. As friend."
 
-Adrian walked past with a stack of layouts for Cat, ordinary, human-level, band at wrist, chipped mug in hand even though he had just placed it back, because he had brought it to wash and then forgotten to leave it inside, brought to wash forgot to leave inside, ordinary. He caught Kara's eye for half a second, and she saw that he had heard too, because he could hear a pen across the room and therefore he could hear a doll's speaker through a wall, through two walls, because he is hybrid strong before stronger than Kara. He gave a tiny nod, not a plan, just an acknowledgment: I heard, I am here if needed, I will not make it a spectacle, I will place mug back ordinary, I trust you to handle, I know Winn knows you are with me and that makes this harder.
+Adrian walked past with a stack of layouts for Cat, ordinary, human-level, band at wrist, mug in hand even though he had just placed it back, because he had brought it to wash and then forgotten to leave it inside, brought to wash forgot to leave inside, ordinary. He caught Kara's eye for half a second, and she saw that he had heard too, because he could hear a pen across the room and therefore he could hear a doll's speaker through a wall, through two walls, because he is hybrid extraordinary before Fort Rozz. He gave a tiny nod, not a plan, just an acknowledgment: I heard, I am here if needed, I will not make it a spectacle, I will place mug back ordinary, I trust you to handle, I know Winn knows you are with me and that makes this harder.
 
 The arcade was exactly as creepy as an abandoned arcade should be when it has been abandoned for two years because the owner died and the city has not decided what to do with it. The lights were off but some machines were still plugged in, blinking, because no one had paid electric bill but no one had turned it off either. Robotic stuffed animals lined the walls, their eyes dark, stitching coming loose, fur matted. The Superman rocket ride outside was rusted, its red paint peeling, its blue seat faded, its coin slot jammed with a popsicle stick. The air smelled like brine and old popcorn and something sweet that had gone bad, like cotton candy left in sun.
 
@@ -98,7 +97,7 @@ The agents coughed, dropped to knees, masks not on fast enough because they had 
 
 Winn shouted, "Dad, no! Dad, stop! Not again! Not six more!"
 
-Kara was already moving. She had been outside as Kara Danvers, waiting by the rocket ride, pretending to be on a call, wearing a CatCo jacket that was too thin for November and that Adrian had offered her his jacket for but she had said no because she is Kryptonian and does not get cold except when she does. She stepped behind a dumpster that smelled like old fish, and the air bent for half a second where she changed, not a flash, just light folding, field bent light, ordinary choice to not be seen, private means private, no civilian disclosure.
+Kara was already moving. She had been outside as Kara Danvers, waiting by the rocket ride, pretending to be on a call, wearing a CatCo jacket that was too thin for November and that Adrian had offered her his jacket for but she had said no because she is Kryptonian and does not get cold except when she does. She stepped behind a dumpster that smelled like old fish, and the air bent for half a second where she changed, not a flash, just light folding, light, ordinary choice to not be seen, private means private, no civilian disclosure.
 
 Supergirl ripped through the arcade's side wall, not the door, the wall, because the door was blocked by gas and she did not want to push gas toward Winn and agents, because she had learned from Red Tornado that absorbing momentum and flight counter rotation matter, that you do not just punch wall, you absorb momentum so wall does not collapse on people. Proper superpowered, supersonic, absorbing momentum so wall did not collapse, so agents did not die from falling concrete.
 
@@ -106,7 +105,6 @@ She inhaled.
 
 It was not a small breath. Kryptonian lungs, filled with sun from the trip with Adrian where he had taken her above the atmosphere and held her hand while her cells drank light and remembered to overcompensate, baseline higher temporarily then settles higher than before cells remember overcompensate, could hold a gymnasium of air, could hold a swimming pool of air. She took in the entire cloud, every molecule of poison, in one vast vacuum breath that pulled posters off walls and made the stuffed animals collapse inward and made Winn's hair fly back and made Agent Chase's hat fly off and made the Superman rocket ride outside rattle.
 
-Then she shot straight up, through the roof she had not made hole in yet, she made hole now, through the roof, through the sky, past the cloud layer, past where commercial flights go, past where satellites go, and exhaled, slow, controlled, dispersing gas in upper atmosphere, harmless, thin, gone, no ticker just sky, just sky, just wind.
 
 She landed back in the arcade, boots soft on broken glass, cape not even dusty because she had flown so fast dust did not have time to settle, and looked at Winn, and at Agent Chase who was on knees coughing but alive.
 
@@ -118,9 +116,9 @@ Winn was on the floor, coughing, eyes wet, eleven and thirty. "He was not even h
 
 Agent Chase was on her radio, calling for hazmat, for backup, for a perimeter, for a medal for Supergirl that Supergirl would not take. She looked at Supergirl with something like awe and something like suspicion, because FBI always has suspicion. "How did you— how did you know to be here?"
 
-"I was nearby," Supergirl said, which was true, because nearby is relative when you can hear pen across room, when you can hear heartbeat irregular from three miles, when you can hear doll speaker through two walls. She left before more questions could be asked, through the hole she had made, not the door, because she did not want to be seen leaving, because private means private, because field bent light.
+"I was nearby," Supergirl said, which was true, because nearby is relative when you can hear pen, when you can hear heartbeat irregular from three miles, when you can hear doll speaker through two walls. She left before more questions could be asked, through the hole she had made, not the door, because she did not want to be seen leaving, because private means private, because light.
 
-At CatCo, Adrian had placed the chipped mug back on the counter, next to theater mask magnet, next to Evelyn's niece's magnet, next to Cat's coffee that was always too hot. He had heard the gas alarm from three miles away? No, he had not, because he was choosing ordinary today, because ordinary was choice he made, because he trusts Kara to handle gas, because he knows baseline higher. He had simply been at his desk, working, ordinary, laying out Cat's editorial about Wraith naming, and when Kara came back twenty minutes later, hair a little windblown, jacket a little dusty, he did not ask where she had been. He handed her a file she had dropped, file that had fallen when she had rushed out as Kara Danvers.
+At CatCo, Adrian had placed the mug back on the counter, next to magnet, next to Evelyn's niece's magnet, next to Cat's coffee that was always too hot. He had heard the gas alarm from three miles away? No, he had not, because he was choosing ordinary today, because ordinary was choice he made, because he trusts Kara to handle gas, because he knows baseline higher. He had simply been at his desk, working, ordinary, laying out Cat's editorial about Wraith naming, and when Kara came back twenty minutes later, hair a little windblown, jacket a little dusty, he did not ask where she had been. He handed her a file she had dropped, file that had fallen when she had rushed out as Kara Danvers.
 
 "Thanks," she said, and her smile was different, tired, Winn tired.
 
@@ -132,7 +130,7 @@ He typed: Schott Toys factory, abandoned, National City Industrial, SlingSchott,
 
 He sent it to Kara, not to the FBI, not to Agent Chase, because he trusted Kara more than he trusted FBI, because Kara had breathed poison gas for him, because Kara is his best friend even though she is with Adrian.
 
-Kara read it, nodded at Adrian across the bullpen, who had heard Winn's typing from across the room, 60 WPM then 90 WPM then 30 WPM, and had not looked up, ordinary, pen across room.
+Kara read it, nodded at Adrian across the bullpen, who had heard Winn's typing from across the room, 60 WPM then 90 WPM then 30 WPM, and had not looked up, ordinary, pen.
 
 Adrian gave tiny nod: I heard, hallway? No, factory.
 
@@ -142,9 +140,9 @@ Winn nodded, not looking up, because he knew Kara is with Adrian and Adrian is w
 
 There would be another headline tomorrow. Tonight there was a yo-yo blade, a doll that laughed too long, a gas that was breathed and dispersed in sky, and a door that was walked through in Lord Industries that had not happened yet but would tonight.
 
-Adrian placed the chipped mug back on the desk next to the theater mask magnet, and went back to work, ordinary, human-level, as if he had not heard any of it, as if he had not known Winn knows they are together and that makes everything harder.
+Adrian placed the mug back on the desk next to the magnet, and went back to work, ordinary, human-level, as if he had not heard any of it, as if he had not known Winn knows they are together and that makes everything harder.
 
-Kara at her desk typing fingers not ache because baseline higher after sun, vision seeing individual dust motes in Cat's office from bullpen, hearing Adrian's pen across the room, ordinary was a choice he made and he chose to share sun with her and to text hallway when friend needed help and to place mug back ordinary.
+Kara at her desk typing fingers not ache because baseline higher after sun, vision seeing individual dust motes in Cat's office from bullpen, hearing Adrian's pen across the room, choice he made and he chose to share sun with her and to text hallway when friend needed help and to place mug back ordinary.
 
 Tonight there was space given, and a secret kept, and a secret learned, and ordinary work, and a father who was hologram.
 
