@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 805c468a3e72ca0b6634b6d3d25ef8a29e69b1d458b2d96e398af93485723654 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: c9e49ab84eeba9e1b363e85893e5fa835827d918fba44fe06467b1debb198c47 -->
 
 # Supergirl — Adrian Vale
 
@@ -7,8 +7,8 @@
 This is the local, GitHub-ready working project—not another generic DC questionnaire kit. It records the author's chosen Supergirl premise, foundations, original draft, canon research, state and executable checks.
 
 **Epoch:** v1 · **Revision:** foundation-021  
-**Accepted chapter edge:** 17 · **Next chapter:** 18  
-**Phase:** chapter-17-adopted-complete-clean-check-everything-70341w
+**Accepted chapter edge:** 19 · **Next chapter:** 20  
+**Phase:** chapter-19-adopted-strange-visitor-part2-adam-bizarro-2480w-full
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -61,6 +61,8 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Blood Bonds 2957w proper prose full not rushing per user 3000+ request
 - [Chapter 16](chapters/Chapter_16_Childish_Things.md): audits/CONTINUATION_Chapter_16.md — Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing 4127w complete clean no ticker no Cat private proper fights natural butterfly
 - [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss 6835w complete serious rebuild everything fixed
+- [Chapter 18](chapters/Chapter_18_Strange_Visitor_Part1.md): audits/CONTINUATION_Chapter_18.md — Strange Visitor Part1 White Martian 2556w full not rushing
+- [Chapter 19](chapters/Chapter_19_Strange_Visitor_Part2.md): audits/CONTINUATION_Chapter_19.md — Strange Visitor Part2 Adam Bizarro 2480w full not rushing
 
 ### Preserved drafts and current candidate
 
@@ -102,8 +104,10 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_17_Childish_Things_Part2_R4.md](drafts/Chapter_17_Childish_Things_Part2_R4.md): adopted as Chapter 17 R4 full 6835w complete serious rebuild everything fixed not just kiss
 - [drafts/Chapter_12_The_Kiss_R6.md](drafts/Chapter_12_The_Kiss_R6.md): adopted as Chapter 12 R6 full 4137w complete clean no ticker no Cat private proper fights natural butterfly
 - [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md): adopted as Chapter 16 R5 full 4127w complete clean no ticker no Cat private proper fights natural butterfly
+- [drafts/Chapter_18_Strange_Visitor_Part1_R1.md](drafts/Chapter_18_Strange_Visitor_Part1_R1.md): adopted as Chapter 18 R1 full 2556w not rushing S01E11 Strange Visitor Part1 White Martian
+- [drafts/Chapter_19_Strange_Visitor_Part2_R1.md](drafts/Chapter_19_Strange_Visitor_Part2_R1.md): adopted as Chapter 19 R1 full 2480w not rushing S01E11 Strange Visitor Part2 Adam Bizarro
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 16, R5**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 19, R1**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -111,7 +115,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 16
+python3 tools/verify.py --ship 19
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.
