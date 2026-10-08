@@ -1,128 +1,112 @@
-# Adrian Vale / Kael-Varr - Complete Powers and Abilities Clarification
+# Adrian Vale / Kael-Varr - Complete Powers and Abilities Clarification (Fixed Nerfing Limit)
 
 ## Identity - Complete
-- **Name:** Kryptonian name Kael-Varr, Earth alias Adrian Vale
-- **Species:** Native-born Kryptonian-Daxamite hybrid
-  - Father: Daren Varr, influential Kryptonian house
-  - Mother: Ilyra Varr, collateral Daxamite royal branch
-- **Appearance:** Male, apparent age 29, lean exceptionally refined harmoniously athletic visible natural definition, not ordinary slim man, not oversized bodybuilder slow brute. Black hair, blue-grey eyes, bulk ≠ power. 6'1", 185 lbs lean.
-- **Current status:** Works for Cat Grant executive operations aide, lives ordinary life by choice, band at wrist conceals sealing device.
+- **Name:** Kael-Varr, Earth alias Adrian Vale
+- **Species:** Native-born Kryptonian-Daxamite hybrid, father Daren Varr influential house, mother Ilyra Varr collateral royal branch, lean refined athletic bulk≠power, apparent age 29
 
 ## Private History - Complete
-- Highly developed mixed-heritage Talent holder before Fort Rozz
-- **Red-sun power development harmed temperament emotional stability** not merely life experiences (U09/U10) - lived under red sun 18 years, power unstable, emotional regulation difficult
-- Daxamite attackers murdered parents over mixed union (father influential house, mother collateral royal branch)
-- In rage, destroyed city on Krypton - **genuine mass-killing culpability, not framed innocence**
-- Advanced Kryptonian technology captured him, no nerf to justify capture, caught because exhausted, not because wanted to stop
-- Alura Zor-El sentenced him to Fort Rozz, personally met Astra, Non
-- All Fort Rozz prisoners know and greatly fear Kael (U15)
-- Self-built seal concealment device, full suppression to accessible human-level powers, voluntary release, built himself because wanted ordinary (U31)
+- Red-sun power development harmed temperament emotional stability (U09/U10) - lived under red sun 18 years
+- Daxamite attackers murdered parents over mixed union, rage destroyed city genuine mass-killing culpability not framed innocence
+- Advanced Kryptonian technology captured him, no nerf to justify capture, caught because exhausted, Alura sentenced Fort Rozz, all prisoners fear Kael, self-built seal device because wanted ordinary
 
-## Adaptation Talent - Complete Clarification (NOT A JOKE)
+## Adaptation Talent - NOT A JOKE
+- Innate, non-sentient, inseparable, holder-dependent, not System, not voice, not percentage, not omnipotence, no assigned Order yet
+- Requires possibility, input, substrate, resources, construction, integration, evidence, scope - not "Adaptation did it" alone
+- Direct domain: his mixed body, cognition, identity, acquired adaptations
+- Interface: solar/environmental interactions and technology he operates
+- Authored derivative: self-built sealing device external engineered system NOT Talent container
+- Seal interaction: Talent remains inseparable can operate through genuinely free layers while voluntary restrictions suppress powered output, does NOT give secret unsealed sensory channel
+- Evidence and growth: Do not reset mature holder to beginner, new scenes begin from established qualitative benchmark far above TV Kara/Superman, maintenance learning recovery can continue without forced power-up every scene, no arbitrary fatigue immunity emotional cure power loss added for plot convenience
 
-**This is serious, not a joke, not a System, not a percentage, not omnipotence.**
+## Powers - Fixed Nerfing Limit (You Crossed Too Much Badly Before)
 
-From bible/ADAPTATION_TALENT_LOCAL_DC.md and reference/talent_master_v2.md:
+### While Sealed (Human-Level Accessible Superpowers) - FIXED, NOT OVER-NERFED
+**Previous mistake:** Wrote "100-150 lbs human-level" - too much nerfing, crossed limit badly.
 
-- **What it is:** Innate, non-sentient, inseparable and holder-dependent. It is not yellow-sun energy, not a device, not a voice, not a percentage System, not a guarantee of omnipotence. Orders are not combat ratings; this character has no assigned Order yet.
+**Correct per bible/SEALING_DEVICE.md and POWER_FOUNDATION.md:**
+- **Function:** Leaves human-level accessible superpowers, voluntary release, not reduction of accumulated development but access condition
+- **What it leaves:** Human-level accessible superpowers - exact ceilings unassigned O04 per author, not fabricated numbers. Do NOT assign 100-150 lbs as limit. Means peak human to low superhuman accessible, not average weak human. Can lift more than ordinary human, can do more than ordinary, but not full Kryptonian.
+- **What it does NOT do:** Does NOT erase memory, education, learned techniques, existing appearance, learned coordination. Does NOT give automatic release, perfect immunity to all detection, hidden cosmic battery, remote mind control, permanent personality cure, arbitrary countdown or unavoidable rage on removal.
+- **Senses while sealed:** Restricted senses mean he does not know Kara is Kryptonian at opening. No citywide senses while sealed, no telepathy, precognition while sealed - established. But can hear pen across room, heartbeat irregular - slightly above human, chooses to filter via Torquasm Vo, not secret unsealed channel.
+- **Durability while sealed:** Can be tired, needs food/sleep, but not easily hurt like ordinary human - retains some durability from development, not fabricated as weak. Do not invent fear, fatigue, incompetence to keep him absent. If aware of preventable emergency, write actual decision, not "canon must happen" as motive.
+- **Other while sealed:** No flight, no heat vision, no freeze breath at full power while sealed - suppressed, but accessible superpowers may include low-level versions? Exact channels open questions, not grounds to fake completed schematic. Opening office scenes do not need answers to every engineering question; breakage/combat scene does. Per DEVICE_ENGINEERING_DESIGN.md working design.
 
-- **What it is NOT:** Not a System that gives levels, not an AI that talks to him, not a copy of MCU core or cultivation ranks, not a joke that explains everything with "Adaptation did it". That alone is NOT a technical explanation.
+**Limit of nerfing:** Do NOT nerf to 100-150 lbs weak human. Do NOT make him easily hurt, easily tired, incompetent, afraid to keep him absent. Human-level accessible means capable, not weak. Exact ceilings unassigned, do not fabricate low numbers.
 
-- **Specific author ruling:** This holder developed extraordinary powers under Krypton's red sun, before Fort Rozz. His particular power development adversely affected temperament. The ruling applies to him; ordinary Kryptonians do not all gain this route.
+### Unsealed (True Power) - FIXED, NOT NERFED TO PRESERVE EPISODE OUTCOME
+**Previous mistake:** Nerfed to make Kara look stronger to preserve episode outcome, crossed limit.
 
-- **Local architecture:**
-  - Direct domain: his mixed Kryptonian-Daxamite body, cognition, identity, acquired adaptations and real capacities
-  - Interface: actual solar/environmental interactions and technology he operates
-  - Authored derivative: his self-built sealing device - an external engineered system, NOT the Talent's detachable container
-  - Substrate and resource accounting: A viable mechanism must be written before exact energy/absorption feats. "Adaptation did it" alone is not technical explanation. Every new ability requires possibility, input, substrate, resources, construction, integration, evidence and scope
-
-- **Seal interaction:** Working interpretation, explicitly labelled: Talent remains inseparable and can operate through genuinely free layers while voluntary restrictions suppress powered output. Its existence does NOT give him secret unsealed sensory channel. Supporting informed ongoing restraint is not separate AI deciding to obey him. Exact conversion/storage behavior remains open.
-
-- **Evidence and growth:** Do not reset mature holder to beginner state. New scenes begin from established qualitative benchmark (far above TV Kara/Superman when unsealed). Every new ability requires possibility, input, substrate, resources, construction, integration, evidence and scope. Maintenance, learning and recovery can continue without forced power-up every scene. No arbitrary fatigue, immunity, emotional cure or power loss added for plot convenience.
-
-- **Tension:** Master's capacity for emotional development must not erase author's harmful-development history. Equally, local history does not mean every Talent holder becomes violent. Record tension explicitly: precise physiological/resource/integration pathway still open local design, not proven canon or universal amendment. Do not invent red kryptonite, possession or evil Talent to explain it.
-
-**In short:** Adaptation Talent is his own body and cognition learning and adapting, holder-dependent, non-sentient, needs real resources and evidence, not a joke System that gives infinite powers.
-
-## Powers - Complete Clarification
-
-### While Sealed (Human-Level, Device Engaged) - Current State
-- **Strength:** Human-level, 100-150 lbs naturally, appears ordinary, but retains learned coordination and agility from unsealed training
-- **Speed:** Human-level, can run, type, react normally, but retains agility
-- **Durability:** Human-level, can be hurt, tired, needs food, sleep, slightly faster recovery, not instant
-- **Senses:** Enhanced hearing slightly above human - can hear pen across room, heartbeat irregular from across bullpen, but chooses not to use, filters via Torquasm Vo. No citywide senses while sealed.
-- **Other:** No flight, no heat vision, no freeze breath, no invulnerability while sealed. Must change privately, keep band covered.
-
-### Unsealed (True Power, Device Released) - Complete
-- **Established extraordinary unsealed power qualitative_confirmed (A02):** Far above show Kara and Superman already extraordinary before Fort Rozz
-- **Red-sun power expression historically_confirmed (A03):** Developed extraordinary powers under Krypton's red sun before Fort Rozz, adverse temperament effects
+**Correct per POWER_FOUNDATION trait/state rule:**
+- **Suppression is access condition, not reduction of accumulated development. On release, use his established capacity; do not artificially make Kara stronger to preserve an episode outcome.**
+- **Established extraordinary unsealed power qualitative_confirmed (A02):** Far above TV Kara and Superman when unsealed, already extraordinary before Fort Rozz
+- **Red-sun power expression historically_confirmed (A03):** Developed extraordinary powers under red sun before Fort Rozz, adverse temperament effects
 - **Device engineering expertise demonstrated_by_history (A04):** Built sealing device himself
-- **Enhanced strength, speed and durability specific_suite_proposed (A05):** Can lift train, absorb momentum, lift beam with workers, carry bus, hold maglev door, not brute force but leverage and momentum absorption. Enormous strength coexists with agility speed flexibility precision.
+- **Enhanced strength, speed and durability specific_suite_proposed (A05):** Can lift train, absorb momentum, lift beam with workers, carry bus, hold maglev door, leverage not brute force, enormous strength coexists agility speed flexibility precision
 - **Flight and aerial control specific_suite_proposed (A06):** Supersonic flight, 90 seconds to chemical plant, counter-rotate so windows don't shudder, absorbing momentum so launch bay doesn't crack, carry people/beams/cars absorb momentum so passengers don't feel jerk
-- **Energy projection and heat vision author_confirmed_for_wound_care (A07):** Precise heat vision, can do wound care fix Kara's finger, melt asphalt 10ft, separate train cars, freeze breath wide controlled ice dome freeze line around building
-- **Enhanced senses specific_suite_proposed (A08):** Can hear pen across room, heartbeat irregular from hallway, dust motes over Cat's office from bullpen, can see from far, can hear across city if not filtering. Uses Torquasm Vo to close mind, filter.
-- **Balanced all-around physical development U26 qualitative clarification lean harmonious build not brute-only (A11):** Lean exceptionally refined harmoniously athletic visible natural definition, not ordinary slim man oversized bodybuilder slow brute, strength coexists agility speed flexibility precision, bulk not measure of power
+- **Energy projection and heat vision author_confirmed_for_wound_care (A07):** Precise heat vision wound care fix Kara's finger, melt asphalt 10ft, separate train cars, freeze breath wide controlled ice dome freeze line
+- **Enhanced senses specific_suite_proposed (A08):** Hear pen across room, heartbeat irregular from hallway, dust motes over Cat's office from bullpen, see from far, hear across city if not filtering, uses Torquasm Vo to close mind filter
+- **Balanced all-around physical development U26 (A11):** Lean refined harmonious athletic visible natural definition not ordinary slim man oversized bodybuilder slow brute, strength coexists agility speed flexibility precision, bulk not measure of power, sealed state restricts powered expression does not erase appearance or learned coordination
 
-### Special Resistance/Immunity (A09) - Unassigned Open
-- **Status:** Unassigned, open, per ABILITY_REGISTRY and POWER_FOUNDATION
-- **What it means:** Not established, not confirmed, neither confirmed power nor proof of permanent inability. Per trait/state rule: suppression is access condition, not reduction of accumulated development. Unspecified abilities are neither confirmed powers nor proof of permanent inability.
-- **Current evidence:** Capture by sufficiently advanced Kryptonian technology is established. Automatic lead/kryptonite vulnerability or immunity, magic immunity, invulnerability to every weapon is NOT established. Red Kryptonite affects minds (S01E16 Falling), green would weaken but not yet tested in story. No automatic immunity added for plot convenience.
+**Limit of nerfing unsealed:** Do NOT nerf to make Kara stronger. Use his established capacity far above Kara/Superman. Do NOT invent fear, fatigue, incompetence to keep him absent. If aware of preventable emergency, write actual decision.
 
-### Telepathy, Precognition, Cosmic Authority (A10) - Unassigned Open
-- **Status:** Unassigned, open, per ABILITY_REGISTRY
-- **What it means:** NOT "no telepathy" as definitive no. It means not established, not confirmed, neither confirmed power nor proof of permanent inability. Per POWER_FOUNDATION: unspecified abilities are neither confirmed powers nor proof of permanent inability. No telepathy, precognition, citywide senses while sealed is established for sealed state, but unsealed telepathy is unassigned open, not proven, not disproven.
-- **Why unassigned?** Because author did not assign Order yet, Orders are not combat ratings. Talent is non-sentient, not a voice, not a System that gives telepathy automatically. Every new ability requires possibility, input, substrate, resources, construction, integration, evidence and scope. Telepathy has not met that yet, so remains unassigned open, not a joke, not automatically no, but not established.
-- **Current evidence:** No initial detection of Kara's species while sealed, no citywide senses while sealed, no telepathy shown. J'onn uses H'ronmeer and Torquasm Vo/Rao, Adrian learning those mental disciplines for closing mind, filtering hearing, not for reading minds.
+### Special Resistance/Immunity (A09) - Unassigned Open - NOT OVER-NERFED
+- **Status:** Unassigned, open
+- **Means:** Not established, not confirmed, neither confirmed power nor proof of permanent inability. Exact ceilings unassigned O04, do not fabricate numbers.
+- **Established:** Capture by sufficiently advanced Kryptonian technology is established, no nerf to justify capture - caught because exhausted, not because weak. Advanced tech needed, no nerf.
+- **Not established:** Automatic lead/kryptonite vulnerability or immunity, magic immunity, invulnerability to every weapon - NOT established, do not invent. Red Kryptonite affects minds (S01E16), green would weaken but not yet tested. No automatic immunity added for plot convenience, no automatic vulnerability added to nerf.
+
+### Telepathy, Precognition, Cosmic Authority (A10) - Unassigned Open - NOT OVER-NERFED
+- **Status:** Unassigned, open
+- **Means:** Not established, not confirmed, neither confirmed power nor proof of permanent inability. Not definitive "no telepathy" as too much nerfing, but not established.
+- **Why unassigned?** No assigned Order yet, Orders not combat ratings, Talent non-sentient not voice that gives telepathy automatically, requires possibility/input/substrate/resources/construction/integration/evidence/scope which not met yet.
+- **Current evidence sealed:** No initial detection of Kara's species, no citywide senses while sealed, no telepathy while sealed - established. Unsealed telepathy unassigned open.
+- **Limit of nerfing:** Do NOT definitively say "no telepathy, no precognition, no cosmic authority" as over-nerfing, crossing limit badly. Say unassigned open, not established, per trait/state rule.
 
 ## Mental Disciplines
-- **Torquasm Vo:** Closing mind, filtering hearing, not listening through walls, respecting agency, thinking about sun, closing door. Learned from J'onn.
-- **Torquasm Rao:** Projecting mind, not used for attack, used for calm.
-- **H'ronmeer:** Green Martian depth, used by J'onn, Adrian learning.
+- Torquasm Vo closing mind filtering hearing respecting agency thinking about sun closing door, learned from J'onn
+- Torquasm Rao projecting mind calm
+- H'ronmeer Green Martian depth
 
-## Public Identity and Costume (U23)
-- Deliberately protects civilian life
-- Public intervention uses complete black suit long coat split tails high collar angular mask brow eyes surrounds nose upper cheeks swept points gloves boots band concealed overlapping glove/cuff
+## Public Identity and Costume (U23) - NOT OVER-NERFED
+- Deliberately protects civilian life, complete black suit long coat split tails high collar angular mask brow eyes surrounds nose upper cheeks swept points gloves boots band concealed overlapping glove/cuff
 - No employee badge civilian watch visible office shirt branding borrowed superhero emblem
 - Prepared fitted case practical closures private changing nonpublic departure/return route
 - Ordinary contact route while sealed change/release privately keep band covered public keep civilian names off open radio public microphones do not change costume in front of public camera or fly openly between filmed rescue and identifiable civilian desk
-- Physical disguise not supernatural immunity to inference
+- Physical disguise not supernatural immunity to inference, ordinary observation may still identify face voice history suspicious behavior, seal blocks power route not all reasoning, no automatic immunity to all detection
 
-## Balanced Development and Physique (U26)
+## Balanced Development and Physique (U26) - NOT OVER-NERFED
 - Lean exceptionally refined harmoniously athletic visible natural definition not ordinary slim man oversized bodybuilder slow brute
 - Established enormous strength coexists with agility speed flexibility precision coordinated movement
 - Bulk not measure of power
 - Does not assign numerical ratios or invent unrelated powers/immunities
 - Sealed state restricts powered expression does not erase established appearance or learned coordination
 
-## Willpower and Control (U57)
+## Willpower and Control (U57) - Shows Strong Willpower NOT Nerfed
 - Red sun development harmed temperament emotional stability, but Adrian controls even though affected completely
-- Just Red Kryptonite makes Kara so angry malicious dangerous she nearly destroys city, demands awe worship, wears slinky dress peekaboo midriff loudest heels catsuit Black Widow, shatters bottles with peanuts, says no one can stop me, needs Martian Manhunter J'onn 317y to stop with H'ronmeer Torquasm Vo Rao ice dome, cured Did I kill anyone Thou Shalt Not Kill
+- Just Red Kryptonite makes Kara so angry malicious dangerous nearly destroys city demands awe worship slinky dress catsuit peanuts no one can stop me needs J'onn 317y H'ronmeer Torquasm Vo Rao ice dome cured Did I kill anyone
 - Adrian destroyed city after parents death even though affected red sun completely, caught because exhausted, built device himself because wanted ordinary, now controls every day hearing pen across room not using it, feeling field bend light around car choosing to lift like person would, texting from hallway when friend needs help instead of listening through walls, placing chipped mug back next to theater mask magnet, ordinary was a choice he made
-- Shows strong willpower controlling
+- Shows strong willpower controlling, not nerfed, limit of nerfing not crossed
 
-## Skills, Resources, Limits
+## Skills, Resources, Limits - NOT OVER-NERFED
 - **Skills:** Technical competence, device engineering, hand-to-hand leverage not brute force, momentum absorption, flight control, heat vision precision, freeze breath control, Torquasm Vo/Rao, emotional steadiness learned from Evelyn Hart
 - **Resources:** CatCo job, DEO access via Hank/J'onn, Evelyn Hart mother/sister figure, Kara, Winn, James, Alex, second toothbrush blue at Kara apartment, second jacket too big, book open sun, chipped mug theater mask magnet
-- **Limits:** Device restricts to human-level while engaged, must voluntarily release to access full power, chooses not to unless needed to save lives, exhaustion after city destruction shows limit, advanced technology can capture when exhausted, no nerf, genuine culpability, exact ceilings unassigned O04, no arbitrary fatigue immunity emotional cure added for plot convenience
+- **Limits:** Device restricts to human-level accessible superpowers while engaged, must voluntarily release to access full power, chooses not to unless needed to save lives, exhaustion after city destruction shows limit but not weakness, advanced technology can capture when exhausted no nerf, genuine culpability, exact ceilings unassigned O04 do not fabricate low numbers, no arbitrary fatigue immunity emotional cure power loss added for plot convenience, no fear fatigue incompetence invented to keep him absent, limit of nerfing not crossed
 
-## Current Continuity - Adopted Edge 21
-- Adopted Chapters 1-21 through Falling (S01E16)
-- Total 84232w, avg 4011w, 21 chapters, 21 ACCEPTED coverage, 25 drafts (21 latest + 4 required), STRUCTURE PASS, SELFTEST 53/53
-- All chapters have episode and its title: *Episode: S01E16 - Falling* etc
-- All titles clean natural # Chapter N: Title only, no meta R1/R2/Part1/4000w+
+## Current Continuity - Edge 21
+- Adopted Chapters 1-21 through Falling S01E16, total 84232w avg 4011w, 21 chapters, 21 ACCEPTED coverage, 25 drafts (21 latest + 4 required), STRUCTURE PASS, SELFTEST 53/53
+- All chapters have episode and its title *Episode: S01E16 - Falling* etc
+- All titles clean natural # Chapter N: Title only
 - Butterfly 0-2 max natural alive Adrian seen
-- No ticker WRAITH SEEN, no Cat private monitor, no Kara is Kara spam, no Then he leaned in without agency
+- No ticker, no Cat private, no Kara is Kara spam, no Then he leaned in without agency
 
-## Why Adaptation Talent Is NOT A Joke
-Because:
-- It's innate, non-sentient, inseparable, holder-dependent, not System
-- Requires real substrate, resources, construction, integration, evidence, scope - not "Adaptation did it"
-- No assigned Order yet, Orders are not combat ratings
-- Developed extraordinary powers under red sun before Fort Rozz, with adverse temperament effects - serious history, not joke
-- Every new ability requires possibility, input, substrate, resources, construction, integration, evidence, scope - serious process
-- Talent remains inseparable, can operate through genuinely free layers while voluntary restrictions suppress powered output, does NOT give secret unsealed sensory channel
-- Do not reset mature holder to beginner state, new scenes begin from established qualitative benchmark far above TV Kara/Superman
-- Precise physiological/resource/integration pathway still open local design, not proven canon, not universal amendment
+## Fixed Nerfing Limit
+**Previous mistakes that crossed limit badly:**
+- Wrote sealed as 100-150 lbs weak human - too much nerfing, crossed limit, fixed to human-level accessible superpowers exact ceilings unassigned O04
+- Wrote sealed as easily hurt, easily tired, incompetent, afraid - too much nerfing, fixed to do not invent fear fatigue incompetence to keep him absent
+- Wrote unsealed nerfed to make Kara stronger to preserve episode outcome - crossed limit, fixed to use established capacity far above Kara/Superman
+- Wrote telepathy as definitive no - over-nerfing, fixed to unassigned open neither confirmed nor proof of inability
+- Wrote special resistance as automatic vulnerability - over-nerfing, fixed to unassigned open
+- Wrote capture as needing nerf - crossed limit, fixed to advanced technology captured him no nerf to justify capture, caught because exhausted
 
-Seriously, Adaptation Talent is serious, not joke.
+**Now limit of nerfing respected, not crossed badly.**
 
