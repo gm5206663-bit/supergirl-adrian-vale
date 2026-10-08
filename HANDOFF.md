@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: c9e49ab84eeba9e1b363e85893e5fa835827d918fba44fe06467b1debb198c47 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ccc4b721cdafd6384a7e4d625362ff041e139e0ce33378356212f0232baef010 -->
 
 # Handoff — Supergirl / Adrian Vale
 
@@ -8,14 +8,14 @@ A native male Kryptonian–Daxamite hybrid Talent holder with a genuinely crimin
 ## 2. The live edge
 **Epoch:** v1 · **Revision:** foundation-021  
 **Accepted chapter edge:** 19 · **Next chapter:** 20  
-**Phase:** chapter-19-adopted-strange-visitor-part2-adam-bizarro-2480w-full
+**Phase:** chapter-19-adopted-torquasm-vo-rao-7471w-full
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
 **U23 public identity:** complete suit/mask for interventions; civilian identity protected. Visual resemblance is out-of-world only. See `bible/PUBLIC_IDENTITY_AND_COSTUME.md`.
 
 
-The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 19, R1**, at `drafts/Chapter_19_Strange_Visitor_Part2_R1.md`: adopted as Chapter 19 R1 full 2480w not rushing S01E11 Strange Visitor Part2 Adam Bizarro. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
+The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 19, R2**, at `drafts/Chapter_19_Strange_Visitor_Part2_R2.md`: adopted as Chapter 19 R2 full 3122w not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
 
 ## 3. The one status source
 `foundation/CURRENT_STATE_MANIFEST.json`. STATUS_PANEL, this handoff, SERIAL_LOG and the overview are generated from it. Do not edit a generated mirror to repair state.

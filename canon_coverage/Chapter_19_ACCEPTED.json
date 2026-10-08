@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 19,
-  "revision": "R1",
+  "revision": "R2",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_19_Strange_Visitor_Part2_R1.md",
-  "draft_sha256": "9e987c859a8ffde399fbe6ee5141b21e8ccdfc9e2fe8bba12f130d9834545ae5",
+  "draft_path": "drafts/Chapter_19_Strange_Visitor_Part2_R2.md",
+  "draft_sha256": "564a69b2e6b1737adffd26b8a0f6a1884a37cbf8789e5407becf3c78c51bbde0",
   "accepted": true,
   "claimed_episode": "S01E11 Strange Visitor From Another Planet Part2",
   "span": "Strange Visitor Part2 Adam Bizarro full 3000+ natural butterfly",
@@ -140,30 +140,30 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_19_R1_REVIEW.md",
-      "sha256": "e4e0c51ce7cf4e6344c52f544c5ed8c3b62758379960b5fc54b4a1a704be2349"
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
     },
     "continuity": {
-      "path": "audits/CHAPTER_19_R1_REVIEW.md",
-      "sha256": "e4e0c51ce7cf4e6344c52f544c5ed8c3b62758379960b5fc54b4a1a704be2349"
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
     },
     "power": {
-      "path": "audits/CHAPTER_19_R1_REVIEW.md",
-      "sha256": "e4e0c51ce7cf4e6344c52f544c5ed8c3b62758379960b5fc54b4a1a704be2349"
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_19_R1_REVIEW.md",
-      "sha256": "e4e0c51ce7cf4e6344c52f544c5ed8c3b62758379960b5fc54b4a1a704be2349"
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
     },
     "prose": {
-      "path": "audits/CHAPTER_19_R1_REVIEW.md",
-      "sha256": "e4e0c51ce7cf4e6344c52f544c5ed8c3b62758379960b5fc54b4a1a704be2349"
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
     }
   },
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Full 2480w proper prose not rushing split natural S01E11 Strange Visitor Part2 Adam Bizarro",
+  "notes": "Full 3122w proper prose not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao Kryptonian Mental Martial Arts Adrian thought Kara before White Martian",
   "format_revision": 1,
   "heading": {
     "season": 1,

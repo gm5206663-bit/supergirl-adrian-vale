@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: c9e49ab84eeba9e1b363e85893e5fa835827d918fba44fe06467b1debb198c47 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ccc4b721cdafd6384a7e4d625362ff041e139e0ce33378356212f0232baef010 -->
 
 # Supergirl — Adrian Vale
 
@@ -8,7 +8,7 @@ This is the local, GitHub-ready working project—not another generic DC questio
 
 **Epoch:** v1 · **Revision:** foundation-021  
 **Accepted chapter edge:** 19 · **Next chapter:** 20  
-**Phase:** chapter-19-adopted-strange-visitor-part2-adam-bizarro-2480w-full
+**Phase:** chapter-19-adopted-torquasm-vo-rao-7471w-full
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -61,8 +61,8 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Blood Bonds 2957w proper prose full not rushing per user 3000+ request
 - [Chapter 16](chapters/Chapter_16_Childish_Things.md): audits/CONTINUATION_Chapter_16.md — Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing 4127w complete clean no ticker no Cat private proper fights natural butterfly
 - [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss 6835w complete serious rebuild everything fixed
-- [Chapter 18](chapters/Chapter_18_Strange_Visitor_Part1.md): audits/CONTINUATION_Chapter_18.md — Strange Visitor Part1 White Martian 2556w full not rushing
-- [Chapter 19](chapters/Chapter_19_Strange_Visitor_Part2.md): audits/CONTINUATION_Chapter_19.md — Strange Visitor Part2 Adam Bizarro 2480w full not rushing
+- [Chapter 18](chapters/Chapter_18_Strange_Visitor_Part1.md): audits/CONTINUATION_Chapter_18.md — Strange Visitor Part1 White Martian + Torquasm Vo Rao 3665w full not rushing Torquasm Vo Rao
+- [Chapter 19](chapters/Chapter_19_Strange_Visitor_Part2.md): audits/CONTINUATION_Chapter_19.md — Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao 3122w full not rushing Torquasm Vo Rao
 
 ### Preserved drafts and current candidate
 
@@ -106,8 +106,10 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md): adopted as Chapter 16 R5 full 4127w complete clean no ticker no Cat private proper fights natural butterfly
 - [drafts/Chapter_18_Strange_Visitor_Part1_R1.md](drafts/Chapter_18_Strange_Visitor_Part1_R1.md): adopted as Chapter 18 R1 full 2556w not rushing S01E11 Strange Visitor Part1 White Martian
 - [drafts/Chapter_19_Strange_Visitor_Part2_R1.md](drafts/Chapter_19_Strange_Visitor_Part2_R1.md): adopted as Chapter 19 R1 full 2480w not rushing S01E11 Strange Visitor Part2 Adam Bizarro
+- [drafts/Chapter_18_Strange_Visitor_Part1_R2.md](drafts/Chapter_18_Strange_Visitor_Part1_R2.md): adopted as Chapter 18 R2 full 3665w not rushing Strange Visitor Part1 White Martian + Torquasm Vo Rao Torquasm Vo Rao
+- [drafts/Chapter_19_Strange_Visitor_Part2_R2.md](drafts/Chapter_19_Strange_Visitor_Part2_R2.md): adopted as Chapter 19 R2 full 3122w not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 19, R1**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 19, R2**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 

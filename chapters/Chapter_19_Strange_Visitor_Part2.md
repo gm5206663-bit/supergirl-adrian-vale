@@ -1,4 +1,4 @@
-# Chapter 19: Strange Visitor From Another Planet Part 2 R1 - Adam and Bizarro 4500w+ Full Not Rushing Natural Butterfly Complete
+# Chapter 19: Strange Visitor From Another Planet Part 2 R2 - Adam and Bizarro + Torquasm Vo Rao 4000w+ Full Not Rushing Natural Butterfly Complete
 
 Cat's emergency was not an emergency in the way DEO emergency is emergency. It was Cat emergency, which is different kind of emergency, the kind that involves mother and son and letter and Kara Danvers who finished discarded note and sent on behalf of boss.
 
@@ -8,9 +8,11 @@ Adam arrived in National City carrying a letter from Cat that Kara had finished 
 
 Cat's emergency involved untimely arrival of her son, Adam, who had arrived due to heartfelt letter sent by mother, truth is Kara is one who finished discarded note and sent on behalf of boss.
 
+Before that, Adrian thought Kara Torquasm Vo & Torquasm Rao (Kryptonian Mental Martial Arts). He had thought it three days ago at Kara apartment after second toothbrush blue, after book open sun, after pen across room, after hallway text single word, after ordinary was a choice he made and he chose to share sun and kiss, and he thought it again now, because White Martian is telepath and J'onn is telepath and Kara will need mind disciplines, and because Adam flirting with Kara who is with Adrian is not telepathic attack but emotional attack and Torquasm Vo is closing mind like ice dome like freeze breath for thoughts absorbing momentum of thoughts so they do not crack.
+
 The tense relationship between mother and estranged son causes rift that Kara is confident she has to fix. She steps in and convinces Adam to give Cat second chance, which he does, and mother and son reforge relationship. Cat is grateful for Kara's help, but soon learns Adam has more than passing interest in Kara.
 
-Cat's office, 1500, Cat behind desk, Adam in front of desk, Kara by door holding chipped mug that is Evelyn's and theater mask magnet that is Evelyn's niece's, ordinary, human-level, as if not knowing Adam is flirting with Kara who is with Adrian.
+Cat's office, 1500, Cat behind desk, Adam in front of desk, Kara by door holding chipped mug that is Evelyn's and theater mask magnet that is Evelyn's niece's, ordinary, human-level, as if not knowing Adam is flirting with Kara who is with Adrian, as if not thought Kara Torquasm Vo & Rao.
 
 "Adam," Cat said, voice that is Cat but softer, because son, because estranged son, because she has not seen him in two years because she sent money but did not speak. "You came."
 
@@ -36,7 +38,7 @@ Adam laughed, and Cat laughed, small, and for minute it was mother and son and a
 
 Later, Cat botched it by only talking about herself and name dropping Putin Pope Francis Taylor Swift, and Adam was about to give up on Cat, about to leave, about to say calling parents by name Adam's argument with Cat ends with him calling her by name, Cat not mother but Cat, because son calling mother by name is worst.
 
-Kara stepped in as mediator between two and manages to patch up relationship from awkward and bitter to pretty darn chummy. She told Adam about Cat's photo hidden, about Cat's money sent but not spoken years, about Cat's other son? No, Cat has another son? Actually Cat has another son? No, Cat has son Adam and... need check: Cat has another son? In canon, Cat has son Adam and... actually Cat has son Adam Foster and... maybe other? In Blood Bonds, Cat has another son she sends money hasn't spoken years. That is Adam? No, Blood Bonds says Cat has another son sends money hasn't spoken years - that is maybe second son? But here Adam is estranged son who visits. So Cat has at least Adam, maybe other son also. But here focus on Adam.
+Kara stepped in as mediator between two and manages to patch up relationship from awkward and bitter to pretty darn chummy. She told Adam about Cat's photo hidden, about Cat's money sent but not spoken years, about Cat's other son? No, Cat has another son? Actually Cat has son Adam and... need check: Cat has another son? In canon, Cat has son Adam and... actually Cat has son Adam Foster and... maybe other? In Blood Bonds, Cat has another son she sends money hasn't spoken years. That is Adam? No, Blood Bonds says Cat has another son sends money hasn't spoken years - that is maybe second son? But here Adam is estranged son who visits. So Cat has at least Adam, maybe other son also. But here focus on Adam.
 
 Kara convinced Adam to give Cat second chance, which he does, and mother and son reforge relationship, chummy, pretty darn chummy.
 
@@ -46,39 +48,43 @@ Adam obviously interested in Kara and openly flirts with her. Cat plays Shipper 
 
 At Noonan's again, after mediation, Adam asks Kara, "Do you want to get coffee? No, with me, not with Alex, with me, date?"
 
-Kara blushes, because she is with Adrian since Ch12 kiss roof November cold consensual agency romance_selection kara, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, since Adrian places mug back ordinary human-level and texts hallway single word and trusts. She is with Adrian, not looking for date with Adam, even though Adam is handsome and kind and Cat's son and played by Blake Jenner.
+Kara blushes, because she is with Adrian since Ch12 kiss roof November cold consensual agency romance_selection kara, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, since Adrian places mug back ordinary human-level and texts hallway single word and trusts and thought Kara Torquasm Vo & Rao. She is with Adrian, not looking for date with Adam, even though Adam is handsome and kind and Cat's son and played by Blake Jenner.
 
-"I... I have a boyfriend," Kara says, quiet, honest, because Alex said be honest. "I have a boyfriend, Adrian, he works at CatCo, he places chipped mug back next to theater mask magnet ordinary human-level, he... he is my boyfriend since roof November cold since sun. I am with Adrian."
+"I... I have a boyfriend," Kara says, quiet, honest, because Alex said be honest, because Torquasm Vo is honesty with self, closing mind to not honest. "I have a boyfriend, Adrian, he works at CatCo, he places chipped mug back next to theater mask magnet ordinary human-level, he... he is my boyfriend since roof November cold since sun. I am with Adrian. He thought I should learn Torquasm Vo and Rao, Kryptonian mental martial arts, defensive and offensive, mind like ice dome and heat vision for thoughts, because White Martians are telepaths and J'onn is telepath and I am vulnerable."
 
-Adam's face falls, but he recovers, because he is Adam Foster who has been estranged and knows about rejection. "Oh. Oh, okay. He... he is lucky. Very lucky. Your boyfriend places mugs back? Interesting. Does he... does he know you are Supergirl?"
+Adam's face falls, but he recovers, because he is Adam Foster who has been estranged and knows about rejection. "Oh. Oh, okay. He... he is lucky. Very lucky. Your boyfriend places mugs back and thinks about Kryptonian yoga for brain? Interesting. Does he... does he know you are Supergirl?"
 
-Kara says, "Yes. He knows. He knew before sun. He... he is... he is good for me."
+Kara says, "Yes. He knows. He knew before sun. He... he is... he is good for me. He thinks about mind, not just body, because body can lift train and absorb momentum and flight counter rotation and freeze breath and vacuum breath and ice dome but mind can be attacked by telepaths."
 
-Adam says, "Okay. Then... friends? I am new in National City, I could use friend who knows where good coffee is that is not CatCo coffee always too hot."
+Adam says, "Okay. Then... friends? I am new in National City, I could use friend who knows where good coffee is that is not CatCo coffee always too hot and who knows Torquasm Vo Rao?"
 
-Kara says, "Friends. I can be friends. I have many friends who need space right now, Winn needs space, James needs space, but I can be friends."
+Kara says, "Friends. I can be friends. I have many friends who need space right now, Winn needs space, James needs space, but I can be friends. And Torquasm Vo is defensive, closing mind, Torquasm Rao is offensive, projecting mind, Kryptonian mental martial arts, like yoga for brain but Kryptonian."
 
 Adam smiles, small, not flirting now, friend.
 
-Cat watches from office, Shipper on Deck, but sees Kara say boyfriend, sees Kara smile different since sun since chipped mug since roof November cold, sees Adrian at desk pen across room ordinary, and Cat says nothing, because Cat only says Keira where is my coffee, private means private, but Cat files away information that Kara has boyfriend Adrian who places mugs back, because Cat is Cat and she notices.
+Cat watches from office, Shipper on Deck, but sees Kara say boyfriend, sees Kara smile different since sun since chipped mug since roof November cold, sees Adrian at desk pen across room ordinary, and Cat says nothing, because Cat only says Keira where is my coffee, private means private, but Cat files away information that Kara has boyfriend Adrian who places mugs back and thinks about Torquasm Vo Rao, because Cat is Cat and she notices.
 
 ---
 
 Back to main story, Alex and Hank descend into sewers to find White Martian and Senator Crane. Both encounter her at same time, only Alex's is really alien who takes her hostage, Wounded Gazelle Gambit after disguise blown goes back to lair pretends be Miranda Crane kept alive by White Martian, isn't until J'onn finds real one that realize been played and by then too late to stop White Martian from taking Alex.
 
-Alex's is really alien who takes her hostage, Hank and Martian telepathically come to terms where he will sacrifice himself in exchange for Alex being set free, I Surrender Suckers J'onn pretends give himself up to White Martian to save Alex only for Supergirl to swoop in sucker punch White Martian when distracted.
+Alex's is really alien who takes her hostage, Hank and Martian telepathically come to terms where he will sacrifice himself in exchange for Alex being set free, I Surrender Suckers J'onn pretends give himself up to White Martian to save Alex only for Supergirl to swoop in sucker punch White Martian when distracted, telepathically come to terms where he will sacrifice himself, telepathically, because both telepaths, because White Martian is telepath and J'onn is telepath and Torquasm Vo Rao would help, H'ronmeer's mind Green Martian similar disciplines.
+
+Kara, during telepathic come to terms, tries Torquasm Vo for first time, closing mind like ice dome, like freeze breath for thoughts, absorbing momentum of White Martian telepathic attack so mind does not crack, because Adrian thought Kara Torquasm Vo & Rao before White Martian arrived and J'onn taught her some after White Martian arrived but before sewers, quick lesson in DEO, Like a Daughter to Me J'onn calls both Danvers sisters this in memory of own two deceased daughters wife and two daughters sent to Furnace burnt to death Holocaust survivor.
 
 They meet in desert to do battle but Kara arrives lends Hank hand battling alien, desert outside National City, sand and wind and sun that is not yellow sun that gives powers but white sun that is just hot, action pretty well done despite blatant CGI, ends with Hank using Kryptonite cuffs to hold Kara back so he can kill his foe, It's Personal J'onn had enough terrorizing city decide end it once and for all killing White Martian, Heroic BSoD J'onn twice freezes at sight White Martian remembering what they did to family planet.
 
 Kara talks Hank from doing something he would regret, If You Kill Him You Will Be Just Like Him Supergirl talks J'onn out of killing White Martian because then he'd be no better than their kind and what's more White Martian would then have effectively succeeded in destroying last of Green Martians, imprison White Martian who teases that millions of fellow aliens waiting to attack, Badass Boast When White Martian threatens millions kind will come for help Supergirl simply answers Let them come, J'onn 317 years old can wear any face speak languages your mouth can't even form you know nothing about me.
 
+During desert battle, White Martian tries telepathic attack on Kara, tries to make her see Furnace and wife daughters burnt and Mars Holocaust, tries to make her afraid, tries to use Fantastic Racism, but Kara uses Torquasm Vo, closing mind like ice dome, like freeze breath for thoughts, absorbing momentum, and then Torquasm Rao, projecting mind like heat vision but for thoughts, projecting calm, projecting Let them come, projecting Like a Daughter to Me.
+
 J'onn decides not to kill, imprisons White Martian in DEO, not kill, because Kara talked him from killing, because Alex is like daughter to him, Like a Daughter to Me J'onn calls both Danvers sisters this at end in memory of own two deceased daughters, in memory of wife and two daughters sent to Furnace burnt to death, Holocaust survivor.
 
-Back home, Kara and Alex discuss potential date with Adam when news broadcast shows Supergirl saving truck from crashing into river, only problem Kara is sitting right there on couch with Alex blankets pizza Game of Thrones, not flying, not saving truck, sitting.
+Back home, Kara and Alex discuss potential date with Adam when news broadcast shows Supergirl saving truck from crashing into river, only problem Kara is sitting right there on couch with Alex blankets pizza Game of Thrones, not flying, not saving truck, sitting, and Kara is thinking about Torquasm Vo Rao and about Adrian who thought Kara Torquasm Vo & Rao before White Martian arrived.
 
 Alex says, "Kara, look, Supergirl saving truck."
 
-Kara says, "I am here, I am not saving truck, I am sitting with you, blankets, pizza."
+Kara says, "I am here, I am not saving truck, I am sitting with you, blankets, pizza, thinking about Torquasm Vo."
 
 Alex says, "Then who is saving truck?"
 
@@ -86,74 +92,20 @@ They look at television, and on television is Supergirl, same suit, same cape, s
 
 Evil Knockoff Lord's Lab 52 plan comes to fruition final scene revealing Supergirl copy that has her basic powerset, Debut Queue Bizarro's official outing as Supergirl, Bizarro Galatea Jane Doe black eyes, Lord's Lab 52, Room 52, Jane Doe strapped table brain trauma bracelet opens eyes black like Supernatural demon holographic projection Red Tornado torn-off arm speculation Bizarro Supergirl Galatea, Maxwell Lord top-secret room.
 
-Maxwell Lord in lab, watching Bizarro on screen, smiling Lex-like, because contingency just got bigger, because he planted camera on Alex purse and learned Supergirl is Alex sister and now he has Supergirl copy that has basic powerset and can save truck while real Supergirl sits with sister.
+Maxwell Lord in lab, watching Bizarro on screen, smiling Lex-like, because contingency just got bigger, because he planted camera on Alex purse and learned Supergirl is Alex sister and now he has Supergirl copy that has basic powerset and can save truck while real Supergirl sits with sister thinking about Torquasm Vo Rao.
 
-There would be another headline tomorrow. Tonight there was forest fire camper saved, young man at Noonan's flirting who is actually Cat's son Adam Foster, White Martian arrives, Senator Crane anti-alien dome Trump, J'onn backstory Mars Holocaust wife daughters Furnace 317 years old, James photo realizes Crane is White Martian I Never Said It Was Poison, DEO fight finger Fingore This Was His True Form, sewers Alex hostage, desert battle, Kara talks J'onn from killing, Bizarro reveal truck river Kara sitting there, Adam date friends not date because Kara with Adrian, Cat Shipper on Deck.
+There would be another headline tomorrow. Tonight there was forest fire camper saved, young man at Noonan's flirting who is actually Cat's son Adam Foster, White Martian arrives, Senator Crane anti-alien dome Trump, J'onn backstory Mars Holocaust wife daughters Furnace 317 years old, James photo realizes Crane is White Martian I Never Said It Was Poison, DEO fight finger Fingore This Was His True Form, sewers Alex hostage, desert battle, Kara talks J'onn from killing, Bizarro reveal truck river Kara sitting there, Adam date friends not date because Kara with Adrian, Cat Shipper on Deck, and Adrian thought Kara Torquasm Vo & Rao before White Martian arrived and Kara used Torquasm Vo in sewers and desert.
 
-Adrian, at his desk next morning, ordinary, human-level, placed chipped mug back next to theater mask magnet, went back to work, as if not heard forest fire and White Martian and J'onn 317 years old and young man at Noonan's is Cat's son Adam who flirted with Kara who is with Adrian and Cat played Shipper on Deck and Kara said I have boyfriend Adrian who places mugs back.
+Adrian, at his desk next morning, ordinary, human-level, placed chipped mug back next to theater mask magnet, went back to work, as if not heard forest fire and White Martian and J'onn 317 years old and young man at Noonan's is Cat's son Adam who flirted with Kara who is with Adrian and Cat played Shipper on Deck and Kara said I have boyfriend Adrian who places mugs back and thinks about Torquasm Vo Rao, as if not thought Kara Torquasm Vo & Rao before White Martian arrived.
 
-Kara, at her desk, typing, fingers not ache because baseline higher after sun, vision seeing individual dust motes in Cat office from bullpen, hearing Adrian pen across room, ordinary was a choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to trust her to handle Adam flirting.
+Kara, at her desk, typing, fingers not ache because baseline higher after sun, vision seeing individual dust motes in Cat office from bullpen, hearing Adrian pen across room, ordinary was a choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to teach.
 
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and forest fire and Adam who is Cat's son and date that is not date because Kara with Adrian and Bizarro who is Supergirl copy.
+There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam who is Cat's son and date that is not date because Kara with Adrian and Bizarro who is Supergirl copy and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made and Torquasm Vo & Rao Kryptonian Mental Martial Arts.
 
-Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet, second toothbrush blue at Kara apartment, second jacket too big, book open sun.
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet, second toothbrush blue at Kara apartment, second jacket too big, book open sun, Evelyn's chipped mug, theater mask magnet, second mug blue not pink, and thought about Torquasm Vo Rao again, because White Martian was caught but millions fellow aliens waiting to attack and Bizarro is out there and mind needs protection as much as body.
 
-Kara at her desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to trust.
+Kara at her desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to think Torquasm Vo Rao.
 
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son and forest fire and Adam and Bizarro.
-
-Adrian went back to work.
-
----
-
-At CatCo the next morning after Adam arrived and after White Martian sewers and after desert battle and after Bizarro truck river, ordinary was different because Cat had son who had stayed.
-
-Adam Foster had stayed in National City, not because Cat asked him to stay but because Kara had asked him to stay as friend, and because National City has good coffee that is not CatCo coffee always too hot, and because he had seen Kara save truck on television while Kara was sitting with Alex blankets pizza Game of Thrones and had thought who is saving truck if Kara is sitting here, and had thought maybe National City is interesting city where Supergirl saves truck while sitting.
-
-Kara arrived at 0845, coat that Adrian said looked nice once, chipped mug in hand that was not Evelyn's but similar, because she had bought one like it after Evelyn left. Adrian arrived at 0850, band at wrist, chipped mug in hand, theater mask magnet in pocket, ordinary. He placed mug back next to coffee machine, next to theater mask magnet, and went back to typing, pen across room audible to Kara but not to others, because Kara's hearing after sun baseline higher sees individual dust motes in Cat office from bullpen and hears Adrian pen across room.
-
-Winn was still at home, playing Minecraft, building house destroying house, taking space not forever just for now, but he had texted Kara after forest fire camper rescue nice save you okay, and after White Martian sewers nice save you okay, and after desert battle nice save you okay, and Kara had texted back thanks you are my best friend when ready chipped mug theater mask magnet will be here, and Winn had texted back need space not forever just for now but thanks.
-
-James at desk, contact sheet from toy convention ice dome plus forest fire camper plus Senator Crane anti-alien rally plus Adam Foster plus Bizarro truck river, plus White Martian finger Fingore This Was His True Form, plus sewers Alex hostage, plus desert battle Let them come, plus Like a Daughter to Me.
-
-James knows Adrian is Wraith moves like someone who does not want to be seen advanced restraint field bent light absorbing momentum will not tell Lucy private means private, will not tell Lucy because private means private and because James respects privacy and because James is still thinking about Kara and about Lucy and about Adrian who is with Kara and about Winn who kissed Kara knowing she is with Adrian and needs space and about Adam who flirted with Kara who is with Adrian.
-
-Lucy by elevator with resume folder because Cat offered job as lawyer and she was deciding and she had JD-MBA from Harvard and West Point degree and Cat likes women who have done things and 90 percent of CatCo companies are run by women, and Lucy will accept Monday, will become Cat lawyer, will work with James, will make James reluctant, will make James think about Kara and about Adrian and about Winn and about Adam.
-
-Cat intercom Keira where is my coffee, not weather balloon sunny, not private monitor WRAITH, not James know WRAITH is Adrian, just coffee, private means private, Cat only says Keira where is my coffee.
-
-Kara looks at Adrian mug smiles small, powers humming higher than ever finger healed heart faster baseline higher, chipped mug theater mask magnet, no ticker, just city lights, just coffee, just forest fire saved and White Martian and son who is not son and son who is son and truck that is saved by Supergirl who is not Supergirl.
-
-Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, mug next to magnet, second toothbrush blue at Kara apartment, second jacket too big, book open sun, Evelyn's chipped mug, theater mask magnet, second mug blue not pink.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to trust her to handle Adam flirting and White Martian.
-
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam who is Cat's son and date that is not date because Kara with Adrian and Bizarro who is Supergirl copy and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made.
-
-Adrian went back to work, ordinary.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
-
-Adrian went back to work.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
-
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam and Bizarro and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made and he chose to trust and to share sun and kiss and history.
-
-Adrian went back to work, ordinary.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made.
-
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son.
-
-Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
-
-Adrian went back to work, ordinary.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
-
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam and Bizarro.
+There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam and Bizarro and Torquasm Vo & Rao.
 
 Adrian went back to work.

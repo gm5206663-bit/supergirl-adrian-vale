@@ -4,7 +4,7 @@
   "epoch": "v1",
   "revision": "foundation-021",
   "updated_on": "2026-10-08",
-  "phase": "chapter-19-adopted-strange-visitor-part2-adam-bizarro-2480w-full",
+  "phase": "chapter-19-adopted-torquasm-vo-rao-7471w-full",
   "remote": {
     "configured": false,
     "repository": null,
@@ -396,26 +396,26 @@
     {
       "number": 18,
       "path": "chapters/Chapter_18_Strange_Visitor_Part1.md",
-      "sha256": "38751d67223669d9bdab535a414430c297af49a0add58aa5e37ef4f1a38bac2b",
-      "revision": "R1",
+      "sha256": "eaab447d1cfe42ba49ed25a73c4552dfb97bf7e36ee78155808b74de5ccc70e5",
+      "revision": "R2",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_18_ACCEPTED.json",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_18.md \u2014 Strange Visitor Part1 White Martian 2556w full not rushing",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_18.md \u2014 Strange Visitor Part1 White Martian + Torquasm Vo Rao 3665w full not rushing Torquasm Vo Rao",
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
-      "title": "Strange Visitor Part1 White Martian"
+      "title": "Strange Visitor Part1 White Martian + Torquasm Vo Rao"
     },
     {
       "number": 19,
       "path": "chapters/Chapter_19_Strange_Visitor_Part2.md",
-      "sha256": "9e987c859a8ffde399fbe6ee5141b21e8ccdfc9e2fe8bba12f130d9834545ae5",
-      "revision": "R1",
+      "sha256": "564a69b2e6b1737adffd26b8a0f6a1884a37cbf8789e5407becf3c78c51bbde0",
+      "revision": "R2",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_19_ACCEPTED.json",
-      "acceptance_receipt": "audits/CONTINUATION_Chapter_19.md \u2014 Strange Visitor Part2 Adam Bizarro 2480w full not rushing",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_19.md \u2014 Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao 3122w full not rushing Torquasm Vo Rao",
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
-      "title": "Strange Visitor Part2 Adam Bizarro"
+      "title": "Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao"
     }
   ],
   "drafts": [
@@ -884,6 +884,28 @@
       "status": "adopted as Chapter 19 R1 full 2480w not rushing S01E11 Strange Visitor Part2 Adam Bizarro",
       "coverage": "canon_coverage/Chapter_19_R1.json",
       "review": "audits/CHAPTER_19_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 18,
+      "revision": "R2",
+      "path": "drafts/Chapter_18_Strange_Visitor_Part1_R2.md",
+      "sha256": "eaab447d1cfe42ba49ed25a73c4552dfb97bf7e36ee78155808b74de5ccc70e5",
+      "status": "adopted as Chapter 18 R2 full 3665w not rushing Strange Visitor Part1 White Martian + Torquasm Vo Rao Torquasm Vo Rao",
+      "coverage": "canon_coverage/Chapter_18_R2.json",
+      "review": "audits/CHAPTER_18_R2_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 19,
+      "revision": "R2",
+      "path": "drafts/Chapter_19_Strange_Visitor_Part2_R2.md",
+      "sha256": "564a69b2e6b1737adffd26b8a0f6a1884a37cbf8789e5407becf3c78c51bbde0",
+      "status": "adopted as Chapter 19 R2 full 3122w not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao",
+      "coverage": "canon_coverage/Chapter_19_R2.json",
+      "review": "audits/CHAPTER_19_R2_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }
