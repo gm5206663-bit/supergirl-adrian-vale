@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: eefdf9b699d3ace60c319e1e8f3cf90b6117498dd4107e0d3fc54f442c4324a3 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8a556471fb21b2aa55028d802c57fd827fd2cda5610eb70c4b3f023bd834fe80 -->
 
 # Supergirl — Adrian Vale
 
@@ -60,58 +60,39 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 14](chapters/Chapter_14_Hostile_Takeover.md): audits/CONTINUATION_Chapter_14.md — U52: Kryptonite dagger shown not told
 - [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Blood Bonds 2957w proper prose full not rushing per user 3000+ request
 - [Chapter 16](chapters/Chapter_16_Childish_Things.md): audits/CONTINUATION_Chapter_16.md — Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing 4127w complete clean no ticker no Cat private proper fights natural butterfly
-- [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — Childish Things Convention R6 agency no forcing canon 2885w
-- [Chapter 18](chapters/Chapter_18_Strange_Visitor_Part1.md): audits/CONTINUATION_Chapter_18.md — Strange Visitor Part1 White Martian + Torquasm Vo Rao 3665w full not rushing Torquasm Vo Rao
-- [Chapter 19](chapters/Chapter_19_Strange_Visitor_Part2.md): audits/CONTINUATION_Chapter_19.md — Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao 3122w full not rushing Torquasm Vo Rao
-- [Chapter 20](chapters/Chapter_20_Bizarro.md): audits/CONTINUATION_Chapter_20.md — Bizarro R1 events actually happening 2273w full not rushing
+- [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — natural events actually happening 929w
+- [Chapter 18](chapters/Chapter_18_Strange_Visitor_Part1.md): audits/CONTINUATION_Chapter_18.md — natural events actually happening 1259w
+- [Chapter 19](chapters/Chapter_19_Strange_Visitor_Part2.md): audits/CONTINUATION_Chapter_19.md — natural events actually happening 1242w
+- [Chapter 20](chapters/Chapter_20_Bizarro.md): audits/CONTINUATION_Chapter_20.md — natural events actually happening 1044w
 
 ### Preserved drafts and current candidate
 
-- [drafts/Chapter_01_Adrian_Vale_R1.md](drafts/Chapter_01_Adrian_Vale_R1.md): unaccepted; preserved, not user-rejected; accident memory superseded by U09/U10
-- [drafts/Chapter_01_Adrian_Vale_R2.md](drafts/Chapter_01_Adrian_Vale_R2.md): corrected; locally reviewed at secondary-source scope; awaiting author acceptance
-- [drafts/Chapter_01_Adrian_Vale_R3.md](drafts/Chapter_01_Adrian_Vale_R3.md): preserved source revision; adopted as Chapter 1 through U13 continuation instruction
-- [drafts/Chapter_02_A_Familiar_Face_R1.md](drafts/Chapter_02_A_Familiar_Face_R1.md): preserved historical U14-adopted source; superseded in live Chapter 2 by U18 adoption of R2
-- [drafts/Chapter_02_A_Familiar_Face_R2.md](drafts/Chapter_02_A_Familiar_Face_R2.md): preserved source; adopted as amended Chapter 2 through U18 continuation of revised branch
-- [drafts/Chapter_03_What_Came_With_Us_R1.md](drafts/Chapter_03_What_Came_With_Us_R1.md): superseded by U15/U16; preserved historical manuscript, never adopted
-- [drafts/Chapter_03_The_Name_He_Feared_R2.md](drafts/Chapter_03_The_Name_He_Feared_R2.md): preserved rescue-reveal revision; amended by R3 under U17, not adopted
-- [drafts/Chapter_03_The_Name_He_Feared_R3.md](drafts/Chapter_03_The_Name_He_Feared_R3.md): preserved source; adopted as Chapter 3 through U18
-- [drafts/Chapter_04_What_Remains_R1.md](drafts/Chapter_04_What_Remains_R1.md): preserved source; adopted unchanged under U19/U22 after audit
-- [drafts/Chapter_05_A_Place_in_the_Sky_R1.md](drafts/Chapter_05_A_Place_in_the_Sky_R1.md): interrupted, undelivered Pilot draft; route superseded by U20; blocked pending replacement after U21 audit
-- [drafts/Chapter_05_In_Plain_Sight_R2.md](drafts/Chapter_05_In_Plain_Sight_R2.md): superseded under U23: public civilian-identity exposure rejected; preserved, unadopted and blocked
-- [drafts/Chapter_05_In_Plain_Sight_R3.md](drafts/Chapter_05_In_Plain_Sight_R3.md): preserved source; adopted unchanged under U29
-- [drafts/Chapter_06_Under_the_Headline_R1.md](drafts/Chapter_06_Under_the_Headline_R1.md): preserved source; adopted unchanged under U30
-- [drafts/Chapter_07_How_Does_She_Do_It_R1.md](drafts/Chapter_07_How_Does_She_Do_It_R1.md): preserved source; adopted unchanged under U32
-- [drafts/Chapter_08_The_Woman_Who_Stayed_R1.md](drafts/Chapter_08_The_Woman_Who_Stayed_R1.md): preserved source; adopted unchanged under U34
-- [drafts/Chapter_09_Red_Faced_and_Named_R4.md](drafts/Chapter_09_Red_Faced_and_Named_R4.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 2148w
-- [drafts/Chapter_10_Red_Faced_Consequence_R3.md](drafts/Chapter_10_Red_Faced_Consequence_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 2641w
-- [drafts/Chapter_11_The_Sun_R3.md](drafts/Chapter_11_The_Sun_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1933w
-- [drafts/Chapter_12_The_Kiss_R3.md](drafts/Chapter_12_The_Kiss_R3.md): rebuilt clean per U40 ticker trash and U41 Cat private secrets fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge, adopted as clean 1565w
-- [drafts/Chapter_13_Human_for_a_Day_R3.md](drafts/Chapter_13_Human_for_a_Day_R3.md): superseded by R5 3313w full 3000+
-- [drafts/Chapter_14_Hostile_Takeover_R5.md](drafts/Chapter_14_Hostile_Takeover_R5.md): superseded by R8 3554w full 3000+
-- [drafts/Chapter_15_Blood_Bonds_R4.md](drafts/Chapter_15_Blood_Bonds_R4.md): superseded by R5 2957w proper prose full 3000+
-- [drafts/Chapter_15_Blood_Bonds_R5.md](drafts/Chapter_15_Blood_Bonds_R5.md): adopted as Chapter 15 R5 Blood Bonds 2957w proper prose full not rushing 3000+
-- [drafts/Chapter_14_Hostile_Takeover_R8.md](drafts/Chapter_14_Hostile_Takeover_R8.md): adopted as Chapter 14 R8 Hostile Takeover 3554w full 3000+ not rushing
-- [drafts/Chapter_13_Human_for_a_Day_R5.md](drafts/Chapter_13_Human_for_a_Day_R5.md): adopted as Chapter 13 R5 Human for a Day 3313w full 3000+ not rushing
-- [drafts/Chapter_11_The_Sun_R5.md](drafts/Chapter_11_The_Sun_R5.md): adopted as Chapter 11 R5 full 3000+ not rushing
-- [drafts/Chapter_12_The_Kiss_R5.md](drafts/Chapter_12_The_Kiss_R5.md): adopted as Chapter 12 R5 full 3000+ not rushing
-- [drafts/Chapter_09_Red_Faced_and_Named_R8.md](drafts/Chapter_09_Red_Faced_and_Named_R8.md): adopted as Chapter 9 R8 full 3000+ not rushing
-- [drafts/Chapter_10_Red_Faced_Consequence_R5.md](drafts/Chapter_10_Red_Faced_Consequence_R5.md): adopted as Chapter 10 R5 full 3000+ not rushing
-- [drafts/Chapter_16_Childish_Things_R1.md](drafts/Chapter_16_Childish_Things_R1.md): adopted as Chapter 16 R1 full 4469w not rushing S01E10 Childish Things Toyman
-- [drafts/Chapter_16_Childish_Things_Part1_R2.md](drafts/Chapter_16_Childish_Things_Part1_R2.md): adopted as Chapter 16 R2 full 3050w not rushing split natural S01E10 Childish Things Toyman
-- [drafts/Chapter_17_Childish_Things_Part2_R1.md](drafts/Chapter_17_Childish_Things_Part2_R1.md): adopted as Chapter 17 R1 full 3498w not rushing split natural S01E10 Childish Things Toyman
-- [drafts/Chapter_16_Childish_Things_Part1_R2.md](drafts/Chapter_16_Childish_Things_Part1_R2.md): adopted as Chapter 16 R3 full 3142w not rushing natural butterfly fixed kiss knows with Adrian
-- [drafts/Chapter_17_Childish_Things_Part2_R2.md](drafts/Chapter_17_Childish_Things_Part2_R2.md): adopted as Chapter 17 R2 full 4699w not rushing natural butterfly fixed kiss knows with Adrian
-- [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md): adopted as Chapter 16 R4 full 4126w complete serious rebuild everything fixed not just kiss
-- [drafts/Chapter_17_Childish_Things_Part2_R4.md](drafts/Chapter_17_Childish_Things_Part2_R4.md): adopted as Chapter 17 R4 full 6835w complete serious rebuild everything fixed not just kiss
-- [drafts/Chapter_12_The_Kiss_R6.md](drafts/Chapter_12_The_Kiss_R6.md): adopted as Chapter 12 R6 full 4137w complete clean no ticker no Cat private proper fights natural butterfly
-- [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md): adopted as Chapter 16 R5 full 4127w complete clean no ticker no Cat private proper fights natural butterfly
-- [drafts/Chapter_18_Strange_Visitor_Part1_R2.md](drafts/Chapter_18_Strange_Visitor_Part1_R2.md): adopted as Chapter 18 R2 full 3665w not rushing Strange Visitor Part1 White Martian + Torquasm Vo Rao Torquasm Vo Rao
-- [drafts/Chapter_19_Strange_Visitor_Part2_R2.md](drafts/Chapter_19_Strange_Visitor_Part2_R2.md): adopted as Chapter 19 R2 full 3122w not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao
-- [drafts/Chapter_17_Childish_Things_Convention_R5.md](drafts/Chapter_17_Childish_Things_Convention_R5.md): adopted as Chapter 17 R5 full 2753w natural syn no meta no Ch12 no writing myself
-- [drafts/Chapter_17_Childish_Things_Convention_R6.md](drafts/Chapter_17_Childish_Things_Convention_R6.md): adopted as Chapter 17 R6 full 2885w agency no forcing canon no kiss without wanting Kara is Kara
-- [drafts/Chapter_20_Bizarro_R1.md](drafts/Chapter_20_Bizarro_R1.md): adopted as Chapter 20 R1 full 2273w events actually happening not explaining
+- [drafts/Chapter_01_Adrian_Vale_R3.md](drafts/Chapter_01_Adrian_Vale_R3.md): adopted as Chapter 1 R3 natural
+- [drafts/Chapter_02_A_Familiar_Face_R2.md](drafts/Chapter_02_A_Familiar_Face_R2.md): adopted as Chapter 2 R2 natural
+- [drafts/Chapter_03_The_Name_He_Feared_R3.md](drafts/Chapter_03_The_Name_He_Feared_R3.md): adopted as Chapter 3 R3 natural
+- [drafts/Chapter_04_What_Remains_R1.md](drafts/Chapter_04_What_Remains_R1.md): adopted as Chapter 4 R1 natural
+- [drafts/Chapter_05_In_Plain_Sight_R3.md](drafts/Chapter_05_In_Plain_Sight_R3.md): adopted as Chapter 5 R3 natural
+- [drafts/Chapter_06_Under_the_Headline_R1.md](drafts/Chapter_06_Under_the_Headline_R1.md): adopted as Chapter 6 R1 natural
+- [drafts/Chapter_07_How_Does_She_Do_It_R1.md](drafts/Chapter_07_How_Does_She_Do_It_R1.md): adopted as Chapter 7 R1 natural
+- [drafts/Chapter_08_The_Woman_Who_Stayed_R1.md](drafts/Chapter_08_The_Woman_Who_Stayed_R1.md): adopted as Chapter 8 R1 natural
+- [drafts/Chapter_09_Red_Faced_and_Named_R8.md](drafts/Chapter_09_Red_Faced_and_Named_R8.md): adopted as Chapter 9 R8 natural
+- [drafts/Chapter_10_Red_Faced_Consequence_R5.md](drafts/Chapter_10_Red_Faced_Consequence_R5.md): adopted as Chapter 10 R5 natural
+- [drafts/Chapter_11_The_Sun_R5.md](drafts/Chapter_11_The_Sun_R5.md): adopted as Chapter 11 R5 natural
+- [drafts/Chapter_12_The_Kiss_R6.md](drafts/Chapter_12_The_Kiss_R6.md): adopted as Chapter 12 R6 natural
+- [drafts/Chapter_13_Human_for_a_Day_R5.md](drafts/Chapter_13_Human_for_a_Day_R5.md): adopted as Chapter 13 R5 natural
+- [drafts/Chapter_14_Hostile_Takeover_R8.md](drafts/Chapter_14_Hostile_Takeover_R8.md): adopted as Chapter 14 R8 natural
+- [drafts/Chapter_15_Blood_Bonds_R5.md](drafts/Chapter_15_Blood_Bonds_R5.md): adopted as Chapter 15 R5 natural
+- [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md): adopted as Chapter 16 R4 natural
+- [drafts/Chapter_17_Childish_Things_Part2_R7.md](drafts/Chapter_17_Childish_Things_Part2_R7.md): adopted as Chapter 17 R7 natural
+- [drafts/Chapter_18_Strange_Visitor_Part1_R3.md](drafts/Chapter_18_Strange_Visitor_Part1_R3.md): adopted as Chapter 18 R3 natural
+- [drafts/Chapter_19_Strange_Visitor_Part2_R3.md](drafts/Chapter_19_Strange_Visitor_Part2_R3.md): adopted as Chapter 19 R3 natural
+- [drafts/Chapter_20_Bizarro_R2.md](drafts/Chapter_20_Bizarro_R2.md): adopted as Chapter 20 R2 natural
+- [drafts/Chapter_01_Adrian_Vale_R2.md](drafts/Chapter_01_Adrian_Vale_R2.md): required by FILE_CONTRACT drafts/Chapter_01_Adrian_Vale_R2.md
+- [drafts/Chapter_02_A_Familiar_Face_R1.md](drafts/Chapter_02_A_Familiar_Face_R1.md): required by FILE_CONTRACT drafts/Chapter_02_A_Familiar_Face_R1.md
+- [drafts/Chapter_03_The_Name_He_Feared_R2.md](drafts/Chapter_03_The_Name_He_Feared_R2.md): required by FILE_CONTRACT drafts/Chapter_03_The_Name_He_Feared_R2.md
+- [drafts/Chapter_03_What_Came_With_Us_R1.md](drafts/Chapter_03_What_Came_With_Us_R1.md): required by FILE_CONTRACT drafts/Chapter_03_What_Came_With_Us_R1.md
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 20, R1**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 3, R1**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -119,7 +100,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 20
+python3 tools/verify.py --ship 3
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.

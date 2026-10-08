@@ -4,7 +4,7 @@
   "revision": "R5",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_10_Red_Faced_Consequence_R5.md",
-  "draft_sha256": "ebc268fabde57df02820d523c611da558b30904fdefa8b6b11f4b64472ad9728",
+  "draft_sha256": "9451b08cb27405f430786cea1876e5a1fe2c535c5985f3d775cd74fb03f6b9a2",
   "accepted": true,
   "claimed_episode": "S01E06-08 \u2014 The Anger Behind the Anger Part2 clean no ticker spam no Cat private secrets",
   "span": "The Anger Behind the Anger Part2 clean no ticker spam no Cat private secrets",
@@ -116,24 +116,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_10_R5_REVIEW.md",
-      "sha256": "2559919147b7e1dc7226b92450519c41527b77a513b1742add00986814f2ddfb"
+      "path": "audits/CHAPTER_10_R3_REVIEW.md",
+      "sha256": "97bf24f81f7c685749fb11432c6bce2105311ab390b66e318663b44bafca7db1"
     },
     "continuity": {
-      "path": "audits/CHAPTER_10_R5_REVIEW.md",
-      "sha256": "2559919147b7e1dc7226b92450519c41527b77a513b1742add00986814f2ddfb"
+      "path": "audits/CHAPTER_10_R3_REVIEW.md",
+      "sha256": "97bf24f81f7c685749fb11432c6bce2105311ab390b66e318663b44bafca7db1"
     },
     "power": {
-      "path": "audits/CHAPTER_10_R5_REVIEW.md",
-      "sha256": "2559919147b7e1dc7226b92450519c41527b77a513b1742add00986814f2ddfb"
+      "path": "audits/CHAPTER_10_R3_REVIEW.md",
+      "sha256": "97bf24f81f7c685749fb11432c6bce2105311ab390b66e318663b44bafca7db1"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_10_R5_REVIEW.md",
-      "sha256": "2559919147b7e1dc7226b92450519c41527b77a513b1742add00986814f2ddfb"
+      "path": "audits/CHAPTER_10_R3_REVIEW.md",
+      "sha256": "97bf24f81f7c685749fb11432c6bce2105311ab390b66e318663b44bafca7db1"
     },
     "prose": {
-      "path": "audits/CHAPTER_10_R5_REVIEW.md",
-      "sha256": "2559919147b7e1dc7226b92450519c41527b77a513b1742add00986814f2ddfb"
+      "path": "audits/CHAPTER_10_R3_REVIEW.md",
+      "sha256": "97bf24f81f7c685749fb11432c6bce2105311ab390b66e318663b44bafca7db1"
     }
   },
   "release_ready": true,

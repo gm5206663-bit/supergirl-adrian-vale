@@ -1,4 +1,4 @@
-# Season 1, Episode 1 — Pilot
+# Chapter 2: A Familiar Face
 
 ## Chapter 2 — A Familiar Face
 

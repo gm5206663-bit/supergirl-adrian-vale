@@ -4,7 +4,7 @@
   "revision": "R5",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_13_Human_for_a_Day_R5.md",
-  "draft_sha256": "ae612dc7af80ab7eab3e08f3ab606d05598361b5640bcd25d43857c14cc491af",
+  "draft_sha256": "e88e8611db126a760177b3fec1f8316b1e67f5b21c04265b39e4592832d4aec1",
   "accepted": true,
   "claimed_episode": "S01E07 Human for a Day",
   "span": "Human for a Day clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
@@ -150,24 +150,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_13_R5_REVIEW.md",
-      "sha256": "65bde5759aeaba071a83ae1622572895cdeb7d69ab9c0dd185ac1995f030ebc3"
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
     },
     "continuity": {
-      "path": "audits/CHAPTER_13_R5_REVIEW.md",
-      "sha256": "65bde5759aeaba071a83ae1622572895cdeb7d69ab9c0dd185ac1995f030ebc3"
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
     },
     "power": {
-      "path": "audits/CHAPTER_13_R5_REVIEW.md",
-      "sha256": "65bde5759aeaba071a83ae1622572895cdeb7d69ab9c0dd185ac1995f030ebc3"
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_13_R5_REVIEW.md",
-      "sha256": "65bde5759aeaba071a83ae1622572895cdeb7d69ab9c0dd185ac1995f030ebc3"
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
     },
     "prose": {
-      "path": "audits/CHAPTER_13_R5_REVIEW.md",
-      "sha256": "65bde5759aeaba071a83ae1622572895cdeb7d69ab9c0dd185ac1995f030ebc3"
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
     }
   },
   "release_ready": true,

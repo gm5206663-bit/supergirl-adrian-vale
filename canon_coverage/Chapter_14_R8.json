@@ -4,7 +4,7 @@
   "revision": "R8",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_14_Hostile_Takeover_R8.md",
-  "draft_sha256": "0c17a0191de85f900c597d7281bde2b06cf80a4fad1928570e742b956c9e08e9",
+  "draft_sha256": "1c162946eb173d4cf7667df3610d4f4c30c411db01ea1156d537adf281bdb6d9",
   "accepted": true,
   "claimed_episode": "S01E08 Hostile Takeover",
   "span": "Hostile Takeover clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
@@ -139,24 +139,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_14_R8_REVIEW.md",
-      "sha256": "cbe30cc7cfd8a91970b499079c13d32c1ba6f7019a119db6dbbf974bc94c2882"
+      "path": "audits/CHAPTER_14_R3_REVIEW.md",
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     },
     "continuity": {
-      "path": "audits/CHAPTER_14_R8_REVIEW.md",
-      "sha256": "cbe30cc7cfd8a91970b499079c13d32c1ba6f7019a119db6dbbf974bc94c2882"
+      "path": "audits/CHAPTER_14_R3_REVIEW.md",
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     },
     "power": {
-      "path": "audits/CHAPTER_14_R8_REVIEW.md",
-      "sha256": "cbe30cc7cfd8a91970b499079c13d32c1ba6f7019a119db6dbbf974bc94c2882"
+      "path": "audits/CHAPTER_14_R3_REVIEW.md",
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_14_R8_REVIEW.md",
-      "sha256": "cbe30cc7cfd8a91970b499079c13d32c1ba6f7019a119db6dbbf974bc94c2882"
+      "path": "audits/CHAPTER_14_R3_REVIEW.md",
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     },
     "prose": {
-      "path": "audits/CHAPTER_14_R8_REVIEW.md",
-      "sha256": "cbe30cc7cfd8a91970b499079c13d32c1ba6f7019a119db6dbbf974bc94c2882"
+      "path": "audits/CHAPTER_14_R3_REVIEW.md",
+      "sha256": "2ef2f69326d749290bc82f1351213722eb2694a318561395ecaf391c12b90c6b"
     }
   },
   "release_ready": true,

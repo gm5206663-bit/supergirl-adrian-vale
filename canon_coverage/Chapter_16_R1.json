@@ -184,24 +184,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_16_R1_REVIEW.md",
-      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+      "path": "audits/CHAPTER_16_R5_REVIEW.md",
+      "sha256": "a091f2d300f174ec89fada0539927f933bb497cc92fc45abf139bcacc1cc7903"
     },
     "continuity": {
-      "path": "audits/CHAPTER_16_R1_REVIEW.md",
-      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+      "path": "audits/CHAPTER_16_R5_REVIEW.md",
+      "sha256": "a091f2d300f174ec89fada0539927f933bb497cc92fc45abf139bcacc1cc7903"
     },
     "power": {
-      "path": "audits/CHAPTER_16_R1_REVIEW.md",
-      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+      "path": "audits/CHAPTER_16_R5_REVIEW.md",
+      "sha256": "a091f2d300f174ec89fada0539927f933bb497cc92fc45abf139bcacc1cc7903"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_16_R1_REVIEW.md",
-      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+      "path": "audits/CHAPTER_16_R5_REVIEW.md",
+      "sha256": "a091f2d300f174ec89fada0539927f933bb497cc92fc45abf139bcacc1cc7903"
     },
     "prose": {
-      "path": "audits/CHAPTER_16_R1_REVIEW.md",
-      "sha256": "ebcd3e6392a38928f070d174e4cbbb271bf94dfab04c65f8ed2f7409e662561c"
+      "path": "audits/CHAPTER_16_R5_REVIEW.md",
+      "sha256": "a091f2d300f174ec89fada0539927f933bb497cc92fc45abf139bcacc1cc7903"
     }
   },
   "release_ready": true,

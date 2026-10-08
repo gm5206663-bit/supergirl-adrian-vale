@@ -34,7 +34,28 @@
     "knowledge": "held",
     "prose": "held"
   },
-  "review_receipts": {},
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_05_R3_REVIEW.md",
+      "sha256": "a9485c8a2cff847e2f493e0c8ba648e8cc39b7caa1b97444e050c0136c5d7b09"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_05_R3_REVIEW.md",
+      "sha256": "a9485c8a2cff847e2f493e0c8ba648e8cc39b7caa1b97444e050c0136c5d7b09"
+    },
+    "power": {
+      "path": "audits/CHAPTER_05_R3_REVIEW.md",
+      "sha256": "a9485c8a2cff847e2f493e0c8ba648e8cc39b7caa1b97444e050c0136c5d7b09"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_05_R3_REVIEW.md",
+      "sha256": "a9485c8a2cff847e2f493e0c8ba648e8cc39b7caa1b97444e050c0136c5d7b09"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_05_R3_REVIEW.md",
+      "sha256": "a9485c8a2cff847e2f493e0c8ba648e8cc39b7caa1b97444e050c0136c5d7b09"
+    }
+  },
   "release_ready": false,
   "continuity_conflicts": [
     {

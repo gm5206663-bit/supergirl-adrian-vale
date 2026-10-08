@@ -1,4 +1,4 @@
-# Season 1, Episode 1 — Pilot
+# Chapter 1: Adrian Vale
 
 ## Chapter 1 — Adrian Vale
 
@@ -56,7 +56,13 @@ The call ended. Adrian slipped his phone into his coat pocket and accepted the c
 
 “Employment.”
 
-She smiled and passed him a paper bag. Her eyes lingered on his face before she turned to the next customer.
+She slid a small bakery box across the counter, followed by the paper bag containing his own breakfast.
+
+“Two glazed donuts and the almond pastries.”
+
+“Thank you.”
+
+Her eyes lingered on his face before she turned to the next customer.
 
 National City was already warm beneath its yellow sun. A delivery truck blocked half the street, its driver unloading boxes with patient disregard for the horn behind him. At the crossing, Adrian waited beside a man arguing into a headset.
 
@@ -92,17 +98,31 @@ She ended the call.
 
 “I want an email that means what it says.” She separated the stack and gave him two more folders. “But I’ll settle.”
 
-He put his bakery bag on the desk while he adjusted his grip. Kara looked at it.
+He set the bakery box beside her keyboard. Through the little window in the lid, Kara could see the glaze shining on the donuts.
 
-“Almond?”
+Her face brightened. “Are those—”
 
-“You can have it.”
+“Glazed. And the almond pastries you like.”
 
-“Did you already eat?”
+She opened the box, then looked up at him. “You got these for me?”
 
-“I bought two.”
+“I was at the bakery.”
 
-She accepted the bag. “Then thank you.”
+“That isn’t an answer.”
+
+“Yes, Kara. I got them for you.”
+
+Her smile widened. “You remembered.”
+
+“You were very specific about which ones were worth buying.”
+
+“Because there’s a difference.” She moved the box safely away from the folders. “Did you get something for yourself?”
+
+He lifted the smaller bag.
+
+“Good.” She chose a donut, breaking off a small piece of glaze with her thumb. “Thank you, Adrian.”
+
+He smiled and gathered the files. She was still smiling when she took her first bite.
 
 As he carried the files away, Winn rolled his chair back from his workstation.
 
@@ -118,9 +138,9 @@ Kara shook her head. “I told you. I have a date.”
 
 “I’m going to try.”
 
-She took a bite of the pastry just as the private elevator opened.
+The private elevator opened before Kara could finish the donut.
 
-Cat emerged, passed an opinion on the smell inside it, and crossed the floor without slowing. Kara set the bag down and followed her with the folders. Adrian collected the Tribune report from his desk and joined them.
+Cat emerged, passed an opinion on the smell inside it, and crossed the floor without slowing. Kara closed the bakery box and followed her with the folders. Adrian collected the Tribune report from his desk and joined them.
 
 Cat’s office overlooked a city whose newspapers were selling fewer copies of it every year.
 
@@ -245,6 +265,36 @@ His smile gave her no clear indication of what he meant. Before she could decide
 Kara left with the folder and the photograph, smiling despite herself.
 
 ***
+
+At lunch, Kara was still at her desk when Adrian returned with a small paper carrier.
+
+He set a lidded cup and a spoon beside her, well clear of the paperwork.
+
+She looked from the cup to him. “Ice cream?”
+
+“Your usual. The place you recommended.”
+
+“Donuts, pastries, and now this?”
+
+“Would you rather I took it back?”
+
+Kara put a hand around the cup. “Absolutely not.”
+
+He laughed. She peeled off the lid and took a spoonful, closing her eyes briefly at the taste.
+
+When she opened them, he was taking his own cup from the carrier.
+
+“Sit with me,” she said, nodding toward the spare chair. “Unless Cat has booked your entire lunch too.”
+
+“Only most of it.”
+
+He pulled the chair over. Kara turned away from her screen, giving him her attention rather than trying to eat and answer emails at once.
+
+“Thank you,” she said. “This was a very good idea.”
+
+They had a few minutes before his next call. She used them to ask what he thought of the ice cream shop, and he admitted she had been right about it.
+
+She looked pleased enough that he suspected he would hear about that admission again.
 
 By the afternoon, Adrian had found two openings worth referring to HR and rejected a third that would have required a copy editor to become a qualified accountant by Friday.
 

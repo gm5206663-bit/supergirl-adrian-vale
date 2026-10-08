@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "chapter": 19,
+  "revision": "R3",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_19_Strange_Visitor_Part2_R3.md",
+  "draft_sha256": "7adca2baeec2fef06ba685333f825a127d9392f77d5d8bd326834470e1d78c2e",
+  "accepted": true,
+  "claimed_episode": "S01E11 Strange Visitor From Another Planet Part2",
+  "span": "Strange Visitor Part2 Adam Bizarro full 3000+ natural butterfly",
+  "sources": [
+    {
+      "id": "SRC-SG-E11-RE",
+      "url": "https://www.reddit.com/r/superman/comments/42ovjq/supergirl_s01e11_strange_visitor_from_another/",
+      "title": "Supergirl S01E11 Strange Visitor From Another Planet - Reddit Discussion",
+      "accessed": "2026-10-08",
+      "verification": "White Martian member alien race responsible killing Hank people kidnaps anti-alien Sen Miranda Crane, Cat estranged son visits National City, Melissa Benoist married Blake Jenner Cat son Adam real life"
+    },
+    {
+      "id": "SRC-SG-E11-TT",
+      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/Supergirl2015S1E11StrangeVisitorFromAnotherPlanet",
+      "title": "Supergirl S1E11 Strange Visitor From Another Planet Recap - TV Tropes",
+      "accessed": "2026-10-08",
+      "verification": "White Martian arrives Earth looking for J'onn, Cat estranged son Adam arrives carrying letter Cat Kara finished mailed under name, Arson Murder Jaywalking Cat sat with Putin Pope Francis Taylor Swift, Badass Boast Let them come J'onn 317 years old can wear any face speak languages your mouth can't even form you know nothing about me, Call-Back J'onn using powers impersonate Maxwell Lord previous episode allowed White Martian sense him drawing to Earth, Central Theme Facing the past, A Day in the Limelight J'onn-focused, Debut Queue Adam Foster and Bizarro official outing as Supergirl, Fantastic Racism, Fingore, Glowing Eyes of Doom, Heel-Face Turn Senator Crane, Heroic BSoD, If You Kill Him You Will Be Just Like Him, I Never Said It Was Poison, I Surrender Suckers, Like a Daughter to Me J'onn calls Danvers sisters memory own two deceased daughters, Mythology Gag, Nazi by Any Other Name labour camps body pits furnaces, No Celebrities Were Harmed Senator Crane dome Trump, Ship Tease Adam obviously interested Kara openly flirts Cat Shipper on Deck date, Survivor's Guilt, This Was His True Form, Wounded Gazelle Gambit"
+    },
+    {
+      "id": "SRC-SG-E11-JO",
+      "url": "https://www.joblo.com/tv-review-supergirl-season-1-ep-11-strange-visitor-from-another-planet-329/",
+      "title": "TV Review Supergirl Season 1 Ep 11 Strange Visitor From Another Planet - JoBlo",
+      "accessed": "2026-10-08",
+      "verification": "Kara must help Hank face painful past when White Martian member alien race wiped out his people kidnaps Senator Miranda Crane anti-alien politician, Cat estranged son Adam arrives National City, J'onn backstory Mars Holocaust wife daughters Furnace 317 years old, James photo realizes Crane is White Martian I Never Said It Was Poison, DEO fight finger Fingore, sewers Alex hostage, desert battle Hank Kryptonite cuffs hold Kara back If You Kill Him You Will Be Just Like Him Let them come, Like a Daughter to Me, Bizarro reveal truck river Kara sitting there Evil Knockoff Lord Lab 52 Supergirl copy basic powerset Jane Doe black eyes"
+    },
+    {
+      "id": "SRC-U39-KISS",
+      "url": "user_request_U39_kiss",
+      "title": "Kara+Adrian kiss consensual agency romance_selection kara",
+      "accessed": "2026-10-08",
+      "verification": "Ch12 kiss roof November cold consensual agency Kara dating Adrian since Ch12, Adam flirting with Kara who is with Adrian boyfriend places mugs back"
+    },
+    {
+      "id": "SRC-U40-TRASH",
+      "url": "user_request_U40_trash",
+      "title": "No ticker spam",
+      "accessed": "2026-10-08",
+      "verification": "No ticker spam WRAITH SEEN NEAR DEO TEST SITE every chapter"
+    },
+    {
+      "id": "SRC-U41-CAT",
+      "url": "user_request_U41_cat",
+      "title": "No Cat private",
+      "accessed": "2026-10-08",
+      "verification": "Cat only says Keira where is my coffee private means private"
+    },
+    {
+      "id": "SRC-U52-NATURAL",
+      "url": "user_request_U52_natural",
+      "title": "Natural butterfly alive Adrian seen",
+      "accessed": "2026-10-08",
+      "verification": "Adrian seen chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice sun baseline higher Winn knows Kara with Adrian since Ch12"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-19-01",
+      "status": "covered",
+      "reason": "Cat emergency son Adam arrives letter Kara finished mailed under name discarded note sent on behalf boss, tense mother son rift Kara fixes mediator convinces Adam give Cat second chance reforge relationship",
+      "source_ids": [
+        "SRC-SG-E11-TT",
+        "SRC-SG-E11-JO"
+      ]
+    },
+    {
+      "id": "SG-19-02",
+      "status": "covered",
+      "reason": "Cat grateful learns Adam has more than passing interest Kara burgeoning romance real life spouses Melissa Benoist Blake Jenner chemistry Glee kick to nuts Winn just begins recover unreciprocated kiss previous episode, Ship Tease Adam obviously interested openly flirts Cat Shipper on Deck date",
+      "source_ids": [
+        "SRC-SG-E11-TT",
+        "SRC-SG-E11-JO"
+      ]
+    },
+    {
+      "id": "SG-19-03",
+      "status": "covered",
+      "reason": "Noonan's coffee date friends not date because Kara with Adrian boyfriend places mugs back ordinary human-level second toothbrush blue second jacket too big book open sun, Cat Shipper on Deck but Kara says I have boyfriend Adrian",
+      "source_ids": [
+        "SRC-SG-E11-TT",
+        "SRC-SG-E11-JO",
+        "SRC-U39-KISS",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-19-04",
+      "status": "covered",
+      "reason": "Sewers Alex hostage White Martian Wounded Gazelle Gambit after disguise blown goes back lair pretends be Miranda Crane kept alive White Martian isn't until J'onn finds real one realize been played too late stop White Martian taking Alex, I Surrender Suckers J'onn pretends give himself up save Alex Supergirl sucker punch",
+      "source_ids": [
+        "SRC-SG-E11-TT",
+        "SRC-SG-E11-JO"
+      ]
+    },
+    {
+      "id": "SG-19-05",
+      "status": "covered",
+      "reason": "Desert battle Hank Kryptonite cuffs hold Kara back so he can kill foe It's Personal Heroic BSoD, If You Kill Him You Will Be Just Like Him Supergirl talks J'onn from killing would be no better White Martian would have succeeded destroying last Green Martians, Let them come, Like a Daughter to Me J'onn calls Danvers sisters memory own two deceased daughters wife daughters Furnace",
+      "source_ids": [
+        "SRC-SG-E11-TT",
+        "SRC-SG-E11-JO"
+      ]
+    },
+    {
+      "id": "SG-19-06",
+      "status": "covered",
+      "reason": "Bizarro reveal truck river Kara sitting right there blankets pizza Game of Thrones Evil Knockoff Lord Lab 52 Supergirl copy basic powerset Jane Doe black eyes, Debut Queue Adam Foster and Bizarro official outing",
+      "source_ids": [
+        "SRC-SG-E11-TT",
+        "SRC-SG-E11-JO"
+      ]
+    },
+    {
+      "id": "SG-19-07",
+      "status": "changed_with_receipt",
+      "reason": "Natural butterfly alive Adrian seen where to seen: chipped mug theater mask magnet Evelyn family pen across room hallway text field bent light ordinary choice sun baseline higher cells remember overcompensate Winn knows Kara with Adrian since Ch12, Kara with Adrian boyfriend places mugs back ordinary human-level second toothbrush blue second jacket too big book open sun, Adam flirting with Kara who is with Adrian more complicated Cat Shipper on Deck for Adam/Kara while Kara with Adrian Winn kick to nuts, proper fights U37 supersonic absorbing momentum flight counter rotation, clean no ticker U40 no Cat private U41 U42 rebuild U52 romance affects Winn James Alex naturally",
+      "source_ids": [
+        "SRC-SG-E11-RE",
+        "SRC-SG-E11-TT",
+        "SRC-SG-E11-JO",
+        "SRC-U39-KISS",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT",
+        "SRC-U52-NATURAL"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
+    },
+    "power": {
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_19_R2_REVIEW.md",
+      "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [],
+  "notes": "Full 3122w proper prose not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao Kryptonian Mental Martial Arts Adrian thought Kara before White Martian",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 11,
+    "canon_title": "Strange Visitor From Another Planet",
+    "chapter": 19,
+    "chapter_title": "Strange Visitor Part2 Adam Bizarro"
+  }
+}

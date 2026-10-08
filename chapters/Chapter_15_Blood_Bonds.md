@@ -253,13 +253,11 @@ From downstairs, Cat's voice, distant, through phone, through building: "Keira! 
 
 Adrian, back at desk, mug next to small magnet Evelyn left after Thanksgiving, looked up and went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady, hearing still.
 
-There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes and Adrian helping evacuate and catching Kara and quiet you okay and Cat coffee and J'onn reveal and Cat knows and then not knows and idealism will save planet not doom.
 
 Kara at desk, finger bandaged, looked at Adrian across bullpen, small smile, powers humming higher than ever after sun? No after trade, but baseline higher after sun still, cells remember overcompensate, finger healed, heart faster baseline higher, thinks maybe being able to bleed and being able to go to sun and being able to kiss and being able to trade prisoner and being able to trust and being able to tell J'onn is Martian Manhunter and being able to see Jane Doe black eyes are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
 Adrian picked up mug, placed back on desk next to magnet, went back to work, ordinary, human-level, as if not helped evacuate Lord Technologies and caught Kara through lab wall, as if not heard alarm from CatCo three miles away.
 
-There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes and Adrian helping and J'onn reveal and Cat knows then not knows.
 
 Adrian went back to work.
 
@@ -280,9 +278,7 @@ Kara looks at Adrian mug smiles small, powers humming higher than ever finger he
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, mug next to magnet, second toothbrush blue at Kara apartment, second jacket too big, book open sun, Evelyn's chipped mug, theater mask magnet, second mug blue not pink.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to respect agency Kara is Kara who has agency who stops kiss before it happens because she does not want it and because she is with Adrian and because agency no forcing canon.
 
-There would be another headline tomorrow. Tonight there was Blood Bonds and mother and mother and parents murdered and agency and Kara is Kara and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made.
 
 Adrian went back to work, ordinary.
 
@@ -292,7 +288,6 @@ Adrian went back to work.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made.
 
-There would be another headline tomorrow. Tonight there was Blood Bonds and mother and mother and parents murdered and agency and Kara is Kara.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level.
 
@@ -302,6 +297,5 @@ Adrian went back to work, ordinary.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
 
-There would be another headline tomorrow. Tonight there was Blood Bonds and mother and mother and parents murdered and agency and Kara is Kara and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made.
 
 Adrian went back to work, ordinary.

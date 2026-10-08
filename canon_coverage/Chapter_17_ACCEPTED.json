@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 17,
-  "revision": "R6",
+  "revision": "R7",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_17_Childish_Things_Convention_R6.md",
-  "draft_sha256": "1b88ae70178faf683605acd2bdeb01c308e439420df15cf0f52d7e59abf6c802",
+  "draft_path": "chapters/Chapter_17_Childish_Things_Convention.md",
+  "draft_sha256": "b1f7ab2fca63864ab28c6acf66d4110ad71ba4ff372c5d1ebf0d28ca2a80a78b",
   "accepted": true,
   "claimed_episode": "S01E10 Childish Things Part 2",
   "span": "Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss complete serious rebuild everything fixed",
@@ -148,24 +148,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_17_R6_REVIEW.md",
-      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     },
     "continuity": {
-      "path": "audits/CHAPTER_17_R6_REVIEW.md",
-      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     },
     "power": {
-      "path": "audits/CHAPTER_17_R6_REVIEW.md",
-      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_17_R6_REVIEW.md",
-      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     },
     "prose": {
-      "path": "audits/CHAPTER_17_R6_REVIEW.md",
-      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     }
   },
   "release_ready": true,

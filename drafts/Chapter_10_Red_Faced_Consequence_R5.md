@@ -145,7 +145,6 @@ Later DEO range beam wider hotter melted target faster left scorched circle fift
 
 Thank you you do not need to thank me you needed sun I know what it feels like to burn out? No sun yet, that was next chapter, but tonight there was cut finger and Red Tornado melted.
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and history shared.
 
 Adrian went back to work.
 
@@ -247,7 +246,6 @@ Kara at desk, finger healed, thinks maybe being able to bleed and being able to 
 
 Adrian, at desk, placed chipped mug back, went back to work, ordinary, human-level, as if not helped, as if not told history.
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and history shared and ordinary choice and vulnerability and strength.
 
 Adrian went back to work.
 
@@ -257,7 +255,6 @@ She thought about what it means to be able to bleed and being able to melt aspha
 
 Adrian went back to work.
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice.
 
 Adrian picked up mug, placed back on desk, went back to work.
 
@@ -267,6 +264,5 @@ Later DEO range beam wider hotter melted target faster left scorched circle fift
 
 Thank you you do not need to thank me you needed sun I know what it feels like to burn out? No sun yet, that was next chapter, but tonight there was cut finger and Red Tornado melted.
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and history shared.
 
 Adrian went back to work.

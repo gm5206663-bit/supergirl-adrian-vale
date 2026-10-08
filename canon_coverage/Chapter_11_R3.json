@@ -4,7 +4,7 @@
   "revision": "R3",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_11_The_Sun_R3.md",
-  "draft_sha256": "fd928da4ce1b5c68f518a3249d52942b95d58355bffd069eacbe4047c44ebc0f",
+  "draft_sha256": "3f0d50a5242c71a5e5b002a456d5691e1aac631b796b8659afd92c40b4fa3910",
   "accepted": true,
   "claimed_episode": "S01E06-08 \u2014 The Sun clean no ticker spam no Winn joke spam no meta",
   "span": "The Sun clean no ticker spam no Winn joke spam no meta",
@@ -116,24 +116,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_11_R3_REVIEW.md",
-      "sha256": "22dc58407669b52a8f8622de14160825dd821d498bd0dc93ceef27ea936a4b7c"
+      "path": "audits/CHAPTER_11_R2_REVIEW.md",
+      "sha256": "dafc7b039e18ca0009b4809718632b8fb41586d5a1af61a557fda4b588805946"
     },
     "continuity": {
-      "path": "audits/CHAPTER_11_R3_REVIEW.md",
-      "sha256": "22dc58407669b52a8f8622de14160825dd821d498bd0dc93ceef27ea936a4b7c"
+      "path": "audits/CHAPTER_11_R2_REVIEW.md",
+      "sha256": "dafc7b039e18ca0009b4809718632b8fb41586d5a1af61a557fda4b588805946"
     },
     "power": {
-      "path": "audits/CHAPTER_11_R3_REVIEW.md",
-      "sha256": "22dc58407669b52a8f8622de14160825dd821d498bd0dc93ceef27ea936a4b7c"
+      "path": "audits/CHAPTER_11_R2_REVIEW.md",
+      "sha256": "dafc7b039e18ca0009b4809718632b8fb41586d5a1af61a557fda4b588805946"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_11_R3_REVIEW.md",
-      "sha256": "22dc58407669b52a8f8622de14160825dd821d498bd0dc93ceef27ea936a4b7c"
+      "path": "audits/CHAPTER_11_R2_REVIEW.md",
+      "sha256": "dafc7b039e18ca0009b4809718632b8fb41586d5a1af61a557fda4b588805946"
     },
     "prose": {
-      "path": "audits/CHAPTER_11_R3_REVIEW.md",
-      "sha256": "22dc58407669b52a8f8622de14160825dd821d498bd0dc93ceef27ea936a4b7c"
+      "path": "audits/CHAPTER_11_R2_REVIEW.md",
+      "sha256": "dafc7b039e18ca0009b4809718632b8fb41586d5a1af61a557fda4b588805946"
     }
   },
   "release_ready": true,

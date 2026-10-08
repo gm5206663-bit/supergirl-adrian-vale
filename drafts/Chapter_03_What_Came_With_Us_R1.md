@@ -1,731 +1,673 @@
-# Season 1, Episode 1 — Pilot
+# Chapter 3: The Name He Feared
 
-## Chapter 3 — What Came With Us
+## Chapter 3 — The Name He Feared
 
-Adrian could have told her about the house.
+Winn had brought more fabric than Kara thought any one person could need.
 
-He had already remembered its windows the day before. There were other things he could have offered: his father’s habit of reading through meals, the way his mother corrected a story whenever the version being told made her sound more agreeable than she had been.
+It covered part of her couch, the back of a chair and a corner of the table. His notebook lay open beside it, displaying several designs that appeared to have been rejected with increasing force.
 
-Kara would have understood those things. She was sitting across from him, waiting to hear about people who had lived beneath the same sun as her own family.
-
-He could see how easy it would be to give her only that.
-
-“My father’s name was Daren,” he said. “Daren Varr.”
-
-Kara listened.
-
-“His house had influence. My mother came from a branch of Daxam’s royal family.”
-
-“Your mother was royalty?”
-
-“By birth.”
-
-“And she married someone from Krypton.”
-
-“Yes.”
-
-Kara looked down at the dark tablet. “That can’t have been easy.”
-
-“No.” He paused. “But that isn’t the part I need to tell you.”
-
-She raised her eyes.
-
-“They didn’t die when Krypton was destroyed. They were murdered before that. Daxamites who objected to their marriage killed them.”
-
-For a moment, Kara’s expression held only the response he had expected: shock, followed by anger on behalf of people she had never met.
-
-“Because they were together?”
-
-“Yes.”
-
-“That’s—” She stopped, looking for a word large enough. “Adrian, I’m so sorry.”
-
-He let the words reach him. Then he continued.
-
-“My name on Krypton was Kael-Varr.”
-
-Something changed in her face.
-
-The name was familiar before she could place it. It belonged to conversations from a house that no longer existed, to adults lowering their voices without realizing that lowering them did not always keep children from hearing.
-
-She had known a name. A terrible story. Not a face she could have recognized across an office.
-
-“The city,” she said.
-
-Adrian nodded.
-
-Kara drew back from the table.
-
-“You’re saying that was you?”
-
-“Yes.”
-
-“No.” The word came out before she could stop it. Not an answer, not disbelief she could defend. Just a refusal that did nothing to alter his expression. “No, that was—”
-
-“I know what it was.”
-
-The room seemed suddenly too small.
-
-Beyond the glass, somebody crossed the corridor carrying a stack of proofs. Kara watched him pass, absurdly aware that he had no reason to look inside.
-
-“What happened?”
-
-“My parents were murdered. I went after the people responsible. I lost control, and I destroyed far more than them.”
-
-“People lived there.”
-
-“Yes.”
-
-“Not just the people who killed your parents.”
-
-“Yes.”
-
-Her voice became sharper. “Stop saying it like that.”
-
-Adrian looked at her. “How would you like me to say it?”
-
-She had no answer. She hated that she had no answer.
-
-He rested his hands on the table, where she could see them.
-
-“I had powers on Krypton. Before I ever saw this sun. The way they developed affected me badly. Anger became harder to get out of.”
-
-“Are you saying you couldn’t help it?”
-
-“No.”
-
-“Because that sounds like—”
-
-“It explains something that went wrong with me. It doesn’t make the people I killed responsible for it.”
-
-Kara looked at the band beneath his cuff.
-
-“Is that why you wear it?”
-
-“It limits what I can use.”
-
-“Does it stop you getting angry?”
-
-“No.”
-
-“Does someone else control it?”
+“You said you wanted to be able to move,” he explained.
 
 “I do.”
 
-“So you can take it off.”
+“And you didn’t want to look like you were going to a party.”
+
+“Also true.”
+
+“So we’re narrowing it down.”
+
+Kara held up a piece of red fabric. For the first time that evening, she smiled without having to think about it.
+
+There were questions waiting elsewhere. Alex wanted to talk. Adrian knew something about her mother that he had not been willing to explain. The recording from the aircraft was still inside a company whose owner wanted an exclusive interview with its subject.
+
+She could not answer all of that by sitting on her couch.
+
+“What about a cape?”
+
+Winn considered the fabric in her hand.
+
+“Let’s find out whether you need one.”
+
+***
+
+She learned that she did.
+
+The first pursuit took her above a car racing through traffic. Speed was not the difficulty. Changing direction without overshooting the road was another matter, and by the time she had stopped the driver, Kara had acquired several opinions about balance, airflow and the inadequacy of ordinary seams.
+
+Winn listened to all of them when she returned.
+
+The next version had a cape.
+
+It also had a problem with bullets. Kara could stand in their path while frightened bank employees took cover; the fabric behind her could not do the same without consequences.
+
+She came back carrying the damaged cape in one hand.
+
+Winn looked from the holes to her face.
+
+“Tell me those missed you.”
+
+“They hit me.”
+
+He stopped moving.
+
+“I’m fine,” she said quickly. “The cape isn’t.”
+
+For a moment he seemed to reconsider the entire project. Then he drew the fabric across the table and reached for his notes.
+
+“Right. Then we improve it.”
+
+The emblem was Kara’s decision.
+
+When she explained that it belonged to her family, Winn stopped treating it as another detail to adjust. He listened, then made room for it at the center of the design.
+
+Later, dressed in something that finally felt less like an experiment, Kara stood in front of the mirror.
+
+She did not look like the woman carrying folders through CatCo.
+
+For once, that pleased her.
+
+The alarm Winn found next was a fire.
+
+***
+
+She never reached it.
+
+Pain struck her in the air, sharp and entirely unlike the bullets at the bank. Her strength faltered. The city moved in the wrong direction, lights turning beneath her as she fell.
+
+When she woke, her wrists were restrained.
+
+The room was unfamiliar. So was the man standing beside the table, watching her discover that pulling against the restraints hurt.
+
+“Don’t,” he said. “You’ll make it worse.”
+
+“Then take them off.”
+
+He introduced himself as Hank Henshaw, director of an organization Kara had never heard of: the Department of Extranormal Operations.
+
+She was trying to decide which question to ask first when Alex entered.
+
+For a moment, relief made everything simpler.
+
+Then she saw her sister’s badge.
+
+“You work here.”
+
+Alex came to the table and began removing the restraints.
 
 “Yes.”
 
-She had known that a few minutes earlier. It meant something different now.
-
-Adrian did not move his hands.
-
-“I’m not asking you to decide I’m safe because I brought you breakfast.”
-
-Kara’s eyes returned to his face.
-
-“Was that what you were doing?”
-
-“No.” His answer came at once. “I bought things you liked because I liked seeing you happy.”
-
-The honesty of it hurt in a way she had not expected. She could not simply set the man who said that beside the other man and choose which one was real.
-
-“Then why tell me now?”
-
-“Because you told me what you were. Because you were starting to believe we had only lost the same things.”
-
-He glanced at the tablet between them.
-
-“I could have let you keep believing that.”
-
-Kara stood. The chair moved back with a sound that made them both look toward the door.
-
-“What happened after?”
-
-“Kryptonian authorities captured me. I was sent to Fort Rozz.”
-
-She knew the prison’s name too.
-
-“How are you here?”
-
-“The prison came down on Earth. I got out.”
-
-Kara stared at him.
-
-“Fort Rozz is here?”
-
-“It crashed here.”
-
-“Just you?”
-
-“No.”
-
-A cold understanding began to gather around the edges of the conversation.
-
-“Other prisoners.”
-
-“Yes.”
-
-“How many?”
-
-“I can’t give you a reliable count.”
-
-“Where are they?”
-
-“I don’t know where they all went.”
-
-Kara pressed a hand against the back of the chair.
-
-“The Phantom Zone,” she said. “My pod was trapped there.”
-
-Adrian’s attention sharpened, but he did not interrupt.
-
-“I was supposed to come here with Kal-El. I got knocked off course. By the time I arrived, he was already grown.”
-
-“I don’t know what brought the prison out,” he said. “I can tell you it reached Earth. I can’t tell you why.”
-
-For several seconds, Kara listened to the building around them. Everyone was going on with the same work they had been doing when she entered the room.
-
-She wanted to be able to leave this conversation and return to that day.
-
-Instead, she picked up her phone.
-
-“I need to go.”
-
-“All right.”
-
-“I need to think. And I need to talk to someone.”
-
-He nodded.
-
-“I’m not promising to keep this from everyone.”
-
-“I didn’t ask you to.”
-
-She looked at him, trying to find the condition he had not spoken, the point at which his calm depended on her making the choice he wanted.
-
-“I don’t want you to follow me.”
-
-“I won’t.”
-
-Kara opened the door.
-
-For a moment she paused, with the office beyond it and Adrian still sitting at the table behind her.
-
-Then she went out.
-
-***
-
-Winn saw that something was wrong before she reached her desk.
-
-“What happened?”
-
-“I have to see Alex.”
-
-“Is she okay?”
-
-“Yes. I just need to talk to her.”
-
-His glance moved toward the meeting room. Kara shook her head before he could ask another question.
-
-“Not here.”
-
-He lowered his voice. “Okay.”
-
-“And tonight—can we postpone?”
-
-He closed the notebook on his desk.
-
-“Of course.”
-
-“I’m sorry.”
-
-“Don’t be. Just let me know you’re all right.”
-
-Kara nodded, grateful that he did not make her supply a better explanation.
-
-Cat was on a call. Kara left a message with the assistant covering the adjoining desk, checked that the urgent scheduling requests had been handed over, and took the elevator down.
-
-She called Alex from outside the building.
-
-“I know I said later. Can we talk now?”
-
-Something in her voice changed her sister’s answer before Kara had finished asking.
-
-“Where are you?”
-
-***
-
-Adrian remained in the meeting room until someone knocked to ask whether it was available.
-
-He gathered the tablet and left.
-
-His desk held the same unfinished work. A request from legal had arrived while he was talking to Kara. They needed the sender’s contact details confirmed before discussing terms for the recording.
-
-He supplied them.
-
-There was no honest way to make the clip disappear. Other people had access to the mailbox. Its owner had not surrendered the only copy by sending it to a newsroom. Adrian could choose not to give Kara’s name to Cat; he could not undo a public rescue with a few keystrokes.
-
-He checked the remaining requests and completed the ones he could.
-
-Through the glass, Cat looked toward Kara’s empty desk. A moment later, Adrian’s phone rang.
-
-“Where is she?”
-
-“A family matter.”
-
-“Has the family scheduled a return?”
-
-“She hasn’t told me.”
-
-Cat let the silence stand long enough to make clear that she did not consider that an adequate answer.
-
-Then she said, “Bring me the footage list.”
-
-He took it in.
-
-***
-
-Alex met Kara at her apartment.
-
-She had arrived quickly enough that Kara was still standing beside the couch with her bag over her shoulder.
-
-“What happened?” Alex asked.
-
-Kara put the bag down.
-
-“Have you ever heard of Fort Rozz?”
-
-Alex stopped taking off her jacket.
-
-It was a small movement. A failure to finish something ordinary.
-
-Kara saw it.
-
-“You have.”
-
-“Where did you hear that name?”
-
-“From someone who was there.”
-
-Alex’s attention moved over her, assessing her hands, her face, the absence of visible injury.
-
-“Were you threatened?”
-
-“No.”
-
-“Who told you?”
-
-“Adrian. He works with me.”
-
-“I know who Adrian is.”
-
-“You know the name from me. That isn’t what I’m asking.”
-
-Alex set her jacket down.
-
-Kara watched her do it with deliberate care.
-
-“He says he’s Kryptonian. Partly. His mother was from Daxam.”
-
-“And you believe him?”
-
-“He told me his name was Kael-Varr.”
-
-Alex did not pretend to recognize it. She took out her phone.
-
-“Wait,” Kara said.
-
-Her sister looked up.
-
-“Who are you calling?”
-
-“Someone who can help.”
-
-“With what?”
+“You knew what they were going to do?”
 
 “Kara—”
 
-“No. I asked whether you knew about a Kryptonian prison, and you asked whether someone threatened me. You didn’t ask what the name meant.”
+“You shot me.”
 
-Alex’s hand tightened around the phone.
+Henshaw answered before Alex could. “We brought in an unidentified, extremely powerful individual who has started operating in public.”
 
-The room was quiet enough for Kara to hear the traffic below the windows.
+“I was going to a fire.”
 
-“I need you to tell me the truth,” Kara said.
+“And now we can have this conversation without holding it in the sky.”
 
-Alex looked at her for a long moment.
+Kara sat up as soon as her hands were free. Alex stayed close, but Kara was not ready to let proximity stand in for an explanation.
 
-Then she put the phone on the table.
+There were explanations waiting. None made the room easier to understand.
 
-“I don’t work where you think I do.”
+The DEO had her pod. They knew about her arrival. They knew that when she emerged from the Phantom Zone, something much larger had followed her to Earth.
 
-The words did not surprise Kara as much as the relief on her sister’s face after saying them.
+Fort Rozz.
 
-“There’s an organization,” Alex continued. “The Department of Extranormal Operations. We deal with threats involving extraterrestrial life.”
+Henshaw put the prison’s image on a screen and told her that its prisoners had escaped.
 
-“We?”
+Kara looked at the wreckage in the picture.
 
-“I’m an agent.”
+“I brought them here?”
 
-Kara looked at the jacket, then back at her.
+“You didn’t know,” Alex said.
 
-“Your conference.”
+Henshaw did not dispute that. He also did not stop explaining the danger as if her lack of knowledge could remove it.
 
-“Work.”
+Kara wanted to help. He did not welcome the offer.
 
-“All the times you—”
+By the time Alex took her out of the briefing room, Kara knew more about the life her sister had hidden than she had learned in years of ordinary conversations. She also knew that being able to stop bullets had not prepared her for every weapon on Earth.
 
-“Yes.”
-
-Alex let her hear the answer without trying to soften it.
-
-Kara sat on the edge of the couch.
-
-“Last night. When you told me I didn’t understand what I was putting at risk.”
-
-“I was scared for you.”
-
-“But you knew things you wouldn’t tell me.”
-
-“I did.”
-
-Kara laughed once, without humor.
-
-“I’ve had quite a day of that.”
-
-Alex sat beside her, leaving a little space.
-
-“Tell me what he said.”
-
-Kara did. She began with the recording because Alex needed to know about that too. She told her about the conversation, the band, the parents and the city.
-
-She did not make Adrian sound harmless. She did not make him threaten her when he had not.
-
-When she finished, Alex reached for her phone again.
-
-“This time,” she said, “I’m telling you who I’m calling.”
+She went home angry, shaken, and carrying a phone full of missed calls from Winn.
 
 ***
 
-Cat asked for the passenger recording after she reached its entry on the list.
+Adrian answered when she called later.
 
-“Rights review is still open,” Adrian said.
+“Are you home?” she asked.
 
-“I’m not asking you to broadcast it. I’m asking to see it.”
+“Yes.” He heard something in her voice. “What happened?”
 
-He sent the internal link to her screen.
+She told him about the fire alarm, the fall and the room where she had woken. She told him where Alex worked.
 
-Cat watched the first unsteady seconds without comment. She had seen enough amateur footage since the previous night to have developed a particular dislike of people who pointed cameras at their own knees.
+He did not interrupt until she paused.
 
-Then the phone turned toward the window.
+“Where are you now?”
 
-Cat leaned forward.
+“My apartment.”
 
-The woman on the wing looked toward the passengers. Only briefly. Not a portrait, not something Cat would put on a cover without better material.
+“Are you hurt?”
 
-She replayed it.
+“Not anymore. They let me go.”
 
-“How many people have looked at this?”
+He stood beside his kitchen table, his free hand resting against the back of a chair.
 
-“I can confirm I have,” Adrian said. “It’s in the shared footage mailbox.”
+“Fort Rozz,” Kara said. “They have records. They said it followed my pod.”
 
-“Has the picture desk assessed it?”
+Adrian’s hand tightened on the chair without damaging it.
 
-“Not that they’ve told me.”
+He knew how the prison had ended on Earth. He had not known why.
 
-“Get James.”
+“What else did they tell you?”
 
-Adrian nodded.
+“That people escaped. Dangerous people. That they’re here because of me.”
 
-As he turned, Cat’s eyes moved past him to the empty assistant’s desk outside her office.
-
-“Did Kara see this before she left?”
-
-“Yes.”
-
-Cat looked back at the screen.
-
-She did not ask her next question.
-
-“James,” she repeated. “And keep the publication hold until the rights check is finished.”
-
-***
-
-Alex drove Kara to a guarded facility whose existence had never featured in any account of her working day.
-
-The gates opened after Alex identified herself. At the next checkpoint, she instructed Kara to stay beside her while an agent checked an authorization on a screen.
-
-Kara looked at the badge clipped to her sister’s jacket.
-
-It was strange how much a small object could change the meaning of familiar behavior. Alex had always noticed exits, watched unfamiliar people a little too closely, asked questions that sounded like concern until somebody else tried to answer them.
-
-Now Kara knew where some of it belonged.
-
-A man met them beyond the checkpoint.
-
-“Hank Henshaw,” Alex said. “My director.”
-
-He looked at Kara without offering his hand.
-
-“Kara Danvers.”
-
-“You know me.”
-
-“We’ve known about you for a long time.”
-
-She turned toward Alex.
-
-Her sister did not look away.
-
-Henshaw led them into a briefing room. There were people working on the other side of the glass, screens showing information Kara could not take in at once, and a photograph of a familiar shape waiting on the display nearest him.
-
-Her pod.
-
-Kara stopped walking.
-
-“You have my ship.”
-
-“Yes,” Henshaw said.
-
-“How long?”
-
-“Kara,” Alex began.
-
-“How long?”
-
-“Since we recovered it,” Henshaw said. “This department studies extraterrestrial threats. Your cousin’s arrival made the need for it difficult to ignore.”
-
-“Threats.”
-
-“Capabilities we cannot afford to misunderstand.”
-
-Kara looked at Alex. “Is that what I am here?”
-
-“You’re my sister.”
-
-“That wasn’t what I asked.”
-
-Henshaw changed the display before Alex could answer.
-
-The image that replaced the pod was not one Kara recognized. The structure was much larger, damaged, set against the bare ground of a desert.
-
-“Fort Rozz,” he said.
-
-She turned back to the screen.
-
-“Your ship came out of the Phantom Zone. The prison followed it.”
-
-Kara’s mouth went dry.
-
-“Followed me?”
-
-“Your arrival brought more than one vessel to Earth.”
-
-Alex stepped closer. “You didn’t know.”
-
-The reassurance reached her, but it did not remove the image from the screen.
-
-Adrian had sat across from her and said he did not know what had brought the prison out.
-
-Now someone was telling her.
-
-“How many prisoners?”
-
-“Enough,” Henshaw said, “that finding one in your office is not something we can treat as a private matter.”
-
-He called up another record.
-
-Kara knew the face this time.
-
-It was not a photograph of Adrian standing at a bakery counter or smiling over a paper cup. The image belonged to another place, another life. But the person in it was unmistakable now that she knew what she was looking for.
-
-Kael-Varr.
-
-The record was incomplete in places. Some headings remained in Kryptonian script, with translations beside them. Henshaw did not scroll through it as if every missing field were a fact he could invent.
-
-“The name is in the recovered prisoner data,” he said. “A violent mass-casualty offense on Krypton. Mixed Kryptonian and Daxamite parentage. Technological containment.”
-
-Kara read the name again.
-
-“Do you have the part about his parents?”
-
-“There is a reference to the preceding murders.”
-
-“Then keep that part in the account.”
-
-Henshaw studied her. “It doesn’t erase the offense.”
-
-“I didn’t say it did.”
-
-Alex stood between them, looking at the record rather than at either face.
-
-“The alias?” she asked.
-
-“Not previously connected,” Henshaw said. “We have a reported link now. We verify it.”
-
-Kara looked up sharply. “You didn’t already know where he was?”
+“Did you choose to bring a prison here?”
 
 “No.”
 
-It was the first answer he had given that offered no suggestion that she should have expected it.
+“Then don’t leave the choice out when you tell yourself what happened.”
 
-“What do you know about the device?” Alex asked.
+She was quiet for a moment.
 
-“What your sister has told us. He says it limits his abilities. He says he made it. We have not examined it.”
+“I didn’t tell them about you.”
 
-“He said he could release it whenever he wanted,” Kara added.
+“Thank you.”
 
-Henshaw’s expression hardened.
+“Do they know you’re here?”
 
-Alex read another line of the file.
+“No one from that organization has contacted me.”
 
-“These events were on Krypton.”
+It was an answer he could give honestly. It was not all he knew about the people in its files.
 
-“Yes.”
+Kara let out a tired breath.
 
-“Under a red sun.”
+“Winn thought something terrible had happened. He couldn’t reach me.”
 
-“Yes.”
+“Does he know you’re home now?”
 
-Kara had heard Adrian say that too. Hearing them repeat it made her understand why they were taking care not to turn it into a routine arrest.
-
-Henshaw closed the secondary window.
-
-“We do not send people into CatCo on the assumption that he is an ordinary escapee with a watch.”
-
-Kara released a breath she had not realized she was holding.
-
-“We also do not accept his assurances as our entire safety plan,” he continued.
-
-“I’m not asking you to.”
-
-“What are you asking?”
-
-She looked at the face on the screen, then at her sister.
-
-“That nobody gets hurt because you decide to find out what he can do in a building full of people.”
-
-For once, Henshaw did not argue with her.
-
-***
-
-James watched the recording twice.
-
-Cat watched James.
-
-On the second viewing, he paused the image, considered it and let it run again.
-
-“It’s too soft for the kind of photograph you want,” he said.
-
-“That wasn’t my only question.”
-
-“You haven’t asked another one.”
-
-“No,” Cat said. “I haven’t.”
-
-He set the tablet down.
-
-“More people are going to send pictures. You may get something much clearer.”
-
-“I generally find that when everybody assures me the next picture will be more interesting, I should look harder at the one in front of me.”
-
-James did not smile.
-
-Cat turned her chair slightly. Kara’s desk was still empty.
-
-She could have called her immediately. She could have asked a question in front of the wrong people and spent the rest of the evening regretting which answer she received.
-
-Instead, she looked back at James.
-
-“Tell the picture desk I want the whole clip assessed, not just the frame somebody thinks will sell.”
-
-He nodded.
-
-“And James?”
-
-“Yes?”
-
-“When you decide what you’re not telling me, remember that I’m paying you to improve my judgment, not substitute yours for it.”
-
-***
-
-Adrian finished the last call on his list as the light outside CatCo began to change.
-
-Kara’s desk remained empty. Winn had left a note beside her keyboard, folded so its contents could not be read from the aisle.
-
-Adrian did not touch it.
-
-His phone vibrated.
-
-*I’m with Alex. I told her. She works for an organization that knows about Fort Rozz. She wants to speak to you.*
-
-He read the message twice.
-
-Then he answered.
-
-*You can give her my number.*
-
-The call came several minutes later.
-
-“Adrian Vale?”
-
-“Yes.”
-
-“This is Alex Danvers.”
-
-She was a stranger he had heard about often enough to expect they would eventually meet.
-
-“Is Kara with you?”
-
-“She is.”
-
-“All right.”
-
-“She told me about your conversation.”
-
-“I assumed she would.”
-
-“I work for the Department of Extranormal Operations. We have records from Fort Rozz. We need to verify what you’ve told her and talk about what happens next.”
-
-Adrian looked across the floor. An editor was arguing about a caption. Someone near the elevators was putting on a coat while trying to finish an email on her phone.
-
-“Are you coming here?”
-
-“We would prefer to arrange a meeting away from your workplace.”
-
-“So would I.”
-
-Alex was quiet for a moment.
-
-“There will be conditions.”
-
-“Tell me what they are before I agree to them.”
-
-“I’m not asking you to come in without knowing what we’re proposing.”
-
-“Then send the proposal.”
-
-He took a pen from the cup on his desk and wrote down the number she gave him for the return call.
-
-Before they ended the conversation, he said, “Alex.”
-
-“Yes?”
-
-“Kara didn’t promise to keep my history secret. Don’t make her feel as if she’s broken her word.”
-
-“I know what my sister did.”
+“Yes. I called him first.”
 
 “Good.”
 
-The call ended.
+She hesitated. “If something like that happens again—”
 
-Adrian remained at the desk for a moment, the phone still in his hand.
+“Have him call me.”
 
-The band beneath his cuff was unchanged. He could release it now as easily as he could have that morning. Nobody on the other end of the call had acquired control of it by learning his name.
+“You don’t have to say that. I know you wanted an ordinary life.”
 
-He left it where it was.
+“I’m saying it.”
 
-Then he saved his work, put on his coat and stepped out from behind the desk.
+Adrian gave her the number he kept available when work calls were being routed elsewhere.
 
-Whatever meeting he chose to attend, he would not have it here.
+“Tell him where you’re going,” he added. “If you need help, I need somewhere to start.”
+
+Kara repeated the number back to him.
+
+For a few seconds after the call ended, he stood beside the table with the phone still in his hand.
+
+He had left Fort Rozz behind. Its prisoners had not ceased to exist because he stopped living among them.
+
+Neither had Alura’s daughter.
+
+***
+
+By the next morning, Cat had given the flying woman a name.
+
+Supergirl.
+
+Kara saw it before she reached her desk. It was on a screen, on the front page somebody was holding, and already being repeated by people who had spent the previous morning debating whether she was real.
+
+Winn looked up as she approached.
+
+“I know,” he said.
+
+She pointed toward Cat’s office.
+
+“I have to ask.”
+
+“Good luck.”
+
+Cat was not interested in surrendering a name merely because her assistant had opinions about it. Kara tried to explain why the word bothered her without sounding as though she had a personal claim on the subject.
+
+It did not go particularly well.
+
+James arrived before the argument could become something neither woman could retreat from easily. He had a much better photograph of Supergirl, obtained from the bank’s security footage, and he gave Kara credit for helping bring it to Cat.
+
+Cat studied the image for a long moment.
+
+“The bank,” she said.
+
+James nodded.
+
+“Much better than another reflection through an aircraft window.”
+
+Her eyes moved to Kara, then back to the photograph.
+
+Kara kept her hands still.
+
+The original passenger recording had not disappeared. Cat had seen it. Its uncertain resemblance now had a clearer picture beside it, and Kara could not tell how much of that comparison was happening behind her employer’s expression.
+
+“Find me an interview,” Cat said. “Then perhaps we can ask her what she thinks of the name.”
+
+Outside the office, Kara thanked James.
+
+He accepted it without making her explain why she sounded relieved.
+
+Adrian was not at his desk. A note beside his closed laptop said he was checking the rooms being prepared for the afternoon broadcast guests.
+
+Kara turned toward Winn.
+
+That was when the voice reached her.
+
+***
+
+At first she thought somebody had spoken close to her ear.
+
+Then she realized that no one around her had reacted.
+
+The voice knew what she was. It knew her mother’s name. It gave her a place to go: the old power plant.
+
+Adrian’s warning returned with unwelcome clarity.
+
+*Be careful with anyone who approaches you because of her name.*
+
+Kara stood still while the voice finished.
+
+Winn noticed her expression.
+
+“What?”
+
+“Someone’s talking to me.”
+
+He looked around.
+
+“Not like that. You can’t hear it.”
+
+She told him the location. She did not pretend it was an ordinary emergency call.
+
+“He knows about my mother.”
+
+“Then maybe we shouldn’t just do what he wants.”
+
+“I’m not leaving someone like that out there without finding out what he wants.”
+
+Winn started to answer, but she held up a hand.
+
+“I heard you. Stay on the line. If it goes wrong, call the number I gave you.”
+
+“Adrian.”
+
+“Yes.”
+
+“You’re sure he knows enough to help?”
+
+“He knows about me.”
+
+That was what she had permission to tell him. The rest belonged to Adrian.
+
+She put the earpiece in before she reached the roof.
+
+Her mother had judged criminals. Henshaw had shown her a prison full of them. She knew she might be walking toward someone dangerous.
+
+She also knew that waiting would not make him forget where to find her.
+
+***
+
+The power plant was quiet when she landed.
+
+Too much empty space, too many places for someone to stand without being seen. Kara looked through what she could, listened past the settling metal and distant traffic, and tried to locate the person who had summoned her.
+
+He found her first.
+
+The impact drove her across the concrete before she had fully turned. She struck a support and caught herself, startled by how much it hurt.
+
+A man stood where she had been.
+
+He carried an axe.
+
+“Winn,” Kara said, getting to her feet. “He’s here.”
+
+The man’s eyes moved over the emblem on her chest.
+
+His contempt sharpened.
+
+Kara put herself between him and the way out.
+
+“You wanted to talk.”
+
+“I wanted you to come.”
+
+He moved before she could answer.
+
+She stopped the first blow with both hands against the haft. The force drove her backward. He changed the angle, struck her with the butt of the weapon and tore free before she could recover.
+
+This was not someone pointing a gun at bank employees.
+
+He knew how to fight someone who could withstand it.
+
+“Your mother put me in Fort Rozz,” he said.
+
+Kara’s concentration broke for a fraction of a second.
+
+It was enough.
+
+The edge caught her upper arm. Heat and pain flared together, and she looked down in disbelief at the blood spreading beneath torn fabric.
+
+He saw the surprise.
+
+“Did you think being her daughter would protect you?”
+
+Kara struck back. Her fist connected, but not cleanly enough to stop him. He drove her into a broken equipment housing, and the breath left her chest.
+
+Across the city, Winn heard the impact through the open connection.
+
+Then he heard her try to get enough air to speak.
+
+He called Adrian.
+
+***
+
+Adrian was in an empty interview room when his phone rang.
+
+“Winn?”
+
+“Kara’s at the old power plant. Someone called her there. He’s attacking her.”
+
+The words came too quickly at first. Adrian made him give the location again.
+
+“She’s bleeding,” Winn said. “I heard him say something about her mother. Adrian, she can’t—”
+
+Kara’s voice came faintly through the sound from Winn’s other connection, followed by the crash of metal.
+
+Adrian was already moving.
+
+“Keep her line open.”
+
+He left the interview room and took the nearest access door to an exterior terrace. Beyond the glass, the building continued its work. No one there had heard what he had just heard.
+
+He drew his cuff back.
+
+Two deliberate movements against the band’s recessed controls released the restriction he had built into it.
+
+The city opened around him.
+
+Distance returned to his hearing. The structure beneath his feet became something he had to take care not to damage rather than something capable of holding him in place.
+
+He had not become stronger in that moment. He had stopped preventing himself from using what was already there.
+
+Adrian crossed the terrace, cleared the edge without tearing it away, and accelerated above the buildings.
+
+***
+
+Kara tried to rise.
+
+Her arm would not take her weight the way she expected. Pain made the movement clumsy, and Vartox saw the opening before she could correct it.
+
+He raised the axe.
+
+Kara braced to move aside.
+
+The weapon stopped.
+
+Not against her body. Not in the concrete beside her.
+
+A hand had closed around the haft.
+
+For an instant she could not understand the stillness. Vartox was still driving downward. She could see the force in his shoulders, the effort in the grip. The axe did not move.
+
+Then she saw the sleeve above the hand.
+
+A shirt she had seen that morning.
+
+Adrian stood between them.
+
+He had placed himself close enough to take the weapon’s leverage away without putting the edge against either of them. His other hand caught Kara’s uninjured shoulder before she could fall sideways.
+
+“Stay behind me.”
+
+Vartox looked at him.
+
+The anger left his face so abruptly that it seemed like something had struck him.
+
+His grip loosened.
+
+“No.”
+
+Adrian watched him without answering.
+
+Vartox took a step back, leaving the axe in Adrian’s hand.
+
+“Kael-Varr.”
+
+Kara heard the name clearly.
+
+So did Winn, through the small device at her ear.
+
+Adrian lowered the weapon. He did not look surprised to have been recognized.
+
+Vartox’s eyes went to the open band at his wrist, then back to his face. Whatever calculation he had made when Kara arrived was gone.
+
+“You’re supposed to—” He stopped himself.
+
+“In Fort Rozz?” Adrian asked.
+
+Vartox swallowed.
+
+He was watching Adrian’s hands now. The man who had pursued Kara across the concrete would not take another step toward her.
+
+“Let me leave.”
+
+“No.”
+
+There was no raised voice in the answer.
+
+Vartox tried anyway.
+
+He turned and launched himself toward the open side of the yard.
+
+Adrian put the axe down beyond Kara’s reach before following. She saw movement, heard a short, hard impact, and then both men were beside the far support.
+
+Vartox had not reached the exit.
+
+Adrian held his weapon arm behind him, one hand controlling the wrist and the other set firmly at his shoulder. Vartox tried to turn. The attempt ended immediately.
+
+After that, he stopped fighting the grip.
+
+Kara pushed herself upright against the equipment housing.
+
+She had seen Superman move quickly. She had moved quickly herself.
+
+She had never watched the man who handed her donuts end a fight as if the other person had misunderstood what a fight required.
+
+“Adrian?”
+
+He looked toward her at once.
+
+“Can you stand?”
+
+“I think so.”
+
+“Don’t use that arm.”
+
+Vartox twisted his head far enough to see Kara.
+
+“She’s Alura’s daughter.”
+
+“I know.”
+
+The words reached Kara more sharply than the warning about her arm.
+
+“You know what Alura did,” Vartox said. “She put you there too. I thought—”
+
+“You didn’t think about me at all.”
+
+Vartox went quiet.
+
+Adrian eased him down onto one knee without releasing his arm.
+
+“Who sent you?”
+
+Vartox’s breath came unevenly.
+
+“The commander.”
+
+“Which orders?”
+
+“The plane. Then the girl.”
+
+Kara stared at him.
+
+The engine failure. Alex in the aircraft. The passengers she had watched being brought ashore.
+
+“You brought it down?”
+
+Vartox did not answer her. His attention kept returning to the hand controlling his wrist.
+
+Adrian's expression changed, but his grip remained precise.
+
+“You will answer that again when someone is recording more than a frightened phone call,” he said.
+
+“I didn’t know you were here.”
+
+It was not an excuse addressed to Kara.
+
+“Everyone thought—”
+
+“Everyone in Fort Rozz knew enough not to assume what I would do.”
+
+Vartox lowered his eyes.
+
+Kara remembered what his face had looked like when she first stood in front of him. He had been certain he could hurt her. He had enjoyed letting her understand it.
+
+There was no certainty left in him now except that he could not get away.
+
+Above the yard, rotor noise began to build.
+
+***
+
+Alex saw Kara standing beside the ruined equipment before she saw the second man clearly.
+
+Blood marked her sister’s arm. An axe lay on the ground several paces away.
+
+The man who had been attacking her was on one knee, held there by someone in ordinary clothes.
+
+“Hold fire,” Alex said into the headset.
+
+The helicopter swept its light across the yard.
+
+Kara looked up, shielding her eyes with her uninjured hand.
+
+Alex ordered the pilot down where the ground gave them room. By the time she reached her sister, two agents were moving toward the restrained attacker.
+
+The other man looked at her badge, then at her face.
+
+“Alex?”
+
+“Yes.”
+
+“She needs someone to look at that arm.”
+
+“Who are you?”
+
+Kara answered before he could.
+
+“Adrian.”
+
+Alex remembered the name from ordinary conversations: work, food, the small details that had seemed to belong to the safe part of Kara’s life.
+
+She looked again at the man holding an alien combatant motionless with one hand at his wrist.
+
+One of the agents approached with restraints.
+
+Vartox recoiled, not from the agent but from the possibility that Adrian might change his grip.
+
+“I’m not resisting,” he said quickly.
+
+Adrian waited until the restraints were secured before releasing him.
+
+Vartox did not make another attempt to run.
+
+His eyes followed Adrian when he stepped away, and the agents noticed. So did Alex.
+
+“Kael-Varr,” the prisoner said again, quieter this time.
+
+Alex repeated the name into her radio, asking for a record check.
+
+Kara heard her do it.
+
+The name had begun to find a place in her memory. Not a face. She had never known his face.
+
+A name from Krypton. A city. Adults becoming careful about what they said when they noticed a child listening.
+
+It did not fit the man kneeling beside her now, looking at her injured arm without touching it.
+
+It did not stop being the same man.
+
+Alex called for the medical kit. Adrian's gaze dropped to the fresh blood slipping beneath Kara's torn sleeve.
+
+“I can stop that,” he said.
+
+Kara followed his gaze. “How?”
+
+“Heat vision. Just enough to stop the bleeding.”
+
+Alex looked sharply at him. “You can control it that closely?”
+
+“Yes.” He kept his attention on Kara. “It won't repair everything the axe did. You'll still need the wound checked.”
+
+Kara had used heat vision. She knew how easily its power could spread beyond the place she meant to strike.
+
+She looked at his eyes, then at the blood on her arm.
+
+“All right.”
+
+He waited while she moved the loose fabric clear.
+
+The red light was narrow and steady. It touched only the bleeding points along the wound, not the whole ragged cut. Kara caught her breath at the brief sting and held still.
+
+Then the light was gone.
+
+Fresh blood no longer followed the old tracks down her skin. The deeper ache remained, but the warmth spreading beneath her sleeve had stopped.
+
+Alex leaned closer to look. She did not try to hide her surprise.
+
+“Keep that arm still,” she said. “Let me dress it.”
+
+Kara nodded, then looked back at Adrian. “Thank you.”
+
+He nodded and gave Alex room to work.
+
+Kara could accept his help without putting her questions aside.
+
+“You knew who I was,” she said.
+
+He met her eyes.
+
+“When you told me your family name.”
+
+“My mother.”
+
+“Yes.”
+
+“She sentenced you.”
+
+He did not look toward Vartox as if the prisoner might take the answer back.
+
+“Yes.”
+
+Behind them, an agent lifted the axe carefully while another kept watch on the prisoner. Vartox had stopped looking for an opening. He was trying not to attract Adrian’s attention at all.
+
+Kara looked at the open band on Adrian’s wrist.
+
+Then at the blood on her own sleeve.
+
+He had come when Winn called. He had put himself between her and the weapon before she could get clear. Those things were true.
+
+So was the part he had not told her.
+
+Alex settled a clean dressing over the injury.
+
+Kara remained where she was, with the man who had saved her beside her and his other name still sounding in her ears.

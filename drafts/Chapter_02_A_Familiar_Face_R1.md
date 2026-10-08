@@ -1,4 +1,4 @@
-# Season 1, Episode 1 — Pilot
+# Chapter 2: A Familiar Face
 
 ## Chapter 2 — A Familiar Face
 
@@ -530,6 +530,10 @@ Adrian was quiet for a moment.
 
 “Yes.” The answer came more easily now that she had begun. “Krypton. He’s my cousin.”
 
+“What was your family name?”
+
+“Zor-El.” She hesitated, unused to saying it in this room. “Kara Zor-El.”
+
 His attention sharpened.
 
 Kara noticed it immediately.
@@ -630,4 +634,40 @@ Then she nodded.
 
 He did not answer immediately. Kara let him have the time.
 
+“There is something I can tell you now,” he said. “Your mother’s work made enemies. Be careful with anyone who approaches you because of her name.”
+
+“You knew my mother?”
+
+“I saw her at work.”
+
+Kara leaned forward. “On Krypton?”
+
+“Yes.” His fingers rested against the edge of the tablet. “It isn’t a part of my life I can explain in a few minutes between calls.”
+
+She studied him. He had answered her, but not quite the question she wanted to ask.
+
+“All right,” she said at last. “Not here, then.”
+
 On the table between them, the screen went dark.
+
+***
+
+Adrian returned to his desk knowing exactly which question he had left unanswered.
+
+Alura Zor-El had not merely been someone whose work he knew. She had sat in judgment on him. He remembered her voice delivering the sentence that sent him to Fort Rozz, without triumph and without pretending that grief made the dead any less dead.
+
+Her daughter had just asked him about his family.
+
+He knew that family from the other side of its history too. Astra was not simply a name in Kara’s childhood. He had spoken with her inside Fort Rozz, during the guarded intervals when the prisoners were awake. He had spoken with Non.
+
+Those conversations had never fitted comfortably into friendship or enmity. Astra could argue with him while keeping careful track of the restraint fields between them. Non could speak as if a common enemy made cooperation inevitable, then stop when Kael looked at him.
+
+They feared what he could do. They still wanted things from him. Neither fact had made them simple company.
+
+Kara knew him as the man who remembered her favorite pastries. He had told her his parents’ worlds and the purpose of the band. He had not told her the name her mother had read into the record, or who had sat on the other side of those prison conversations.
+
+He looked across the floor. Kara was speaking to Winn, one hand on the back of his chair, already being pulled into another part of her day.
+
+Adrian opened the next message on his screen.
+
+The omission was his choice. It would not stay without consequences.

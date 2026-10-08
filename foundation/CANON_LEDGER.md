@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: eefdf9b699d3ace60c319e1e8f3cf90b6117498dd4107e0d3fc54f442c4324a3 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8a556471fb21b2aa55028d802c57fd827fd2cda5610eb70c4b3f023bd834fe80 -->
 
 # Accepted canon ledger
 

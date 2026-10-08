@@ -3,8 +3,8 @@
   "chapter": 12,
   "revision": "R6",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_12_The_Kiss_R6.md",
-  "draft_sha256": "ce9da90dced4395b3f7f66c7328ba57eb66682989608035ff9e6808d6ba1e802",
+  "draft_path": "chapters/Chapter_12_The_Kiss.md",
+  "draft_sha256": "10b6d8a4d399d81d6f98fa8f576a58db6985a27f4fbe166dd528b9b2771c5769",
   "accepted": true,
   "claimed_episode": "S01E07 The Kiss",
   "span": "The Kiss Complete Clean No Ticker No Cat Private complete clean no ticker no Cat private",
@@ -133,24 +133,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_12_R6_REVIEW.md",
-      "sha256": "9fe810a264dabb2b65653919988ca39c6243f7d337a5f6cc33bdf8c32fca4ea7"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     },
     "continuity": {
-      "path": "audits/CHAPTER_12_R6_REVIEW.md",
-      "sha256": "9fe810a264dabb2b65653919988ca39c6243f7d337a5f6cc33bdf8c32fca4ea7"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     },
     "power": {
-      "path": "audits/CHAPTER_12_R6_REVIEW.md",
-      "sha256": "9fe810a264dabb2b65653919988ca39c6243f7d337a5f6cc33bdf8c32fca4ea7"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_12_R6_REVIEW.md",
-      "sha256": "9fe810a264dabb2b65653919988ca39c6243f7d337a5f6cc33bdf8c32fca4ea7"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     },
     "prose": {
-      "path": "audits/CHAPTER_12_R6_REVIEW.md",
-      "sha256": "9fe810a264dabb2b65653919988ca39c6243f7d337a5f6cc33bdf8c32fca4ea7"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     }
   },
   "release_ready": true,

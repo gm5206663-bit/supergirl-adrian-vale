@@ -4,7 +4,7 @@
   "revision": "R5",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_15_Blood_Bonds_R5.md",
-  "draft_sha256": "bec87965f907b49a03b423d268640f6f7cc3b1639f2467de1e920d9d1ac06568",
+  "draft_sha256": "a09ef4b1da0b66a7b15884da567f251ad1a4244f5a873cd61b1153bcd7959e04",
   "accepted": true,
   "claimed_episode": "S01E09 Blood Bonds",
   "span": "Blood Bonds clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
@@ -140,24 +140,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_15_R5_REVIEW.md",
-      "sha256": "51f337387fcf1697d17decc8238bfa4058e7a599cef2bd5fb748cfd50bed31c7"
+      "path": "audits/CHAPTER_15_R2_REVIEW.md",
+      "sha256": "8d0cf77cf5c4994149a086f078cf6194e3fff2b3c380683fda0606f8e639a129"
     },
     "continuity": {
-      "path": "audits/CHAPTER_15_R5_REVIEW.md",
-      "sha256": "51f337387fcf1697d17decc8238bfa4058e7a599cef2bd5fb748cfd50bed31c7"
+      "path": "audits/CHAPTER_15_R2_REVIEW.md",
+      "sha256": "8d0cf77cf5c4994149a086f078cf6194e3fff2b3c380683fda0606f8e639a129"
     },
     "power": {
-      "path": "audits/CHAPTER_15_R5_REVIEW.md",
-      "sha256": "51f337387fcf1697d17decc8238bfa4058e7a599cef2bd5fb748cfd50bed31c7"
+      "path": "audits/CHAPTER_15_R2_REVIEW.md",
+      "sha256": "8d0cf77cf5c4994149a086f078cf6194e3fff2b3c380683fda0606f8e639a129"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_15_R5_REVIEW.md",
-      "sha256": "51f337387fcf1697d17decc8238bfa4058e7a599cef2bd5fb748cfd50bed31c7"
+      "path": "audits/CHAPTER_15_R2_REVIEW.md",
+      "sha256": "8d0cf77cf5c4994149a086f078cf6194e3fff2b3c380683fda0606f8e639a129"
     },
     "prose": {
-      "path": "audits/CHAPTER_15_R5_REVIEW.md",
-      "sha256": "51f337387fcf1697d17decc8238bfa4058e7a599cef2bd5fb748cfd50bed31c7"
+      "path": "audits/CHAPTER_15_R2_REVIEW.md",
+      "sha256": "8d0cf77cf5c4994149a086f078cf6194e3fff2b3c380683fda0606f8e639a129"
     }
   },
   "release_ready": true,

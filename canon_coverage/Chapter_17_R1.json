@@ -4,7 +4,7 @@
   "revision": "R1",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_17_Childish_Things_Part2_R1.md",
-  "draft_sha256": "5a42e02db02f803b843164b8f59788e7bc89048361d99ab09a46f9caa405a4da",
+  "draft_sha256": "b8556b607dc96446e5173d2bcbdc16ac2b816b7d698a63a3dae55b73112cab20",
   "accepted": true,
   "claimed_episode": "S01E10 Childish Things Part 2",
   "span": "Childish Things Part 2 - The Convention full 3000+ split natural",
@@ -122,24 +122,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_17_R1_REVIEW.md",
-      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     },
     "continuity": {
-      "path": "audits/CHAPTER_17_R1_REVIEW.md",
-      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     },
     "power": {
-      "path": "audits/CHAPTER_17_R1_REVIEW.md",
-      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_17_R1_REVIEW.md",
-      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     },
     "prose": {
-      "path": "audits/CHAPTER_17_R1_REVIEW.md",
-      "sha256": "9eebdd4f3c650561aa4367954afa2c25807e065dc2bfe494fe2cba99c5bb6805"
+      "path": "audits/CHAPTER_17_R2_REVIEW.md",
+      "sha256": "4f30252aedd0475be10beb0442dfaf3e19fb4fcda1adf0be83462ff49eb36689"
     }
   },
   "release_ready": true,

@@ -74,7 +74,6 @@ Adrian went back to work, ordinary, human-level, band at wrist, mug next to magn
 
 There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells chipped mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and history shared and ordinary choice and vulnerability and strength.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, chipped mug next to magnet.
 
@@ -84,31 +83,26 @@ She thought about what it means to be able to bleed and being able to go to sun 
 
 Adrian went back to work, ordinary, human-level, as if not kissed, as if not flown to sun and back before shift ends.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and history shared natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary.
 
 Adrian went back to work.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and history shared natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
 
 Adrian went back to work, ordinary.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
@@ -142,25 +136,21 @@ Adrian picked up mug places back desk later next to theater mask magnet goes bac
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room and his heart from across roof powers humming higher than ever baseline higher temporarily more then settles higher than before cells remember overcompensate ordinary was choice he made and he chose tonight to share kiss as well as sun.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and history shared natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch, genuine culpability, not as file, as in-world phrasing.
 
 Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet, theater mask magnet, Evelyn's chipped mug, second toothbrush blue not yet but soon, book open sun.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and history shared natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union.
 
 Adrian went back to work, ordinary, human-level.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history natural phrasing.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and history shared.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
@@ -168,7 +158,6 @@ Kara at desk typing fingers not ache vision sees individual dust motes Cat offic
 
 Adrian went back to work.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells chipped mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty.
 
 Adrian went back to work, ordinary.
 
@@ -176,7 +165,6 @@ Kara at desk typing fingers not ache vision sees individual dust motes Cat offic
 
 Adrian went back to work.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level.
 
@@ -186,7 +174,6 @@ Adrian went back to work, ordinary.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 

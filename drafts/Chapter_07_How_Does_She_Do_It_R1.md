@@ -1,4 +1,4 @@
-# Season 1, Episode 4 — How Does She Do It?
+# Chapter 7: How Does She Do It
 
 ## Chapter 7 — How Does She Do It?
 

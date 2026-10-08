@@ -109,5 +109,27 @@
       ],
       "description": "R1 lines 339 and 341 retain the former accident memory. Replace in a future authorized revision; do not treat it as current background."
     }
-  ]
+  ],
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    },
+    "power": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_01_R2_REVIEW.md",
+      "sha256": "5b28a8be03a12c5e0ae05bba6a4cc3220d49565901fcee07dd98470b270abe5b"
+    }
+  }
 }

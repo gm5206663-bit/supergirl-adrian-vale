@@ -123,7 +123,6 @@ She thought maybe being able to bleed and being able to go to sun and being able
 
 Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
 
-There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and Adrian helped and case open empty and suit new sheen and history shown naturally as facts not meta note.
 
 Kara looked at Adrian across bullpen, small smile.
 
@@ -217,14 +216,12 @@ Adrian nodded, quiet you okay from across room, mouth.
 
 She nodded.
 
-There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and case open empty and suit new sheen wrists and Adrian helped evacuate and caught Kara and quiet you okay and Cat coffee and history shared naturally not meta sentence.
 
 Kara understood that now standing outside cell, looking at dagger green glow, looking at Astra wrists bound cuffs glowing faint Kryptonian script, looking at case open empty in DEO lab, looking at Adrian further back ordinary band at wrist hearing from bullpen.
 
 
 Adrian went back to work.
 
-There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and Adrian helped and case open empty and suit new sheen and history shown naturally as facts not meta note.
 
 Kara looked at Adrian across bullpen, small smile.
 
@@ -240,7 +237,6 @@ She thought maybe being able to bleed and being able to go to sun and being able
 
 Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
 
-There would be another headline tomorrow. Tonight there was Astra in DEO and Lord Tech attacked and Cat knows and Adrian helped and case open empty and suit new sheen and history shown naturally as facts not meta note.
 
 Kara looked at Adrian across bullpen, small smile.
 

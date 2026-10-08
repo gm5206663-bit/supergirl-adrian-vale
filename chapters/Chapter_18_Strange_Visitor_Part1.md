@@ -1,138 +1,199 @@
 # Chapter 18: Strange Visitor From Another Planet Part 1
 
-The forest fire was not supposed to be there.
+The forest fire wasn't supposed to be there. Late January, dry hills, Santa Ana wind, a camper where it shouldn't be, a family inside with an eight-year-old boy holding a Superman toy.
 
-It was late January, National City hills dry from no rain, wind from Santa Ana, camper parked where campers should not park, family inside that had thought forest fire season was over. It was not over. The fire surrounded camper in ten minutes, pine and dry brush and wind, and the family inside had a dad and a mom and a son who was eight and who had a Superman toy that he held even though Superman was not real and Supergirl was.
+Kara was at the DEO talking to Alex about Winn. "I miss him. He needs space, not forever, just for now. Space feels like the Phantom Zone."
 
-Kara was at DEO when call came, not as Kara Danvers but as Supergirl, because she had been at DEO talking to Alex about Winn.
+Alex said, "He will come back wiser. For now, you have me. You have Adrian. You have J'onn who is 317 years old and can wear any face he chooses."
 
-"I miss him," Kara had said, sitting on edge of med bay bed, cape folded, boots off, not as Supergirl who can lift train but as Kara who had best friend who kissed her knowing she is with Adrian and who needs space not forever. "I miss Winn. He was my guy in the chair. He was my best friend. He is still my best friend, but he needs space, and I gave him space, and space feels like... like Phantom Zone, like twenty-four years, like waiting."
+Then the alarm: forest fire, camper, family.
 
-Alex had said, "I know. He will come back wiser and more mature friend after. For now, you have me. You have Adrian. You have... you have J'onn who is 317 years old and can wear any face he chooses and speaks languages your mouth can't even form."
+Supergirl flew through the DEO launch bay, supersonic, absorbing momentum so the bay didn't crack, flight counter rotation, cape snapping. Ninety seconds to the hills. Fire surrounding the camper, fuel line melted, dad trying to start it, son crying inside.
 
-Kara had laughed, wet, because Alex tries to be funny when sad.
+She didn't use heat vision. She used freeze breath, wide and controlled, froze a line around the camper, then lifted it with the family inside, absorbing momentum so they didn't feel the jerk, flew it to the clearing where firefighters were.
 
-Then alarm: forest fire, camper, family, National City hills.
+The boy held his Superman toy. "Are you Superman?"
 
-Supergirl flew, not through door but through DEO launch bay, proper superpowered, supersonic, absorbing momentum so launch bay did not crack, flight counter rotation so she did not spin, cape snapping, not joke, and she was at hills in ninety seconds, and fire was there, surrounding camper, and she could hear son crying inside, could hear dad trying to start camper that would not start because fuel line melted.
+"No, I'm Supergirl. Superman is my cousin. He is taller."
 
-She did not use heat vision to stop fire, because heat vision would make fire worse. She used freeze breath, wide, controlled, proper, no joke, and froze line around camper, then lifted camper with family inside, proper superpowered, absorbing momentum of camper weight so family did not feel jerk, and flew it to clearing where firefighters were.
+"You are better. You saved us."
 
-The son held Superman toy and said, "Are you Superman?"
+She smiled, tired, because Winn needs space, and flew back.
 
-"No," Supergirl said, quiet, you okay? "I'm Supergirl. Superman is my cousin. He is taller."
+At CatCo the next morning, Winn wasn't at his desk. He was at home, Minecraft, taking space after trying to kiss Kara knowing she is with Adrian and being stopped before, with kindness and boundary.
 
-The son said, "You are better. You saved us."
+Kara arrived at 8:45, Adrian at 8:50, band at wrist, chipped mug in hand. He placed it back next to the coffee machine next to the theater mask magnet and went back to typing. Kara could hear his pen across the room, baseline higher after the sun, seeing dust motes in Cat's office from the bullpen.
 
-Kara smiled, bright, but tired, because Winn needs space.
+Three days ago at her apartment, Adrian had asked, "Have you heard of Torquasm Vo and Torquasm Rao?"
 
-She flew back to DEO, not to CatCo, because CatCo would ask where she had been and she had been at DEO talking about Winn and about Adrian who places chipped mug back next to theater mask magnet ordinary human-level.
+Kara had looked up from the couch, blanket, pizza, Game of Thrones paused. "Like yoga for brain?"
 
-At CatCo next morning, ordinary was different because Winn was not at his desk. He was at DEO? No, he was at home, taking space, playing Minecraft building house destroying house, because he kissed Kara knowing she is with Adrian and was told no with kindness and boundary and needs space not forever to figure out who he is when not guy in the chair when not in love when not father's son when she is with Adrian and learning to be okay.
+"Something like that, but Kryptonian. Torquasm Vo is defensive, closing mind like an ice dome. Torquasm Rao is offensive, projecting mind. Your mother would know? Kelex in the Fortress? J'onn might know? He is telepath, 317 years old."
 
-Kara arrived at 0845, coat that Adrian said looked nice once, chipped mug in hand that was not Evelyn's but similar, because she had bought one like it after Evelyn left. Adrian arrived at 0850, band at wrist, chipped mug in hand, theater mask magnet in pocket because taken from fridge to clean forgotten to leave inside, ordinary. He placed mug back next to coffee machine, next to theater mask magnet, next to Evelyn's niece's magnet, and went back to typing, pen across room audible to Kara but not to others, because Kara's hearing after sun baseline higher sees individual dust motes in Cat office from bullpen and hears Adrian pen across room and baseline higher cells remember overcompensate.
+"I remember Alura mentioning mind disciplines, but I never learned, I was sent to Earth."
 
-Before that, Adrian thought Kara Torquasm Vo & Torquasm Rao (Kryptonian Mental Martial Arts). It was not random thought. It was thought that had been in his head since S01E08 Red Faced, since General Sam Lane Red Kryptonite experiment made Kara angry and not herself, since Kara had been vulnerable to something that was not physical but mental, since Astra had died and Non had been angry and since J'onn had been using telepathy and since Maxwell Lord had backup cameras invisible vent pinhole infrared and camera purse grain of rice seam.
+"J'onn is telepath. White Martians are telepaths. What if someone attacks your mind, not your body? You can lift a train, but what about thoughts? Like Red Kryptonite made you angry and not yourself."
 
-Adrian had been researching Kryptonian culture, not because he wanted to be Kryptonian but because he wanted to understand Kara, because he is with Kara since roof November cold, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, and because he had access to Fortress via Kara? No, not Fortress, but via Kelex? Actually Kelex is in Fortress, but Kara had told him about Kelex once, about Alura, about Kryptonian archives, about how Kryptonians had mental disciplines.
+"I will ask J'onn."
 
-He had asked Kara, three days ago, at her apartment, after second toothbrush blue, after book open sun, after pen across room, after hallway text single word, after ordinary was a choice he made and he chose to share sun and kiss.
+At Noonan's, Kara and Alex got coffee. When Kara asked for Cat's coffee, black, two sugars, extra hot, a young man at the next table said, "Condolences for working for Cat Grant. Is she as bad as they say? Breathes fire and eats babies? I heard she sat down with Putin, Pope Francis, and Taylor Swift and wasn't worried about dinner with her son."
 
-"Kara," Adrian had said, placing chipped mug back next to theater mask magnet, ordinary, human-level, band at wrist, "have you heard of Torquasm Vo and Torquasm Rao?"
+Kara said, "Cat is tough but bad-ass. Good person deep down."
 
-Kara had looked up from couch, blanket, pizza, Game of Thrones paused, and said, "What? Like yoga for brain? Like meditation?"
+The man left. Alex said, "He was flirting with you. Blatant flirting. How are you that naive?"
 
-Adrian said, "Something like that, but Kryptonian. Mental martial arts. Torquasm Vo is defensive, inner calm, closing mind, making mind like Fortress, like ice dome, like freeze breath but for thoughts. Torquasm Rao is offensive, projection, making mind like heat vision but for thoughts. Your mother Alura would know? Fortress Kelex might have records? J'onn might know? Because J'onn is telepath, 317 years old, speaks languages your mouth can't even form, can wear any face he chooses, you know nothing about him."
+Kara blushed. She is with Adrian since the roof in November, since the sun, since the second toothbrush, and not looking for flirting.
 
-Kara said, "Torquasm Vo? Torquasm Rao? I... I remember something from Krypton, from school, from Alura teaching, but I was young, I was... I was strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch, but I remember... I remember Alura mentioning mind disciplines, but I never learned, because I was sent to Earth and Earth does not have Torquasm Vo and Rao, Earth has... Earth has yoga and meditation and therapy."
+Senator Miranda Crane arrived at 2 PM, anti-alien politician, running a campaign of fear, proposing building a giant dome around National City to keep aliens out, claiming aliens are invading to take resources.
 
-Adrian said, "J'onn is telepath. White Martians are telepaths. Maxwell Lord has backup cameras but also has... has interest in psychic? What if someone attacks your mind, not your body? You are Supergirl who can lift train and absorb momentum and flight counter rotation and freeze breath and vacuum breath and ice dome, but what about mind? What about thoughts? What about anger like Red Kryptonite? What about Astra's death and Non's anger and your anger?"
+DEO was at the rally because anti-alien rallies are hotspots for alien attacks. CatCo was there because news.
 
-Kara had thought, because she is Kara and she thinks about things that Adrian says that are ordinary but not ordinary, that are chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice share but also Torquasm Vo Rao mental martial arts.
+Kara was there as Kara Danvers, covering for Cat. Adrian was at CatCo placing his mug back, ordinary.
 
-"I will ask J'onn," Kara had said. "I will ask J'onn about Torquasm Vo and Rao. He is 317 years old, he knows many things, he is Like a Daughter to Me J'onn calls both Danvers sisters this in memory of own two deceased daughters wife and two daughters sent to Furnace burnt to death Holocaust survivor."
+Senator Crane on stage, suit, hair, bigot who thinks she is protecting America. "Aliens are a threat to America and we should do anything to keep them from ruining our country, even putting up a dome!"
 
-Adrian had nodded, ordinary, placed mug back, went back to typing, as if not thought Kara Torquasm Vo & Rao.
+Hank Henshaw was there as Hank Henshaw, not as J'onn, pretending to be human, reluctant to show powers.
 
-Now at CatCo next morning, before forest fire? No, after forest fire, before Senator Crane rally, Adrian thought again Kara Torquasm Vo & Rao, because White Martian was coming and White Martian is telepath and J'onn is telepath and Kara will need mind disciplines.
+Then the White Martian. Eight feet tall, white, not green, eyes glowing white, not red, agile like a Xenomorph but more agile. Member of the race that wiped out J'onn's people, that caused the Martian Holocaust, that put Green Martians in labor camps, body pits, furnaces, that sent J'onn's wife and two daughters to the Furnace and burnt them.
 
-James arrived at 0910, contact sheet from toy convention ice dome, photo of Supergirl, photo of Wraith? No, Wraith not at convention, Wraith at CatCo placing mug back ordinary. James knows Adrian is Wraith moves like someone who does not want to be seen advanced restraint field bent light absorbing momentum will not tell Lucy private means private.
+Supergirl drove it away, supersonic, absorbing momentum so the stage didn't collapse, flight counter rotation, rescued the Senator, DEO took her into protective custody.
 
+Hank was visibly affected. He felt its arrival was because he used powers in the previous episode to impersonate Maxwell Lord to infiltrate Room 52.
 
-At Noonan's, Kara and Alex went for coffee because CatCo coffee is always too hot and Noonan's coffee is always just right and because Alex wanted to talk about Winn and about Adrian and about J'onn who had been using powers too much and about Torquasm Vo Rao.
+Later, J'onn told Kara and Alex about Mars. David Harewood showing heartache, flashback incredible, heart wrenching. He is 317 years old, can wear any face, speaks languages your mouth can't form. He described labor camps, body pits, furnaces, his wife and two daughters sent to Furnace. Survivor's guilt, last Green Martian alive, hasn't been a day he isn't ashamed.
 
-When Kara asked for Cat's coffee, black, two sugars, extra hot, a young man at next table expressed condolences for Kara having to work for Cat Grant. He had brown hair, kind eyes, smile that was a little like Kara's smile when she is nervous.
+Kara asked, "J'onn, have you heard of Torquasm Vo and Torquasm Rao? Adrian thought I should learn, because you are telepath and White Martians are telepaths and I am vulnerable."
 
-"Is she as bad as everyone says?" he asked. "Breathes fire and eats babies? I heard she sat down with Vladimir Putin, Pope Francis, and Taylor Swift and was not worried about dinner with son."
+J'onn said, "Yes. Green Martians have similar, H'ronmeer's mind. Torquasm Vo is closing mind like ice dome, absorbing momentum of thoughts so they don't crack. Torquasm Rao is projecting mind like heat vision for thoughts. I can teach you some, like a daughter to me."
 
-Kara insisted, because she is Kara and she is loyal to Cat even when Cat yells, "Cat is tough but bad-ass. She is... she is Cat. She is tough but she is good person deep down despite flaws. Jerk with a Heart of Gold."
+Using one of James Olsen's photographs, Kara realized Senator Crane is actually the White Martian. The White Martian blew his cover by mentioning that a White Martian attacked the rally. Crane would only know it as a monster, not by its proper name.
 
-The man left, and Alex pointed out to Kara, because Alex is expert in body language and human being, "He was flirting with you. He was obviously interested and openly flirted."
+Fight at the DEO, alien escaped, lost a finger, finger reverted to White Martian form. Wounded gazelle gambit, went back to lair pretending to be Miranda Crane kept alive, until J'onn found the real one.
 
-Kara said, "What? No, he was just... he was just asking about Cat."
+Hank decided he must kill the monster even if it goes against everything. Kara and Alex said they have to help, but Kara was called to Cat's emergency, Cat's son Adam arrived due to a letter Kara finished and mailed under Cat's name, more in Part 2.
 
-Alex said, "Kara, he asked if you want to get coffee sometime and you said I have coffee and he said no, with me, and you said I have coffee with Alex and he said no, with me, and you said I have coffee with Alex and he laughed and left. That was flirting. That was blatant flirting. How are you that naive to not recognize such blatant flirting?"
+Alex and Hank went into the sewers to find White Martian and Senator Crane. Both encountered her at same time, only Alex's was really the alien who took her hostage. Hank and Martian telepathically came to terms, sacrifice himself for Alex freed, pretend to give himself up to save Alex, Supergirl sucker punch when distracted.
 
-Kara blushed, because she is with Adrian since roof November cold, since sun, since chipped mug shared, since second toothbrush blue second jacket too big book open sun, and she is not looking for flirting, and also because Winn kissed her knowing she is with Adrian and she told him no with boundary and now young man flirting feels weird, and also because Adrian thought Kara Torquasm Vo & Rao and she had asked J'onn and J'onn had said he would teach her.
+They met in the desert to do battle, Kara arrived, action well done despite CGI, ended with Hank using Kryptonite cuffs to hold Kara back so he can kill foe. Kara talked him from it, if you kill him you will be just like him, then he'd be no better than their kind and White Martian would have succeeded in destroying last of Green Martians. They imprisoned White Martian who teased millions fellow aliens waiting to attack. Supergirl answered, "Let them come."
 
-Adrian at his desk, pen across room, heard Alex say flirting, gave tiny nod not jealous, trusts, ordinary, places mug back, thought Torquasm Vo Rao.
+Back home, Kara and Alex were on the couch blankets pizza Game of Thrones when news showed Supergirl saving a truck from crashing into river. Problem: Kara was sitting right there.
 
----
+Evil knockoff, Lord's Lab 52 plan comes to fruition, revealing Supergirl copy that has basic powerset, Bizarro's official outing as Supergirl, Jane Doe black eyes.
 
-Senator Miranda Crane arrived in National City at 1400, anti-alien politician, notoriously anti-alien, lobbies for isolating and preventing extraterrestrials from infecting America from their backwater planets, heavy-handed reference to real world political issues in this year's presidential race, Donald Trump-like, proposes building giant dome to keep aliens out, domed hometown, fantastic racism, claims aliens invading Earth to take up resources, even advocates building giant dome to keep them out, No Celebrities Were Harmed.
+There would be another headline tomorrow. Tonight there was forest fire and White Martian and Senator and son who is not son.
 
-She was running campaign of vicious anti-alien fearmongering, and she had a rally at National City Park, and DEO was on scene because DEO is always on scene when anti-alien rally, because anti-alien rally is obvious hotspot for alien attack and quotable news, and CatCo representatives were there because CatCo is always where news is.
+At CatCo, Cat said Keira where is my coffee. Kara handed coffee. Cat looked at empty Winn desk and said nothing.
 
-Kara was there as Kara Danvers, covering rally for Cat, not as Supergirl, because Cat said Keira where is my coffee and also cover Crane rally, and Kara said okay, and Adrian was at CatCo placing chipped mug back ordinary human-level as if not knowing rally would be attacked, as if not thought Kara Torquasm Vo & Rao.
+At Noonan's, Kara and Alex got coffee, talked about Winn, about Adrian, about J'onn who is 317 years old and can wear any face he chooses and speaks languages your mouth can't even form.
 
-Senator Crane on stage, Tawny Cypress, suit, hair, voice that is bigot but bigot who thinks she is protecting America, not concerned about threats space invaders may have on planet but specifically America, says aliens are threat to America and we should do anything to keep them from ruining country and depleting resources, even if it means putting up dome to protect ourselves, even if it means putting up dome around National City.
+When Kara asked for Cat's coffee, black, two sugars, extra hot, a young man at next table said condolences for working for Cat Grant. Is she as bad as they say? Breathes fire and eats babies? I heard she sat down with Putin, Pope Francis, and Taylor Swift and wasn't worried about dinner with son.
 
-Hank Henshaw was there as Hank Henshaw, not as J'onn J'onzz, because he is pretending to be human, because he is reluctant to show who he is or openly use powers, because FBI and agent Cameron Chase came to CatCo to question Winn about father and J'onn is reluctant to show who he is, because he is 317 years old and can wear any face he chooses and speaks languages your mouth can't even form and you know nothing about him.
+Kara said Cat is tough but bad-ass, good person deep down, jerk with a heart of gold.
 
-Then alien attack, cue alien attack, because rally is obvious hotspot.
+The man left. Alex said he was flirting with you, blatant flirting, how are you that naive.
 
-The White Martian, member of alien race responsible for killing Hank's people, that wiped out his people, that caused Martian Holocaust, that enslaved Green Martian men and sent multiple corpses into ditches and sent wife and two daughters to Furnace and burnt to death, that J'onn is Holocaust survivor, that J'onn is last Green Martian alive, survivor's guilt ever since escaped there hasn't been day when isn't ashamed about being last Green Martian alive, that J'onn is 317 years old.
+Kara blushed, she is with Adrian since roof in November, since sun, since second toothbrush, and not looking for flirting.
 
-The White Martian bares more than passing resemblance to Xenomorph but lot more agile, eyes glowing white compared to J'onn's red, Glowing Eyes of Doom, 8 feet tall, white, not green, Always Chaotic Evil, sees Green Martians as insects and humans as worm food.
+Senator Miranda Crane arrived 2 PM, anti-alien politician, running campaign of fear, proposing building giant dome around National City to keep aliens out, claiming aliens invading to take resources.
 
-Supergirl quickly drives creature away, proper superpowered, supersonic, absorbing momentum so rally stage does not collapse, flight counter rotation, rescues Senator who is taken into protective custody by DEO, not killed, saved.
+DEO was at rally because anti-alien rallies are hotspots for alien attacks. CatCo was there because news.
 
-Hank Henshaw visibly affected, feeling its arrival due to him using powers in previous episode, Call-Back J'onn using powers to impersonate Maxwell Lord in previous episode S01E10 Childish Things allowed White Martian to sense him drawing it to Earth, because J'onn used powers to infiltrate Lord Industries Room 52 MATA HARI dinner date phases door Jane Doe black eyes Bizarro backup cameras.
+Kara was there as Kara Danvers, covering for Cat. Adrian was at CatCo placing his mug back, ordinary.
 
-Hank/J'onn then recounts how war between Green and White Martians cost his people their lives, including his wife and daughters, how White Martians are Martian Nazis including labour camps body pits furnaces, how his wife and two daughters were sent to Furnace and burnt to death, how he is 317 years old and can wear any face he chooses and speaks languages your mouth can't even form and you know nothing about him, Badass Boast.
+Senator Crane on stage, suit, hair, bigot who thinks she is protecting America. Aliens are threat to America and we should do anything to keep them from ruining country, even putting up dome.
 
-David Harewood did such great showing heartache he lived through, flashback incredible very heart wrenching, Mars sequence amazing, dead martians but martians, whole Mars sequence amazing, sitting there amazed by what seeing on television.
+Hank Henshaw was there as Hank Henshaw, not as J'onn, pretending to be human, reluctant to show powers.
 
-Kara, after hearing J'onn backstory, thought about Torquasm Vo Rao, because J'onn is telepath and White Martian is telepath and Torquasm Vo is defensive mental martial art that could protect against telepathic attack, Torquasm Rao is offensive that could project, and Adrian thought Kara Torquasm Vo & Rao before White Martian arrived, before J'onn backstory, and now J'onn backstory makes Torquasm Vo Rao more important.
+Then White Martian, eight feet tall, white, not green, eyes glowing white, not red, agile like Xenomorph but more agile. Member of race that wiped out J'onn's people, that caused Martian Holocaust, that put Green Martians in labor camps, body pits, furnaces, that sent J'onn's wife and two daughters to Furnace and burnt them.
 
-Kara asked J'onn, quiet, after debrief, "J'onn, have you heard of Torquasm Vo and Torquasm Rao? Kryptonian mental martial arts? Adrian... Adrian thought I should learn, because you are telepath and White Martians are telepaths and I am vulnerable to mind attacks, like Red Kryptonite made me angry and not myself, like... like thoughts."
+Supergirl drove it away, supersonic, absorbing momentum so stage didn't collapse, flight counter rotation, rescued Senator, DEO took her into protective custody.
 
-J'onn looked at Kara, 317 years old eyes that have seen Furnace and wife daughters burnt, and said, "Torquasm Vo and Rao. Yes. I know them. Green Martians have similar disciplines, H'ronmeer's mind. Torquasm Vo is closing mind like ice dome, like freeze breath for thoughts, like vacuum breath for thoughts, absorbing momentum of thoughts so they do not crack. Torquasm Rao is projecting mind like heat vision but for thoughts. Your mother Alura would know. Kelex in Fortress would have records. I can teach you some, if you want, Like a Daughter to Me."
+Hank was visibly affected. He felt its arrival was because he used powers in previous episode to impersonate Maxwell Lord to infiltrate Room 52.
 
-Kara said, "Yes, please, I want to learn, because White Martian is telepath and you are telepath and I am Supergirl who can lift train and absorb momentum and flight counter rotation and freeze breath and vacuum breath and ice dome but not mind, and Adrian thought Kara Torquasm Vo & Rao before White Martian arrived, and now White Martian is here."
+Later, J'onn told Kara and Alex about Mars. David Harewood showing heartache, flashback incredible, heart wrenching. He is 317 years old, can wear any face, speaks languages your mouth can't form. He described labor camps, body pits, furnaces, wife and two daughters sent to Furnace. Survivor's guilt, last Green Martian alive.
 
-J'onn nodded, "We will start after White Martian is caught. First, we catch White Martian. Then, Torquasm Vo."
+Kara asked J'onn about Torquasm Vo and Rao, Adrian thought she should learn, because White Martians are telepaths and J'onn is telepath and she is vulnerable.
 
-Using one of James Olsen's photographs, Kara quickly realizes that Senator Crane is actually the White Martian. I Never Said It Was Poison: White Martian blows cover as Miranda Crane by mentioning that a White Martian attacked the rally. Crane would only know it as monster not by its proper name, White Martian proper name, Senator would only know monster not White Martian.
+J'onn said yes, Green Martians have similar, H'ronmeer's mind, Torquasm Vo closing mind like ice dome absorbing momentum thoughts not crack, Torquasm Rao projecting mind like heat vision for thoughts, I can teach you some, like a daughter to me.
 
-There is fight at DEO, alien escapes, loses finger during attack on DEO, Fingore, finger reverts to normal White Martian form, This Was His True Form when White Martian gets finger shot off while in form of Miranda Crane finger reverts to normal form, Wounded Gazelle Gambit after disguise blown goes back to lair pretends be Miranda Crane kept alive by White Martian, isn't until J'onn finds real one that realize been played and by then too late to stop White Martian from taking Alex.
+Using James Olsen's photographs, Kara realized Senator Crane is actually White Martian. White Martian blew cover by mentioning that a White Martian attacked rally. Crane would only know it as monster, not proper name.
 
-Hank decides must face off against alien rival once and for all and will kill monster even if goes against everything he has stood for and potentially own life, It's Personal J'onn had enough White Martian terrorizing city decides end it once and for all killing White Martian, Heroic BSoD J'onn twice freezes at sight White Martian remembering what they did to family planet.
+Fight at DEO, alien escaped, lost finger, finger reverted to White Martian form. Wounded gazelle gambit, went back to lair pretending to be Miranda Crane kept alive, until J'onn found real one.
 
-Kara and Alex decide have to help Hank, but Kara is called to Cat Grant side for emergency help, because Cat emergency involves untimely arrival of son Adam, arrived due to heartfelt letter sent by mother, truth is Kara is one who finished discarded note and sent on behalf of boss, more on that in Part 2.
+Hank decided he must kill monster even if goes against everything. Kara and Alex said they have to help, but Kara was called to Cat's emergency, Cat's son Adam arrived due to letter Kara finished and mailed under Cat's name, more in Part 2.
 
-Back to main story, Alex and Hank descend into sewers to find White Martian and Senator Crane, both encounter her same time, only Alex's is really alien who takes her hostage, Hank and Martian telepathically come to terms where he will sacrifice himself in exchange for Alex being set free, I Surrender Suckers J'onn pretends give himself up to White Martian to save Alex only for Supergirl to swoop in sucker punch White Martian when distracted, telepathically come to terms where he will sacrifice himself, telepathically, because both telepaths, because White Martian is telepath and J'onn is telepath and Torquasm Vo Rao would help.
+Alex and Hank went into sewers to find White Martian and Senator Crane. Both encountered her at same time, only Alex's was really alien who took her hostage. Hank and Martian telepathically came to terms sacrifice himself for Alex freed, pretend to give himself up to save Alex, Supergirl sucker punch when distracted.
 
-They meet in desert to do battle but Kara arrives lends Hank hand battling alien, action pretty well done despite blatant CGI, ends with Hank using Kryptonite cuffs to hold Kara back so he can kill his foe, If You Kill Him You Will Be Just Like Him Supergirl talks J'onn out of killing White Martian because then he'd be no better than their kind and what's more White Martian would then have effectively succeeded in destroying last of Green Martians, imprison White Martian who teases that millions of fellow aliens waiting to attack, Badass Boast When White Martian threatens millions kind will come for help Supergirl simply answers Let them come.
+They met in desert to do battle, Kara arrived, action well done despite CGI, ended with Hank using Kryptonite cuffs to hold Kara back so he can kill foe. Kara talked him from it, if you kill him you will be just like him, then he'd be no better than their kind and White Martian would have succeeded in destroying last Green Martians. They imprisoned White Martian who teased millions fellow aliens waiting to attack. Supergirl answered Let them come.
 
-Back home, Kara and Alex discuss potential date with Adam when news broadcast shows Supergirl saving truck from crashing into river, only problem Kara is sitting right there, Evil Knockoff Lord's Lab 52 plan comes to fruition final scene revealing Supergirl copy that has her basic powerset, Debut Queue Bizarro's official outing as Supergirl, Bizarro Galatea Jane Doe black eyes.
+Back home, Kara and Alex were on couch blankets pizza Game of Thrones when news showed Supergirl saving truck from crashing into river. Problem: Kara was sitting right there.
 
-There would be another headline tomorrow. Tonight there was forest fire camper saved, young man at Noonan's flirting who is actually Cat's son Adam, White Martian arrives, Senator Crane anti-alien dome, J'onn backstory Mars Holocaust wife daughters Furnace, James photo realizes Crane is White Martian I Never Said It Was Poison, DEO fight finger Fingore This Was His True Form, sewers Alex hostage, desert battle, Kara talks J'onn from killing, Bizarro reveal, and Adrian thought Kara Torquasm Vo & Rao before White Martian arrived.
+Evil knockoff, Lord's Lab 52 plan comes to fruition, revealing Supergirl copy that has basic powerset, Bizarro's official outing as Supergirl, Jane Doe black eyes.
 
-Adrian, at his desk next morning, ordinary, human-level, placed chipped mug back next to theater mask magnet, went back to work, as if not heard forest fire and White Martian and J'onn 317 years old, as if not known young man at Noonan's is Cat's son Adam who will flirt with Kara who is with Adrian, as if not thought Kara Torquasm Vo & Rao.
+There would be another headline tomorrow. Tonight there was forest fire and White Martian and Senator and son who is not son.
 
-Kara, at her desk, typing, fingers not ache because baseline higher after sun, vision seeing individual dust motes in Cat office from bullpen, hearing Adrian pen across room, ordinary was a choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao.
+Adrian at desk, band at wrist, mug next to magnet, thought about Winn and about Kara and about agency and about Torquasm Vo and Rao.
 
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and Torquasm Vo & Rao.
+Kara at desk typing, hearing Adrian pen across room, ordinary was a choice.
 
-Adrian went back to work.
+At CatCo, Cat said Keira where is my coffee. Kara handed coffee.
+
+At Noonan's, Adam Foster was at table, coffee, waiting for Kara, not date, friends, because Kara said she has boyfriend Adrian.
+
+Kara arrived 10 AM, coat, chipped mug, and Adam said I saw television, second Supergirl saving truck badly, is that you? No, you are here, you are with Adrian since roof in November.
+
+Kara said it is not me, it is copy, Lord's Lab 52, Jane Doe, Bizarro.
+
+Adam said Bizarro? Like opposite?
+
+Kara said something like that.
+
+Adam said okay then friends still?
+
+Kara said friends.
+
+At DEO, Alex and Hank and J'onn talked about Bizarro, about White Martian in custody, about millions fellow aliens waiting to attack, let them come, like a daughter to me.
+
+Kara arrived at DEO as Supergirl, cape, boots, supersonic, absorbing momentum so launch bay didn't crack, flight counter rotation.
+
+Bizarro is on bridge again, Hank said as Hank Henshaw.
+
+Supergirl flew through DEO launch bay, supersonic, absorbing momentum, flight counter rotation, cape snapping, ninety seconds to bridge, and Bizarro was there, on bridge, holding truck again, different truck, same bridge, falling, different driver screaming.
+
+Bizarro saw Supergirl and smiled wrong, teeth too many, eyes wrong. You are not Supergirl, Bizarro said, voice wrong, broken copy, opposite.
+
+I am Supergirl, Kara said, quiet you okay to driver, not to Bizarro, because driver human needs quiet you okay.
+
+Bizarro dropped truck, not absorbing momentum, truck cracked, guardrail cracked, bridge cracked, because Bizarro does not absorb momentum, does not flight counter rotation.
+
+Supergirl caught truck properly absorbing momentum flight counter rotation flew to clearing put down soft driver okay quiet you okay.
+
+Bizarro attacked, supersonic not absorbing momentum flight not counter rotation punch would have cracked bridge if Supergirl had not absorbed momentum punch so bridge did not crack.
+
+Supergirl and Bizarro fought on bridge, supersonic, absorbing momentum, flight counter rotation, Bizarro used heat vision wide uncontrolled ten feet wide melted asphalt guardrail truck Supergirl just saved, Supergirl used freeze breath wide controlled proper no joke froze Bizarro heat vision froze line around Bizarro then used Torquasm Vo closing mind like ice dome absorbing momentum Bizarro copy thoughts so mind did not crack, because Adrian thought Kara Torquasm Vo and Rao before White Martian.
+
+Bizarro screamed, not Kara scream, Bizarro scream.
+
+J'onn arrived as J'onn J'onzz, not as Hank Henshaw, 317 years old can wear any face speak languages your mouth can't form you know nothing about me, used telepathy H'ronmeer's mind Green Martian similar disciplines Torquasm Vo Rao closing mind projecting mind held Bizarro not killing because if you kill him you will be just like him.
+
+Alex arrived with sedative, Sedative. You're welcome.
+
+Bizarro fell, not dead, sedated, taken into DEO protective custody not killed saved because Supergirl does not kill.
+
+Back at CatCo next morning, Bizarro in DEO custody and truck saved properly and Cat had son Adam who stayed and Winn at home taking space and Kara at desk typing fingers not ache baseline higher after sun vision seeing dust motes Cat office from bullpen hearing Adrian pen across room ordinary was a choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to respect agency.
+
+There would be another headline tomorrow. Tonight there was forest fire and White Martian and Senator and son who is not son and son who is son and forest fire and Adam and Bizarro and bridge and fight and sedative and DEO custody.
+
+At the arcade, the boardwalk was creepy, dolls robotic stuffed animals, Superman rocket ride broken. Winn had told Kara about this place, his favorite spot as a kid, before father became Toyman. The doll was jester, 1970s costume, talking clown, yo-yo blade escape, Van Kell, J'onn reluctant show powers flying, FBI Agent Cameron Chase questions Winn father Toyman staff learns, Winn hates father loved dad until 6 people Dunholtz stole designs bomb teddy bear killed assistant.
+
+Winn told Chase about doll, about favorite spot, about boardwalk arcade. FBI went to arcade, stormed, but it was hologram, simulacrum, poison gas, hydrochloric acid NaCl H2O lethal. Supergirl inhaled gas, vacuum breath, dispersed into sky, told Winn needs him, needs his mind, not just guy in the chair.
+
+Alex at DEO, bullies Hank to use Martian powers to infiltrate Lord Room52, MATA HARI dinner date, phases wall, Room52, Jane Doe black eyes guard memory loss invisible backup video himself supernatural camera purse Alex Kara flight.
+
+Winn at apartment, worries snap genes time bomb, father killer, will he become killer, will he snap, is he time bomb. Kara came, threw towel, called Chase, calmed him, both lives ended day, strive to give back, you make things that help people, you make my suit better, you make my life better.
+
+Winn figured father old factory, abandoned SlingSchott factory, creepy thermite quicksand explosives child screaming trunk shredder, giant building block child trunk shredder freeze breath.
+
+Winn was kidnapped, plastic gun that bypasses metal detectors, convention, 10 bombs to kill Dunholtz, to bring them closer, best thing ever made, robot, Winn refuses shoots air Supergirl sprinklers freeze ice wall dome protects, proper superpowered, supersonic, absorbing momentum so sprinklers didn't crack, flight counter rotation, hydraulic fluid spray 15ft scorched circle, thermite quicksand.
+
+After, Winn told Kara he loves her since before Supergirl, since CatCo, since she smiled at him

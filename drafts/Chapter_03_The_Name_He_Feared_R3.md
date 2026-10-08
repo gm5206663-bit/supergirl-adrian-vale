@@ -1,4 +1,4 @@
-# Season 1, Episode 1 — Pilot
+# Chapter 3: The Name He Feared
 
 ## Chapter 3 — The Name He Feared
 

@@ -1,4 +1,4 @@
-# Season 1, Episode 3 — Fight or Flight
+# Chapter 6: Under the Headline
 
 ## Chapter 6 — Under the Headline
 

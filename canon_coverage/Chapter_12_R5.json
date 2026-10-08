@@ -4,7 +4,7 @@
   "revision": "R5",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_12_The_Kiss_R5.md",
-  "draft_sha256": "0ae72ea4ff18db8b4e57441fa4ca2ce86d92cbd9b2e76adf48f711a70b7a69b2",
+  "draft_sha256": "8c7fd2d72d85c31a5f29a6d124e209f593598dc0275060691b02d6793dc6b96a",
   "accepted": true,
   "claimed_episode": "S01E06-08 \u2014 The Kiss clean no ticker spam no Cat knowing private monitor James secret nonsense no meta consensual",
   "span": "The Kiss clean no ticker spam no Cat knowing private monitor James secret nonsense no meta consensual",
@@ -116,24 +116,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_12_R5_REVIEW.md",
-      "sha256": "77a408146fb4d6de3427458a8c61514d1fadeca9dc7095647b0c65593a7c7cfb"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     },
     "continuity": {
-      "path": "audits/CHAPTER_12_R5_REVIEW.md",
-      "sha256": "77a408146fb4d6de3427458a8c61514d1fadeca9dc7095647b0c65593a7c7cfb"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     },
     "power": {
-      "path": "audits/CHAPTER_12_R5_REVIEW.md",
-      "sha256": "77a408146fb4d6de3427458a8c61514d1fadeca9dc7095647b0c65593a7c7cfb"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_12_R5_REVIEW.md",
-      "sha256": "77a408146fb4d6de3427458a8c61514d1fadeca9dc7095647b0c65593a7c7cfb"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     },
     "prose": {
-      "path": "audits/CHAPTER_12_R5_REVIEW.md",
-      "sha256": "77a408146fb4d6de3427458a8c61514d1fadeca9dc7095647b0c65593a7c7cfb"
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
     }
   },
   "release_ready": true,

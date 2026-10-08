@@ -4,7 +4,7 @@
   "revision": "R8",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_09_Red_Faced_and_Named_R8.md",
-  "draft_sha256": "7d840fc850aed2f794b4c3d5d4c97bcce66bb99a82ed83cdcfee30fd03e124c3",
+  "draft_sha256": "ba551daa76a6bd35a8ae0adcf7230e568d52d0c7ca2570870c0212f15e74833c",
   "accepted": true,
   "claimed_episode": "S01E06-08 \u2014 Red Faced and Named Part1 clean no ticker spam no Cat private secrets",
   "span": "Red Faced and Named Part1 clean no ticker spam no Cat private secrets",
@@ -116,24 +116,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_9_R8_REVIEW.md",
-      "sha256": "28329ff7fa5b9d3b1215f983c50fd8ed6e719b1e2a3969b580b8622d963da5fd"
+      "path": "audits/CHAPTER_09_R2_REVIEW.md",
+      "sha256": "706772cc851bceeabcf1cdeea2318137eeeef82dc3b6a65c60af0566d50fde47"
     },
     "continuity": {
-      "path": "audits/CHAPTER_9_R8_REVIEW.md",
-      "sha256": "28329ff7fa5b9d3b1215f983c50fd8ed6e719b1e2a3969b580b8622d963da5fd"
+      "path": "audits/CHAPTER_09_R2_REVIEW.md",
+      "sha256": "706772cc851bceeabcf1cdeea2318137eeeef82dc3b6a65c60af0566d50fde47"
     },
     "power": {
-      "path": "audits/CHAPTER_9_R8_REVIEW.md",
-      "sha256": "28329ff7fa5b9d3b1215f983c50fd8ed6e719b1e2a3969b580b8622d963da5fd"
+      "path": "audits/CHAPTER_09_R2_REVIEW.md",
+      "sha256": "706772cc851bceeabcf1cdeea2318137eeeef82dc3b6a65c60af0566d50fde47"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_9_R8_REVIEW.md",
-      "sha256": "28329ff7fa5b9d3b1215f983c50fd8ed6e719b1e2a3969b580b8622d963da5fd"
+      "path": "audits/CHAPTER_09_R2_REVIEW.md",
+      "sha256": "706772cc851bceeabcf1cdeea2318137eeeef82dc3b6a65c60af0566d50fde47"
     },
     "prose": {
-      "path": "audits/CHAPTER_9_R8_REVIEW.md",
-      "sha256": "28329ff7fa5b9d3b1215f983c50fd8ed6e719b1e2a3969b580b8622d963da5fd"
+      "path": "audits/CHAPTER_09_R2_REVIEW.md",
+      "sha256": "706772cc851bceeabcf1cdeea2318137eeeef82dc3b6a65c60af0566d50fde47"
     }
   },
   "release_ready": true,
