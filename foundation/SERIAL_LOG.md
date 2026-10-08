@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: c8c85e1e3af55e1f9074425c82023d3d93e09e7c5988665c47e8de97b515ab35 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8821a4da2a1730274cb6a7645f3e744b3d553b29340e460fb3f400af3fa70d39 -->
 
 # Serial log
 
@@ -163,5 +163,9 @@ Chapter 16 Childish Things R1 adopted 4469w full 3000+ S01E10 Toyman proper figh
 ## E040 — 2026-10-08 — adopted_chapter
 
 Split S01E10 Childish Things into TWO natural chapters like Red Faced U36: Ch16 R2 3050w Toyman Returns + Ch17 R1 3498w The Convention full 3000+ not rushing per user feedback entire episode into one chapter mistake
+
+## E041 — 2026-10-08 — adopted_chapter
+
+Fix natural butterfly dead Then he leaned in and kissed her - Winn knows Kara with Adrian since Ch12 kiss roof November cold chipped mug theater mask magnet pen across room hallway text, Adrian hears heartbeat irregular texts hallway does not storm possessive trusts Kara, Kara pulls away boundary I'm with Adrian you know I'm with Adrian love you as best friend as family but I'm with Adrian happy need you as friend not this, Winn guilt amplified knows Adrian is friend helped private monitor closed, confession includes I know you're with Adrian since sun since chipped mug since you smiled different happy for you Adrian is my friend, Ch16 R3 3142w Ch17 R2 4699w full 3000+ not rushing split natural butterfly file foundation/BUTTERFLY_EFFECTS_CH10_17_NATURAL.md
 
 Accepted chapter edge: 17. Draft prose is not an accepted event.

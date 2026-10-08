@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: c8c85e1e3af55e1f9074425c82023d3d93e09e7c5988665c47e8de97b515ab35 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8821a4da2a1730274cb6a7645f3e744b3d553b29340e460fb3f400af3fa70d39 -->
 
 # Supergirl — Adrian Vale
 
@@ -59,8 +59,8 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 13](chapters/Chapter_13_Human_for_a_Day.md): audits/CONTINUATION_Chapter_13.md — U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen
 - [Chapter 14](chapters/Chapter_14_Hostile_Takeover.md): audits/CONTINUATION_Chapter_14.md — U52: Kryptonite dagger shown not told
 - [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Blood Bonds 2957w proper prose full not rushing per user 3000+ request
-- [Chapter 16](chapters/Chapter_16_Childish_Things.md): audits/CONTINUATION_Chapter_16.md — Childish Things Part 1 - Toyman Returns 3050w full not rushing split natural
-- [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — Childish Things Part 2 - The Convention 3498w full not rushing split natural
+- [Chapter 16](chapters/Chapter_16_Childish_Things.md): audits/CONTINUATION_Chapter_16.md — Childish Things Part 1 - Toyman Returns Natural Butterfly Fixed 3142w full not rushing natural butterfly fixed kiss knows with Adrian
+- [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — Childish Things Part 2 - The Convention Natural Butterfly Fixed Kiss Knows With Adrian 4699w full not rushing natural butterfly fixed kiss knows with Adrian
 
 ### Preserved drafts and current candidate
 
@@ -96,8 +96,10 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_16_Childish_Things_R1.md](drafts/Chapter_16_Childish_Things_R1.md): adopted as Chapter 16 R1 full 4469w not rushing S01E10 Childish Things Toyman
 - [drafts/Chapter_16_Childish_Things_Part1_R2.md](drafts/Chapter_16_Childish_Things_Part1_R2.md): adopted as Chapter 16 R2 full 3050w not rushing split natural S01E10 Childish Things Toyman
 - [drafts/Chapter_17_Childish_Things_Part2_R1.md](drafts/Chapter_17_Childish_Things_Part2_R1.md): adopted as Chapter 17 R1 full 3498w not rushing split natural S01E10 Childish Things Toyman
+- [drafts/Chapter_16_Childish_Things_Part1_R2.md](drafts/Chapter_16_Childish_Things_Part1_R2.md): adopted as Chapter 16 R3 full 3142w not rushing natural butterfly fixed kiss knows with Adrian
+- [drafts/Chapter_17_Childish_Things_Part2_R2.md](drafts/Chapter_17_Childish_Things_Part2_R2.md): adopted as Chapter 17 R2 full 4699w not rushing natural butterfly fixed kiss knows with Adrian
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 17, R1**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 17, R2**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
