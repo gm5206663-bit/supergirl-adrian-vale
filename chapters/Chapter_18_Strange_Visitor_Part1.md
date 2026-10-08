@@ -70,7 +70,7 @@ Using one of James Olsen's photographs, Kara realized Senator Crane is actually 
 
 Fight at the DEO, alien escaped, lost a finger, finger reverted to White Martian form. Wounded gazelle gambit, went back to lair pretending to be Miranda Crane kept alive, until J'onn found the real one.
 
-Hank decided he must kill the monster even if it goes against everything. Kara and Alex said they have to help, but Kara was called to Cat's emergency, Cat's son Adam arrived due to a letter Kara finished and mailed under Cat's name, more in Part 2.
+Hank decided he must kill the monster even if it goes against everything. Kara and Alex said they have to help, but Kara was called to Cat's emergency, Cat's son Adam arrived due to a letter Kara finished and mailed under Cat's name, 
 
 Alex and Hank went into the sewers to find White Martian and Senator Crane. Both encountered her at same time, only Alex's was really the alien who took her hostage. Hank and Martian telepathically came to terms, sacrifice himself for Alex freed, pretend to give himself up to save Alex, Supergirl sucker punch when distracted.
 
@@ -120,7 +120,7 @@ Using James Olsen's photographs, Kara realized Senator Crane is actually White M
 
 Fight at DEO, alien escaped, lost finger, finger reverted to White Martian form. Wounded gazelle gambit, went back to lair pretending to be Miranda Crane kept alive, until J'onn found real one.
 
-Hank decided he must kill monster even if goes against everything. Kara and Alex said they have to help, but Kara was called to Cat's emergency, Cat's son Adam arrived due to letter Kara finished and mailed under Cat's name, more in Part 2.
+Hank decided he must kill monster even if goes against everything. Kara and Alex said they have to help, but Kara was called to Cat's emergency, Cat's son Adam arrived due to letter Kara finished and mailed under Cat's name, 
 
 Alex and Hank went into sewers to find White Martian and Senator Crane. Both encountered her at same time, only Alex's was really alien who took her hostage. Hank and Martian telepathically came to terms sacrifice himself for Alex freed, pretend to give himself up to save Alex, Supergirl sucker punch when distracted.
 

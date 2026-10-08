@@ -228,5 +228,17 @@ Winn came over and put a bagel on her desk without comment. James left a contact
 
 At noon Adam Foster came by with coffee for everyone because he'd heard about the plant and wanted to make sure Kara was okay. He was friends, not a date, because Kara had told him clearly months ago that she had a boyfriend, and he had listened. He stayed for ten minutes and left.
 
+
+Cat was booked on The Talk that afternoon. She had been asked to discuss Supergirl, because Supergirl had been seen on a bar at Noonan's shattering bottles with peanuts and demanding worship.
+
+Cat went, because Cat goes where cameras are. She sat between two other hosts and said, "Supergirl is going through something. I have sat with difficult people before. I have sat with Putin, Pope Francis, and Taylor Swift and not worried about dinner with my son. Supergirl is not difficult. She is young and she is angry and she is allowed to be angry, but not cruel. There is a difference."
+
+The hosts asked if Supergirl was dangerous.
+
+Cat said, "She is dangerous the way a storm is dangerous. You respect it. You don't poke it with a stick. And you don't put it on a bar and film it."
+
+Kara watched it from the DEO med bay, in the black suit, and started crying again.
+
+
 There would be another headline tomorrow. Tonight there was just coffee, and a mug put back where it belonged, and the quiet knowledge of how much control it takes to live under a red sun and still choose to be ordinary — and how much stronger that made Adrian's willpower than any synthetic red dust ever could.
 
