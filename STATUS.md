@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: f7620e84d7e093dc4845f68c6260037d7de817b21b1e771c7de172894034f949 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 6505f76b5eb9219c7c98ba195f09ae3458a9a1554a12c5158516e276b3667b3c -->
 
 # File map
 
@@ -73,6 +73,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/CHAPTER_17_R2_REVIEW.md](audits/CHAPTER_17_R2_REVIEW.md)
 - [audits/CHAPTER_17_R4_REVIEW.md](audits/CHAPTER_17_R4_REVIEW.md)
 - [audits/CHAPTER_17_R5_REVIEW.md](audits/CHAPTER_17_R5_REVIEW.md)
+- [audits/CHAPTER_17_R6_REVIEW.md](audits/CHAPTER_17_R6_REVIEW.md)
 - [audits/CHAPTER_18_R1_REVIEW.md](audits/CHAPTER_18_R1_REVIEW.md)
 - [audits/CHAPTER_18_R2_REVIEW.md](audits/CHAPTER_18_R2_REVIEW.md)
 - [audits/CHAPTER_19_R1_REVIEW.md](audits/CHAPTER_19_R1_REVIEW.md)
@@ -261,6 +262,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [canon_coverage/Chapter_17_R2.json](canon_coverage/Chapter_17_R2.json)
 - [canon_coverage/Chapter_17_R4.json](canon_coverage/Chapter_17_R4.json)
 - [canon_coverage/Chapter_17_R5.json](canon_coverage/Chapter_17_R5.json)
+- [canon_coverage/Chapter_17_R6.json](canon_coverage/Chapter_17_R6.json)
 - [canon_coverage/Chapter_18_ACCEPTED.json](canon_coverage/Chapter_18_ACCEPTED.json)
 - [canon_coverage/Chapter_18_R1.json](canon_coverage/Chapter_18_R1.json)
 - [canon_coverage/Chapter_18_R2.json](canon_coverage/Chapter_18_R2.json)
@@ -379,6 +381,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md)
 - [drafts/Chapter_16_Childish_Things_R1.md](drafts/Chapter_16_Childish_Things_R1.md)
 - [drafts/Chapter_17_Childish_Things_Convention_R5.md](drafts/Chapter_17_Childish_Things_Convention_R5.md)
+- [drafts/Chapter_17_Childish_Things_Convention_R6.md](drafts/Chapter_17_Childish_Things_Convention_R6.md)
 - [drafts/Chapter_17_Childish_Things_Part2_R1.md](drafts/Chapter_17_Childish_Things_Part2_R1.md)
 - [drafts/Chapter_17_Childish_Things_Part2_R2.md](drafts/Chapter_17_Childish_Things_Part2_R2.md)
 - [drafts/Chapter_17_Childish_Things_Part2_R4.md](drafts/Chapter_17_Childish_Things_Part2_R4.md)

@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: f7620e84d7e093dc4845f68c6260037d7de817b21b1e771c7de172894034f949 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 6505f76b5eb9219c7c98ba195f09ae3458a9a1554a12c5158516e276b3667b3c -->
 
 # Supergirl — Adrian Vale
 
@@ -60,7 +60,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 14](chapters/Chapter_14_Hostile_Takeover.md): audits/CONTINUATION_Chapter_14.md — U52: Kryptonite dagger shown not told
 - [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Blood Bonds 2957w proper prose full not rushing per user 3000+ request
 - [Chapter 16](chapters/Chapter_16_Childish_Things.md): audits/CONTINUATION_Chapter_16.md — Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing 4127w complete clean no ticker no Cat private proper fights natural butterfly
-- [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — Childish Things Convention R5 natural syn no meta 2753w
+- [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — Childish Things Convention R6 agency no forcing canon 2885w
 - [Chapter 18](chapters/Chapter_18_Strange_Visitor_Part1.md): audits/CONTINUATION_Chapter_18.md — Strange Visitor Part1 White Martian + Torquasm Vo Rao 3665w full not rushing Torquasm Vo Rao
 - [Chapter 19](chapters/Chapter_19_Strange_Visitor_Part2.md): audits/CONTINUATION_Chapter_19.md — Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao 3122w full not rushing Torquasm Vo Rao
 
@@ -107,8 +107,9 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_18_Strange_Visitor_Part1_R2.md](drafts/Chapter_18_Strange_Visitor_Part1_R2.md): adopted as Chapter 18 R2 full 3665w not rushing Strange Visitor Part1 White Martian + Torquasm Vo Rao Torquasm Vo Rao
 - [drafts/Chapter_19_Strange_Visitor_Part2_R2.md](drafts/Chapter_19_Strange_Visitor_Part2_R2.md): adopted as Chapter 19 R2 full 3122w not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao
 - [drafts/Chapter_17_Childish_Things_Convention_R5.md](drafts/Chapter_17_Childish_Things_Convention_R5.md): adopted as Chapter 17 R5 full 2753w natural syn no meta no Ch12 no writing myself
+- [drafts/Chapter_17_Childish_Things_Convention_R6.md](drafts/Chapter_17_Childish_Things_Convention_R6.md): adopted as Chapter 17 R6 full 2885w agency no forcing canon no kiss without wanting Kara is Kara
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 17, R5**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 17, R6**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 

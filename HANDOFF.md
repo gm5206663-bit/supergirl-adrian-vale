@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: f7620e84d7e093dc4845f68c6260037d7de817b21b1e771c7de172894034f949 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 6505f76b5eb9219c7c98ba195f09ae3458a9a1554a12c5158516e276b3667b3c -->
 
 # Handoff — Supergirl / Adrian Vale
 
@@ -15,7 +15,7 @@ A native male Kryptonian–Daxamite hybrid Talent holder with a genuinely crimin
 **U23 public identity:** complete suit/mask for interventions; civilian identity protected. Visual resemblance is out-of-world only. See `bible/PUBLIC_IDENTITY_AND_COSTUME.md`.
 
 
-The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 17, R5**, at `drafts/Chapter_17_Childish_Things_Convention_R5.md`: adopted as Chapter 17 R5 full 2753w natural syn no meta no Ch12 no writing myself. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
+The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 17, R6**, at `drafts/Chapter_17_Childish_Things_Convention_R6.md`: adopted as Chapter 17 R6 full 2885w agency no forcing canon no kiss without wanting Kara is Kara. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
 
 ## 3. The one status source
 `foundation/CURRENT_STATE_MANIFEST.json`. STATUS_PANEL, this handoff, SERIAL_LOG and the overview are generated from it. Do not edit a generated mirror to repair state.

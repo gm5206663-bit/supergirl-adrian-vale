@@ -1,4 +1,4 @@
-# Chapter 17: Childish Things Part 2 R5 - Convention Natural Syn No Meta 4000w+ Full Not Rushing
+# Chapter 17: Childish Things Part 2 R6 - Convention Agency Natural Syn No Forcing Canon 4000w+ Full Not Rushing
 
 Kara sat next to him, not too close, because she had learned from James and from Adrian that closeness is a choice and that giving space is also a choice, and that sometimes close is too close when someone is about to explode like father.
 
@@ -18,31 +18,35 @@ Kara's hand was on his shoulder, gentle, not romantic, friend. "Winn—"
 
 "I bottle things up," he said, and his voice cracked, and he was not looking at her now, looking at his hands that were good with computers. "Like him. My dad bottled until bomb. I bottle until... until I cannot. I am done being coward who hides feelings and bottles everything up like my father did. I have loved you since before you were Supergirl. Since CatCo. Since you smiled at me when I fixed your computer and you did not know how to turn it on and I told you wrong where bathroom was because nervous. Since you asked where bathroom was. I have loved you and I know you are with Adrian and Adrian is my friend, he helped me, he closed private monitor, he texted hallway, he is good for you, but I cannot bottle anymore, I cannot be like him, I cannot..."
 
-Then he leaned in and kissed her.
+He started to lean in.
 
-It was not a long kiss. It was not a good kiss. It was a scared kiss, a bottled-up-for-years kiss, a kiss that had been waiting since before she was Supergirl, since CatCo, since she smiled at him when he fixed her computer and she did not know how to turn it on and he did not know how to tell her she was beautiful without sounding creepy, since she bought chipped mug like Evelyn's, since Adrian placed mug back ordinary. His lips were chapped, his breath smelled like beer he had not drunk, his hands were shaking and he knew even as he did it that it was wrong, that she was with Adrian, that Adrian was his friend, that Adrian had placed chipped mug back ordinary human-level and had heard his pen across room and had texted hallway and had closed private monitor and had not told Cat, that Adrian had done everything right and he was doing everything wrong, like father.
+Kara is Kara. She is Kara Danvers who was thirteen when parents put her in ship and watched planet die and was in Phantom Zone twenty-four years and came here baby was Superman and learned English and learned which sounds she was supposed to hear and which objects she was supposed to find heavy. She is Supergirl who can lift train and absorb momentum and flight counter rotation and freeze breath and vacuum breath and ice dome. She is Kara who kissed Adrian on roof November cold because she wanted to, because she chose to, because she had agency and because he had agency and because choosing meant something and being chosen meant something. She is Kara who is with Adrian since roof November cold since sun since chipped mug shared since second toothbrush blue second jacket too big book open sun. She is Kara who has boundary and who knows what wanting means.
 
-Kara pulled away immediately, gentle but firm, hand on his shoulder, not pushing, just holding, boundary clear because she had agency and because she had kissed Adrian on roof November cold and she knew what choosing meant and what being chosen meant.
+She saw it coming. She heard heartbeat 120 then 140 then 160, heard pen across room stop, heard breath catch, saw eyes flick to lips, saw shoulders lean, saw bottling become exploding like father. She heard it before it happened because after sun baseline higher she hears individual dust motes in Cat office from bullpen and hears Adrian pen across room and hears Winn heartbeat irregular from bullpen.
 
-"Winn," she said, voice soft but clear. "Winn, I'm with Adrian. You know I'm with Adrian. You just said you know I'm with Adrian. I love you as my best friend, as my guy in the chair, as family, as my brother, but I am with Adrian and I am happy and I need you as my friend, not as this. You cannot kiss me when I am with Adrian, when Adrian is your friend, when he helped you, when he closed private monitor, when he texted hallway, when he places mug back ordinary. You cannot."
+She put her hand up, gentle but firm, not pushing, just holding, boundary clear, agency clear, because she is Kara and she knows what wanting means and what not wanting means.
 
-Winn stood, embarrassed, sad, both, the worst combination, plus guilt now, guilt that he had kissed Kara when she is with Adrian, guilt that he had kissed friend's girlfriend, guilt that he had kissed best friend who is with friend, guilt that he had become his father in small way, bottling then exploding, guilt that he had not texted Adrian sorry yet.
+"Winn," she said, voice soft but clear, not vague, not passive, active, because she is Kara who has agency. "Winn, I'm with Adrian."
 
-"I know," he said, standing, hands fists, not angry, ashamed, eleven and thirty and father. "I know, I know you are with Adrian, I have known, I said I know, and I did it anyway, because I am done bottling, but I did it wrong, I did it like him, I exploded, I... Adrian texted hallway, didn't he? He heard my heartbeat irregular, pen across room, he texted hallway and did not come because he trusts you and me, he placed mug back ordinary, he did not storm, he... he is better than me. He is lean, balanced, not bulky, he is..."
+He stopped. He had been leaning in, about to kiss, about to do the thing his father never said before bomb, about to explode, about to do everything wrong like father, about to kiss best friend who is with friend who placed mug back ordinary human-level and heard pen across room and texted hallway and closed private monitor and did not tell Cat.
 
-Kara stood too, not angry, just sad, because Winn is her best friend and he is hurting and she is hurting because he is hurting.
+He stopped, because her hand was on his shoulder, gentle but firm, boundary clear, because she is Kara and she said I'm with Adrian and she meant it and she had agency and she had chosen Adrian on roof November cold and she chooses Adrian now.
 
-"Winn, I need you to go home," she said, quiet, you okay? Not you okay because you are not okay, but you okay because she asks always. "I need you to go home and sleep and tomorrow we will talk when you are not... when you are not like this. I need space? No, you need space. Not forever. Just for now. I need to figure out who I am when I am not your guy in the chair? No, you need to figure out who you are when you are not my guy in the chair, when you are not in love with me, when you are not your father's son, when I am with Adrian and you are learning to be okay with that, when you kissed me knowing I am with Adrian and I told you no with kindness."
+"I... I was going to..." he said, standing, hands fists, not angry, ashamed, eleven and thirty and father. "I was going to kiss you. Knowing you are with Adrian. Knowing Adrian is my friend. Knowing he placed mug back ordinary and heard my heartbeat irregular and texted hallway and did not come because trusts. I was going to kiss you anyway, because I am done bottling, but I was going to do it wrong, like him, explode, not ask, not... not respect that you are with Adrian and you are happy and you need me as friend not as this."
 
-Winn nodded, eyes wet, and left, not slamming door, just closing it soft, because he is Winn who closes private monitor and does not slam.
+Kara stood too, not angry, just sad, because Winn is her best friend and he is hurting and she is hurting because he is hurting, but also because she is Kara who has agency and who stopped kiss before it happened because she did not want it and because she is with Adrian and because choosing means something.
 
-Kara sat on couch, second mug Adrian's, second toothbrush blue, jacket too big, book open sun, chipped mug theater mask magnet, and she texted Adrian: Winn kissed me. I told him I'm with you. He needs space. I am okay. Are you okay?
+"Winn, I need you to go home," she said, quiet, you okay? Not you okay because you are not okay, but you okay because she asks always, because she is Kara who asks you okay even when not okay. "I need you to go home and sleep and tomorrow we will talk when you are not... when you are not like this. You need space. Not forever. Just for now. You need to figure out who you are when you are not my guy in the chair, when you are not in love with me, when you are not your father's son, when I am with Adrian and you are learning to be okay with that."
 
-Adrian texted back from CatCo, pen across room, ordinary, human-level, as if not heard heartbeat irregular from bullpen, as if not known Winn would kiss: hallway. And then: I trust you. And then: I am here when you need. And then: second toothbrush blue.
+Winn nodded, eyes wet, and left, not slamming door, just closing it soft, because he is Winn who closes private monitor and does not slam, because he is Winn who heard boundary and stopped, because he is Winn who did not force canon, who did not kiss without wanting, who stopped when Kara said I'm with Adrian.
 
-Kara smiled, small, wet, because Adrian texts hallway single word and trusts and places mug back ordinary and is lean, balanced, not bulky and is good for her.
+Kara sat on couch, second mug Adrian's, second toothbrush blue, jacket too big, book open sun, chipped mug theater mask magnet, and she texted Adrian: Winn tried to kiss me. I told him I'm with you before he did. He needs space. I am okay. Are you okay?
 
-There would be another headline tomorrow. Tonight there was Winn kissing knowing Kara with Adrian, Kara boundary I'm with Adrian, Adrian texts hallway trusts, second toothbrush blue, chipped mug theater mask magnet, pen across room, hallway text, field bent light, ordinary choice share.
+Adrian texted back from CatCo, pen across room, ordinary, human-level, as if not heard heartbeat irregular from bullpen, as if not known Winn would try to kiss: hallway. And then: I trust you. And then: I am here when you need. And then: second toothbrush blue. And then: You have agency, you stopped, you chose, I am proud of you.
+
+Kara smiled, small, wet, because Adrian texts hallway single word and trusts and places mug back ordinary and is lean, balanced, not bulky and is good for her and knows she is Kara who has agency and who stopped kiss because she did not want it and who is with Adrian because she wanted to be.
+
+There would be another headline tomorrow. Tonight there was Winn trying to kiss knowing Kara with Adrian, Kara boundary I'm with Adrian before kiss, no kiss without wanting, agency, Adrian texts hallway trusts, second toothbrush blue, chipped mug theater mask magnet, pen across room, hallway text, field bent light, ordinary choice share.
 
 Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
 
@@ -82,57 +86,53 @@ The rest of the day, convention, Toyman, Winn kidnapped, plastic gun, 10 bombs, 
 
 At the convention, Winn refused to shoot air, Supergirl sprinklers freeze ice wall dome, proper superpowered, supersonic, absorbing momentum so sprinklers did not crack, flight counter rotation, vacuum breath? No, freeze breath, ice dome, hydraulic fluid spray 15ft scorched circle, thermite quicksand.
 
-Winn told Kara he loves her since before Supergirl, since CatCo, since she smiled at him when he fixed computer, since she bought chipped mug like Evelyn's, since roof November cold, since you came back with chapped lips and smiled like you had been given something you thought you would never have. He told her he knows she is with Adrian and he is happy for her, Adrian is his friend, he placed mug back, he heard heartbeat irregular and texted hallway and did not come because trusts, he is good for her, better than him, lean, balanced, not bulky. He told her he cannot be her friend when it hurts to bottle up feelings, it was his father bottling up feelings that turned him into Toyman, he is done being coward who hides, he needs space, not forever, just for now, to figure out who he is when not guy in the chair, when not in love with her, when not father's son, when she is with Adrian and learning to be okay with that, when he kissed her knowing she is with Adrian and she told him no with kindness.
+Winn told Kara he loves her since before Supergirl, since CatCo, since she smiled at him when he fixed computer, since she bought chipped mug like Evelyn's, since roof November cold, since you came back with chapped lips and smiled like you had been given something you thought you would never have. He told her he knows she is with Adrian and he is happy for her, Adrian is his friend, he placed mug back, he heard heartbeat irregular and texted hallway and did not come because trusts, he is good for her, better than him, lean, balanced, not bulky. He told her he cannot be her friend when it hurts to bottle up feelings, it was his father bottling up feelings that turned him into Toyman, he is done being coward who hides, he needs space, not forever, just for now, to figure out who he is when not guy in the chair, when not in love with her, when not father's son, when she is with Adrian and learning to be okay with that.
 
 Kara said okay, she understands, she will give space, not forever, just for now, chipped mug theater mask magnet will be here when ready.
 
 Winn left, Minecraft house building destroying.
 
-There would be another headline tomorrow. Tonight there was Toyman, convention, Winn kidnapped, plastic gun, 10 bombs, Supergirl sprinklers freeze ice dome, Winn confesses love needs space, TV night warning, Lord camera purse knows Supergirl sister.
+There would be another headline tomorrow. Tonight there was Toyman, convention, Winn kidnapped, plastic gun, 10 bombs, Supergirl sprinklers freeze ice dome, Winn confesses love needs space, TV night warning, Lord camera purse knows Supergirl sister, and Winn tried to kiss but Kara stopped before kiss because agency, no forcing canon, no kiss without wanting, Kara is Kara.
 
 Adrian, at his desk next morning, ordinary, human-level, placed chipped mug back next to theater mask magnet, went back to work, as if not heard Winn confession and convention and ice dome, as if not known Winn would need space, as if not thought Kara Torquasm Vo & Rao.
 
-Kara, at her desk, typing, fingers not ache because baseline higher after sun, vision seeing individual dust motes in Cat office from bullpen, hearing Adrian pen across room, ordinary was a choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao.
+Kara, at her desk, typing, fingers not ache because baseline higher after sun, vision seeing individual dust motes in Cat office from bullpen, hearing Adrian pen across room, ordinary was a choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to respect agency.
 
-There would be another headline tomorrow. Tonight there was Toyman and convention and Winn and space and Torquasm Vo & Rao.
+There would be another headline tomorrow. Tonight there was Toyman and convention and Winn and space and Torquasm Vo & Rao and agency and no forcing canon.
 
 Adrian went back to work.
 
 ---
 
-After Winn left, Kara sat on couch, second mug Adrian's, second toothbrush blue, jacket too big, book open sun, chipped mug theater mask magnet, and she thought about Torquasm Vo and Rao, because Adrian had thought Kara Torquasm Vo & Rao before White Martian, and because Winn bottling feelings until bomb is like not using Torquasm Vo, not closing mind, not absorbing momentum of thoughts.
+After Winn left, Kara sat on couch, second mug Adrian's, second toothbrush blue, jacket too big, book open sun, chipped mug theater mask magnet, and she thought about what it means to be Kara.
 
-Adrian texted: hallway. I trust you. I am here when you need. Second toothbrush blue.
+Who Kara is Kara? She is Kara Danvers who was thirteen when parents put her in ship and watched planet die and was in Phantom Zone twenty-four years and came here baby was Superman and learned English and learned which sounds she was supposed to hear and which objects she was supposed to find heavy. She is Supergirl who can lift train and absorb momentum and flight counter rotation and freeze breath and vacuum breath and ice dome and who saved forest fire camper family and who drove away White Martian and who talked J'onn from killing. She is Kara who kissed Adrian on roof November cold because she wanted to, because she chose to, because she had agency and because he had agency and because choosing meant something and being chosen meant something. She is Kara who is with Adrian since roof November cold since sun since chipped mug shared since second toothbrush blue second jacket too big book open sun. She is Kara who has boundary and who knows what wanting means and what not wanting means and who stops kiss before it happens because she does not want it and because she is with Adrian and because agency.
 
-Kara texted back: He kissed me. I told him I'm with you. He needs space. I am okay. Are you okay? Are you at CatCo placing mug back ordinary?
+She is not passive. She is not someone who gets kissed without wanting. She is Kara who puts hand up gentle but firm not pushing just holding boundary clear agency clear because she is Kara and she knows what wanting means and what not wanting means. She is Kara who says I'm with Adrian and means it and has agency and had chosen Adrian on roof November cold and chooses Adrian now.
 
-Adrian texted: Yes, placing mug back next to theater mask magnet. Pen across room. I heard heartbeat irregular from bullpen and texted hallway and did not come because trusts. I am okay. You are okay? Second toothbrush blue when you get home.
+She texted Adrian: Winn tried to kiss me. I told him I'm with you before he did. He stopped because I said I'm with Adrian and I meant it and I had agency. He needs space. I am okay. Are you okay?
 
-Kara smiled, small, wet, because Adrian texts hallway single word and trusts and places mug back ordinary and is lean, balanced, not bulky and is good for her and thought Kara Torquasm Vo & Rao.
+Adrian texted back: hallway. I trust you. I am here when you need. Second toothbrush blue. You have agency, you stopped, you chose, I am proud of you. You are Kara.
 
-There would be another headline tomorrow. Tonight there was Winn kissing knowing Kara with Adrian, Kara boundary I'm with Adrian, Adrian texts hallway trusts, second toothbrush blue, chipped mug theater mask magnet, pen across room, hallway text, field bent light, ordinary choice share.
+Kara smiled, small, wet, because Adrian knows she is Kara who has agency.
 
-At DEO next morning, Alex and J'onn talked about White Martian, about Mars, about Furnace, about wife and daughters burnt, about 317 years old, about H'ronmeer's mind, about Torquasm Vo and Rao, about how Green Martians have similar disciplines, about how J'onn can teach Kara some, Like a Daughter to Me.
+There would be another headline tomorrow. Tonight there was Winn trying to kiss knowing Kara with Adrian, Kara boundary I'm with Adrian before kiss, no kiss without wanting, agency, Kara is Kara, Adrian texts hallway trusts, second toothbrush blue, chipped mug theater mask magnet, pen across room, hallway text, field bent light, ordinary choice share.
 
-Kara asked J'onn, "Will you teach me Torquasm Vo? Torquasm Rao? Adrian thought I should learn before White Martian arrived, because White Martians are telepaths and you are telepath and I am vulnerable to mind attacks."
+Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet, second toothbrush blue at Kara apartment, second jacket too big, book open sun, Evelyn's chipped mug, theater mask magnet, second mug blue not pink, and thought about Kara is Kara who has agency.
 
-J'onn said, "Yes, I will teach you. After White Martian is caught. First, we catch White Martian. Then, Torquasm Vo. Closing mind like ice dome, like freeze breath for thoughts, absorbing momentum of thoughts so they do not crack. Torquasm Rao projecting mind like heat vision for thoughts."
+Kara at her desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to respect agency.
 
-Kara nodded, because she is Kara and she learns.
+There would be another headline tomorrow. Tonight there was Toyman and convention and Winn and space and Torquasm Vo & Rao and agency and no forcing canon and Kara is Kara.
 
-At CatCo, Cat intercom Keira where is my coffee. Kara handed coffee. Cat looked at Kara, at Adrian, at empty Winn desk, and said nothing about Winn needing space, because Cat only says Keira where is my coffee, private means private.
+Adrian went back to work, ordinary.
 
-Adrian at desk, pen across room, chipped mug next to theater mask magnet, second toothbrush blue at Kara apartment, second jacket too big, book open sun, Evelyn's chipped mug, theater mask magnet, second mug blue not pink, and thought about Torquasm Vo Rao again, because White Martian was caught but millions fellow aliens waiting to attack and Bizarro is out there and mind needs protection as much as body.
+Kara at her desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to think Torquasm Vo Rao and to trust.
-
-There would be another headline tomorrow. Tonight there was Toyman and convention and Winn and space and Torquasm Vo & Rao and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made and he chose to trust and to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
-
-Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
+Adrian went back to work.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made.
 
-There would be another headline tomorrow. Tonight there was Toyman and convention and Winn and space and Torquasm Vo & Rao.
+There would be another headline tomorrow. Tonight there was Toyman and convention and Winn and space and Torquasm Vo & Rao and agency and Kara is Kara.
 
 Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level.
 
@@ -142,6 +142,6 @@ Adrian went back to work, ordinary.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
 
-There would be another headline tomorrow. Tonight there was Toyman and convention and Winn and space and Torquasm Vo & Rao and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made.
+There would be another headline tomorrow. Tonight there was Toyman and convention and Winn and space and Torquasm Vo & Rao and agency and Kara is Kara and second toothbrush blue and second jacket too big and book open sun and chipped mug and theater mask magnet and pen across room and hallway text and field bent light and ordinary was choice he made.
 
 Adrian went back to work, ordinary.

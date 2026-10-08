@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 17,
-  "revision": "R5",
+  "revision": "R6",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_17_Childish_Things_Convention_R5.md",
-  "draft_sha256": "89ffc8a9536627544c569586345d080e4c9cacc796570618b8712cf67ae0680c",
+  "draft_path": "drafts/Chapter_17_Childish_Things_Convention_R6.md",
+  "draft_sha256": "536c783a6e34ec8b3809bfa6173382f16563bdd116a462f04b882b7a3f911d38",
   "accepted": true,
   "claimed_episode": "S01E10 Childish Things Part 2",
   "span": "Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss complete serious rebuild everything fixed",
@@ -148,30 +148,30 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_17_R5_REVIEW.md",
-      "sha256": "93536ff28979951a8585b35753f040abe408daaa55d0eaa51f79f28c91634278"
+      "path": "audits/CHAPTER_17_R6_REVIEW.md",
+      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
     },
     "continuity": {
-      "path": "audits/CHAPTER_17_R5_REVIEW.md",
-      "sha256": "93536ff28979951a8585b35753f040abe408daaa55d0eaa51f79f28c91634278"
+      "path": "audits/CHAPTER_17_R6_REVIEW.md",
+      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
     },
     "power": {
-      "path": "audits/CHAPTER_17_R5_REVIEW.md",
-      "sha256": "93536ff28979951a8585b35753f040abe408daaa55d0eaa51f79f28c91634278"
+      "path": "audits/CHAPTER_17_R6_REVIEW.md",
+      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_17_R5_REVIEW.md",
-      "sha256": "93536ff28979951a8585b35753f040abe408daaa55d0eaa51f79f28c91634278"
+      "path": "audits/CHAPTER_17_R6_REVIEW.md",
+      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
     },
     "prose": {
-      "path": "audits/CHAPTER_17_R5_REVIEW.md",
-      "sha256": "93536ff28979951a8585b35753f040abe408daaa55d0eaa51f79f28c91634278"
+      "path": "audits/CHAPTER_17_R6_REVIEW.md",
+      "sha256": "deb6bb1ab77697956582cac0d51899540a8349289728629f48762f17edab32f2"
     }
   },
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Full 2753w natural syn no meta no Ch12 no writing myself in no forcing canon",
+  "notes": "Full 2885w agency no forcing canon no kiss without wanting Kara is Kara who has agency",
   "format_revision": 1,
   "heading": {
     "season": 1,
