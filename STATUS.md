@@ -6,6 +6,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 
 - [AGENTS.md](AGENTS.md)
 - [CHECKSUMS.sha256](CHECKSUMS.sha256)
+- [EXPLANATION.md](EXPLANATION.md)
 - [HANDOFF.md](HANDOFF.md)
 - [MASTER_PROJECT_BIBLE.md](MASTER_PROJECT_BIBLE.md)
 - [NOTICE.md](NOTICE.md)
