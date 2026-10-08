@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: d82021e4d05ee4277a9e31132e104a9bc8778cbea70a87486b49db07d7af0f34 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 597556745e05c07304cc114d458bbcbb341e29d08e698aa409479f6b4a495e73 -->
 
 # File map
 
@@ -78,6 +78,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/CHAPTER_18_R2_REVIEW.md](audits/CHAPTER_18_R2_REVIEW.md)
 - [audits/CHAPTER_19_R1_REVIEW.md](audits/CHAPTER_19_R1_REVIEW.md)
 - [audits/CHAPTER_19_R2_REVIEW.md](audits/CHAPTER_19_R2_REVIEW.md)
+- [audits/CHAPTER_20_R1_REVIEW.md](audits/CHAPTER_20_R1_REVIEW.md)
 - [audits/CHAPTER_9_R8_REVIEW.md](audits/CHAPTER_9_R8_REVIEW.md)
 - [audits/CHECKSUMS.sha256](audits/CHECKSUMS.sha256)
 - [audits/COMPLETE_CHECK_2026_09_30.md](audits/COMPLETE_CHECK_2026_09_30.md)
@@ -269,6 +270,8 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [canon_coverage/Chapter_19_ACCEPTED.json](canon_coverage/Chapter_19_ACCEPTED.json)
 - [canon_coverage/Chapter_19_R1.json](canon_coverage/Chapter_19_R1.json)
 - [canon_coverage/Chapter_19_R2.json](canon_coverage/Chapter_19_R2.json)
+- [canon_coverage/Chapter_20_ACCEPTED.json](canon_coverage/Chapter_20_ACCEPTED.json)
+- [canon_coverage/Chapter_20_R1.json](canon_coverage/Chapter_20_R1.json)
 - [canon_coverage/EPISODE_02_BEAT_MAP.md](canon_coverage/EPISODE_02_BEAT_MAP.md)
 - [canon_coverage/EPISODE_03_BEAT_MAP.md](canon_coverage/EPISODE_03_BEAT_MAP.md)
 - [canon_coverage/EPISODE_04_BEAT_MAP.md](canon_coverage/EPISODE_04_BEAT_MAP.md)
@@ -312,6 +315,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [chapters/Chapter_17_Childish_Things_Convention.md](chapters/Chapter_17_Childish_Things_Convention.md)
 - [chapters/Chapter_18_Strange_Visitor_Part1.md](chapters/Chapter_18_Strange_Visitor_Part1.md)
 - [chapters/Chapter_19_Strange_Visitor_Part2.md](chapters/Chapter_19_Strange_Visitor_Part2.md)
+- [chapters/Chapter_20_Bizarro.md](chapters/Chapter_20_Bizarro.md)
 - [chapters/README.md](chapters/README.md)
 - [codex/ADRIAN_KARA_CANON_STUDY.md](codex/ADRIAN_KARA_CANON_STUDY.md)
 - [codex/BUTTERFLY_REGISTRY.md](codex/BUTTERFLY_REGISTRY.md)
@@ -387,6 +391,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [drafts/Chapter_17_Childish_Things_Part2_R4.md](drafts/Chapter_17_Childish_Things_Part2_R4.md)
 - [drafts/Chapter_18_Strange_Visitor_Part1_R2.md](drafts/Chapter_18_Strange_Visitor_Part1_R2.md)
 - [drafts/Chapter_19_Strange_Visitor_Part2_R2.md](drafts/Chapter_19_Strange_Visitor_Part2_R2.md)
+- [drafts/Chapter_20_Bizarro_R1.md](drafts/Chapter_20_Bizarro_R1.md)
 - [drafts/README.md](drafts/README.md)
 - [foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip](foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip)
 - [foundation/AUTHORITY_AND_PROVENANCE.md](foundation/AUTHORITY_AND_PROVENANCE.md)

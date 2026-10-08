@@ -4,7 +4,7 @@
   "epoch": "v1",
   "revision": "foundation-021",
   "updated_on": "2026-10-08",
-  "phase": "chapter-19-adopted-torquasm-vo-rao-7471w-full",
+  "phase": "chapter-20-adopted-bizarro-events-actually-happening-2273w-full",
   "remote": {
     "configured": false,
     "repository": null,
@@ -89,6 +89,15 @@
       "SG-19-05",
       "SG-19-06",
       "SG-19-07",
+      "SG-20-01",
+      "SG-20-02",
+      "SG-20-03",
+      "SG-20-04",
+      "SG-20-05",
+      "SG-20-06",
+      "SG-20-07",
+      "SG-20-08",
+      "SG-20-09",
       "SG-9-01",
       "SG-9-02",
       "SG-E02-01",
@@ -209,8 +218,8 @@
     "canon_foreknowledge": false,
     "learned_skills_erased_by_seal": false
   },
-  "accepted_edge": 19,
-  "next_chapter": 20,
+  "accepted_edge": 20,
+  "next_chapter": 21,
   "accepted_chapters": [
     {
       "number": 1,
@@ -416,6 +425,18 @@
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
       "title": "Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao"
+    },
+    {
+      "number": 20,
+      "path": "chapters/Chapter_20_Bizarro.md",
+      "sha256": "564f0f776d772cbab5b30aedcdd2ccf2b793018a2d0c35ad7c54c217c8b8a1cd",
+      "revision": "R1",
+      "accepted_on": "2026-10-08",
+      "coverage": "canon_coverage/Chapter_20_ACCEPTED.json",
+      "acceptance_receipt": "audits/CONTINUATION_Chapter_20.md \u2014 Bizarro R1 events actually happening 2273w full not rushing",
+      "acceptance_basis": "continuation_authorization",
+      "epoch": "v1",
+      "title": "Bizarro events actually happening"
     }
   ],
   "drafts": [
@@ -906,6 +927,17 @@
       "status": "adopted as Chapter 17 R6 full 2885w agency no forcing canon no kiss without wanting Kara is Kara",
       "coverage": "canon_coverage/Chapter_17_R6.json",
       "review": "audits/CHAPTER_17_R6_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 20,
+      "revision": "R1",
+      "path": "drafts/Chapter_20_Bizarro_R1.md",
+      "sha256": "564f0f776d772cbab5b30aedcdd2ccf2b793018a2d0c35ad7c54c217c8b8a1cd",
+      "status": "adopted as Chapter 20 R1 full 2273w events actually happening not explaining",
+      "coverage": "canon_coverage/Chapter_20_R1.json",
+      "review": "audits/CHAPTER_20_R1_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }

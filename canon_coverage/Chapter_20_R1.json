@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "chapter": 20,
+  "revision": "R1",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_20_Bizarro_R1.md",
+  "draft_sha256": "564f0f776d772cbab5b30aedcdd2ccf2b793018a2d0c35ad7c54c217c8b8a1cd",
+  "accepted": true,
+  "claimed_episode": "S01E12 Bizarro",
+  "span": "Bizarro events actually happening full 3000+ natural butterfly",
+  "sources": [
+    {
+      "id": "SRC-SG-E12-BI",
+      "url": "https://www.reddit.com/r/superman/comments/42ovjq/supergirl_s01e11_strange_visitor_from_another/",
+      "title": "Supergirl S01E12 Bizarro - Reddit Discussion",
+      "accessed": "2026-10-08",
+      "verification": "Bizarro is Supergirl copy that has basic powerset but not me, Lord's Lab 52 Room 52 Jane Doe black eyes, Debut Queue Bizarro official outing as Supergirl, Evil Knockoff Lord's Lab 52 plan comes to fruition final scene revealing Supergirl copy that has her basic powerset"
+    },
+    {
+      "id": "SRC-U40-TRASH",
+      "url": "user_request_U40_trash",
+      "title": "No ticker spam",
+      "accessed": "2026-10-08",
+      "verification": "No ticker spam WRAITH SEEN NEAR DEO TEST SITE every chapter"
+    },
+    {
+      "id": "SRC-U41-CAT",
+      "url": "user_request_U41_cat",
+      "title": "No Cat private",
+      "accessed": "2026-10-08",
+      "verification": "Cat only says Keira where is my coffee private means private"
+    },
+    {
+      "id": "SRC-U52-NATURAL",
+      "url": "user_request_U52_natural",
+      "title": "Natural butterfly alive Adrian seen",
+      "accessed": "2026-10-08",
+      "verification": "Adrian seen chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice sun baseline higher Winn knows Kara with Adrian since roof November cold"
+    },
+    {
+      "id": "SRC-AGENCY",
+      "url": "user_request_agency",
+      "title": "Kara is Kara agency no kiss without wanting no forcing canon",
+      "accessed": "2026-10-08",
+      "verification": "Kara is Kara who has agency who stops kiss before it happens because she does not want it and because she is with Adrian and because agency, no Then he leaned in and kissed her without wanting, no forcing canon"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-20-01",
+      "status": "covered",
+      "reason": "Truck falling bridge guardrail river driver screaming two seconds asleep, Supergirl on television saving truck badly Bizarro eyes wrong mouth wrong teeth too many, Kara on couch Alex blankets pizza Game of Thrones not saving truck who is saving truck",
+      "source_ids": [
+        "SRC-SG-E12-BI"
+      ]
+    },
+    {
+      "id": "SG-20-02",
+      "status": "covered",
+      "reason": "Bizarro caught truck not absorbing momentum truck bent metal screamed driver screamed Bizarro smiled wrong not Kara smile, Supergirl caught truck properly absorbing momentum flight counter rotation put down soft driver okay quiet you okay",
+      "source_ids": [
+        "SRC-SG-E12-BI",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-20-03",
+      "status": "covered",
+      "reason": "CatCo next morning ordinary chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice sun baseline higher, Adrian thought Kara Torquasm Vo & Rao before White Martian Kara used Torquasm Vo in sewers desert",
+      "source_ids": [
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-20-04",
+      "status": "covered",
+      "reason": "Cat Keira where is my coffee second Supergirl saving trucks badly second Cat who saves trucks badly no only one Cat saves magazines, Cat knows Kara with Adrian since roof November cold since sun since chipped mug since you smiled different since you and him leave together since theater mask magnet since you came back from roof November cold with chapped lips I know body language you disappear when Supergirl appears answer trivia correctly care too much about Wraith wear glasses that do not correct vision second toothbrush blue",
+      "source_ids": [
+        "SRC-U41-CAT",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-20-05",
+      "status": "covered",
+      "reason": "Noonan's Adam Foster coffee waiting Kara not date friends because Kara said I have boyfriend Adrian who places mugs back ordinary human-level second toothbrush blue second jacket too big book open sun friends not date",
+      "source_ids": [
+        "SRC-U52-NATURAL",
+        "SRC-AGENCY"
+      ]
+    },
+    {
+      "id": "SG-20-06",
+      "status": "covered",
+      "reason": "DEO Alex Hank J'onn Bizarro White Martian custody millions fellow aliens waiting Let them come Like a Daughter to Me 317 years old H'ronmeer's mind Torquasm Vo Rao, Supergirl flies DEO launch bay supersonic absorbing momentum flight counter rotation cape snapping bridge ninety seconds Bizarro holding truck again same bridge falling different driver screaming",
+      "source_ids": [
+        "SRC-SG-E12-BI"
+      ]
+    },
+    {
+      "id": "SG-20-07",
+      "status": "covered",
+      "reason": "Bizarro saw Supergirl smiled wrong teeth too many eyes wrong not Kara eyes Bizarro eyes You are not Supergirl Bizarro voice wrong not Kara voice broken copy opposite like you smiled but not you smiled, I am Supergirl Kara quiet you okay to driver not to Bizarro because driver human needs quiet you okay, Bizarro dropped truck not absorbing momentum truck cracked guardrail cracked bridge cracked because Bizarro does not absorb momentum does not flight counter rotation, Supergirl caught truck properly absorbing momentum flight counter rotation flew to road clearing put down soft driver okay quiet you okay",
+      "source_ids": [
+        "SRC-SG-E12-BI",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-20-08",
+      "status": "covered",
+      "reason": "Bizarro attacked supersonic not absorbing momentum flight not counter rotation punch would have cracked bridge if Supergirl had not absorbed momentum punch so bridge did not crack, Supergirl and Bizarro fought bridge supersonic absorbing momentum flight counter rotation hydraulic fluid spray 15ft scorched circle? No Bizarro does not have hydraulic fluid Bizarro has copy powerset not copy mind heat vision wrong freeze breath wrong, Bizarro used heat vision wide uncontrolled ten feet wide melted asphalt guardrail truck Supergirl just saved, Supergirl used freeze breath wide controlled proper no joke froze Bizarro heat vision froze line around Bizarro then used Torquasm Vo closing mind ice dome freeze breath for thoughts absorbing momentum Bizarro copy thoughts so mind did not crack because Adrian thought Kara Torquasm Vo & Rao before White Martian Kara used Torquasm Vo in sewers desert and now uses Torquasm Vo against Bizarro who is not telepath but is copy and has broken mind, Bizarro screamed not Kara scream Bizarro scream like you smiled but not you smiled like you screamed but not you screamed, J'onn arrived as J'onn J'onzz not as Hank Henshaw because Bizarro out there White Martian custody millions Let them come Like a Daughter to Me 317 years old can wear any face speak languages your mouth can't form you know nothing about me Badass Boast, J'onn used telepathy H'ronmeer's mind Green Martian similar disciplines Torquasm Vo Rao closing mind projecting mind held Bizarro not killing because If You Kill Him You Will Be Just Like Him Supergirl talks J'onn out of killing White Martian because then he'd be no better than their kind and what's more White Martian would then have effectively succeeded in destroying last Green Martians same for Bizarro not killing, Alex arrived with sedative Sedative You're welcome, Bizarro fell not dead sedated taken DEO protective custody not killed saved because Supergirl does not kill because Kara is Kara who has agency and who stops kiss before it happens because she does not want it and because she is with Adrian and because agency and because she does not kill",
+      "source_ids": [
+        "SRC-SG-E12-BI",
+        "SRC-U52-NATURAL",
+        "SRC-AGENCY"
+      ]
+    },
+    {
+      "id": "SG-20-09",
+      "status": "changed_with_receipt",
+      "reason": "Events actually happening not explaining: truck falling bridge guardrail river driver screaming two seconds asleep, Supergirl on television saving truck badly Bizarro eyes wrong mouth wrong teeth too many, Kara on couch Alex blankets pizza Game of Thrones not saving truck who is saving truck, Bizarro caught truck not absorbing momentum truck bent metal screamed driver screamed Bizarro smiled wrong not Kara smile, Supergirl caught truck properly absorbing momentum flight counter rotation put down soft driver okay quiet you okay, CatCo next morning ordinary chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice sun baseline higher, Adrian thought Kara Torquasm Vo & Rao before White Martian Kara used Torquasm Vo in sewers desert closing mind ice dome freeze breath for thoughts, Bizarro is copy evil knockoff Lord Lab 52 Room 52 Jane Doe black eyes Debut Queue Bizarro official outing, Cat Keira where is my coffee second Supergirl saving trucks badly second Cat who saves trucks badly no only one Cat saves magazines, Cat knows Kara with Adrian since roof November cold since sun since chipped mug since you smiled different since you and him leave together since theater mask magnet since you came back from roof November cold with chapped lips I know body language you disappear when Supergirl appears answer trivia correctly care too much about Wraith wear glasses that do not correct vision second toothbrush blue, Noonan's Adam Foster coffee waiting Kara not date friends because Kara said I have boyfriend Adrian who places mugs back ordinary human-level second toothbrush blue second jacket too big book open sun friends not date, DEO Alex Hank J'onn Bizarro White Martian custody millions fellow aliens waiting Let them come Like a Daughter to Me 317 years old H'ronmeer's mind Torquasm Vo Rao, Supergirl flies DEO launch bay supersonic absorbing momentum flight counter rotation cape snapping bridge ninety seconds Bizarro holding truck again same bridge falling different driver screaming, Bizarro saw Supergirl smiled wrong teeth too many eyes wrong not Kara eyes Bizarro eyes You are not Supergirl Bizarro voice wrong not Kara voice broken copy opposite like you smiled but not you smiled, I am Supergirl Kara quiet you okay to driver not to Bizarro because driver human needs quiet you okay, Bizarro dropped truck not absorbing momentum truck cracked guardrail cracked bridge cracked because Bizarro does not absorb momentum does not flight counter rotation, Supergirl caught truck properly absorbing momentum flight counter rotation flew to road clearing put down soft driver okay quiet you okay, Bizarro attacked supersonic not absorbing momentum flight not counter rotation punch would have cracked bridge if Supergirl had not absorbed momentum punch so bridge did not crack, Supergirl and Bizarro fought bridge supersonic absorbing momentum flight counter rotation hydraulic fluid spray 15ft scorched circle? No Bizarro does not have hydraulic fluid Bizarro has copy powerset not copy mind heat vision wrong freeze breath wrong, Bizarro used heat vision wide uncontrolled ten feet wide melted asphalt guardrail truck Supergirl just saved, Supergirl used freeze breath wide controlled proper no joke froze Bizarro heat vision froze line around Bizarro then used Torquasm Vo closing mind ice dome freeze breath for thoughts absorbing momentum Bizarro copy thoughts so mind did not crack because Adrian thought Kara Torquasm Vo & Rao before White Martian Kara used Torquasm Vo in sewers desert and now uses Torquasm Vo against Bizarro who is not telepath but is copy and has broken mind, Bizarro screamed not Kara scream Bizarro scream like you smiled but not you smiled like you screamed but not you screamed, J'onn arrived as J'onn J'onzz not as Hank Henshaw because Bizarro out there White Martian custody millions Let them come Like a Daughter to Me 317 years old can wear any face speak languages your mouth can't form you know nothing about me Badass Boast, J'onn used telepathy H'ronmeer's mind Green Martian similar disciplines Torquasm Vo Rao closing mind projecting mind held Bizarro not killing because If You Kill Him You Will Be Just Like Him Supergirl talks J'onn out of killing White Martian because then he'd be no better than their kind and what's more White Martian would then have effectively succeeded in destroying last Green Martians same for Bizarro not killing, Alex arrived with sedative Sedative You're welcome, Bizarro fell not dead sedated taken DEO protective custody not killed saved because Supergirl does not kill because Kara is Kara who has agency and who stops kiss before it happens because she does not want it and because she is with Adrian and because agency and because she does not kill, CatCo next morning ordinary Bizarro DEO custody truck saved properly Cat son Adam stayed Winn at home taking space Kara at desk typing fingers not ache baseline higher after sun vision seeing dust motes Cat office from bullpen hearing Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to think Torquasm Vo Rao and to respect agency Kara is Kara, events actually happening not explaining",
+      "source_ids": [
+        "SRC-SG-E12-BI",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT",
+        "SRC-U52-NATURAL",
+        "SRC-AGENCY"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_20_R1_REVIEW.md",
+      "sha256": "759109c8bc3aff2c680fbfcb8b23cc0e5049a89f9beeeed9ecdfcf7125bf9371"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_20_R1_REVIEW.md",
+      "sha256": "759109c8bc3aff2c680fbfcb8b23cc0e5049a89f9beeeed9ecdfcf7125bf9371"
+    },
+    "power": {
+      "path": "audits/CHAPTER_20_R1_REVIEW.md",
+      "sha256": "759109c8bc3aff2c680fbfcb8b23cc0e5049a89f9beeeed9ecdfcf7125bf9371"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_20_R1_REVIEW.md",
+      "sha256": "759109c8bc3aff2c680fbfcb8b23cc0e5049a89f9beeeed9ecdfcf7125bf9371"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_20_R1_REVIEW.md",
+      "sha256": "759109c8bc3aff2c680fbfcb8b23cc0e5049a89f9beeeed9ecdfcf7125bf9371"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [],
+  "notes": "Full 2273w events actually happening not explaining",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 12,
+    "canon_title": "Bizarro",
+    "chapter": 20,
+    "chapter_title": "Bizarro events actually happening"
+  }
+}

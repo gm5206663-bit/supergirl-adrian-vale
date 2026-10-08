@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: d82021e4d05ee4277a9e31132e104a9bc8778cbea70a87486b49db07d7af0f34 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 597556745e05c07304cc114d458bbcbb341e29d08e698aa409479f6b4a495e73 -->
 
 # Supergirl — Adrian Vale
 
@@ -7,8 +7,8 @@
 This is the local, GitHub-ready working project—not another generic DC questionnaire kit. It records the author's chosen Supergirl premise, foundations, original draft, canon research, state and executable checks.
 
 **Epoch:** v1 · **Revision:** foundation-021  
-**Accepted chapter edge:** 19 · **Next chapter:** 20  
-**Phase:** chapter-19-adopted-torquasm-vo-rao-7471w-full
+**Accepted chapter edge:** 20 · **Next chapter:** 21  
+**Phase:** chapter-20-adopted-bizarro-events-actually-happening-2273w-full
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -63,6 +63,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — Childish Things Convention R6 agency no forcing canon 2885w
 - [Chapter 18](chapters/Chapter_18_Strange_Visitor_Part1.md): audits/CONTINUATION_Chapter_18.md — Strange Visitor Part1 White Martian + Torquasm Vo Rao 3665w full not rushing Torquasm Vo Rao
 - [Chapter 19](chapters/Chapter_19_Strange_Visitor_Part2.md): audits/CONTINUATION_Chapter_19.md — Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao 3122w full not rushing Torquasm Vo Rao
+- [Chapter 20](chapters/Chapter_20_Bizarro.md): audits/CONTINUATION_Chapter_20.md — Bizarro R1 events actually happening 2273w full not rushing
 
 ### Preserved drafts and current candidate
 
@@ -108,8 +109,9 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_19_Strange_Visitor_Part2_R2.md](drafts/Chapter_19_Strange_Visitor_Part2_R2.md): adopted as Chapter 19 R2 full 3122w not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao
 - [drafts/Chapter_17_Childish_Things_Convention_R5.md](drafts/Chapter_17_Childish_Things_Convention_R5.md): adopted as Chapter 17 R5 full 2753w natural syn no meta no Ch12 no writing myself
 - [drafts/Chapter_17_Childish_Things_Convention_R6.md](drafts/Chapter_17_Childish_Things_Convention_R6.md): adopted as Chapter 17 R6 full 2885w agency no forcing canon no kiss without wanting Kara is Kara
+- [drafts/Chapter_20_Bizarro_R1.md](drafts/Chapter_20_Bizarro_R1.md): adopted as Chapter 20 R1 full 2273w events actually happening not explaining
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 17, R6**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 20, R1**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -117,7 +119,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 17
+python3 tools/verify.py --ship 20
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.
