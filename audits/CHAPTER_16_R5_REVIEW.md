@@ -1,0 +1,5 @@
+# Chapter 16 R5 Review Complete Clean No Ticker No Cat Private Proper Fights Natural Butterfly
+
+PASS full 4127w per user complete serious work request
+SHA 3ff8d8c0087091cf22444502448dbaadd436803716fce0748149a4ed6ecff50a 4127w Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing S01E10 Childish Things Part 1
+Clean U40 no ticker spam WRAITH SEEN NEAR DEO TEST SITE, U41 Cat private only Keira where is coffee no private monitor WRAITH no James know WRAITH is Adrian, U42 rebuild proper fights U37 supersonic absorbing momentum, U52 natural butterfly alive Adrian seen where to seen chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice, U39 kiss consensual agency romance_selection kara, U38 sun baseline higher cells remember overcompensate, in-world phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch not design bullets as file

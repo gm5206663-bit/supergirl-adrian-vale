@@ -14,7 +14,6 @@ Astra had said she shielded herself.
 
 Three weeks earlier, after the freeway and the train, Cat Grant had named the masked helper at 7am editorial: The Wraith of National City. Headline. Photo blurred, flight, lifting.
 
-Lord had offered a reward for info on Wraith, once. DEO had said outside jurisdiction, once. Winn had set a private monitor, tag WRAITH, tracking sightings, closed, no civilian disclosure.
 
 Lord had not found Wraith. But he had found that Wraith's field bent light, that he absorbed momentum, that he lifted without breaking, that he was not Kryptonian in the usual way.
 

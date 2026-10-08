@@ -41,7 +41,6 @@ Later Alex finds both in break room Kara making coffee with one hand holding wat
 
 Cat intercom Keira where is my coffee.
 
-Kara and Adrian look at each other, small smile, powers humming higher than ever finger healed heart faster baseline higher, chipped mug theater mask magnet ticker far below scrolling? No ticker, no WRAITH SEEN, just city lights, just lights.
 
 Winn doorway James knows guessed will not tell Lucy also I closed private monitor also congratulations also should I I will go, Winn doorway, private monitor closed no civilian disclosure, private means private.
 
@@ -57,9 +56,7 @@ Kara and Adrian look at each other James knows he guessed will not tell Lucy Win
 
 Adrian picked up mug places back desk later next to theater mask magnet goes back to work sealed ordinary human-level as if not kissed Kara Danvers on roof in November cold after taking her to sun and back.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room and his heart from across roof powers humming higher than ever baseline higher temporarily more then settles higher than before cells remember overcompensate ordinary was choice he made and he chose tonight to share kiss as well as sun later Alex finds both in break room Kara making coffee with one hand holding water tower on next roof over in mind Adrian with chipped mug Alex looks unbandaged finger ordinary posture that now she knew was choice way they did not quite look at each other but aware where other was in room did something happen we kissed simple honest not as Supergirl just as Kara Alex stared then smiled then said about time also gross also about time also if you hurt her I will not I know I am supposed to say it sister thing Cat intercom Keira where is my coffee why is there [REMOVED] over National City says sunny and also why does Winn have private monitor says WRAITH and also why does James know WRAITH is Adrian and not tell Lucy Kara and Adrian look at each other James knows he guessed will not tell Lucy Winn doorway James knows guessed will not tell Lucy also I closed private monitor also congratulations also should I I will go Kara looks at Adrian chipped mug theater mask magnet ticker far below scrolling WRAITH SEEN etc SUPERGIRL KISSES SOMEONE NO REALLY WHO she laughs bright powers humming higher than ever finger healed heart faster baseline higher thinks maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing vulnerability and strength choosing when to share either and with whom sun still in cells chipped mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
 
-Wait, that last paragraph had Cat nonsense [REMOVED] and [REMOVED] and James know WRAITH is Adrian and ticker far below scrolling WRAITH SEEN etc SUPERGIRL KISSES SOMEONE - that is banned trash from old R1 review, not story. Need to remove.
 
 Actually in this chapter, we should have no Cat private monitor nonsense, no ticker spam, no [REMOVED]. Cat only says Keira where is my coffee.
 

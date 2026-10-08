@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: df43e621552023e3153743e8dc268960ee4e883b529914fe37ed1ab347eada94 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 12b2607eb81ed6e21d11003f4b6a57eecd7369cec40f668f3929174b515b13a3 -->
 
 # File map
 
@@ -49,6 +49,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/CHAPTER_12_R2_REVIEW.md](audits/CHAPTER_12_R2_REVIEW.md)
 - [audits/CHAPTER_12_R3_REVIEW.md](audits/CHAPTER_12_R3_REVIEW.md)
 - [audits/CHAPTER_12_R5_REVIEW.md](audits/CHAPTER_12_R5_REVIEW.md)
+- [audits/CHAPTER_12_R6_REVIEW.md](audits/CHAPTER_12_R6_REVIEW.md)
 - [audits/CHAPTER_13_R1_REVIEW.md](audits/CHAPTER_13_R1_REVIEW.md)
 - [audits/CHAPTER_13_R2_REVIEW.md](audits/CHAPTER_13_R2_REVIEW.md)
 - [audits/CHAPTER_13_R3_REVIEW.md](audits/CHAPTER_13_R3_REVIEW.md)
@@ -67,6 +68,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/CHAPTER_16_R2_REVIEW.md](audits/CHAPTER_16_R2_REVIEW.md)
 - [audits/CHAPTER_16_R3_REVIEW.md](audits/CHAPTER_16_R3_REVIEW.md)
 - [audits/CHAPTER_16_R4_REVIEW.md](audits/CHAPTER_16_R4_REVIEW.md)
+- [audits/CHAPTER_16_R5_REVIEW.md](audits/CHAPTER_16_R5_REVIEW.md)
 - [audits/CHAPTER_17_R1_REVIEW.md](audits/CHAPTER_17_R1_REVIEW.md)
 - [audits/CHAPTER_17_R2_REVIEW.md](audits/CHAPTER_17_R2_REVIEW.md)
 - [audits/CHAPTER_17_R4_REVIEW.md](audits/CHAPTER_17_R4_REVIEW.md)
@@ -225,6 +227,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [canon_coverage/Chapter_12_R2.json](canon_coverage/Chapter_12_R2.json)
 - [canon_coverage/Chapter_12_R3.json](canon_coverage/Chapter_12_R3.json)
 - [canon_coverage/Chapter_12_R5.json](canon_coverage/Chapter_12_R5.json)
+- [canon_coverage/Chapter_12_R6.json](canon_coverage/Chapter_12_R6.json)
 - [canon_coverage/Chapter_13_ACCEPTED.json](canon_coverage/Chapter_13_ACCEPTED.json)
 - [canon_coverage/Chapter_13_R1.json](canon_coverage/Chapter_13_R1.json)
 - [canon_coverage/Chapter_13_R2.json](canon_coverage/Chapter_13_R2.json)
@@ -247,6 +250,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [canon_coverage/Chapter_16_R2.json](canon_coverage/Chapter_16_R2.json)
 - [canon_coverage/Chapter_16_R3.json](canon_coverage/Chapter_16_R3.json)
 - [canon_coverage/Chapter_16_R4.json](canon_coverage/Chapter_16_R4.json)
+- [canon_coverage/Chapter_16_R5.json](canon_coverage/Chapter_16_R5.json)
 - [canon_coverage/Chapter_17_ACCEPTED.json](canon_coverage/Chapter_17_ACCEPTED.json)
 - [canon_coverage/Chapter_17_R1.json](canon_coverage/Chapter_17_R1.json)
 - [canon_coverage/Chapter_17_R2.json](canon_coverage/Chapter_17_R2.json)
@@ -350,6 +354,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [drafts/Chapter_11_The_Sun_R5.md](drafts/Chapter_11_The_Sun_R5.md)
 - [drafts/Chapter_12_The_Kiss_R3.md](drafts/Chapter_12_The_Kiss_R3.md)
 - [drafts/Chapter_12_The_Kiss_R5.md](drafts/Chapter_12_The_Kiss_R5.md)
+- [drafts/Chapter_12_The_Kiss_R6.md](drafts/Chapter_12_The_Kiss_R6.md)
 - [drafts/Chapter_13_Human_for_a_Day_R3.md](drafts/Chapter_13_Human_for_a_Day_R3.md)
 - [drafts/Chapter_13_Human_for_a_Day_R5.md](drafts/Chapter_13_Human_for_a_Day_R5.md)
 - [drafts/Chapter_14_Hostile_Takeover_R5.md](drafts/Chapter_14_Hostile_Takeover_R5.md)
@@ -366,6 +371,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip](foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip)
 - [foundation/AUTHORITY_AND_PROVENANCE.md](foundation/AUTHORITY_AND_PROVENANCE.md)
 - [foundation/BUTTERFLY_EFFECTS_CH10_17_NATURAL.md](foundation/BUTTERFLY_EFFECTS_CH10_17_NATURAL.md)
+- [foundation/BUTTERFLY_EFFECTS_COMPLETE_1_17.md](foundation/BUTTERFLY_EFFECTS_COMPLETE_1_17.md)
 - [foundation/CANON_LEDGER.md](foundation/CANON_LEDGER.md)
 - [foundation/CONTINUITY.md](foundation/CONTINUITY.md)
 - [foundation/CURRENT_STATE_MANIFEST.json](foundation/CURRENT_STATE_MANIFEST.json)

@@ -98,7 +98,6 @@ He pointed it at the ceiling and fired. The plastic gun cracked, a small pop, no
 
 The crowd screamed. Children cried. Parents pulled them close.
 
-Supergirl was already there. She had been following Winn since he left Kara's building, because Adrian had heard Winn's heartbeat go irregular in the hallway and had texted Kara a single word: hallway. And Kara had followed, quiet, no ticker, no WRAITH SEEN NEAR DEO TEST SITE, just a friend following a friend, because she had learned from Alex that sometimes you follow without asking.
 
 She saw Toyman hiding beneath the stage, phone in hand, thumb over detonate, smiling.
 

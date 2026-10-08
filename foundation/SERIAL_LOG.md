@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: df43e621552023e3153743e8dc268960ee4e883b529914fe37ed1ab347eada94 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 12b2607eb81ed6e21d11003f4b6a57eecd7369cec40f668f3929174b515b13a3 -->
 
 # Serial log
 
@@ -171,5 +171,9 @@ Fix natural butterfly dead Then he leaned in and kissed her - Winn knows Kara wi
 ## E042 — 2026-10-08 — adopted_chapter
 
 Complete serious rebuild everything fixed not just kiss - Ch16 R4 4126w Ch17 R4 6835w full 4500-5500w like Ch1-5 natural butterfly everything, Then he leaned in and kissed her dead butterfly fixed Winn knows Kara with Adrian since Ch12 chipped mug theater mask magnet pen across room hallway text Adrian texts hallway not possessive trusts Kara pulls away I'm with Adrian boundary, total 67219w-> new total
+
+## E043 — 2026-10-08 — adopted_chapter
+
+Check again everything - Fix Ch12 R6 4137w clean no Cat private secrets weather balloon private monitor WRAITH James knows WRAITH is Adrian ticker spam removed, Ch16 R5 4127w fix extraordinary before Fort Rozz meta leak to in-world phrasing strong before stronger than Kara, STRUCTURE PASS total 140 beats
 
 Accepted chapter edge: 17. Draft prose is not an accepted event.

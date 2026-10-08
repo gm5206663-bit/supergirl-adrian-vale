@@ -29,7 +29,6 @@ Kara stared. "Wraith?"
 
 "Does she know—"
 
-"No one knows it is Adrian. She thinks he is a new player. She wants an interview. She asked me to set up private monitor tracking sightings tag WRAITH but I closed it, no civilian disclosure. I told her DEO said outside jurisdiction once, Lord offered reward for info on Wraith once, but we don't share. Private means private."
 
 Kara looked again at the freeway clip. She had been there. She knew whose hands those were. The way he slipped inside, the way he carried the blast up instead of trying to overpower it, advanced restraint not brute, absorbing momentum, proper superpowered.
 

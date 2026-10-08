@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 8440aa35851da7230074ece54dd1d6e1948412ffaecc10b0077a12662ec7a12b -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 12b2607eb81ed6e21d11003f4b6a57eecd7369cec40f668f3929174b515b13a3 -->
 
 # Accepted canon ledger
 
@@ -6,7 +6,7 @@ Generated from the manifest, not from draft filenames.
 
 Epoch: v1
 
-Accepted beat IDs: SG-10-01, SG-10-02, SG-11-01, SG-11-02, SG-12-01, SG-12-02, SG-9-01, SG-9-02, SG-E02-01, SG-E02-02, SG-E02-03, SG-E02-04, SG-E02-05, SG-E02-06, SG-E02-07, SG-E02-08, SG-E02-09, SG-E02-10, SG-E02-11, SG-E02-12, SG-E02-13, SG-E03-01, SG-E03-02, SG-E03-03, SG-E03-04, SG-E03-05, SG-E03-06, SG-E03-07, SG-E03-08, SG-E03-09, SG-E03-10, SG-E03-11, SG-E03-12, SG-E03-13, SG-E03-14, SG-E04-01, SG-E04-02, SG-E04-03, SG-E04-04, SG-E04-05, SG-E04-06, SG-E04-07, SG-E04-08, SG-E04-09, SG-E04-10, SG-E04-11, SG-E04-12, SG-E04-13, SG-E04-14, SG-E04-15, SG-E04-16, SG-E04-17, SG-E05-01, SG-E05-02, SG-E05-03, SG-E05-04, SG-E05-05, SG-E05-06, SG-E05-07, SG-E05-08, SG-E05-09, SG-E05-10, SG-E05-11, SG-E05-12, SG-E05-13, SG-E05-14, SG-P01, SG-P02, SG-P03, SG-P04, SG-P05, SG-P06, SG-P07, SG-P08, SG-P09, SG-P10A, SG-P10B, SG-P10C1, SG-P10C2, SG-P10C3, SG-P10D, SG-P11A, SG-P11B1, SG-P11B2, SG-P11C1, SG-P11C2, SG-P12A, SG-P12B, SG-13-01, SG-13-02, SG-13-03, SG-13-04, SG-13-05, SG-13-06, SG-13-07, SG-13-08, SG-13-09, SG-13-10, SG-13-11, SG-14-01, SG-14-02, SG-14-03, SG-14-04, SG-14-05, SG-14-06, SG-14-07, SG-14-08, SG-14-09, SG-14-10, SG-15-01, SG-15-02, SG-15-03, SG-15-04, SG-15-05, SG-15-06, SG-15-07, SG-15-08, SG-15-09, SG-15-10, SG-15-11
+Accepted beat IDs: SG-10-01, SG-10-02, SG-11-01, SG-11-02, SG-12-01, SG-12-02, SG-12-03, SG-12-04, SG-12-05, SG-12-06, SG-12-07, SG-12-08, SG-13-01, SG-13-02, SG-13-03, SG-13-04, SG-13-05, SG-13-06, SG-13-07, SG-13-08, SG-13-09, SG-13-10, SG-13-11, SG-14-01, SG-14-02, SG-14-03, SG-14-04, SG-14-05, SG-14-06, SG-14-07, SG-14-08, SG-14-09, SG-14-10, SG-15-01, SG-15-02, SG-15-03, SG-15-04, SG-15-05, SG-15-06, SG-15-07, SG-15-08, SG-15-09, SG-15-10, SG-15-11, SG-16-01, SG-16-02, SG-16-03, SG-16-04, SG-16-05, SG-16-06, SG-17-01, SG-17-02, SG-17-03, SG-17-04, SG-17-05, SG-17-06, SG-17-07, SG-17-08, SG-9-01, SG-9-02, SG-E02-01, SG-E02-02, SG-E02-03, SG-E02-04, SG-E02-05, SG-E02-06, SG-E02-07, SG-E02-08, SG-E02-09, SG-E02-10, SG-E02-11, SG-E02-12, SG-E02-13, SG-E03-01, SG-E03-02, SG-E03-03, SG-E03-04, SG-E03-05, SG-E03-06, SG-E03-07, SG-E03-08, SG-E03-09, SG-E03-10, SG-E03-11, SG-E03-12, SG-E03-13, SG-E03-14, SG-E04-01, SG-E04-02, SG-E04-03, SG-E04-04, SG-E04-05, SG-E04-06, SG-E04-07, SG-E04-08, SG-E04-09, SG-E04-10, SG-E04-11, SG-E04-12, SG-E04-13, SG-E04-14, SG-E04-15, SG-E04-16, SG-E04-17, SG-E05-01, SG-E05-02, SG-E05-03, SG-E05-04, SG-E05-05, SG-E05-06, SG-E05-07, SG-E05-08, SG-E05-09, SG-E05-10, SG-E05-11, SG-E05-12, SG-E05-13, SG-E05-14, SG-P01, SG-P02, SG-P03, SG-P04, SG-P05, SG-P06, SG-P07, SG-P08, SG-P09, SG-P10A, SG-P10B, SG-P10C1, SG-P10C2, SG-P10C3, SG-P10D, SG-P11A, SG-P11B1, SG-P11B2, SG-P11C1, SG-P11C2, SG-P12A, SG-P12B
 
 - Chapter 1: coverage `canon_coverage/Chapter_01_ACCEPTED.json`; acceptance date 2026-09-28.
 - Chapter 2: coverage `canon_coverage/Chapter_02_ACCEPTED.json`; acceptance date 2026-09-28.
@@ -19,9 +19,11 @@ Accepted beat IDs: SG-10-01, SG-10-02, SG-11-01, SG-11-02, SG-12-01, SG-12-02, S
 - Chapter 9: coverage `canon_coverage/Chapter_09_ACCEPTED.json`; acceptance date 2026-10-07.
 - Chapter 10: coverage `canon_coverage/Chapter_10_ACCEPTED.json`; acceptance date 2026-10-07.
 - Chapter 11: coverage `canon_coverage/Chapter_11_ACCEPTED.json`; acceptance date 2026-10-07.
-- Chapter 12: coverage `canon_coverage/Chapter_12_ACCEPTED.json`; acceptance date 2026-10-07.
+- Chapter 12: coverage `canon_coverage/Chapter_12_ACCEPTED.json`; acceptance date 2026-10-08.
 - Chapter 13: coverage `canon_coverage/Chapter_13_ACCEPTED.json`; acceptance date 2026-10-07.
 - Chapter 14: coverage `canon_coverage/Chapter_14_ACCEPTED.json`; acceptance date 2026-10-07.
 - Chapter 15: coverage `canon_coverage/Chapter_15_ACCEPTED.json`; acceptance date 2026-10-07.
+- Chapter 16: coverage `canon_coverage/Chapter_16_ACCEPTED.json`; acceptance date 2026-10-08.
+- Chapter 17: coverage `canon_coverage/Chapter_17_ACCEPTED.json`; acceptance date 2026-10-08.
 
 Draft-only coverage lives in canon_coverage/. It does not advance this ledger. The pilot map is a planning index, not an accepted span or complete episode-viewing receipt.

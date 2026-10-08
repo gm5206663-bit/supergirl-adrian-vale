@@ -40,11 +40,10 @@ She left the doll on the block, not breaking it, because breaking a child's toy,
 
 ---
 
-Winn was at Kara's apartment that night. He had not been there since before Red Tornado, since before the sun, since before Kara had kissed Adrian on a roof in November cold and learned what it meant to choose, since before Adrian had become her boyfriend in the quiet way that CatCo bullpen notices without announcement, without ticker, without WRAITH SEEN NEAR DEO TEST SITE, just with chipped mug and theater mask magnet and pen across room and hallway text.
+Winn was at Kara's apartment that night. He had not been there since before Red Tornado, since before the sun, since before Kara had kissed Adrian on a roof in November cold and learned what it meant to choose, since before Adrian had become her boyfriend in the quiet way that CatCo bullpen notices without announcement, without ticker, without , just with chipped mug and theater mask magnet and pen across room and hallway text.
 
 He sat on her couch, holding a beer he did not drink, because he does not drink when nervous, he types when nervous, looking at the blanket Alex had left, at the TV that was off, at the chipped mug on Kara's counter that was not the same chipped mug as CatCo's but similar, because Kara had bought one like it after Evelyn left because she liked the weight and because Evelyn had left chipped mug at CatCo and Adrian placed it back every morning ordinary human-level and Kara wanted one at home too.
 
-The apartment had a second toothbrush now that was not hers, blue, not pink, and a second jacket on hook that was too big for her, and a book on Krypton that was open to page about sun, and Winn saw all of it, because he is Winn and he notices things, he notices things like private monitor says WRAITH and he closes it, he notices things like Kara smiles different since sun.
 
 "I worry I will snap one day," he said, quiet, not looking at Kara, looking at his hands that were good with computers and bad with people, that were good with making suit better and bad with telling woman he loves her when she is with his friend. "Like him. I am so like him. Same cowardice, same anger. I bottle things up. I... I see the same genes as time bombs. My dad was a coward who bottled things up until he mailed a bomb. I bottle things up until I... I don't know. Until I kiss my best friend who is with my friend? Until I..."
 
@@ -118,7 +117,7 @@ He pointed it at the ceiling, high, away from children, away from parents, away 
 
 The crowd screamed. Children cried. Parents pulled them close. Collectors ducked. Cosplayers dropped props.
 
-Supergirl was already there. She had been following Winn since he left Kara's building, because Adrian had heard Winn's heartbeat go irregular in the hallway and had texted Kara a single word: hallway. And Kara had followed, quiet, no ticker, no WRAITH SEEN NEAR DEO TEST SITE — NO COMMENT FROM SUPERGIRL — SUPERGIRL SPOTTED OVER PACIFIC — SOLAR FLARE? — MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH every chapter trash, just a friend following a friend, because she had learned from Alex that sometimes you follow without asking, and because Adrian had trusted her to handle and she wanted to be worthy of trust.
+Supergirl was already there. She had been following Winn since he left Kara's building, because Adrian had heard Winn's heartbeat go irregular in the hallway and had texted Kara a single word: hallway. And Kara had followed, quiet, no ticker, no ticker — NO COMMENT FROM SUPERGIRL — SUPERGIRL SPOTTED OVER PACIFIC — SOLAR FLARE? — MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH every chapter trash, just a friend following a friend, because she had learned from Alex that sometimes you follow without asking, and because Adrian had trusted her to handle and she wanted to be worthy of trust.
 
 She saw Toyman hiding beneath the stage, phone in hand, thumb over detonate, smiling sad father smile, the kind of smile that comes when son does not do what father wants.
 

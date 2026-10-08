@@ -94,7 +94,6 @@ She inhaled.
 
 It was not a small breath. Kryptonian lungs, filled with sun from the trip with Adrian where he had taken her above the atmosphere and held her hand while her cells drank light and remembered to overcompensate, could hold a gymnasium of air. She took in the entire cloud, every molecule of poison, in one vast vacuum breath that pulled posters off walls and made the stuffed animals collapse inward and made Winn's hair fly back.
 
-Then she shot straight up, through the roof, through the sky, past the cloud layer, past where commercial flights go, and exhaled. The gas dispersed in the upper atmosphere, harmless, thin, gone, no ticker below scrolling WRAITH SEEN NEAR DEO TEST SITE, just sky.
 
 She landed back in the arcade, boots soft on broken glass, and looked at Winn.
 

@@ -89,7 +89,6 @@ Alex nodded. "Good. Then we trust him. Good."
 
 ---
 
-Night, roof, November cold, wind gap between collar and skin, city below lights, no ticker, just lights, no WRAITH SEEN NEAR DEO TEST SITE, just city lights.
 
 Kara could not sleep, powers humming higher than ever after Red Tornado fight, baseline higher temporarily, cells remember overcompensate, finger healed, no scar.
 
@@ -213,7 +212,6 @@ Alex nodded. "Good. Then we trust him. Good."
 
 ---
 
-Night, roof, November cold, wind gap between collar and skin, city below lights, no ticker, just lights, no WRAITH SEEN NEAR DEO TEST SITE, just city lights.
 
 Kara could not sleep, powers humming higher than ever after Red Tornado fight, baseline higher temporarily, cells remember overcompensate, finger healed, no scar.
 

@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: df43e621552023e3153743e8dc268960ee4e883b529914fe37ed1ab347eada94 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 12b2607eb81ed6e21d11003f4b6a57eecd7369cec40f668f3929174b515b13a3 -->
 
 # Supergirl — Adrian Vale
 
@@ -8,7 +8,7 @@ This is the local, GitHub-ready working project—not another generic DC questio
 
 **Epoch:** v1 · **Revision:** foundation-021  
 **Accepted chapter edge:** 17 · **Next chapter:** 18  
-**Phase:** chapter-16-adopted-childish-things-toyman-4469w-full
+**Phase:** chapter-17-adopted-complete-clean-check-everything-70341w
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -55,11 +55,11 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 9](chapters/Chapter_09_Red_Faced_and_Named.md): audits/CONTINUATION_Chapter_09.md — U44: Rebuild clean no ticker spam no Cat private secrets
 - [Chapter 10](chapters/Chapter_10_Red_Faced_Consequence.md): audits/CONTINUATION_Chapter_10.md — U44: Rebuild clean no ticker spam no Cat private secrets
 - [Chapter 11](chapters/Chapter_11_The_Sun.md): audits/CONTINUATION_Chapter_11.md — U44: Rebuild clean no ticker spam no Cat private secrets
-- [Chapter 12](chapters/Chapter_12_The_Kiss.md): audits/CONTINUATION_Chapter_12.md — U44: Rebuild clean no ticker spam no Cat private secrets
+- [Chapter 12](chapters/Chapter_12_The_Kiss.md): audits/CONTINUATION_Chapter_12.md — The Kiss Complete Clean No Ticker No Cat Private 4137w complete clean no ticker no Cat private proper fights natural butterfly
 - [Chapter 13](chapters/Chapter_13_Human_for_a_Day.md): audits/CONTINUATION_Chapter_13.md — U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen
 - [Chapter 14](chapters/Chapter_14_Hostile_Takeover.md): audits/CONTINUATION_Chapter_14.md — U52: Kryptonite dagger shown not told
 - [Chapter 15](chapters/Chapter_15_Blood_Bonds.md): audits/CONTINUATION_Chapter_15.md — Blood Bonds 2957w proper prose full not rushing per user 3000+ request
-- [Chapter 16](chapters/Chapter_16_Childish_Things.md): audits/CONTINUATION_Chapter_16.md — Childish Things Part 1 - Toyman Returns Complete Serious Rebuild Everything Fixed 4126w complete serious rebuild everything fixed
+- [Chapter 16](chapters/Chapter_16_Childish_Things.md): audits/CONTINUATION_Chapter_16.md — Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing 4127w complete clean no ticker no Cat private proper fights natural butterfly
 - [Chapter 17](chapters/Chapter_17_Childish_Things_Convention.md): audits/CONTINUATION_Chapter_17.md — Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss 6835w complete serious rebuild everything fixed
 
 ### Preserved drafts and current candidate
@@ -100,8 +100,10 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_17_Childish_Things_Part2_R2.md](drafts/Chapter_17_Childish_Things_Part2_R2.md): adopted as Chapter 17 R2 full 4699w not rushing natural butterfly fixed kiss knows with Adrian
 - [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md): adopted as Chapter 16 R4 full 4126w complete serious rebuild everything fixed not just kiss
 - [drafts/Chapter_17_Childish_Things_Part2_R4.md](drafts/Chapter_17_Childish_Things_Part2_R4.md): adopted as Chapter 17 R4 full 6835w complete serious rebuild everything fixed not just kiss
+- [drafts/Chapter_12_The_Kiss_R6.md](drafts/Chapter_12_The_Kiss_R6.md): adopted as Chapter 12 R6 full 4137w complete clean no ticker no Cat private proper fights natural butterfly
+- [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md): adopted as Chapter 16 R5 full 4127w complete clean no ticker no Cat private proper fights natural butterfly
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 17, R4**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 16, R5**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -109,7 +111,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 17
+python3 tools/verify.py --ship 16
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.
