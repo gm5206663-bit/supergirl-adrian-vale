@@ -463,3 +463,39 @@ She left the lobby, cape hidden beneath her coat, and flew toward the sound.
 Behind her, Adrian picked up she's mug she had left as a gift, placed it on his desk and went back to work.
 
 There would be another headline tomorrow. Tonight, there was ordinary life, still waiting to be lived.
+
+
+At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+
+Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+
+Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+
+There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+
+Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+
+Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+
+Both had learned control shows strong willpower.
+
+At night, they shared again. Talking. Sleeping. Ordinary. All night.
+
+She asked, "Do you think we will always stay together?"
+
+He said, "If you want. I want if you want."
+
+"I want," she said.
+
+She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+
+At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+
+J'onn read report and said, "You forgot to write they stayed together."
+
+Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+
+J'onn nodded. "Good."
+
