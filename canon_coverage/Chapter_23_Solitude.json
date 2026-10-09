@@ -1,0 +1,71 @@
+{
+  "chapter": 23,
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_23_Solitude_R1.md",
+  "draft_sha256": "b1d855fe448e7c02607738e542ed4781a84755daa2f23be2177eabe5b01fb0d1",
+  "epoch": "v1",
+  "accepted": true,
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "SG-E15-IMDB",
+      "url": "https://www.imdb.com/title/tt52385123/",
+      "title": "Supergirl S01E15 - Solitude",
+      "accessed": "2026-10-09",
+      "verification": "S01E15 - Solitude"
+    },
+    {
+      "id": "U60",
+      "url": "foundation/USER_LOCKS.json",
+      "title": "U60 share spent all night together",
+      "accessed": "2026-10-09",
+      "verification": "share spent all night together ordinary"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-15-01",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E15-IMDB",
+      "description": "S01E15 - Solitude"
+    },
+    {
+      "id": "SG-23-02",
+      "status": "changed_with_receipt",
+      "reason": "Adrian Kara share spent all night together ordinary",
+      "source": "U60",
+      "description": "Share spent all night together"
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    },
+    "power": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    }
+  }
+}

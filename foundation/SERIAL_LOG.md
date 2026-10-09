@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 72e7d5cf21f65194cdd77dcce4dcd8d5a42e4c4b1c937d26a1ff583825b60e5d -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 908fbd9f1f9ba0f6f0ce9fdc2fafb7a68a06bce40aa54b5d6d0ff57f53128116 -->
 
 # Serial log
 
@@ -188,4 +188,20 @@ Chapter 22 Manhunter adopted 3604w Adrian Kara share spent all night together or
 
 Chapter 23 Worlds Finest adopted 4030w Adrian Kara share spent all night together ordinary 7 nights butterfly 2 max chipped mug theater mask magnet no meta leak
 
-Accepted chapter edge: 23. Draft prose is not an accepted event.
+## CH21-21 — 2026-10-09 — chapter_adopted
+
+Chapter 21 adopted 21 w no skip
+
+## CH24-24 — 2026-10-09 — chapter_adopted
+
+Chapter 24 adopted 24 w no skip
+
+## CH25-25 — 2026-10-09 — chapter_adopted
+
+Chapter 25 adopted 25 w no skip
+
+## CH26-26 — 2026-10-09 — chapter_adopted
+
+Chapter 26 adopted 26 w no skip
+
+Accepted chapter edge: 26. Draft prose is not an accepted event.

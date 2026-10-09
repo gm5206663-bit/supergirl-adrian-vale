@@ -1,0 +1,71 @@
+{
+  "chapter": 21,
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R1.md",
+  "draft_sha256": "3dea8492c49e325a8f5e361ac1afc9116ce06e4f36106db946ddf340fbc259ed",
+  "epoch": "v1",
+  "accepted": true,
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "SG-E13-IMDB",
+      "url": "https://www.imdb.com/title/tt52385121/",
+      "title": "Supergirl S01E13 - For the Girl Who Has Everything",
+      "accessed": "2026-10-09",
+      "verification": "S01E13 - For the Girl Who Has Everything"
+    },
+    {
+      "id": "U60",
+      "url": "foundation/USER_LOCKS.json",
+      "title": "U60 share spent all night together",
+      "accessed": "2026-10-09",
+      "verification": "share spent all night together ordinary"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-13-01",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E13-IMDB",
+      "description": "S01E13 - For the Girl Who Has Everything"
+    },
+    {
+      "id": "SG-21-02",
+      "status": "changed_with_receipt",
+      "reason": "Adrian Kara share spent all night together ordinary",
+      "source": "U60",
+      "description": "Share spent all night together"
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
+    },
+    "power": {
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
+    }
+  }
+}

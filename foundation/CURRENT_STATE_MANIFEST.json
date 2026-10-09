@@ -4,7 +4,7 @@
   "epoch": "v1",
   "revision": "foundation-021",
   "updated_on": "2026-10-08",
-  "phase": "chapter-23-adopted-worlds-finest-share-spent-all-night-together-4030w-natural",
+  "phase": "chapter-26-adopted-worlds-finest-no-skip-episodes-13-14-15-added-4000w-natural",
   "remote": {
     "configured": false,
     "repository": null,
@@ -98,9 +98,12 @@
       "SG-20-07",
       "SG-20-08",
       "SG-20-09",
+      "SG-21-02",
       "SG-21-06",
+      "SG-22-02",
       "SG-22-04",
       "SG-22-05",
+      "SG-23-02",
       "SG-23-05",
       "SG-9-01",
       "SG-9-02",
@@ -222,8 +225,8 @@
     "canon_foreknowledge": false,
     "learned_skills_erased_by_seal": false
   },
-  "accepted_edge": 23,
-  "next_chapter": 24,
+  "accepted_edge": 26,
+  "next_chapter": 27,
   "accepted_chapters": [
     {
       "number": 1,
@@ -444,31 +447,62 @@
     },
     {
       "number": 21,
-      "path": "chapters/Chapter_21_Falling.md",
-      "sha256": "bf081c9952d4f7bd1a8673a7437815e8ac42138b1737b6671e4f8e00c4362671",
+      "epoch": "v1",
+      "path": "chapters/Chapter_21_For_the_Girl_Who_Has_Everything.md",
+      "sha256": "3dea8492c49e325a8f5e361ac1afc9116ce06e4f36106db946ddf340fbc259ed",
       "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
-      "acceptance_receipt": "User approved via review",
-      "accepted_on": "2026-10-08",
-      "epoch": "v1"
+      "accepted_on": "2026-10-09",
+      "acceptance_receipt": "audits/CHAPTER_21_R1_REVIEW.md \u2014 U60: Chapter 21 For_the_Girl_Who_Has_Everything",
+      "acceptance_basis": "continuation_authorization"
     },
     {
       "number": 22,
       "epoch": "v1",
-      "path": "chapters/Chapter_22_Manhunter.md",
-      "sha256": "0bbc5937c7cde8b3f97c171b3989b4f41683c074d77301dbe4ceb88f14c4810a",
+      "path": "chapters/Chapter_22_Truth_Justice.md",
+      "sha256": "dfa0510fad2eee0c944f0b0a7606cf1d173f3247e2af172c9c4861b7e2999912",
       "coverage": "canon_coverage/Chapter_22_ACCEPTED.json",
       "accepted_on": "2026-10-09",
-      "acceptance_receipt": "audits/CHAPTER_22_R1_REVIEW.md \u2014 U60: Next chapter Adrian Kara share spent all night together",
+      "acceptance_receipt": "audits/CHAPTER_22_R1_REVIEW.md \u2014 U60: Chapter 22 Truth_Justice",
       "acceptance_basis": "continuation_authorization"
     },
     {
       "number": 23,
       "epoch": "v1",
-      "path": "chapters/Chapter_23_Worlds_Finest.md",
-      "sha256": "e1c4ac93942ee7a6cd694d5f7f53fe302e00f9e5d6e1c8e35861a7134573f39f",
+      "path": "chapters/Chapter_23_Solitude.md",
+      "sha256": "b1d855fe448e7c02607738e542ed4781a84755daa2f23be2177eabe5b01fb0d1",
       "coverage": "canon_coverage/Chapter_23_ACCEPTED.json",
       "accepted_on": "2026-10-09",
-      "acceptance_receipt": "audits/CHAPTER_23_R1_REVIEW.md \u2014 U60: Next chapter Worlds Finest share spent all night together",
+      "acceptance_receipt": "audits/CHAPTER_23_R1_REVIEW.md \u2014 U60: Chapter 23 Solitude",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 24,
+      "epoch": "v1",
+      "path": "chapters/Chapter_24_Falling.md",
+      "sha256": "bf081c9952d4f7bd1a8673a7437815e8ac42138b1737b6671e4f8e00c4362671",
+      "coverage": "canon_coverage/Chapter_24_ACCEPTED.json",
+      "accepted_on": "2026-10-09",
+      "acceptance_receipt": "audits/CHAPTER_24_R3_REVIEW.md \u2014 U60: Chapter 24 Falling",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 25,
+      "epoch": "v1",
+      "path": "chapters/Chapter_25_Manhunter.md",
+      "sha256": "0bbc5937c7cde8b3f97c171b3989b4f41683c074d77301dbe4ceb88f14c4810a",
+      "coverage": "canon_coverage/Chapter_25_ACCEPTED.json",
+      "accepted_on": "2026-10-09",
+      "acceptance_receipt": "audits/CHAPTER_25_R1_REVIEW.md \u2014 U60: Chapter 25 Manhunter",
+      "acceptance_basis": "continuation_authorization"
+    },
+    {
+      "number": 26,
+      "epoch": "v1",
+      "path": "chapters/Chapter_26_Worlds_Finest.md",
+      "sha256": "e1c4ac93942ee7a6cd694d5f7f53fe302e00f9e5d6e1c8e35861a7134573f39f",
+      "coverage": "canon_coverage/Chapter_26_ACCEPTED.json",
+      "accepted_on": "2026-10-09",
+      "acceptance_receipt": "audits/CHAPTER_26_R1_REVIEW.md \u2014 U60: Chapter 26 Worlds_Finest",
       "acceptance_basis": "continuation_authorization"
     }
   ],
@@ -739,21 +773,21 @@
     },
     {
       "chapter": 21,
-      "revision": "R3",
-      "path": "drafts/Chapter_21_Falling_R3.md",
-      "sha256": "bf081c9952d4f7bd1a8673a7437815e8ac42138b1737b6671e4f8e00c4362671",
-      "status": "adopted as Chapter 21 R3 natural",
+      "revision": "R1",
+      "path": "drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R1.md",
+      "sha256": "3dea8492c49e325a8f5e361ac1afc9116ce06e4f36106db946ddf340fbc259ed",
+      "status": "adopted as Chapter 21 R1 natural",
       "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
-      "review": "audits/CHAPTER_21_R2_REVIEW.md",
+      "review": "audits/CHAPTER_21_R1_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     },
     {
       "chapter": 22,
       "revision": "R1",
-      "path": "drafts/Chapter_22_Manhunter_R1.md",
-      "sha256": "0bbc5937c7cde8b3f97c171b3989b4f41683c074d77301dbe4ceb88f14c4810a",
-      "status": "adopted as Chapter 22 R1 natural share spent all night together",
+      "path": "drafts/Chapter_22_Truth_Justice_R1.md",
+      "sha256": "dfa0510fad2eee0c944f0b0a7606cf1d173f3247e2af172c9c4861b7e2999912",
+      "status": "adopted as Chapter 22 R1 natural",
       "coverage": "canon_coverage/Chapter_22_ACCEPTED.json",
       "review": "audits/CHAPTER_22_R1_REVIEW.md",
       "format_revision": 1,
@@ -762,11 +796,44 @@
     {
       "chapter": 23,
       "revision": "R1",
-      "path": "drafts/Chapter_23_Worlds_Finest_R1.md",
-      "sha256": "e1c4ac93942ee7a6cd694d5f7f53fe302e00f9e5d6e1c8e35861a7134573f39f",
-      "status": "adopted as Chapter 23 R1 natural share spent all night together worlds finest",
+      "path": "drafts/Chapter_23_Solitude_R1.md",
+      "sha256": "b1d855fe448e7c02607738e542ed4781a84755daa2f23be2177eabe5b01fb0d1",
+      "status": "adopted as Chapter 23 R1 natural",
       "coverage": "canon_coverage/Chapter_23_ACCEPTED.json",
       "review": "audits/CHAPTER_23_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 24,
+      "revision": "R3",
+      "path": "drafts/Chapter_24_Falling_R3.md",
+      "sha256": "bf081c9952d4f7bd1a8673a7437815e8ac42138b1737b6671e4f8e00c4362671",
+      "status": "adopted as Chapter 24 R3 natural",
+      "coverage": "canon_coverage/Chapter_24_ACCEPTED.json",
+      "review": "audits/CHAPTER_24_R3_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 25,
+      "revision": "R1",
+      "path": "drafts/Chapter_25_Manhunter_R1.md",
+      "sha256": "0bbc5937c7cde8b3f97c171b3989b4f41683c074d77301dbe4ceb88f14c4810a",
+      "status": "adopted as Chapter 25 R1 natural",
+      "coverage": "canon_coverage/Chapter_25_ACCEPTED.json",
+      "review": "audits/CHAPTER_25_R1_REVIEW.md",
+      "format_revision": 1,
+      "continuity_conflicts": []
+    },
+    {
+      "chapter": 26,
+      "revision": "R1",
+      "path": "drafts/Chapter_26_Worlds_Finest_R1.md",
+      "sha256": "e1c4ac93942ee7a6cd694d5f7f53fe302e00f9e5d6e1c8e35861a7134573f39f",
+      "status": "adopted as Chapter 26 R1 natural",
+      "coverage": "canon_coverage/Chapter_26_ACCEPTED.json",
+      "review": "audits/CHAPTER_26_R1_REVIEW.md",
       "format_revision": 1,
       "continuity_conflicts": []
     }
@@ -1064,6 +1131,30 @@
     {
       "id": "CH23-23",
       "description": "Chapter 23 Worlds Finest adopted 4030w Adrian Kara share spent all night together ordinary 7 nights butterfly 2 max chipped mug theater mask magnet no meta leak",
+      "date": "2026-10-09",
+      "kind": "chapter_adopted"
+    },
+    {
+      "id": "CH21-21",
+      "description": "Chapter 21 adopted 21 w no skip",
+      "date": "2026-10-09",
+      "kind": "chapter_adopted"
+    },
+    {
+      "id": "CH24-24",
+      "description": "Chapter 24 adopted 24 w no skip",
+      "date": "2026-10-09",
+      "kind": "chapter_adopted"
+    },
+    {
+      "id": "CH25-25",
+      "description": "Chapter 25 adopted 25 w no skip",
+      "date": "2026-10-09",
+      "kind": "chapter_adopted"
+    },
+    {
+      "id": "CH26-26",
+      "description": "Chapter 26 adopted 26 w no skip",
       "date": "2026-10-09",
       "kind": "chapter_adopted"
     }
