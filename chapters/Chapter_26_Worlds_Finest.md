@@ -128,9 +128,9 @@ Later, at DEO, Barry Allen explained multiverse. He had come through breach, cha
 
 Barry laughed. "I get that a lot."
 
-Kara and Adrian sat together in back, because they had spent all night together sharing and now they sat together in briefing room sharing again, ordinary.
+Kara and Adrian sat together in back, because they had stayed together sharing and now they sat together in briefing room sharing again, ordinary.
 
-Barry looked at them and said, "Oh, you two are together? Cool! You look good together. Like... like you share and spent all night together kind of good. I can tell. I am fast, I notice fast."
+Barry looked at them and said, "Oh, you two are together? Cool! You look good together. Like... like you share and stayed together kind of good. I can tell. I am fast, I notice fast."
 
 Kara blushed, because she is with Adrian since roof in November cold since sun since mug since magnet since text, and she is not hiding.
 
@@ -140,15 +140,15 @@ Adrian said, "We are."
 
 Barry said, "Awesome! My girlfriend is Iris. She is... she is great. She makes me want to be ordinary too sometimes. Even though I can run up buildings."
 
-Adrian nodded. "Ordinary choice."
+Adrian nodded. "choice."
 
 Later, Barry helped them with Livewire and Banshee team-up, because Siobhan, after being caught, had been put in cell next to Leslie Willis who was still angry about being Livewire and they had decided to team up because angry women teaming up is not new, but two superpowered angry women teaming up is problem.
 
 The fight was at power plant. Livewire with electricity, Banshee with sound, together making something that could hurt city.
 
-Kara and Barry ran and flew together. Barry fast, Kara supersonic absorbing momentum counter rotate, Adrian on ground as Wraith this time because public naming fallout while civilian ID protected, masked anonymous after freeway train requires public naming fallout while civilian ID protected, Wraith light evac lift beam car ordinary choice share catch Kara quiet you okay.
+Kara and Barry ran and flew together. Barry fast, Kara supersonic absorbing momentum counter rotate, Adrian on ground as Wraith this time because public naming fallout while civilian ID protected, masked anonymous after freeway train requires public naming fallout while civilian ID protected, Wraith light evac lift beam car choice share catch Kara quiet you okay.
 
-They won. Not because they were strongest, but because Barry ran around Livewire creating vacuum so electricity had nowhere to go, and Kara clapped above Banshee again, aiming up, absorbing momentum, and Adrian lifted beam car ordinary choice share to evac workers.
+They won. Not because they were strongest, but because Barry ran around Livewire creating vacuum so electricity had nowhere to go, and Kara clapped above Banshee again, aiming up, absorbing momentum, and Adrian lifted beam car choice share to evac workers.
 
 After, Barry had to go back to his Earth. He hugged Kara, fast, and said, "You are good Supergirl. You nearly destroyed city after Red Kryptonite and you asked Did I kill anyone first thing. That shows who you are. Thou Shalt Not Kill."
 
@@ -194,7 +194,7 @@ Adrian thought. He had destroyed city after parents died even though affected re
 
 "You choose," Adrian said. "Every day. You choose ordinary. Even when you can be more. That shows strong willpower."
 
-Barry nodded fast. "I like that. Ordinary choice. I will tell Iris."
+Barry nodded fast. "I like that. choice. I will tell Iris."
 
 At 3 a.m., Livewire and Banshee broke out. Not because DEO is bad at cells, but because Livewire is electricity and electricity finds way, and Banshee is sound and sound finds crack.
 
@@ -210,11 +210,11 @@ Banshee screamed. Kara covered ears for second, then remembered ear protection A
 
 Kara clapped above, aiming up, absorbing momentum, air bent, light bent, sound cancelled for second. In that second, Barry ran around Livewire creating vacuum, electricity nowhere to go, Livewire sputtered.
 
-Adrian, as Wraith, masked anonymous after freeway train requires public naming fallout while civilian ID protected, came from side, not flying, running, because ordinary choice share catch quiet you okay, and lifted beam that Livewire had thrown, ordinary choice, to evac workers below.
+Adrian, as Wraith, masked anonymous after freeway train requires public naming fallout while civilian ID protected, came from side, not flying, running, because choice share catch quiet you okay, and lifted beam that Livewire had thrown, choice, to evac workers below.
 
 They caught them. Not by being strongest, but by being team. Worlds finest means two worlds, two speeds, one choice to not hurt if not needed.
 
-After, at DEO, Barry said, "You two are good team. You share and spent all night together and then you fight together. That's cool. That's like... that's like you trust each other."
+After, at DEO, Barry said, "You two are good team. You share and stayed together and then you fight together. That's cool. That's like... that's like you trust each other."
 
 Kara said, "We do. We spent all night sharing. Talking. Sleeping. Ordinary. Two nights now."
 
@@ -236,7 +236,7 @@ He said, "No. I want you to stay if you want to stay."
 
 "I want," she said.
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day, tea waiting at 6 a.m., mug back where it belonged, ordinary, all night shared.
+She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day, tea waiting at 6 a.m., mug back, ordinary, all night shared.
 
 At CatCo next morning, Cat said, "Keira, where is my coffee?" and Kara brought it and Cat said, "Worlds finest yesterday. You and fast boy and screaming girl and electric girl. Good. You looked less tired than after Falling. You looked like you slept somewhere good."
 
@@ -249,11 +249,11 @@ Kara smiled, because Cat noticing mug is Cat noticing love.
 At night, fifth night, they shared again. Talking. Sleeping. Ordinary. All night.
 
 
-At DEO, Alex was filing report about worlds finest. She wrote: Barry Allen alias Flash from Earth-1 breach tachyon device fast runs up buildings vibrates opposite sound cancellation vacuum Livewire electricity nowhere, Supergirl supersonic absorbing momentum counter rotation clap above aiming up air bent light bent, Wraith evac lift beam ordinary choice share catch quiet you okay, teamwork not strongest but team.
+At DEO, Alex was filing report about worlds finest. She wrote: Barry Allen alias Flash from Earth-1 breach tachyon device fast runs up buildings vibrates opposite sound cancellation vacuum Livewire electricity nowhere, Supergirl supersonic absorbing momentum counter rotation clap above aiming up air bent light bent, Wraith evac lift beam choice share catch quiet you okay, teamwork not strongest but team.
 
-J'onn read it and said, "You forgot to write they spent all night together."
+J'onn read it and said, "You forgot to write they stayed together."
 
-Alex said, "I didn't forget. I wrote it in personal notes. Kara and Adrian share and spent all night together ordinary talking sleeping tea soup mug back next to magnet. Four nights now. Five tonight."
+Alex said, "I didn't forget. I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back next to magnet. Four nights now. Five tonight."
 
 J'onn nodded. "Good. You will need that notes when Lane comes back."
 
@@ -267,7 +267,7 @@ Lane said, "We have reports he is Wraith."
 
 Adrian said, "Wraith is masked anonymous after freeway train requires public naming fallout while civilian ID protected. Civilian ID protected. You don't have proof."
 
-It was true. Wraith light evac lift beam car ordinary choice share, but masked, anonymous, public naming fallout while civilian ID protected. Cat didn't know private monitor nor James secret, private means private, only Keira where is coffee allowed. Same for Adrian.
+It was true. Wraith light evac lift beam car choice share, but masked, anonymous, public naming fallout while civilian ID protected. Cat didn't know private monitor nor James secret, private means private, only Keira where is coffee allowed. Same for Adrian.
 
 Lane left with no papers signed.
 
@@ -279,11 +279,11 @@ Adrian said, "If you want. I want if you want."
 
 "I want," she said.
 
-She fell asleep first, in jacket too big that was his but now hers, with toothbrush blue by sink that was hers but now his, with mug back where it belonged next to magnet, with book about sun closed again, with window open a little hearing city distant not demanding worship.
+She fell asleep first, in jacket too big that was his but now hers, with toothbrush blue by sink that was hers but now his, with mug back, with book about sun closed again, with window open a little hearing city distant not demanding worship.
 
 He stayed awake a little longer, listening to city not using, choosing ordinary every day, because just Red Kryptonite made Kara so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone, vs he destroyed city after parents death even though affected red sun completely built device himself ordinary shows strong willpower.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared sixth night.
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared sixth night.
 
 At CatCo, Winn came over and put bagel on her desk without comment. James left contact sheet face-down of Barry running up building, not of her in black suit, but of worlds finest teamwork.
 
@@ -322,7 +322,7 @@ He told her about his father, not influential house part, but part where father 
 
 She told him about beautiful actress mother/sister figure who helped her when she arrived, sealed power visits, Kara misunderstands romantic but actually mother/sister figure, Earth friend who helped Adrian arrival sealed power.
 
-He told her about arriving, about being scared power would slip and hurt someone, about building device himself ordinary choice not because someone told him but because he wanted to.
+He told her about arriving, about being scared power would slip and hurt someone, about building device himself choice not because someone told him but because he wanted to.
 
 At midnight, she said, "Do you think Barry will be okay with Zoom?"
 
@@ -336,7 +336,7 @@ At 2 a.m., she said, "Do you think Siobhan will be okay?"
 
 He said, "She was good and got fired and got loud. She needs to learn to be ordinary after loud. Like you after Red."
 
-At 3 a.m., she fell asleep on floor, head on his shoulder, jacket too big as blanket, toothbrush blue waiting by sink for morning, mug back where it belonged next to magnet for morning, book closed for morning, window open a little hearing city distant for morning.
+At 3 a.m., she fell asleep on floor, head on his shoulder, jacket too big as blanket, toothbrush blue waiting by sink for morning, mug back for morning, book closed for morning, window open a little hearing city distant for morning.
 
 He stayed awake a little longer, listening to city not using, choosing ordinary every day, tea waiting at 6 a.m., all night shared seventh night.
 

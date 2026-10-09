@@ -218,7 +218,7 @@ At DEO, J'onn was waiting in Hank's office, not as Hank, as himself, seven feet 
 
 Alex was there. So was real Hank Henshaw in a med bed, thin, angry, alive.
 
-Kara and Adrian walked in holding hands, not hiding, because they had spent all night together sharing and talking and they were not hiding anymore.
+Kara and Adrian walked in holding hands, not hiding, because they had stayed together sharing and talking and they were not hiding anymore.
 
 J'onn looked at them and said, "You stayed together."
 
@@ -270,7 +270,7 @@ It was not a joke. It was true. He worked at CatCo. He made tea. He put mug back
 
 J'onn looked at Kara and Adrian, at how they sat close but not crowding, at how Kara had chosen to spend all night sharing and talking instead of patrolling, at how Adrian had chosen to stay awake while she slept safe, at how they had chosen ordinary.
 
-"You spent all night together," J'onn said, low, not as accusation, as observation. "Sharing."
+"You stayed together," J'onn said, low, not as accusation, as observation. "Sharing."
 
 "Yes," Kara said. "All night. We shared."
 
@@ -278,7 +278,7 @@ J'onn looked at Kara and Adrian, at how they sat close but not crowding, at how 
 
 Later, after Lane cut the feed and after DEO decided to not hand J'onn over and after real Henshaw was moved to a more secure med bay because he kept shouting, Kara and Adrian went back to Adrian's apartment, because DEO had said go home, rest, tomorrow will be hard.
 
-They made tea again. She put mug back next to magnet, because that was where it belonged. He didn't tell her. She knew.
+They made tea again. She put mug back, because that was where it belonged. He didn't tell her. She knew.
 
 At night, they shared again. Not because they had to, but because they wanted to. Talking. Sleeping. Ordinary. All night.
 

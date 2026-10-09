@@ -94,7 +94,7 @@ At DEO, Alex filed report: Black Mercy or Master Jailer or Toyman Indigo, depend
 
 J'onn read report and said, "You forgot to write they spent all night together."
 
-Alex said, "I wrote it in personal notes. Kara and Adrian share and spent all night together ordinary talking sleeping tea soup mug back next to magnet."
+Alex said, "I wrote it in personal notes. Kara and Adrian share and stayed together ordinary talking sleeping tea soup mug back next to magnet."
 
 J'onn nodded. "Good. You will need that notes when Lane comes back or Non comes back or Astra comes back."
 
@@ -132,9 +132,9 @@ Kara woke up and found tea waiting and him at desk, typing, not as Wraith, not a
 
 "Did we spend all night together?" she asked, teasing, sleepy, hair messy.
 
-"We shared and spent all night together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
+"We shared and stayed together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
 
-"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back where it belonged, with book closed again.
+"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back, with book closed again.
 
 She kissed him. Not because canon said to, but because she wanted to, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events not told via repetitive paragraph.
 
@@ -142,9 +142,9 @@ He kissed her back because he wanted to.
 
 They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because choice even when you can be more.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is not small. Ordinary is choice. Ordinary is putting mug back next to magnet every morning even though you can lift train and absorb momentum and fly supersonic and counter rotate and clap above aiming up air bent light bent and create vacuum and run up building like Barry.
+Kara and Adrian had learned since roof in November cold since sun that ordinary is not small. Ordinary is choice. Ordinary is putting mug back every morning even though you can lift train and absorb momentum and fly supersonic and counter rotate and clap above aiming up air bent light bent and create vacuum and run up building like Barry.
 
-Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father from influential house mother from collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine mass-killing culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father from influential house mother from collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine mass-killing culpability caught exhausted advanced technology captured no nerf built device himself choice.
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peekaboo midriff loudest heels out-Siobhaning Siobhan brazen catsuit Black Widow peanuts Superman III no one can stop me Tempting Fate Cue Martian Manhunter J'onn 317 years old Badass Boast H'ronmeer Torquasm Vo Rao ice dome cure Did I kill anyone Thou Shalt Not Kill.
 
@@ -152,9 +152,9 @@ Both had learned that control shows strong willpower, that hearing pen and not u
 
 At DEO, Alex filed report: Black Mercy or Master Jailer or Toyman Indigo, depending on episode, with sources, with beats, with reviews, with receipts, with continuity.
 
-J'onn read report and said, "You forgot to write they spent all night together."
+J'onn read report and said, "You forgot to write they stayed together."
 
-Alex said, "I wrote it in personal notes. Kara and Adrian share and spent all night together ordinary talking sleeping tea soup mug back next to magnet."
+Alex said, "I wrote it in personal notes. Kara and Adrian share and stayed together ordinary talking sleeping tea soup mug back."
 
 J'onn nodded. "Good. You will need that notes when Lane comes back or Non comes back or Astra comes back."
 
@@ -186,15 +186,15 @@ Kara put phone down and looked at Adrian typing at small desk, soft shirt, band 
 
 They shared all night. Talking. Sleeping. Ordinary.
 
-At midnight, city quiet. At 1 a.m., city quiet. At 2 a.m., city quiet. At 3 a.m., city quiet. At 5 a.m., light. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+At midnight, city quiet. At 1 a.m., city quiet. At 2 a.m., city quiet. At 3 a.m., city quiet. At 5 a.m., light. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
 
 Kara woke up and found tea waiting and him at desk, typing, not as Wraith, not as headline, just Adrian.
 
 "Did we spend all night together?" she asked, teasing, sleepy, hair messy.
 
-"We shared and spent all night together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
+"We shared and stayed together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
 
-"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back where it belonged, with book closed again.
+"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back, with book closed again.
 
 She kissed him. Not because canon said to, but because she wanted to, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events not told via repetitive paragraph.
 
@@ -210,7 +210,7 @@ At noon, Adam Foster came by with coffee for everyone because he'd heard about e
 
 There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
 
@@ -226,7 +226,7 @@ He said, "If you want. I want if you want."
 
 She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, ordinary, all night shared.
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
 
 At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
 
@@ -236,7 +236,7 @@ At noon, Adam Foster came by with coffee for everyone because he'd heard about e
 
 There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
 
@@ -252,7 +252,7 @@ He said, "If you want. I want if you want."
 
 She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, ordinary, all night shared.
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
 
 At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
 
@@ -262,7 +262,7 @@ At noon, Adam Foster came by with coffee for everyone because he'd heard about e
 
 There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
 
@@ -278,7 +278,7 @@ He said, "If you want. I want if you want."
 
 She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, ordinary, all night shared.
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
 
 At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
 
@@ -288,7 +288,7 @@ At noon, Adam Foster came by with coffee for everyone because he'd heard about e
 
 There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
 
@@ -304,7 +304,7 @@ He said, "If you want. I want if you want."
 
 She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, ordinary, all night shared.
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
 
 At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
 
@@ -314,7 +314,7 @@ At noon, Adam Foster came by with coffee for everyone because he'd heard about e
 
 There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
 
@@ -330,4 +330,4 @@ He said, "If you want. I want if you want."
 
 She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, ordinary, all night shared.
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
