@@ -442,7 +442,7 @@
     {
       "number": 21,
       "path": "chapters/Chapter_21_Falling.md",
-      "sha256": "540849325290995e16d470cff327ca601ff241d8892d0de8836bed2afc064c76",
+      "sha256": "bf081c9952d4f7bd1a8673a7437815e8ac42138b1737b6671e4f8e00c4362671",
       "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
       "acceptance_receipt": "User approved via review",
       "accepted_on": "2026-10-08",
@@ -674,7 +674,7 @@
       "chapter": 21,
       "revision": "R3",
       "path": "drafts/Chapter_21_Falling_R3.md",
-      "sha256": "540849325290995e16d470cff327ca601ff241d8892d0de8836bed2afc064c76",
+      "sha256": "bf081c9952d4f7bd1a8673a7437815e8ac42138b1737b6671e4f8e00c4362671",
       "status": "adopted as Chapter 21 R3 natural",
       "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
       "review": "audits/CHAPTER_21_R2_REVIEW.md",

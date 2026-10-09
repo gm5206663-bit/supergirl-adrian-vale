@@ -168,7 +168,7 @@ She wiped her eyes.
 
 "Just Red Kryptonite made me so angry, so malicious, so dangerous. I demanded awe and worship and shattered bottles with peanuts for laughs and wore that awful dress to prove I could be Cat and hurt James without meaning to. Just that. And he destroyed a city after his parents died even though he was affected by a red sun completely. He was affected completely. And now he controls enough to hear a pen across the room and not use it, to feel a field bend light around a car and choose to lift it like a person would, to text from the hallway when a friend needs help instead of listening through walls. That's willpower. That's strong willpower. How much is he holding back all the time?"
 
-J'onn spoke, low. "Red sun power development does harm temperament. It did harm his. He knows it. He controls it anyway. That is not a small thing. That shows strong willpower. His Adaptation Talent depends on user, completely different, level different mature holder far above Kara and Superman, not beginner, not joke."
+J'onn spoke, low. "Red sun power development does harm temperament. It did harm his. He knows it. He controls it anyway. That is not a small thing. That shows strong willpower. "
 
 Alex said, "You're realizing how much he's controlling."
 
@@ -200,7 +200,7 @@ She sat. She didn't touch him right away. She just breathed.
 
 Adrian's hand found hers under the desk, not big, not showy, just there.
 
-"I am still learning," he said. "Torquasm Vo and Rao help. Thinking about sun helps. Thinking about you helps. Adaptation Talent depends on user, completely different, level different mature holder, not beginner, not joke, not over-nerfed."
+"I am still learning," he said. "Torquasm Vo and Rao help. Thinking about sun helps. Thinking about you helps. ."
 
 Kara squeezed. She had told Adam months ago on the roof in November cold, before the lean, hand up gentle but firm, boundary clear, "I'm with Adrian," because she wanted to, because she is Kara who chooses who to kiss. Agency shown through events, not told via repetitive paragraph.
 
