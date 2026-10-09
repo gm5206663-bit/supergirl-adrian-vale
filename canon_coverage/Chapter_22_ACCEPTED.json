@@ -1,0 +1,113 @@
+{
+  "chapter": 22,
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_22_Manhunter_R1.md",
+  "draft_sha256": "0bbc5937c7cde8b3f97c171b3989b4f41683c074d77301dbe4ceb88f14c4810a",
+  "epoch": "v1",
+  "accepted": true,
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "SG-E17-IMDB",
+      "url": "https://www.imdb.com/title/tt5238512/",
+      "title": "Supergirl S01E17 Manhunter - Jonn Jonnz exposed as Martian real Hank Henshaw found",
+      "accessed": "2026-10-09",
+      "verification": "Jonn exposed real Hank Henshaw found General Lane DEO"
+    },
+    {
+      "id": "SG-E17-RECAP",
+      "url": "https://www.tvmaze.com/episodes/659415/supergirl-1x17-manhunter",
+      "title": "Recap S01E17 Manhunter - Jonn as Hank Henshaw for years real Hank alive desert",
+      "accessed": "2026-10-09",
+      "verification": "Jonn has been Hank for years real Hank Henshaw found thin angry alive desert"
+    },
+    {
+      "id": "ADRIAN-BIBLE",
+      "url": "bible/CHARACTER_ADRIAN_VALE.md",
+      "title": "Adrian Vale Bible - red sun power development harmed temperament built device himself ordinary",
+      "accessed": "2026-10-09",
+      "verification": "Built device himself ordinary choice"
+    },
+    {
+      "id": "U53",
+      "url": "foundation/USER_LOCKS.json",
+      "title": "U53 no meta chapter numbers",
+      "accessed": "2026-10-09",
+      "verification": "Must use in-world roof November cold since sun chipped mug theater mask magnet second toothbrush blue"
+    },
+    {
+      "id": "U60",
+      "url": "foundation/USER_LOCKS.json",
+      "title": "U60 Adrian Kara share spent all night together",
+      "accessed": "2026-10-09",
+      "verification": "Adrian and Kara share and spent all night together ordinary talking sleeping consensual agency shown via events"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-17-01",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E17-IMDB",
+      "description": "Jonn exposed as Martian Manhunter after years as Hank Henshaw real Hank Henshaw found thin angry alive"
+    },
+    {
+      "id": "SG-17-02",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E17-RECAP",
+      "description": "General Lane DEO briefing cold air conditioning Jonn Let them come 317 years old"
+    },
+    {
+      "id": "SG-17-03",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E17-RECAP",
+      "description": "Alex compromised knew Jonn trusts more than Lane"
+    },
+    {
+      "id": "SG-22-04",
+      "status": "changed_with_receipt",
+      "reason": "Added natural sharing all night per user request: Adrian and Kara share and spent all night together talking sleeping ordinary consensual agency shown via events she asks Can I stay tonight Can we share and spent all night together he asks Do you want light or dark she chooses, agency via events not told via repetitive paragraph, butterfly 2 max chipped mug theater mask magnet natural alive Adrian seen",
+      "source": "U60",
+      "description": "Adrian and Kara share and spent all night together ordinary talking sleeping tea soup mug back next to magnet second toothbrush blue second jacket too big in-world roof November cold since sun since mug since magnet since hallway text"
+    },
+    {
+      "id": "SG-22-05",
+      "status": "changed_with_receipt",
+      "reason": "Willpower continuation from U57: just Red Kryptonite made Kara angry vs Adrian destroyed city after parents death even though affected red sun completely shows strong willpower controlling every day pen across room field bent light ordinary choice",
+      "source": "ADRIAN-BIBLE",
+      "description": "Continuation of U57 willpower realization ordinary choice controlling"
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    },
+    "power": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    }
+  }
+}

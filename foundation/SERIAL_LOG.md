@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: bf36021794f7c6532972144a51d2167d3520a2f5dc3a97902eadb846f21f114c -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: e1fb8d8edb21caf59acc0ac0573271392dd418447a8bf0e56a444aaa0349078b -->
 
 # Serial log
 
@@ -180,4 +180,8 @@ Check again everything - Fix Ch12 R6 4137w clean no Cat private secrets weather 
 
 Add Ch19 Strange Visitor Part2 Adam Bizarro R1 2480w full not rushing S01E11 Part2 split natural like Red Faced and Childish Things
 
-Accepted chapter edge: 21. Draft prose is not an accepted event.
+## CH22-22 — 2026-10-09 — chapter_adopted
+
+Chapter 22 Manhunter adopted 3604w Adrian Kara share spent all night together ordinary consensual agency shown via events, butterfly 2 max chipped mug theater mask magnet, no meta leak
+
+Accepted chapter edge: 22. Draft prose is not an accepted event.

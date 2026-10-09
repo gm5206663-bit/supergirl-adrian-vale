@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: bf36021794f7c6532972144a51d2167d3520a2f5dc3a97902eadb846f21f114c -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: e1fb8d8edb21caf59acc0ac0573271392dd418447a8bf0e56a444aaa0349078b -->
 
 # Supergirl — Adrian Vale
 
@@ -7,8 +7,8 @@
 This is the local, GitHub-ready working project—not another generic DC questionnaire kit. It records the author's chosen Supergirl premise, foundations, original draft, canon research, state and executable checks.
 
 **Epoch:** v1 · **Revision:** foundation-021  
-**Accepted chapter edge:** 21 · **Next chapter:** 22  
-**Phase:** chapter-20-adopted-bizarro-events-actually-happening-2273w-full
+**Accepted chapter edge:** 22 · **Next chapter:** 23  
+**Phase:** chapter-22-adopted-manhunter-share-spent-all-night-together-3604w-natural
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -65,12 +65,17 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 19](chapters/Chapter_19_Strange_Visitor_Part2.md): audits/CONTINUATION_Chapter_19.md — natural events actually happening 1242w
 - [Chapter 20](chapters/Chapter_20_Bizarro.md): audits/CONTINUATION_Chapter_20.md — natural events actually happening 1044w
 - [Chapter 21](chapters/Chapter_21_Falling.md): User approved via review
+- [Chapter 22](chapters/Chapter_22_Manhunter.md): audits/CHAPTER_22_R1_REVIEW.md — U60: Next chapter Adrian Kara share spent all night together
 
 ### Preserved drafts and current candidate
 
 - [drafts/Chapter_01_Adrian_Vale_R3.md](drafts/Chapter_01_Adrian_Vale_R3.md): adopted as Chapter 1 R3 natural
+- [drafts/Chapter_01_Adrian_Vale_R2.md](drafts/Chapter_01_Adrian_Vale_R2.md): required by FILE_CONTRACT drafts/Chapter_01_Adrian_Vale_R2.md
 - [drafts/Chapter_02_A_Familiar_Face_R2.md](drafts/Chapter_02_A_Familiar_Face_R2.md): adopted as Chapter 2 R2 natural
+- [drafts/Chapter_02_A_Familiar_Face_R1.md](drafts/Chapter_02_A_Familiar_Face_R1.md): required by FILE_CONTRACT drafts/Chapter_02_A_Familiar_Face_R1.md
 - [drafts/Chapter_03_The_Name_He_Feared_R3.md](drafts/Chapter_03_The_Name_He_Feared_R3.md): adopted as Chapter 3 R3 natural
+- [drafts/Chapter_03_What_Came_With_Us_R1.md](drafts/Chapter_03_What_Came_With_Us_R1.md): required by FILE_CONTRACT drafts/Chapter_03_What_Came_With_Us_R1.md
+- [drafts/Chapter_03_The_Name_He_Feared_R2.md](drafts/Chapter_03_The_Name_He_Feared_R2.md): required by FILE_CONTRACT drafts/Chapter_03_The_Name_He_Feared_R2.md
 - [drafts/Chapter_04_What_Remains_R1.md](drafts/Chapter_04_What_Remains_R1.md): adopted as Chapter 4 R1 natural
 - [drafts/Chapter_05_In_Plain_Sight_R3.md](drafts/Chapter_05_In_Plain_Sight_R3.md): adopted as Chapter 5 R3 natural
 - [drafts/Chapter_06_Under_the_Headline_R1.md](drafts/Chapter_06_Under_the_Headline_R1.md): adopted as Chapter 6 R1 natural
@@ -89,12 +94,9 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_19_Strange_Visitor_Part2_R3.md](drafts/Chapter_19_Strange_Visitor_Part2_R3.md): adopted as Chapter 19 R3 natural
 - [drafts/Chapter_20_Bizarro_R2.md](drafts/Chapter_20_Bizarro_R2.md): adopted as Chapter 20 R2 natural
 - [drafts/Chapter_21_Falling_R3.md](drafts/Chapter_21_Falling_R3.md): adopted as Chapter 21 R3 natural
-- [drafts/Chapter_01_Adrian_Vale_R2.md](drafts/Chapter_01_Adrian_Vale_R2.md): required by FILE_CONTRACT drafts/Chapter_01_Adrian_Vale_R2.md
-- [drafts/Chapter_02_A_Familiar_Face_R1.md](drafts/Chapter_02_A_Familiar_Face_R1.md): required by FILE_CONTRACT drafts/Chapter_02_A_Familiar_Face_R1.md
-- [drafts/Chapter_03_What_Came_With_Us_R1.md](drafts/Chapter_03_What_Came_With_Us_R1.md): required by FILE_CONTRACT drafts/Chapter_03_What_Came_With_Us_R1.md
-- [drafts/Chapter_03_The_Name_He_Feared_R2.md](drafts/Chapter_03_The_Name_He_Feared_R2.md): required by FILE_CONTRACT drafts/Chapter_03_The_Name_He_Feared_R2.md
+- [drafts/Chapter_22_Manhunter_R1.md](drafts/Chapter_22_Manhunter_R1.md): adopted as Chapter 22 R1 natural share spent all night together
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 3, R2**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 22, R1**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -102,7 +104,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 3
+python3 tools/verify.py --ship 22
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.
