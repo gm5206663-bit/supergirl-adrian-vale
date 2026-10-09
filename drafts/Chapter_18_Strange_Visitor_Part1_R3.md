@@ -50,7 +50,7 @@ Kara said, "What? No, he was just... he was just asking about Cat."
 
 Alex said, "Kara, he asked if you want to get coffee sometime and you said I have coffee and he said no, with me, and you said I have coffee with Alex and he laughed and left. That was flirting. That was blatant flirting. How are you that naive to not recognize such blatant flirting?"
 
-Kara blushed, because she is with Adrian since Ch12 kiss roof November cold consensual agency romance_selection kara, since sun, since mug shared, since toothbrush book, and she is not looking for flirting, and also because Winn kissed her knowing she is with Adrian and she told him no with boundary and now young man flirting feels weird.
+Kara blushed, because she is with Adrian since the roof in November cold since the sun, since he put her mug back and she smiled different since then, and she is not looking for flirting, and also because Winn kissed her knowing she is with Adrian and she told him no with a gentle firm boundary and now a young man flirting feels weird.
 
 Adrian at his desk, pen, heard Alex say flirting, gave tiny nod not jealous, trusts, ordinary, places mug back.
 

@@ -302,7 +302,7 @@ Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H
 
 Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
 
-Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not Ch12 kiss but roof November cold since sun.
+Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not the roof in November kiss but roof November cold since sun.
 
 There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
@@ -312,7 +312,7 @@ Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H
 
 Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
 
-Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not Ch12 kiss but roof November cold since sun.
+Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not the roof in November kiss but roof November cold since sun.
 
 There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 

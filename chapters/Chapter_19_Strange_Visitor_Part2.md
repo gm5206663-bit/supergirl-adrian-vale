@@ -48,7 +48,7 @@ Adam obviously interested in Kara and openly flirts with her. Cat plays Shipper 
 
 At Noonan's again, after mediation, Adam asks Kara, "Do you want to get coffee? No, with me, not with Alex, with me, date?"
 
-Kara blushes, because she is with Adrian since Ch12 kiss roof November cold consensual agency romance_selection kara, since sun, since mug shared, since toothbrush book, since Adrian places mug back ordinary human-level and texts hallway single word and trusts. She is with Adrian, not looking for date with Adam, even though Adam is handsome and kind and Cat's son and played by Blake Jenner.
+Kara blushed, because she is with Adrian since the roof in November cold since the sun, since he put her chipped mug back next to the theater mask magnet and texted from the hallway once to check her heartbeat, ordinary choice. She is with Adrian, not looking for a date with Adam, even though Adam is handsome and kind and Cat's son.
 
 "I... I have a boyfriend," Kara says, quiet, honest, because Alex said be honest. "I have a boyfriend, Adrian, he works at CatCo, he places mug back next to magnet ordinary human-level, he... he is my boyfriend since roof November cold since sun. I am with Adrian."
 
