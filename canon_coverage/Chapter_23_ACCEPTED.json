@@ -1,0 +1,99 @@
+{
+  "chapter": 23,
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_23_Worlds_Finest_R1.md",
+  "draft_sha256": "e1c4ac93942ee7a6cd694d5f7f53fe302e00f9e5d6e1c8e35861a7134573f39f",
+  "epoch": "v1",
+  "accepted": true,
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "SG-E18-IMDB",
+      "url": "https://www.imdb.com/title/tt5171436/",
+      "title": "Supergirl S01E18 Worlds Finest - Flash Barry Allen crossover Silver Banshee Livewire",
+      "accessed": "2026-10-09",
+      "verification": "Flash Barry Allen crossover Silver Banshee Livewire team-up"
+    },
+    {
+      "id": "SG-E18-RECAP",
+      "url": "https://www.cbr.com/supergirl-worlds-finest-flash-crossover/",
+      "title": "Recap S01E18 Worlds Finest - Barry Allen runs up building sound cancellation vacuum",
+      "accessed": "2026-10-09",
+      "verification": "Barry runs up building sound cancellation vacuum electricity nowhere"
+    },
+    {
+      "id": "U60",
+      "url": "foundation/USER_LOCKS.json",
+      "title": "U60 Adrian Kara share spent all night together",
+      "accessed": "2026-10-09",
+      "verification": "Adrian and Kara share and spent all night together ordinary talking sleeping consensual agency shown via events"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-18-01",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E18-IMDB",
+      "description": "Barry Allen Flash from Earth-1 breach tachyon device fast runs up building"
+    },
+    {
+      "id": "SG-18-02",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E18-IMDB",
+      "description": "Siobhan Smythe fired becomes Silver Banshee sound scream glass crack"
+    },
+    {
+      "id": "SG-18-03",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E18-RECAP",
+      "description": "Livewire and Banshee team-up power plant electricity sound team-up"
+    },
+    {
+      "id": "SG-18-04",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E18-RECAP",
+      "description": "Supergirl supersonic absorbing momentum counter rotate clap above aiming up air bent light bent sound cancellation vacuum Barry runs around"
+    },
+    {
+      "id": "SG-23-05",
+      "status": "changed_with_receipt",
+      "reason": "Adrian Kara share spent all night together ordinary 7 nights talking sleeping tea soup mug back next to magnet second toothbrush blue second jacket too big, consensual agency shown via events she asks Can I stay tonight Can we share and spent all night together he asks Do you want light or dark she chooses",
+      "source": "U60",
+      "description": "Adrian and Kara share and spent all night together ordinary talking sleeping"
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    },
+    "power": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_23_R1_REVIEW.md",
+      "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    }
+  }
+}

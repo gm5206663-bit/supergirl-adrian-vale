@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: e1fb8d8edb21caf59acc0ac0573271392dd418447a8bf0e56a444aaa0349078b -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 72e7d5cf21f65194cdd77dcce4dcd8d5a42e4c4b1c937d26a1ff583825b60e5d -->
 
 # Supergirl — Adrian Vale
 
@@ -7,8 +7,8 @@
 This is the local, GitHub-ready working project—not another generic DC questionnaire kit. It records the author's chosen Supergirl premise, foundations, original draft, canon research, state and executable checks.
 
 **Epoch:** v1 · **Revision:** foundation-021  
-**Accepted chapter edge:** 22 · **Next chapter:** 23  
-**Phase:** chapter-22-adopted-manhunter-share-spent-all-night-together-3604w-natural
+**Accepted chapter edge:** 23 · **Next chapter:** 24  
+**Phase:** chapter-23-adopted-worlds-finest-share-spent-all-night-together-4030w-natural
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -66,6 +66,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 20](chapters/Chapter_20_Bizarro.md): audits/CONTINUATION_Chapter_20.md — natural events actually happening 1044w
 - [Chapter 21](chapters/Chapter_21_Falling.md): User approved via review
 - [Chapter 22](chapters/Chapter_22_Manhunter.md): audits/CHAPTER_22_R1_REVIEW.md — U60: Next chapter Adrian Kara share spent all night together
+- [Chapter 23](chapters/Chapter_23_Worlds_Finest.md): audits/CHAPTER_23_R1_REVIEW.md — U60: Next chapter Worlds Finest share spent all night together
 
 ### Preserved drafts and current candidate
 
@@ -95,8 +96,9 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_20_Bizarro_R2.md](drafts/Chapter_20_Bizarro_R2.md): adopted as Chapter 20 R2 natural
 - [drafts/Chapter_21_Falling_R3.md](drafts/Chapter_21_Falling_R3.md): adopted as Chapter 21 R3 natural
 - [drafts/Chapter_22_Manhunter_R1.md](drafts/Chapter_22_Manhunter_R1.md): adopted as Chapter 22 R1 natural share spent all night together
+- [drafts/Chapter_23_Worlds_Finest_R1.md](drafts/Chapter_23_Worlds_Finest_R1.md): adopted as Chapter 23 R1 natural share spent all night together worlds finest
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 22, R1**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 23, R1**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -104,7 +106,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 22
+python3 tools/verify.py --ship 23
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.

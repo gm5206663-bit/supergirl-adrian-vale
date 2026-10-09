@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: e1fb8d8edb21caf59acc0ac0573271392dd418447a8bf0e56a444aaa0349078b -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: 72e7d5cf21f65194cdd77dcce4dcd8d5a42e4c4b1c937d26a1ff583825b60e5d -->
 
 # File map
 
@@ -87,6 +87,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/CHAPTER_21_R1_REVIEW.md](audits/CHAPTER_21_R1_REVIEW.md)
 - [audits/CHAPTER_21_R2_REVIEW.md](audits/CHAPTER_21_R2_REVIEW.md)
 - [audits/CHAPTER_22_R1_REVIEW.md](audits/CHAPTER_22_R1_REVIEW.md)
+- [audits/CHAPTER_23_R1_REVIEW.md](audits/CHAPTER_23_R1_REVIEW.md)
 - [audits/CHAPTER_9_R8_REVIEW.md](audits/CHAPTER_9_R8_REVIEW.md)
 - [audits/CHECKSUMS.sha256](audits/CHECKSUMS.sha256)
 - [audits/COMPLETE_CHECK_2026_09_30.md](audits/COMPLETE_CHECK_2026_09_30.md)
@@ -290,6 +291,8 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [canon_coverage/Chapter_21_R3.json](canon_coverage/Chapter_21_R3.json)
 - [canon_coverage/Chapter_22_ACCEPTED.json](canon_coverage/Chapter_22_ACCEPTED.json)
 - [canon_coverage/Chapter_22_Manhunter.json](canon_coverage/Chapter_22_Manhunter.json)
+- [canon_coverage/Chapter_23_ACCEPTED.json](canon_coverage/Chapter_23_ACCEPTED.json)
+- [canon_coverage/Chapter_23_Worlds_Finest.json](canon_coverage/Chapter_23_Worlds_Finest.json)
 - [canon_coverage/EPISODE_02_BEAT_MAP.md](canon_coverage/EPISODE_02_BEAT_MAP.md)
 - [canon_coverage/EPISODE_03_BEAT_MAP.md](canon_coverage/EPISODE_03_BEAT_MAP.md)
 - [canon_coverage/EPISODE_04_BEAT_MAP.md](canon_coverage/EPISODE_04_BEAT_MAP.md)
@@ -336,6 +339,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [chapters/Chapter_20_Bizarro.md](chapters/Chapter_20_Bizarro.md)
 - [chapters/Chapter_21_Falling.md](chapters/Chapter_21_Falling.md)
 - [chapters/Chapter_22_Manhunter.md](chapters/Chapter_22_Manhunter.md)
+- [chapters/Chapter_23_Worlds_Finest.md](chapters/Chapter_23_Worlds_Finest.md)
 - [chapters/README.md](chapters/README.md)
 - [codex/ADRIAN_KARA_CANON_STUDY.md](codex/ADRIAN_KARA_CANON_STUDY.md)
 - [codex/BUTTERFLY_REGISTRY.md](codex/BUTTERFLY_REGISTRY.md)
@@ -398,6 +402,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [drafts/Chapter_20_Bizarro_R2.md](drafts/Chapter_20_Bizarro_R2.md)
 - [drafts/Chapter_21_Falling_R3.md](drafts/Chapter_21_Falling_R3.md)
 - [drafts/Chapter_22_Manhunter_R1.md](drafts/Chapter_22_Manhunter_R1.md)
+- [drafts/Chapter_23_Worlds_Finest_R1.md](drafts/Chapter_23_Worlds_Finest_R1.md)
 - [drafts/README.md](drafts/README.md)
 - [foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip](foundation-022-Chapter-12-Clean-Rebuild-53PASS.zip)
 - [foundation/AUTHORITY_AND_PROVENANCE.md](foundation/AUTHORITY_AND_PROVENANCE.md)
