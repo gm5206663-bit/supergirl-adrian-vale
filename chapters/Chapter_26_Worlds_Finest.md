@@ -267,7 +267,7 @@ Lane said, "We have reports he is Wraith."
 
 Adrian said, "Wraith is masked anonymous after freeway train requires public naming fallout while civilian ID protected. Civilian ID protected. You don't have proof."
 
-It was true. Wraith field bent light evac lift beam car ordinary choice share, but masked, anonymous, public naming fallout while civilian ID protected. Cat didn't know private monitor nor James secret, private means private, only Keira where is coffee allowed. Same for Adrian.
+It was true. Wraith light evac lift beam car ordinary choice share, but masked, anonymous, public naming fallout while civilian ID protected. Cat didn't know private monitor nor James secret, private means private, only Keira where is coffee allowed. Same for Adrian.
 
 Lane left with no papers signed.
 

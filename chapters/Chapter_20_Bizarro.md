@@ -16,13 +16,13 @@ She flew truck to road, not clearing, road, dropped it, truck landed hard, drive
 
 Alex stood, remote in hand, pizza falling. "Kara, that is not you."
 
-Kara stood, cape not on, but Supergirl inside, powers humming higher than ever finger healed heart faster baseline higher after sun baseline higher cells remember overcompensate, vision seeing individual dust motes in Cat office from bullpen and hearing Adrian pen across room and baseline higher.
+Kara stood, cape not on, but Supergirl inside, powers humming higher than ever finger healed heart faster baseline higher after sun baseline higher cells remember overcompensate, vision seeing individual dust motes in Cat office from bullpen and hearing Adrian pen and baseline higher.
 
 Alex called DEO. DEO said we have White Martian in custody, now Bizarro on bridge, what next.
 
 At CatCo next morning, ordinary was different because truck falling on television and Supergirl not Kara and Cat had son Adam who stayed and Winn was at home taking space.
 
-Kara arrived at 0845, coat that Adrian said looked nice once, chipped mug in hand that was not Evelyn's but similar. Adrian arrived at 0850, band at wrist, mug in hand, magnet in pocket, ordinary. He placed mug back next to coffee machine, next to magnet, and went back to typing, pen audible to Kara but not to others, because Kara's hearing after sun baseline higher sees individual dust motes in Cat office from bullpen and hears Adrian pen.
+Kara arrived at 0845, coat that Adrian said looked nice once, mug in hand that was not Evelyn's but similar. Adrian arrived at 0850, band at wrist, mug in hand, magnet in pocket, ordinary. He placed mug back next to coffee machine, next to magnet, and went back to typing, pen audible to Kara but not to others, because Kara's hearing after sun baseline higher sees individual dust motes in Cat office from bullpen and hears Adrian pen.
 
 Adrian thought Kara Torquasm Vo & Torquasm Rao before White Martian, and Kara used Torquasm Vo in sewers desert against White Martian telepathic attack Furnace wife daughters burnt Mars Holocaust, closing mind like ice dome like freeze breath for thoughts absorbing momentum thoughts not crack, projecting mind like heat vision for thoughts projecting calm Let them come Like a Daughter to Me.
 
@@ -90,7 +90,7 @@ Alex arrived, with Kryptonite? No, not Kryptonite, with... with DEO van, with...
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
 
-Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet.
+Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made.
 
@@ -170,3 +170,30 @@ Kara, in the bullpen, typed, not hearing as background, but as choice. She typed
 
 There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
 
+
+
+At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, because second jacket was at Adrian's and would stay there.
+
+Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families, not of her in black suit, but of ordinary.
+
+Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+
+There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day, and how much stronger that made Adrian's willpower than any synthetic red dust ever could.
+
+Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+
+Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+
+Both had learned control shows strong willpower.
+
+At night, they shared again. Talking. Sleeping. Ordinary. All night.
+
+She asked, "Do you think we will always spend all night together?"
+
+He said, "If you want. I want if you want."
+
+"I want," she said.
+
+She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, ordinary, all night shared.

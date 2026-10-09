@@ -6,13 +6,13 @@ Cat's emergency was not an emergency in the way DEO emergency is emergency. It w
 
 The young man at Noonan's who had expressed condolences for working for Cat Grant and who had asked if she breathes fire and eats babies and who had said he heard she sat down with Vladimir Putin, Pope Francis, and Taylor Swift and was not worried about dinner with son, was Adam Foster. Blake Jenner, Glee co-star and then-husband of Melissa Benoist in real life, Casting Gag, Ship Tease obviously interested in Kara and openly flirts with her, Cat plays Shipper on Deck for them, they have a date by the end of the episode.
 
-Adam arrived in National City carrying a letter from Cat that Kara had finished and mailed under her name. The letter had been in Cat's trash, discarded, because Cat writes letters when she is angry and then throws them away because she is Cat and she does not send letters that are vulnerable. Kara had found it, read it, not because she was supposed to read Cat's trash but because she was looking for chipped mug? No, because she was looking for file and found letter, and she had finished it, because she is Kara and she finishes things that are discarded, and she had mailed it under Cat's name, because she thought mother and son should reforge relationship.
+Adam arrived in National City carrying a letter from Cat that Kara had finished and mailed under her name. The letter had been in Cat's trash, discarded, because Cat writes letters when she is angry and then throws them away because she is Cat and she does not send letters that are vulnerable. Kara had found it, read it, not because she was supposed to read Cat's trash but because she was looking for mug? No, because she was looking for file and found letter, and she had finished it, because she is Kara and she finishes things that are discarded, and she had mailed it under Cat's name, because she thought mother and son should reforge relationship.
 
 Cat's emergency involved untimely arrival of her son, Adam, who had arrived due to heartfelt letter sent by mother, truth is Kara is one who finished discarded note and sent on behalf of boss.
 
 The tense relationship between mother and estranged son causes rift that Kara is confident she has to fix. She steps in and convinces Adam to give Cat second chance, which he does, and mother and son reforge relationship. Cat is grateful for Kara's help, but soon learns Adam has more than passing interest in Kara.
 
-Cat's office, 1500, Cat behind desk, Adam in front of desk, Kara by door holding chipped mug that is Evelyn's and magnet that is Evelyn's niece's, ordinary, human-level, as if not knowing Adam is flirting with Kara who is with Adrian.
+Cat's office, 1500, Cat behind desk, Adam in front of desk, Kara by door holding mug that is Evelyn's and magnet that is Evelyn's niece's, ordinary, human-level, as if not knowing Adam is flirting with Kara who is with Adrian.
 
 "Adam," Cat said, voice that is Cat but softer, because son, because estranged son, because she has not seen him in two years because she sent money but did not speak. "You came."
 
@@ -48,7 +48,7 @@ Adam obviously interested in Kara and openly flirts with her. Cat plays Shipper 
 
 At Noonan's again, after mediation, Adam asks Kara, "Do you want to get coffee? No, with me, not with Alex, with me, date?"
 
-Kara blushed, because she is with Adrian since the roof in November cold since the sun, since he put her chipped mug back next to the theater mask magnet and texted from the hallway once to check her heartbeat, ordinary choice. She is with Adrian, not looking for a date with Adam, even though Adam is handsome and kind and Cat's son.
+Kara blushed, because she is with Adrian since the roof in November cold since the sun, since he put her mug back next to the magnet and texted from the hallway once to check her heartbeat, ordinary choice. She is with Adrian, not looking for a date with Adam, even though Adam is handsome and kind and Cat's son.
 
 "I... I have a boyfriend," Kara says, quiet, honest, because Alex said be honest. "I have a boyfriend, Adrian, he works at CatCo, he places mug back next to magnet ordinary human-level, he... he is my boyfriend since roof November cold since sun. I am with Adrian."
 
@@ -98,7 +98,7 @@ Kara, at her desk, typing, fingers not ache because baseline higher after sun, v
 
 There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and forest fire and Adam who is Cat's son and date that is not date because Kara with Adrian and Bizarro who is Supergirl copy.
 
-Adrian went back to work, ordinary, human-level, band at wrist, mug next to magnet, toothbrusha apartment, jacket, book.
+Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet, toothbrusha apartment, jacket, book.
 
 Kara at her desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and to trust.
 

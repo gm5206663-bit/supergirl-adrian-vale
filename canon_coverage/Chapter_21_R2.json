@@ -1,119 +1,42 @@
 {
   "chapter": 21,
-  "revision": "R2",
-  "draft_path": "drafts/Chapter_21_Falling_R3.md",
-  "draft_sha256": "e5a7fc01e2c4beb288e1f1081e94f2fbc0f876d9325b9e4b76c3d34d62893fc2",
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R1.md",
+  "draft_sha256": "a3edd0543ab753c7f9a4d48365ccf099b439195f4ab5d38a3d8f33053f0c3b5f",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
   "continuity_conflicts": [],
   "sources": [
     {
-      "id": "SG-E16-FA",
-      "url": "https://www.imdb.com/title/tt5238510/",
-      "title": "Supergirl S01E16 Falling - Red Kryptonite makes Kara malicious and dangerous while Cat appears on The Talk",
-      "accessed": "2026-05-11",
-      "verification": "Red Kryptonite makes Kara malicious and dangerous"
+      "id": "SG-E13-IMDB",
+      "url": "https://www.imdb.com/title/tt52385121/",
+      "title": "Supergirl S01E13 - For the Girl Who Has Everything",
+      "accessed": "2026-10-09",
+      "verification": "S01E13 - For the Girl Who Has Everything"
     },
     {
-      "id": "SG-E16-TT",
-      "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/Supergirl2015S1E16Falling",
-      "title": "Recap S01E16 Falling - Gone Horribly Wrong synthetic Kryptonite affects minds progressive aggressive Good Girl Gone Bad OOC Is Serious Business This Is Your Brain on Evil nearly destroys city Did I kill anyone Thou Shalt Not Kill Out-of-Character Moment Maxwell Lord remorseful Tempting Fate Cue Martian Manhunter",
-      "accessed": "2026-05-11",
-      "verification": "Gone Horribly Wrong red Kryptonite attempt replicate normal green stone effects result substance doesn't physically weaken Kryptonians but affects minds making progressively more aggressive, Good Girl Gone Bad, OOC Is Serious Business, Out-of-Character Moment Maxwell Lord remorseful, Tempting Fate no one on Earth can stop her Cue Martian Manhunter, This Is Your Brain on Evil nearly destroys city, Did I kill anyone Thou Shalt Not Kill"
-    },
-    {
-      "id": "SG-E16-VU",
-      "url": "https://www.vulture.com/2016/03/supergirl-recap-when-she-was-bad.html",
-      "title": "Supergirl Recap When She Was Bad - Red Kryptonite strain turns Kara bad Superman III peanuts slinky striped dress peekaboo midriff loudest heels out-Siobhaning Siobhan brazen catsuit Black Widow megalomania awe worship",
-      "accessed": "2026-05-11",
-      "verification": "Red Kryptonite turns Kara bad, slinky striped dress with peekaboo midriff loudest heels out-Siobhaning Siobhan brazen, badass new catsuit Black Widow, megalomania demanding awe and worship, Superman III peanuts shatter bottles, no one on Earth can stop me"
-    },
-    {
-      "id": "ADRIAN-BIBLE",
-      "url": "bible/CHARACTER_ADRIAN_VALE.md",
-      "title": "Adrian Vale Bible - red sun power development harmed temperament emotional stability, father influential Kryptonian house mother collateral Daxam royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine mass-killing culpability not framed innocence advanced tech captured no nerf caught exhausted built device himself ordinary",
-      "accessed": "2026-05-11",
-      "verification": "Red-sun power development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union in rage destroyed city genuine culpability caught exhausted built device himself ordinary"
-    },
-    {
-      "id": "U40",
+      "id": "U60",
       "url": "foundation/USER_LOCKS.json",
-      "title": "U40 no meta TV Kara Superman unsealed design bullets",
-      "accessed": "2026-05-11",
-      "verification": "Characters must not know TV Kara Superman when unsealed nor quote design bullets, use in-world phrasing"
-    },
-    {
-      "id": "U41",
-      "url": "foundation/USER_LOCKS.json",
-      "title": "U41 Cat private only Keira where is coffee",
-      "accessed": "2026-05-11",
-      "verification": "Cat must not know private monitor nor James secret, private means private, only Keira where is coffee allowed"
-    },
-    {
-      "id": "U52",
-      "url": "foundation/USER_LOCKS.json",
-      "title": "U52 natural butterfly alive Adrian seen",
-      "accessed": "2026-05-11",
-      "verification": "Early CatCo chipped mug theater mask magnet Evelyn family DEO further back sealed bullpen pen hearing debris help soup Wraith field bent light evac lift beam car ordinary choice share"
-    },
-    {
-      "id": "U53",
-      "url": "foundation/USER_LOCKS.json",
-      "title": "U53 no meta chapter numbers",
-      "accessed": "2026-05-11",
-      "verification": "Must not know Ch12/Ch9 must use in-world roof November cold since sun chipped mug theater mask magnet second toothbrush blue not Ch12 kiss"
-    },
-    {
-      "id": "U57",
-      "url": "foundation/USER_LOCKS.json",
-      "title": "U57 Red Kryptonite willpower realization",
-      "accessed": "2026-05-11",
-      "verification": "Just Red Kryptonite makes Kara so angry malicious dangerous, Kara or others realize how much Adrian even controlling he just destroy City after his parents death even though he was effected of red sun completely, this actually also show how strong his will power is"
+      "title": "U60 share spent all night together",
+      "accessed": "2026-10-09",
+      "verification": "share spent all night together ordinary"
     }
   ],
   "beats": [
     {
-      "id": "SG-16-01",
+      "id": "SG-13-01",
       "status": "covered",
       "reason": "",
-      "source": "SG-E16-FA",
-      "description": "Burning building chemical plant workers trapped freeze breath lift beam absorbing momentum red dust synthetic Kryptonite Max Lord trap Non Gone Horribly Wrong affects minds progressive aggressive"
+      "source": "SG-E13-IMDB",
+      "description": "S01E13 - For the Girl Who Has Everything"
     },
     {
-      "id": "SG-16-02",
-      "status": "covered",
-      "reason": "",
-      "source": "SG-E16-VU",
-      "description": "CatCo slinky striped dress peekaboo midriff loudest heels out-Siobhaning Siobhan brazen grip hurt James second Cat magazines"
-    },
-    {
-      "id": "SG-16-03",
-      "status": "covered",
-      "reason": "",
-      "source": "SG-E16-TT",
-      "description": "Winn James DEO Max Lord remorseful Out-of-Character Moment working with DEO on cure"
-    },
-    {
-      "id": "SG-16-04",
-      "status": "covered",
-      "reason": "",
-      "source": "SG-E16-VU",
-      "description": "Catsuit Black Widow megalomania awe worship peanuts Superman III no one can stop me Tempting Fate Cue Martian Manhunter J'onn 317y Badass Boast H'ronmeer Torquasm Vo Rao ice dome cure"
-    },
-    {
-      "id": "SG-16-05",
-      "status": "covered",
-      "reason": "",
-      "source": "SG-E16-TT",
-      "description": "Cured Did I kill anyone Thou Shalt Not Kill nearly destroys city This Is Your Brain on Evil"
-    },
-    {
-      "id": "SG-21-06",
+      "id": "SG-21-02",
       "status": "changed_with_receipt",
-      "reason": "Canon Red Kryptonite malicious dangerous progressive aggressive retained, added in-world realization per U57: just Red Kryptonite makes Kara so angry vs Adrian destroyed city after parents death even though affected red sun completely red-sun power development harmed temperament emotional stability genuine mass-killing culpability caught exhausted built device himself ordinary shows strong willpower controlling",
-      "source": "U57",
-      "description": "Just Red Kryptonite makes Kara so angry, Kara or others realize how much Adrian even controlling he just destroy City after his parents death even though he was effected of red sun completely, this is actually also show how strong his will power is - includes bible red-sun temperament father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary"
+      "reason": "Adrian Kara share spent all night together ordinary",
+      "source": "U60",
+      "description": "Share spent all night together"
     }
   ],
   "reviews": {
@@ -125,24 +48,24 @@
   },
   "review_receipts": {
     "canon": {
-      "path": "audits/CHAPTER_21_R2_REVIEW.md",
-      "sha256": "b30596d987b9cf34d2865fd510a8ed271df90be155c437aeba08c3adb16250df"
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
     },
     "continuity": {
-      "path": "audits/CHAPTER_21_R2_REVIEW.md",
-      "sha256": "b30596d987b9cf34d2865fd510a8ed271df90be155c437aeba08c3adb16250df"
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
     },
     "power": {
-      "path": "audits/CHAPTER_21_R2_REVIEW.md",
-      "sha256": "b30596d987b9cf34d2865fd510a8ed271df90be155c437aeba08c3adb16250df"
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
     },
     "knowledge": {
-      "path": "audits/CHAPTER_21_R2_REVIEW.md",
-      "sha256": "b30596d987b9cf34d2865fd510a8ed271df90be155c437aeba08c3adb16250df"
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
     },
     "prose": {
-      "path": "audits/CHAPTER_21_R2_REVIEW.md",
-      "sha256": "b30596d987b9cf34d2865fd510a8ed271df90be155c437aeba08c3adb16250df"
+      "path": "audits/CHAPTER_21_R1_REVIEW.md",
+      "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
     }
   }
 }

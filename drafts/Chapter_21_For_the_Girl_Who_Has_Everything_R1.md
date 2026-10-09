@@ -38,9 +38,9 @@ Astra looked at him, first time really. "You are Kael-Varr's son."
 
 He didn't answer. He went to Kara's side. He took her hand. Her hand was warm, smiling, dreaming of Krypton where mother taught her to make tea that only grew in one valley.
 
-He spoke, low, not as Wraith, as Adrian, "Kara, it's me. You are dreaming of Krypton. With mother. With father. With me not there, because I wasn't there then. But I'm here now. Alex is here now. We have chipped mug next to magnet. We have second toothbrush blue. We have second jacket too big. We have book open sun closed again. We have ordinary. You have to choose ordinary over dream. You have to choose us."
+He spoke, low, not as Wraith, as Adrian, "Kara, it's me. You are dreaming of Krypton. With mother. With father. With me not there, because I wasn't there then. But I'm here now. Alex is here now. We have mug next to magnet. We have toothbrush. We have jacket. We have book closed again. We have ordinary. You have to choose ordinary over dream. You have to choose us."
 
-He didn't know if she heard. He used Torquasm Rao, not as attack, as projection, closing door and opening door, thinking about sun, thinking about her, thinking about roof in November cold since sun since mug since magnet since hallway text.
+He didn't know if she heard. He used Torquasm Rao, not as attack, as projection, closing door and opening door, thinking about sun, thinking about her, thinking about roof in November cold since sun since mug since magnet since text.
 
 Kara's smile flickered. The Black Mercy pulsed faster, angry.
 
@@ -114,7 +114,7 @@ Kara smiled, because Cat noticing mug is Cat noticing love, because Cat says Kei
 
 Adrian was at desk, typing, soft shirt, band at wrist frayed, lean and balanced not bulky bulk is not power control is power. He had heard heartbeat irregular last night, not Kara's, Alex's, and text at 2:17 a.m., and he had come not as Wraith but as Adrian.
 
-He put chipped mug next to theater mask magnet, because that was where it belonged, because ordinary was a choice every day.
+He put mug next to magnet, because that was where it belonged, because choice every day.
 
 Winn came over with bagel and said, "Hey, you okay? I heard Black Mercy. Like... like you were dreaming of Krypton?"
 
@@ -144,7 +144,7 @@ He said, "Sometimes. Under red sun, I dreamed of ordinary. Now ordinary is real,
 
 She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day, because just Red Kryptonite made Kara so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone, vs he destroyed city after parents death even though affected red sun completely built device himself ordinary shows strong willpower.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, book open sun closed again, second jacket too big behind door, blue toothbrush by sink, ordinary, all night shared.
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, book closed again, jacket behind door, blue toothbrush by sink, ordinary, all night shared.
 
 At DEO, Astra came again, not to fight, to talk. She said to J'onn, "Black Mercy was from Krypton. Non kept sample. Non will use again."
 
@@ -156,7 +156,7 @@ Kara said, "We have mug back."
 
 Astra didn't understand, but J'onn did. J'onn said, "Mug back is ordinary choice. Ordinary choice is power."
 
-Later, at CatCo, Siobhan was still gone, fired, but her desk still there, and Kara put chipped mug back next to magnet and thought about dream and about ordinary and about choosing.
+Later, at CatCo, Siobhan was still gone, fired, but her desk still there, and Kara put mug back next to magnet and thought about dream and about ordinary and about choosing.
 
 She texted Alex at 10 p.m.: "Staying at Adrian's again. We shared all night. Ordinary."
 
@@ -199,7 +199,7 @@ Adrian had learned under red sun that red sun power development does harm temper
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peekaboo midriff loudest heels out-Siobhaning Siobhan brazen catsuit Black Widow peanuts Superman III no one can stop me Tempting Fate Cue Martian Manhunter J'onn 317 years old Badass Boast H'ronmeer Torquasm Vo Rao ice dome cure Did I kill anyone Thou Shalt Not Kill.
 
-Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, second toothbrush blue by sink, second jacket too big behind door, book open sun closed again, window open a little hearing city distant not demanding worship, are all choices.
+Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, toothbrush by sink, jacket behind door, book closed again, window open a little hearing city distant not demanding worship, are all choices.
 
 At DEO, Alex filed report: Black Mercy or Master Jailer or Toyman Indigo, depending on episode, with sources, with beats, with reviews, with receipts, with continuity.
 
@@ -245,13 +245,13 @@ Kara woke up and found tea waiting and him at desk, typing, not as Wraith, not a
 
 "We shared and spent all night together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
 
-"I want to call it that," she said. She came over and sat next to him, in second jacket too big, with blue toothbrush still by sink, with mug back where it belonged, with book open sun closed again.
+"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back where it belonged, with book closed again.
 
 She kissed him. Not because canon said to, but because she wanted to, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events not told via repetitive paragraph.
 
 He kissed her back because he wanted to.
 
-They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because ordinary was a choice even when you can be more.
+They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because choice even when you can be more.
 
 Kara and Adrian had learned since roof in November cold since sun that ordinary is not small. Ordinary is choice. Ordinary is putting mug back next to magnet every morning even though you can lift train and absorb momentum and fly supersonic and counter rotate and clap above aiming up air bent light bent and create vacuum and run up building like Barry.
 
@@ -259,7 +259,7 @@ Adrian had learned under red sun that red sun power development does harm temper
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peekaboo midriff loudest heels out-Siobhaning Siobhan brazen catsuit Black Widow peanuts Superman III no one can stop me Tempting Fate Cue Martian Manhunter J'onn 317 years old Badass Boast H'ronmeer Torquasm Vo Rao ice dome cure Did I kill anyone Thou Shalt Not Kill.
 
-Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, second toothbrush blue by sink, second jacket too big behind door, book open sun closed again, window open a little hearing city distant not demanding worship, are all choices.
+Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, toothbrush by sink, jacket behind door, book closed again, window open a little hearing city distant not demanding worship, are all choices.
 
 At DEO, Alex filed report: Black Mercy or Master Jailer or Toyman Indigo, depending on episode, with sources, with beats, with reviews, with receipts, with continuity.
 
@@ -305,13 +305,13 @@ Kara woke up and found tea waiting and him at desk, typing, not as Wraith, not a
 
 "We shared and spent all night together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
 
-"I want to call it that," she said. She came over and sat next to him, in second jacket too big, with blue toothbrush still by sink, with mug back where it belonged, with book open sun closed again.
+"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back where it belonged, with book closed again.
 
 She kissed him. Not because canon said to, but because she wanted to, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events not told via repetitive paragraph.
 
 He kissed her back because he wanted to.
 
-They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because ordinary was a choice even when you can be more.
+They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because choice even when you can be more.
 
 At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
 

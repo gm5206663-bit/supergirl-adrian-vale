@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 15,
-  "revision": "R4",
+  "revision": "R5",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_15_Blood_Bonds_R4.md",
-  "draft_sha256": "a0934072370b2cf1b39afa958a7867c73b76b68c080350f4a63c4b1d119718b9",
+  "draft_path": "drafts/Chapter_15_Blood_Bonds_R5.md",
+  "draft_sha256": "b1f9e5bc3768f72bcd2aa4bd2edd7245cc270a71ea0c0cdd648ece3d63cdc008",
   "accepted": true,
   "claimed_episode": "S01E09 Blood Bonds",
   "span": "Blood Bonds clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
@@ -163,7 +163,7 @@
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Ultra clean prose rebuild per sweep flag d965b8e - before was summary notes with reviewer voice, now proper prose past tense descriptive",
+  "notes": "Full 2957w proper prose not rushing per user 3000_plus request, was 1155w short rushing, now 2957w close to 3000+ like Ch1-5",
   "format_revision": 1,
   "heading": {
     "season": 1,

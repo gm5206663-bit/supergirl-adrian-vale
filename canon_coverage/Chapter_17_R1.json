@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "chapter": 17,
-  "revision": "R1",
+  "revision": "R7",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_17_Childish_Things_Part2_R1.md",
-  "draft_sha256": "b8556b607dc96446e5173d2bcbdc16ac2b816b7d698a63a3dae55b73112cab20",
+  "draft_path": "drafts/Chapter_17_Childish_Things_Part2_R7.md",
+  "draft_sha256": "9a8ebcf078dbdd3cc822ea5ad74ea439dfca62b3a0486201d3a9dae20f387c04",
   "accepted": true,
   "claimed_episode": "S01E10 Childish Things Part 2",
-  "span": "Childish Things Part 2 - The Convention full 3000+ split natural",
+  "span": "Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss complete serious rebuild everything fixed",
   "sources": [
     {
       "id": "SRC-SG-E10-CB",
@@ -21,7 +21,14 @@
       "url": "https://www.superherohype.com/features/363009-supergirl-episode-10-recap-childish-things",
       "title": "Supergirl Episode 10 Recap - SuperHeroHype",
       "accessed": "2026-10-07",
-      "verification": "Factory quicksand freeze breath child trunk doll, Winn apartment worries snap genes, kiss pulls away, ether kidnapped plastic gun convention 10 bombs sprinklers ice wall, Minecraft confesses love, camera purse Alex Kara flight"
+      "verification": "Factory quicksand freeze breath child trunk doll, Winn apartment worries snap genes, kiss pulls away, ether kidnapped plastic gun convention 10 bombs sprinklers ice wall, Minecraft confesses love, camera purse Alex Kara flight, Winn knows Kara with Adrian"
+    },
+    {
+      "id": "SRC-U39-KISS",
+      "url": "user_request_U39_kiss",
+      "title": "Kara+Adrian kiss consensual agency romance_selection kara",
+      "accessed": "2026-10-07",
+      "verification": "Ch12 kiss roof November cold consensual agency Kara dating Adrian since Ch12 Winn knows complete serious rebuild"
     },
     {
       "id": "SRC-U40-TRASH",
@@ -42,14 +49,14 @@
       "url": "user_request_U52_natural",
       "title": "Natural butterfly alive Adrian seen",
       "accessed": "2026-10-07",
-      "verification": "Adrian seen chipped mug theater mask magnet hallway text pen across room"
+      "verification": "Adrian seen chipped mug theater mask magnet hallway text pen across room ordinary choice Winn knows Kara with Adrian complete serious rebuild"
     }
   ],
   "beats": [
     {
       "id": "SG-17-01",
       "status": "covered",
-      "reason": "Schott Toys factory abandoned thermite quicksand giant building block child trunk shredder doll freeze breath escape",
+      "reason": "Schott Toys factory abandoned thermite quicksand giant building block child trunk shredder doll freeze breath escape proper superpowered absorbing momentum flight counter rotation",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-SH"
@@ -58,55 +65,74 @@
     {
       "id": "SG-17-02",
       "status": "covered",
-      "reason": "Winn at Kara apartment worries snap like father genes time bomb Kara comforts both lives ended day strive give back",
+      "reason": "Winn at Kara apartment worries snap like father genes time bomb Kara comforts both lives ended day strive give back Winn knows Kara with Adrian since Ch12 chipped mug smile different second toothbrush blue jacket too big",
       "source_ids": [
         "SRC-SG-E10-CB",
-        "SRC-SG-E10-SH"
+        "SRC-SG-E10-SH",
+        "SRC-U39-KISS",
+        "SRC-U52-NATURAL"
       ]
     },
     {
       "id": "SG-17-03",
       "status": "covered",
-      "reason": "Winn kisses Kara pulls away, ether kidnapped van toy handcuffs plastic gun kill Dunholtz convention 10 bombs bring closer best thing ever made",
+      "reason": "Winn knows Kara with Adrian since sun since chipped mug since you smiled different since you and him leave together happy for you but cannot bottle anymore like father leans in kisses her scared bottled-up-for-years kiss knowing she is with Adrian friend helped private monitor closed, Kara pulls away boundary I'm with Adrian you know I'm with Adrian love you as best friend as family but I'm with Adrian happy need you as friend not this",
       "source_ids": [
         "SRC-SG-E10-CB",
-        "SRC-SG-E10-SH"
+        "SRC-SG-E10-SH",
+        "SRC-U39-KISS",
+        "SRC-U52-NATURAL"
       ]
     },
     {
       "id": "SG-17-04",
       "status": "covered",
-      "reason": "Toy convention bright Dunholtz award Winn cannot kill shoots ceiling, Supergirl sprinklers freeze breath ice dome protects from bombs",
+      "reason": "Ether kidnapped van toy handcuffs plastic gun kill Dunholtz convention 10 bombs bring closer best thing ever made Winn guilt amplified kissed Kara knowing with Adrian friend helped will tell Adrian sorry",
       "source_ids": [
         "SRC-SG-E10-CB",
-        "SRC-SG-E10-SH"
+        "SRC-SG-E10-SH",
+        "SRC-U39-KISS",
+        "SRC-U52-NATURAL"
       ]
     },
     {
       "id": "SG-17-05",
       "status": "covered",
-      "reason": "Winn confesses love since before Supergirl Minecraft needs space bottling feelings, Lucy job CatCo lawyer Harvard West Point 90% women James reluctant, TV night warning",
+      "reason": "Toy convention Dunholtz award Winn cannot kill shoots ceiling, Supergirl sprinklers freeze breath ice dome protects from bombs proper superpowered Adrian heard heartbeat irregular texted hallway did not storm trusts Kara",
       "source_ids": [
         "SRC-SG-E10-CB",
-        "SRC-SG-E10-SH"
+        "SRC-SG-E10-SH",
+        "SRC-U52-NATURAL"
       ]
     },
     {
       "id": "SG-17-06",
       "status": "covered",
-      "reason": "Maxwell Lord backup cameras sees himself supernatural phasing, plants camera Alex purse learns Supergirl is Alex sister CONTINGENCY",
+      "reason": "Winn confesses love since before Supergirl Minecraft needs space bottling feelings father, knows you're with Adrian since sun since chipped mug since you smiled different happy for you Adrian is my friend placed mug back heard heartbeat irregular texted hallway did not come because trusts, Lucy job CatCo lawyer Harvard West Point 90% women James reluctant knows Adrian=Wraith will not tell Lucy, TV night warning Alex includes Adrian in circle",
+      "source_ids": [
+        "SRC-SG-E10-CB",
+        "SRC-SG-E10-SH",
+        "SRC-U39-KISS",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-17-07",
+      "status": "covered",
+      "reason": "Maxwell Lord backup cameras sees himself supernatural phasing, plants camera Alex purse learns Supergirl is Alex sister CONTINGENCY plus WRAITH ADRIAN VALE folder chipped mug",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-SH"
       ]
     },
     {
-      "id": "SG-17-07",
+      "id": "SG-17-08",
       "status": "changed_with_receipt",
-      "reason": "Adrian natural butterfly alive seen chipped mug theater mask magnet hallway text pen across room ordinary choice share history romance affects Winn James Alex naturally proper fights",
+      "reason": "Complete serious rebuild everything fixed not just kiss: chipped mug theater mask magnet Evelyn family pen across room hallway text ordinary choice sun baseline higher cells remember overcompensate proper fights supersonic absorbing momentum flight counter rotation hydraulic fluid spray vacuum breath freeze breath ice dome sprinklers clean no ticker no Cat private romance affects Winn James Alex naturally Winn knows Kara with Adrian since Ch12 kiss roof November cold smile different leave together theater mask magnet second toothbrush blue jacket too big, Adrian hears heartbeat irregular texts hallway does not storm possessive trusts Kara, Kara pulls away boundary I'm with Adrian you know I'm with Adrian love you as best friend as family but I'm with Adrian happy need you as friend not this, Winn guilt amplified knows Adrian is friend helped private monitor closed will tell Adrian sorry, confession includes I know you're with Adrian since sun since chipped mug since you smiled different happy for you Adrian is my friend, Kara response includes Adrian will still need you he texted hallway because heard heartbeat irregular did not come because trusts, Alex includes Adrian in circle, Lord CONTINGENCY includes WRAITH and ADRIAN VALE",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-SH",
+        "SRC-U39-KISS",
         "SRC-U40-TRASH",
         "SRC-U41-CAT",
         "SRC-U52-NATURAL"
@@ -145,13 +171,13 @@
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Full 3498w proper prose not rushing split natural like Red Faced Ch9+Ch10 S01E10 Childish Things Toyman",
+  "notes": "Full 2885w agency no forcing canon no kiss without wanting Kara is Kara who has agency",
   "format_revision": 1,
   "heading": {
     "season": 1,
     "episode": 10,
     "canon_title": "Childish Things",
     "chapter": 17,
-    "chapter_title": "Childish Things Part 2 - The Convention"
+    "chapter_title": "Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss"
   }
 }

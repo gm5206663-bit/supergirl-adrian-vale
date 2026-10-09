@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "chapter": 15,
-  "revision": "R1",
+  "revision": "R5",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_15_Blood_Bonds_R1.md",
-  "draft_sha256": "fbd67cd27eb90d807ce17eb12183ceaf4a575354d947a42228743a8582069ec6",
-  "accepted": false,
+  "draft_path": "drafts/Chapter_15_Blood_Bonds_R5.md",
+  "draft_sha256": "b1f9e5bc3768f72bcd2aa4bd2edd7245cc270a71ea0c0cdd648ece3d63cdc008",
+  "accepted": true,
   "claimed_episode": "S01E09 Blood Bonds",
-  "span": "Blood Bonds - Astra in DEO Non captures Hank prisoner exchange Cat knows Kara is Supergirl",
+  "span": "Blood Bonds clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
   "sources": [
     {
       "id": "SRC-SG-E09-EW",
@@ -35,14 +35,14 @@
       "url": "user_request_U47_natural",
       "title": "Natural butterfly effects alive Adrian seen",
       "accessed": "2026-10-01",
-      "verification": "Natural butterfly effects completely dead and Adrian now where to seen - fixed by making Adrian seen where to seen early CatCo chipped mug theater mask magnet Evelyn family DEO holding cell further back bullpen pen hearing helping move debris soup Wraith field bent light lifting beam car ordinary choice share catching Kara"
+      "verification": "Natural butterfly effects completely dead and Adrian now where to seen - fixed by making Adrian seen early CatCo chipped mug theater mask magnet Evelyn family DEO holding cell further back bullpen pen hearing helping move debris soup Wraith field bent light lifting beam car ordinary choice share catching Kara"
     }
   ],
   "beats": [
     {
       "id": "SG-15-01",
       "status": "covered",
-      "reason": "Non takes Hank prisoner battle sky crash Earth, DEO doesn't know why attacked Lord Tech Maxwell corporate espionage liar",
+      "reason": "Non takes Hank prisoner battle sky crash Earth, DEO doesn't know why attacked Lord Tech corporate espionage liar",
       "source_ids": [
         "SRC-SG-E09-EW"
       ]
@@ -90,7 +90,7 @@
     {
       "id": "SG-15-07",
       "status": "covered",
-      "reason": "James lies about Lord Tech Winn knows lying protect her, Winn helps infiltrate Lord Tech typing quickly biometric door knocked out Max punches breaks camera",
+      "reason": "James lies about Lord Tech Winn knows lying protect her, Winn helps infiltrate Lord Tech biometric door knocked out Max punches breaks camera",
       "source_ids": [
         "SRC-SG-E09-EW"
       ]
@@ -106,7 +106,7 @@
     {
       "id": "SG-15-09",
       "status": "covered",
-      "reason": "Kara finds bloodied James loses chill wants handle Max like Astra would Winn James remind humanity, pays Astra visit Alura believed Krypton doomed save through hope not fear crimes unforgivable, agrees trade Astra surprised faith doesn't betray",
+      "reason": "Kara finds bloodied James loses chill wants handle Max like Astra would Winn James remind humanity, pays Astra visit Alura believed Krypton doomed save through hope not fear crimes unforgivable, agrees trade Astra surprised doesn't betray",
       "source_ids": [
         "SRC-SG-E09-EW"
       ]
@@ -114,7 +114,7 @@
     {
       "id": "SG-15-10",
       "status": "covered",
-      "reason": "Trading Hank for Astra Non summons Fort Rozz prisoners attack DEO Astra orders stand down more humanity than Lane Maxwell, Hank kicks Lane out idealism save planet, comes clean to Kara about identity J'onn, poses as Supergirl to convince Cat not Supergirl, heroes rejoice, Maxwell top-secret room Jane Doe black eyes Red Tornado arm Bizarro Galatea",
+      "reason": "Trading Hank for Astra Non summons Fort Rozz prisoners attack DEO Astra orders stand down more humanity than Lane Maxwell, Hank kicks Lane out idealism save planet, comes clean to Kara about identity J'onn poses as Supergirl to convince Cat not Supergirl, heroes rejoice, Maxwell top-secret room Jane Doe black eyes Red Tornado arm Bizarro Galatea",
       "source_ids": [
         "SRC-SG-E09-EW"
       ]
@@ -122,7 +122,7 @@
     {
       "id": "SG-15-11",
       "status": "changed_with_receipt",
-      "reason": "Adrian natural butterfly alive seen where to seen early CatCo chipped mug theater mask magnet Evelyn family DEO holding cell further back bullpen pen hearing helping move debris soup Wraith field bent light lifting beam car ordinary choice share catching Kara through Lord lab wall quiet you okay sharing family history natural phrasing not meta file, Wraith naming Lord reward DEO outside jurisdiction Winn private monitor closed James secret private Cat only coffee, sun baseline higher settled cells remember, Human for a Day healing, kiss romance affects Winn James Alex, Cat knows Kara is Supergirl Sherlock glasses",
+      "reason": "Adrian natural butterfly alive seen: early CatCo chipped mug theater mask magnet Evelyn family, DEO holding cell further back bullpen pen hearing helping move debris soup Wraith field bent light lifting beam car ordinary choice share catching Kara, Wraith naming Lord reward DEO outside jurisdiction Winn private monitor closed James secret private Cat only coffee",
       "source_ids": [
         "SRC-SG-E09-EW",
         "SRC-U40-TRASH",
@@ -163,13 +163,13 @@
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Chapter 15 Blood Bonds R1 natural butterfly alive Adrian seen",
+  "notes": "Full 2957w proper prose not rushing per user 3000_plus request, was 1155w short rushing, now 2957w close to 3000+ like Ch1-5",
   "format_revision": 1,
   "heading": {
     "season": 1,
     "episode": 9,
-    "canon_title": "Blood Bonds",
+    "canon_title": "Bonds",
     "chapter": 15,
-    "chapter_title": "Blood Bonds"
+    "chapter_title": "Blood Bonds clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen"
   }
 }

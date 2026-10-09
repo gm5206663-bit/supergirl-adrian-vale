@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 18,
-  "revision": "R2",
+  "revision": "R3",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_18_Strange_Visitor_Part1_R2.md",
-  "draft_sha256": "79cddee4fdf8091206d4cddce71bef4b61302e4a1e7252afbdd912e2b3957631",
+  "draft_path": "drafts/Chapter_18_Strange_Visitor_Part1_R3.md",
+  "draft_sha256": "4bff01d48911e3a819996ebe74b5a08e58161b2f0563d485afb0d16a1a2518a8",
   "accepted": true,
   "claimed_episode": "S01E11 Strange Visitor From Another Planet Part1",
   "span": "Strange Visitor Part1 White Martian full 3000+ natural butterfly",

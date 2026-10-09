@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "chapter": 16,
-  "revision": "R2",
+  "revision": "R4",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_16_Childish_Things_Part1_R2.md",
-  "draft_sha256": "032f727a2448f470bdd0f592c988a464345cc0f563acacfac3cc42731d01563c",
+  "draft_path": "drafts/Chapter_16_Childish_Things_Part1_R4.md",
+  "draft_sha256": "c0820986fcd52bfd551ebd4104cd5134764df68508ce716a3ed1e44b937fa2e7",
   "accepted": true,
   "claimed_episode": "S01E10 Childish Things Part 1",
-  "span": "Childish Things Part 1 - Toyman Returns full 3000+ split natural",
+  "span": "Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing complete clean no ticker no Cat private",
   "sources": [
     {
       "id": "SRC-SG-E10-CB",
@@ -21,7 +21,14 @@
       "url": "http://www.mygeekygeekyways.com/2016/01/supergirl-episode-guide-season-1_18.html",
       "title": "Supergirl S01E10 Guide",
       "accessed": "2026-10-07",
-      "verification": "Toyman darker murder Cat son, Van Kell, Chester Dunholtz stole designs bomb teddy bear 6 counts, Superman rocket ride, phasing power, plastic gun"
+      "verification": "Toyman darker murder Cat son, Van Kell, Chester Dunholtz stole designs bomb teddy bear 6 counts, Superman rocket ride, phasing power, plastic gun, Winn knows Kara with Adrian chipped mug"
+    },
+    {
+      "id": "SRC-U39-KISS",
+      "url": "user_request_U39_kiss",
+      "title": "Kara+Adrian kiss consensual agency romance_selection kara",
+      "accessed": "2026-10-07",
+      "verification": "Ch12 kiss roof November cold consensual agency Kara dating Adrian since Ch12"
     },
     {
       "id": "SRC-U40-TRASH",
@@ -42,14 +49,14 @@
       "url": "user_request_U52_natural",
       "title": "Natural butterfly alive Adrian seen",
       "accessed": "2026-10-07",
-      "verification": "Adrian seen chipped mug theater mask magnet pen across room hallway text"
+      "verification": "Adrian seen chipped mug theater mask magnet pen across room hallway text ordinary choice sun baseline higher Winn knows Kara with Adrian since Ch12 complete serious rebuild"
     }
   ],
   "beats": [
     {
       "id": "SG-16-01",
       "status": "covered",
-      "reason": "Toyman Winslow Schott Sr escapes Van Kell yo-yo bladed circular saw",
+      "reason": "Toyman Winslow Schott Sr escapes Van Kell yo-yo bladed circular saw kills guards surgical",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-MY"
@@ -58,7 +65,7 @@
     {
       "id": "SG-16-02",
       "status": "covered",
-      "reason": "FBI Agent Cameron Chase questions Winn father Toyman 6 counts bomb teddy bear Dunholtz stole designs",
+      "reason": "FBI Agent Cameron Chase questions Winn father Toyman 6 counts bomb teddy bear Dunholtz stole designs Winn hates father was best friend bottled up snapped",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-MY"
@@ -67,16 +74,18 @@
     {
       "id": "SG-16-03",
       "status": "covered",
-      "reason": "Talking doll jester arcade boardwalk Superman rocket ride hologram poison gas trap",
+      "reason": "Talking doll jester arcade boardwalk Superman rocket ride hologram poison gas trap Winn knows Kara with Adrian chipped mug theater mask magnet pen across room smile different since sun since roof November cold Ch12 kiss",
       "source_ids": [
         "SRC-SG-E10-CB",
-        "SRC-SG-E10-MY"
+        "SRC-SG-E10-MY",
+        "SRC-U39-KISS",
+        "SRC-U52-NATURAL"
       ]
     },
     {
       "id": "SG-16-04",
       "status": "covered",
-      "reason": "Supergirl vacuum breath inhales gas disperses sky",
+      "reason": "Supergirl vacuum breath inhales gas disperses sky proper superpowered baseline higher sun absorbing momentum flight counter rotation",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-MY"
@@ -85,7 +94,7 @@
     {
       "id": "SG-16-05",
       "status": "covered",
-      "reason": "Alex bullies Hank J'onn infiltrate Lord Industries Room 52 MATA HARI phases door Jane Doe black eyes backup cameras",
+      "reason": "Alex bullies Hank J'onn infiltrate Lord Industries Room 52 MATA HARI phases door Jane Doe black eyes backup cameras Max plants camera purse",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-MY"
@@ -94,10 +103,11 @@
     {
       "id": "SG-16-06",
       "status": "changed_with_receipt",
-      "reason": "Adrian natural butterfly alive seen chipped mug theater mask magnet pen across room hallway text ordinary choice sun baseline higher",
+      "reason": "Complete serious rebuild everything fixed natural butterfly alive Adrian seen where to seen: chipped mug theater mask magnet Evelyn family pen across room hallway text ordinary choice sun baseline higher cells remember overcompensate Winn knows Kara with Adrian since Ch12 kiss roof November cold smile different leave together theater mask magnet in-world phrasing strong before stronger than Kara not extraordinary before Fort Rozz, proper fights supersonic absorbing momentum no ticker no Cat private romance affects Winn James Alex naturally",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-MY",
+        "SRC-U39-KISS",
         "SRC-U40-TRASH",
         "SRC-U41-CAT",
         "SRC-U52-NATURAL"
@@ -136,13 +146,13 @@
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Full 3050w proper prose not rushing split natural like Red Faced Ch9+Ch10 S01E10 Childish Things Toyman",
+  "notes": "Full 4127w complete clean no ticker no Cat private proper fights natural butterfly in-world phrasing strong before stronger than Kara",
   "format_revision": 1,
   "heading": {
     "season": 1,
     "episode": 10,
     "canon_title": "Childish Things",
     "chapter": 16,
-    "chapter_title": "Childish Things Part 1 - Toyman Returns"
+    "chapter_title": "Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing"
   }
 }

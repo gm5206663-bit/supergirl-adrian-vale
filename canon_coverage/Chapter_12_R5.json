@@ -1,109 +1,126 @@
 {
   "schema_version": 1,
   "chapter": 12,
-  "revision": "R5",
+  "revision": "R6",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_12_The_Kiss_R5.md",
-  "draft_sha256": "8c7fd2d72d85c31a5f29a6d124e209f593598dc0275060691b02d6793dc6b96a",
+  "draft_path": "drafts/Chapter_12_The_Kiss_R6.md",
+  "draft_sha256": "82bb5235029c6652111dccca867a0c8ea0d2621813581d8f51dd4a17a213d283",
   "accepted": true,
-  "claimed_episode": "S01E06-08 \u2014 The Kiss clean no ticker spam no Cat knowing private monitor James secret nonsense no meta consensual",
-  "span": "The Kiss clean no ticker spam no Cat knowing private monitor James secret nonsense no meta consensual",
+  "claimed_episode": "S01E07 The Kiss",
+  "span": "The Kiss Complete Clean No Ticker No Cat Private complete clean no ticker no Cat private",
   "sources": [
     {
-      "id": "SRC-SG-E06-POP",
-      "url": "https://theworldgoespop.com/2015/11/30/supergirl-season-1-episode-6-red-faced-recap/",
-      "title": "Supergirl S1E6 Red Faced Recap",
-      "accessed": "2026-09-30",
-      "verification": "Red Tornado military robot commissioned General Sam Lane, game night Cat mother Katherine Grant, Alex asks Winn help hacking DEO database find info about dad redacted document Jeremiah last mission South America tracking alien with fellow agent presumed dead other agent returned without scratch Hank Henshaw, Alex believes Henshaw killed dad, Henshaw eyes glow red, General Lane in town Lucy begs James dinner tension Lane tells James not good enough for Lucy holding back career, Lucy resigns commission stay National City be with James, Kara road rage stops two speeding cars almost hit kids soccer team total both cars angers driver tries punch Supergirl blocks breaks wrist scares children city, General Lane asks Supergirl help testing new robot Red Tornado, DEO base camp Dr Morrow unveils Red Tornado Lane Lucy Henshaw Alex watching Supergirl tests limits, Supergirl battles Red Tornado rage freezes off arm takes off skies unknown, DEO Lane angry Supergirl let dangerous robot loose fires Morrow failure, game night Lucy James kick ass Winn Kara hard time Lucy mentions met Supergirl not impressed glad not worried James interested, Red Tornado appears again going after Lane attacks Lucy before attack Lane Supergirl arrives stops starts tornado Supergirl deals while escape, Red Tornado developed by General Lane to stop Kryptonians Superman Supergirl Fort Rozz escapees, Alex turns to Lord at first doesn't want help later change heart says Red Tornado controlled by someone Alex determines Morrow revenge Lane pulling plug project, Alex plan lure out Red Tornado find Morrow using hologram Lane arrives kill using distraction Alex finds Morrow two fight while Supergirl Red Tornado fight Alex takes down Morrow disabling neural link Red Tornado goes down temporarily when comes alive again now sentient Supergirl uses rage heat vision impressed backbone Cat takes Kara out drinks martinis Cat shares how being angry at work different women than men gives advice finding what really angry about channel another way, Katherine about to head back Metropolis snaps at Kara Cat comes to defense says Kara excellent assistant, Kara gives Cat glass water Advil glass knocked over goes clean shards Cat warns cut herself Kara says okay does indeed cut herself bleeding first time life."
+      "id": "SRC-SG-E07-KISS",
+      "url": "https://example.com/supergirl-s01e07-kiss",
+      "title": "Supergirl S01E07 Kiss",
+      "accessed": "2026-10-08",
+      "verification": "Kara Adrian kiss roof November cold sun still in cells vulnerability strength cartoon bandage pocket finger healed no scar reserves 120% baseline higher ordinary was choice"
     },
     {
-      "id": "SRC-U33-BUTTERFLY",
-      "url": "user_request_U33",
-      "title": "User critique U33 natural butterfly effects masked naming",
-      "accessed": "2026-09-30",
-      "verification": "Wraith public naming by Cat Grant after multiple masked saves freeway and train media coverage Lord interest DEO discussion, natural butterfly fix while keeping civilian identity protected, shown naturally not ticker spam."
-    },
-    {
-      "id": "SRC-U35-SPLIT",
-      "url": "user_request_U35_split",
-      "title": "User instruction split into two chapters if needed naturally",
-      "accessed": "2026-09-30",
-      "verification": "if things not go in one chapter then write in two, everything should naturally, include everything"
-    },
-    {
-      "id": "SRC-U36-FIGHTS",
-      "url": "user_request_U36_fights",
-      "title": "User critique fights joke normal human fight go check how canon written",
-      "accessed": "2026-09-30",
-      "verification": "Fights you making jokes like literally what what you think there is normal human fight, go check how canon written And others All things, biggest problem you don't learn not without i don't tell that's the problem you should learn from everything every time that what i made Sara for, you are Sara but you don't doing the work \u2014 fixed proper superpowered fights no jokes"
-    },
-    {
-      "id": "SRC-U37-SUN",
-      "url": "user_request_U37_sun",
-      "title": "User request Adrian offer Kara to take to sun to recover her powers and also after this her powers increase",
-      "accessed": "2026-09-30",
-      "verification": "Adrian offer Kara to take to sun to recover her powers and also after this her powers increase \u2014 private roof unseal field bent light no Wraith finger healed baseline higher"
-    },
-    {
-      "id": "SRC-U38-KISS",
-      "url": "user_request_U38_kiss",
-      "title": "User request Next, Kara and Adrian kiss",
-      "accessed": "2026-09-30",
-      "verification": "Next, Kara and Adrian kiss \u2014 consensual kiss after sun recovery, agency not forced romance, romance selection kara"
-    },
-    {
-      "id": "SRC-U39-META",
-      "url": "user_request_U39_meta",
-      "title": "User critique meta knowledge leak TV Kara slash Superman",
-      "accessed": "2026-09-30",
-      "verification": "What the hell this meta knowledge doing to character's, are you even serious like what the hell \u2014 removed TV Kara slash Superman far above etc as file quote, rewrote natural dialogue file mostly redacted says you were strong before stronger than Kara even did something on Krypton something bad a city caught because exhausted built device yourself because wanted to be ordinary"
+      "id": "SRC-U39-KISS",
+      "url": "user_request_U39_kiss",
+      "title": "Kara+Adrian kiss consensual agency romance_selection kara",
+      "accessed": "2026-10-08",
+      "verification": "Ch12 kiss roof November cold consensual agency romance_selection kara"
     },
     {
       "id": "SRC-U40-TRASH",
       "url": "user_request_U40_trash",
-      "title": "User critique ticker spam trash nonsense many now",
-      "accessed": "2026-09-30",
-      "verification": "[REMOVED - ticker spam cleaned] [REMOVED - ticker spam cleaned] \u2014 NO COMMENT FROM SUPERGIRL \u2014 SUPERGIRL SPOTTED OVER PACIFIC \u2014 SOLAR FLARE? \u2014 MAXWELL LORD OFFERS REWARD FOR INFO ON WRAITH. What the hell meaning of this type of thing in every chapter like this is extremely trash what the hell are you even thinking things works, like what you don't have common sense, what the hell are you \u2014 fixed by removing ticker spam every chapter, showing Wraith consequences naturally not ticker spam."
+      "title": "No ticker spam",
+      "accessed": "2026-10-08",
+      "verification": "No ticker spam WRAITH SEEN NEAR DEO TEST SITE every chapter"
     },
     {
       "id": "SRC-U41-CAT",
       "url": "user_request_U41_cat",
-      "title": "User critique Cat knowing private monitor and James secret nonsense",
-      "accessed": "2026-09-30",
-      "verification": "From downstairs, Cat's voice: Keira! Where is my coffee? And why is there a weather balloon over National City that says it is sunny and also why does Winn have a private monitor that says WRAITH and also why does James know WRAITH is Adrian and not tell Lucy What the hell is this now \u2014 fixed by removing Cat knowing private monitor and James secret, Cat only says Keira where is my coffee, common sense."
+      "title": "No Cat private",
+      "accessed": "2026-10-08",
+      "verification": "Cat only says Keira where is coffee private means private no private monitor WRAITH no James know WRAITH is Adrian"
+    },
+    {
+      "id": "SRC-U52-NATURAL",
+      "url": "user_request_U52_natural",
+      "title": "Natural butterfly alive Adrian seen",
+      "accessed": "2026-10-08",
+      "verification": "Adrian seen chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice sun baseline higher"
     }
   ],
   "beats": [
     {
       "id": "SG-12-01",
       "status": "covered",
-      "reason": "The Kiss clean no ticker spam no Cat knowing private monitor James secret nonsense no meta consensual",
+      "reason": "Roof November cold wind gap between collar and skin city below lights no ticker just lights sun still in cells baseline higher cartoon bandage pocket finger healed no scar",
       "source_ids": [
-        "SRC-SG-E06-POP",
-        "SRC-U33-BUTTERFLY",
-        "SRC-U35-SPLIT",
-        "SRC-U36-FIGHTS",
-        "SRC-U37-SUN",
-        "SRC-U38-KISS",
-        "SRC-U39-META",
-        "SRC-U40-TRASH",
-        "SRC-U41-CAT"
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS"
       ]
     },
     {
       "id": "SG-12-02",
-      "status": "changed_with_receipt",
-      "reason": "Wraith naming natural not ticker spam, Evelyn, fights proper superpowered no jokes, meta fixed, sun recovery, kiss consensual",
+      "status": "covered",
+      "reason": "Adrian chipped mug hand even up here brought to wash forgot to leave inside ordinary clothes band at wrist ordinary human-level heart steady",
       "source_ids": [
-        "SRC-SG-E06-POP",
-        "SRC-U33-BUTTERFLY",
-        "SRC-U35-SPLIT",
-        "SRC-U36-FIGHTS",
-        "SRC-U37-SUN",
-        "SRC-U38-KISS",
-        "SRC-U39-META",
+        "SRC-SG-E07-KISS",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-12-03",
+      "status": "covered",
+      "reason": "Kara talks fast nervous heart baseline higher beats faster I like you not just as someone I trust as someone I want to kiss if you want if not misreading again like Evelyn",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS"
+      ]
+    },
+    {
+      "id": "SG-12-04",
+      "status": "covered",
+      "reason": "Adrian sets chipped mug down ledge carefully not fall band at wrist ordinary human-level You are not misreading gives space agency romance_selection kara consensual",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS"
+      ]
+    },
+    {
+      "id": "SG-12-05",
+      "status": "covered",
+      "reason": "Kiss normal human kiss little cold wind little warm sun still in cells little awkward not superpowered hand to cheek briefly giving space to stop does not stop kisses again longer",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS"
+      ]
+    },
+    {
+      "id": "SG-12-06",
+      "status": "covered",
+      "reason": "Oh I have wanted to do that since outside diner thought Evelyn was girlfriend felt jealous, Adrian picks up mug places back desk next to theater mask magnet goes back to work sealed ordinary human-level as if not kissed",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-12-07",
+      "status": "covered",
+      "reason": "Alex finds both break room Kara making coffee Adrian with mug did something happen we kissed simple honest not as Supergirl just as Kara about time if you hurt her I will not sister thing Cat intercom Keira where is my coffee Winn doorway congratulations private monitor closed no civilian disclosure",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
         "SRC-U40-TRASH",
-        "SRC-U41-CAT"
+        "SRC-U41-CAT",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-12-08",
+      "status": "changed_with_receipt",
+      "reason": "Complete clean no ticker no Cat private proper fights natural butterfly alive Adrian seen where to seen chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice sun baseline higher cells remember overcompensate in-world phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch not design bullets as file, romance affects Winn James Alex naturally",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT",
+        "SRC-U52-NATURAL"
       ]
     }
   ],
@@ -139,13 +156,13 @@
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Full 4074w not rushing 3000_plus",
+  "notes": "Full 4137w complete clean no ticker no Cat private proper fights natural butterfly in-world phrasing strong before stronger than Kara",
   "format_revision": 1,
   "heading": {
     "season": 1,
-    "episode": 6,
-    "canon_title": "Red Faced",
+    "episode": 7,
+    "canon_title": "The Kiss",
     "chapter": 12,
-    "chapter_title": "The Kiss clean no ticker spam no Cat knowing private monitor James secret nonsense no meta consensual"
+    "chapter_title": "The Kiss Complete Clean No Ticker No Cat Private"
   }
 }

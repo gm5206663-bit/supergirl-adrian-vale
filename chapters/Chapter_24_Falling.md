@@ -6,7 +6,7 @@ The call came at 2:17 p.m. Chemical plant on the edge of National City, fire in 
 
 Kara was already moving before Alex finished the sentence.
 
-She hit the sky over CatCo, cape snapping, and went supersonic in the climb. She had learned to absorb her own momentum on takeoff after the Fort Rozz mess, to roll her shoulders and counter-rotate so the windows below didn't shudder. Ninety seconds. She could see the column now, black and orange, and the DEO chatter in her ear.
+She hit the sky over CatCo with chipped mug next to theater mask magnet, cape snapping, and went supersonic in the climb. She had learned to absorb her own momentum on takeoff after the Fort Rozz mess, to roll her shoulders and counter-rotate so the windows below didn't shudder. Ninety seconds. She could see the column now, black and orange, and the DEO chatter in her ear.
 
 "Second floor, north side. Beam's giving."
 
@@ -90,7 +90,7 @@ J'onn looked at Alex. This was the man who had made Bizarro. This was also the m
 
 Kara was over downtown now, high enough that the city was a grid. She'd stopped answering her comms. She'd told Alex she didn't need a sister who worried, told J'onn she didn't need a father figure who hid, told James she didn't need a boyfriend who flinched.
 
-She hadn't told Adrian anything. She hadn't seen him since yesterday morning, when he'd come in at 8:50 with his chipped mug and put it back next to the theater mask magnet on the filing cabinet and gone back to typing. He'd looked tired. She'd liked that he looked tired and kept working anyway. Now she didn't like anything.
+She hadn't told Adrian anything. She hadn't seen him since yesterday morning, when he'd come in at 8:50 with his mug and put it back next to the magnet on the filing cabinet and gone back to typing. He'd looked tired. She'd liked that he looked tired and kept working anyway. Now she didn't like anything.
 
 She dropped to the roof of CatCo and broadcast without a filter.
 
@@ -248,3 +248,30 @@ At noon Adam Foster came by with coffee for everyone because he'd heard about th
 
 There would be another headline tomorrow. Tonight there was just coffee, and a mug put back where it belonged next to a magnet, and the quiet knowledge of how much control it takes to live under a red sun and still choose to be ordinary — and how much stronger that made Adrian's willpower than any synthetic red dust ever could.
 
+
+
+At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, because second jacket was at Adrian's and would stay there.
+
+Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families, not of her in black suit, but of ordinary.
+
+Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+
+There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day, and how much stronger that made Adrian's willpower than any synthetic red dust ever could.
+
+Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+
+Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+
+Both had learned control shows strong willpower.
+
+At night, they shared again. Talking. Sleeping. Ordinary. All night.
+
+She asked, "Do you think we will always spend all night together?"
+
+He said, "If you want. I want if you want."
+
+"I want," she said.
+
+She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+
+At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, ordinary, all night shared.

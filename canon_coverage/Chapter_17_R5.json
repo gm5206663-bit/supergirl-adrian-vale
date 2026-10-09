@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 17,
-  "revision": "R5",
+  "revision": "R7",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_17_Childish_Things_Convention_R5.md",
-  "draft_sha256": "f90b0ed6f6f02ecd47ea650908658427f16a05040ffc7992e7086277f94f7e31",
+  "draft_path": "drafts/Chapter_17_Childish_Things_Part2_R7.md",
+  "draft_sha256": "9a8ebcf078dbdd3cc822ea5ad74ea439dfca62b3a0486201d3a9dae20f387c04",
   "accepted": true,
   "claimed_episode": "S01E10 Childish Things Part 2",
   "span": "Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss complete serious rebuild everything fixed",
@@ -171,7 +171,7 @@
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Full 2753w natural syn no meta no Ch12 no writing myself in no forcing canon",
+  "notes": "Full 2885w agency no forcing canon no kiss without wanting Kara is Kara who has agency",
   "format_revision": 1,
   "heading": {
     "season": 1,

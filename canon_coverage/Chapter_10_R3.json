@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 10,
-  "revision": "R3",
+  "revision": "R5",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_10_Red_Faced_Consequence_R3.md",
-  "draft_sha256": "8580fd176ff5d61f0328333432b2b1af1535214990bbc114d3af285203c02a7f",
+  "draft_path": "drafts/Chapter_10_Red_Faced_Consequence_R5.md",
+  "draft_sha256": "27c795b994351135748356ced9994d896d9ca9c1aac673adcb58a4419c5dba25",
   "accepted": true,
   "claimed_episode": "S01E06-08 \u2014 The Anger Behind the Anger Part2 clean no ticker spam no Cat private secrets",
   "span": "The Anger Behind the Anger Part2 clean no ticker spam no Cat private secrets",
@@ -139,7 +139,7 @@
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Rebuilt clean per U40 ticker trash and U41 Cat private monitor nonsense fix, no ticker spam every chapter, no Cat knowing private secrets, common sense, proper superpowered fights no jokes, no meta TV knowledge.",
+  "notes": "Full 3521w not rushing 3000_plus",
   "format_revision": 1,
   "heading": {
     "season": 1,

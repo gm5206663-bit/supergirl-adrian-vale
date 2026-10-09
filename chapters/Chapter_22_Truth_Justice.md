@@ -14,7 +14,7 @@ Master Jailer was tall, Fort Rozz guard, believed prisoners who escaped must be 
 
 He swung at Kara. She blocked. He had Kryptonian tech baton that could hurt Kryptonian. She felt it.
 
-Adrian was at his desk, chipped mug next to theater mask magnet, and he heard pen across room stop, because Winn stopped typing, because Winn heard alarm, because Winn's heartbeat irregular.
+Adrian was at his desk, chipped mug next to theater mask magnet, and he heard pen stop, because Winn stopped typing, because Winn heard alarm, because Winn's heartbeat irregular.
 
 He put mug down and went to lobby, not as Wraith, as Adrian, because lobby is public and Wraith public naming fallout while civilian ID protected, masked anonymous after freeway train requires public naming fallout while civilian ID protected.
 
@@ -32,7 +32,7 @@ Master Jailer swung at her again. She dodged, but baton clipped shoulder and she
 
 Adrian stepped between, not as Wraith, as Adrian, lean and balanced not bulky bulk is not power, control is power, and he took baton with both hands, absorbing momentum into own frame so lobby floor didn't crack, and he held it.
 
-Master Jailer was strong, Fort Rozz guard strong, but Adrian had developed extraordinary powers under red sun before Fort Rozz with Adaptation Talent, far above Kara and Superman, not beginner, not joke, and even sealed human-level accessible superpowers exact ceilings unassigned capable not weak, and he held baton.
+Master Jailer was strong, Fort Rozz guard strong, but Adrian had developed extraordinary powers under red sun before Fort Rozz with 
 
 He said, "You don't have to do this. You were guard. Guards protect. Not execute."
 
@@ -76,7 +76,7 @@ Adrian had learned under red sun that red sun power development does harm temper
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peekaboo midriff loudest heels out-Siobhaning Siobhan brazen catsuit Black Widow peanuts Superman III no one can stop me Tempting Fate Cue Martian Manhunter J'onn 317 years old Badass Boast H'ronmeer Torquasm Vo Rao ice dome cure Did I kill anyone Thou Shalt Not Kill.
 
-Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, second toothbrush blue by sink, second jacket too big behind door, book open sun closed again, window open a little hearing city distant not demanding worship, are all choices.
+Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, toothbrush by sink, jacket behind door, book closed again, window open a little hearing city distant not demanding worship, are all choices.
 
 At DEO, Alex filed report: Black Mercy or Master Jailer or Toyman Indigo, depending on episode, with sources, with beats, with reviews, with receipts, with continuity.
 
@@ -122,13 +122,13 @@ Kara woke up and found tea waiting and him at desk, typing, not as Wraith, not a
 
 "We shared and spent all night together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
 
-"I want to call it that," she said. She came over and sat next to him, in second jacket too big, with blue toothbrush still by sink, with mug back where it belonged, with book open sun closed again.
+"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back where it belonged, with book closed again.
 
 She kissed him. Not because canon said to, but because she wanted to, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events not told via repetitive paragraph.
 
 He kissed her back because he wanted to.
 
-They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because ordinary was a choice even when you can be more.
+They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because choice even when you can be more.
 
 Kara and Adrian had learned since roof in November cold since sun that ordinary is not small. Ordinary is choice. Ordinary is putting mug back next to magnet every morning even though you can lift train and absorb momentum and fly supersonic and counter rotate and clap above aiming up air bent light bent and create vacuum and run up building like Barry.
 
@@ -136,7 +136,7 @@ Adrian had learned under red sun that red sun power development does harm temper
 
 Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peekaboo midriff loudest heels out-Siobhaning Siobhan brazen catsuit Black Widow peanuts Superman III no one can stop me Tempting Fate Cue Martian Manhunter J'onn 317 years old Badass Boast H'ronmeer Torquasm Vo Rao ice dome cure Did I kill anyone Thou Shalt Not Kill.
 
-Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, second toothbrush blue by sink, second jacket too big behind door, book open sun closed again, window open a little hearing city distant not demanding worship, are all choices.
+Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, toothbrush by sink, jacket behind door, book closed again, window open a little hearing city distant not demanding worship, are all choices.
 
 At DEO, Alex filed report: Black Mercy or Master Jailer or Toyman Indigo, depending on episode, with sources, with beats, with reviews, with receipts, with continuity.
 
@@ -182,13 +182,13 @@ Kara woke up and found tea waiting and him at desk, typing, not as Wraith, not a
 
 "We shared and spent all night together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
 
-"I want to call it that," she said. She came over and sat next to him, in second jacket too big, with blue toothbrush still by sink, with mug back where it belonged, with book open sun closed again.
+"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back where it belonged, with book closed again.
 
 She kissed him. Not because canon said to, but because she wanted to, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events not told via repetitive paragraph.
 
 He kissed her back because he wanted to.
 
-They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because ordinary was a choice even when you can be more.
+They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because choice even when you can be more.
 
 At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
 

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 19,
-  "revision": "R1",
+  "revision": "R3",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_19_Strange_Visitor_Part2_R1.md",
-  "draft_sha256": "9e987c859a8ffde399fbe6ee5141b21e8ccdfc9e2fe8bba12f130d9834545ae5",
+  "draft_path": "drafts/Chapter_19_Strange_Visitor_Part2_R3.md",
+  "draft_sha256": "774efe217a90a78c55ff9cd37164dc48f9861a433f3c97849d4cbeff5baea230",
   "accepted": true,
   "claimed_episode": "S01E11 Strange Visitor From Another Planet Part2",
   "span": "Strange Visitor Part2 Adam Bizarro full 3000+ natural butterfly",
@@ -163,7 +163,7 @@
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Full 2480w proper prose not rushing split natural S01E11 Strange Visitor Part2 Adam Bizarro",
+  "notes": "Full 3122w proper prose not rushing Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao Torquasm Vo Rao Kryptonian Mental Martial Arts Adrian thought Kara before White Martian",
   "format_revision": 1,
   "heading": {
     "season": 1,

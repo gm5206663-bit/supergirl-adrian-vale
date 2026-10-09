@@ -4,10 +4,10 @@
   "revision": "R4",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_16_Childish_Things_Part1_R4.md",
-  "draft_sha256": "8ade223c420bb4de7f5af33c2a655fcf3f29da25231b0086bc5025e74b60e7d4",
+  "draft_sha256": "c0820986fcd52bfd551ebd4104cd5134764df68508ce716a3ed1e44b937fa2e7",
   "accepted": true,
   "claimed_episode": "S01E10 Childish Things Part 1",
-  "span": "Childish Things Part 1 - Toyman Returns Complete Serious Rebuild Everything Fixed complete serious rebuild everything fixed",
+  "span": "Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing complete clean no ticker no Cat private",
   "sources": [
     {
       "id": "SRC-SG-E10-CB",
@@ -94,7 +94,7 @@
     {
       "id": "SG-16-05",
       "status": "covered",
-      "reason": "Alex bullies Hank J'onn infiltrate Lord Industries Room 52 MATA HARI dinner date phases door Jane Doe black eyes Bizarro backup cameras Max plants camera purse",
+      "reason": "Alex bullies Hank J'onn infiltrate Lord Industries Room 52 MATA HARI phases door Jane Doe black eyes backup cameras Max plants camera purse",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-MY"
@@ -103,7 +103,7 @@
     {
       "id": "SG-16-06",
       "status": "changed_with_receipt",
-      "reason": "Complete serious rebuild everything fixed natural butterfly alive Adrian seen where to seen: chipped mug theater mask magnet Evelyn family pen across room hallway text ordinary choice sun baseline higher cells remember overcompensate Winn knows Kara with Adrian since Ch12 kiss roof November cold smile different leave together theater mask magnet, proper fights supersonic absorbing momentum no ticker no Cat private romance affects Winn James Alex naturally",
+      "reason": "Complete serious rebuild everything fixed natural butterfly alive Adrian seen where to seen: chipped mug theater mask magnet Evelyn family pen across room hallway text ordinary choice sun baseline higher cells remember overcompensate Winn knows Kara with Adrian since Ch12 kiss roof November cold smile different leave together theater mask magnet in-world phrasing strong before stronger than Kara not extraordinary before Fort Rozz, proper fights supersonic absorbing momentum no ticker no Cat private romance affects Winn James Alex naturally",
       "source_ids": [
         "SRC-SG-E10-CB",
         "SRC-SG-E10-MY",
@@ -146,13 +146,13 @@
   "release_ready": true,
   "continuity_conflicts": [],
   "original_scene_amendments": [],
-  "notes": "Full 4126w complete serious rebuild everything fixed not just kiss - Then he leaned in and kissed her dead butterfly fixed with natural effects",
+  "notes": "Full 4127w complete clean no ticker no Cat private proper fights natural butterfly in-world phrasing strong before stronger than Kara",
   "format_revision": 1,
   "heading": {
     "season": 1,
     "episode": 10,
     "canon_title": "Childish Things",
     "chapter": 16,
-    "chapter_title": "Childish Things Part 1 - Toyman Returns Complete Serious Rebuild Everything Fixed"
+    "chapter_title": "Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing"
   }
 }
