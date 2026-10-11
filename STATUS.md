@@ -95,6 +95,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/HEADING_FORMAT_CHANGE.md](audits/HEADING_FORMAT_CHANGE.md)
 - [audits/HERITAGE_RETCON_2026_09_28.md](audits/HERITAGE_RETCON_2026_09_28.md)
 - [audits/MISTAKES_AND_CORRECTIONS.md](audits/MISTAKES_AND_CORRECTIONS.md)
+- [audits/REPAIR_2026-10-11_DUPLICATE_PADDING.md](audits/REPAIR_2026-10-11_DUPLICATE_PADDING.md)
 - [audits/RESCUE_REVEAL_REVISION.md](audits/RESCUE_REVEAL_REVISION.md)
 - [audits/SWEEP_2026-10-07_prose_flags.md](audits/SWEEP_2026-10-07_prose_flags.md)
 - [audits/VALIDATION.md](audits/VALIDATION.md)
