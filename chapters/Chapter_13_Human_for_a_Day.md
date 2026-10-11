@@ -131,8 +131,6 @@ She thought about what Astra said about mother using her to lure out, about Alur
 
 She thought maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
-
 There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping.
 
 Kara looked at Adrian across bullpen, small smile.
@@ -142,10 +140,6 @@ Adrian nodded.
 Adrian placed mug back on desk, went back to work.
 
 Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
-
-She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
-
-She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
 
 Adrian went back to work.
 
@@ -185,8 +179,6 @@ Adrian nodded.
 
 Kara looked up, eyes wet. "You did something bad a city? You told me genuine responsibility caught because exhausted built device yourself because wanted ordinary. Is that why you can be near it longer?"
 
-Adrian said, "I built device myself because wanted ordinary. Some Daxamites murdered my parents over mixed union. My father Kryptonian mother Daxamite influential house father collateral royal branch mother. I did something bad a city genuine responsibility."
-
 Kara stared. "And you chose ordinary after?"
 
 "Yes."
@@ -207,8 +199,6 @@ James found her at garage, punching bag, methodical boxing form.
 
 Later, DEO alarm, loud, red lights.
 
-Kara barged into DEO, weakened by Kryptonite-lined walls that weakened her when she barged in to stop Lane torturing Astra but she pushed through, supersonic absorbing momentum flight counter rotation, proper superpowered, no jokes, flight inches off ground, super speed break pattern.
-
 She found Hank on table? Actually Astra?
 
 Alex stepped between. "You are sealed?"
@@ -223,63 +213,17 @@ She nodded.
 
 ---
 
-Night, Astra attacked city, eco-terrorists, Krypton core tapped excessive resources guard died Alura sentenced sister wants save Earth by ruling, wants save Earth by ruling not destroying.
-
-Kara fought her, supersonic, absorbing momentum, flight counter rotation, lifting, slamming, cracking pit floor, series blows measured, proper superpowered, no jokes, no one-liners, just weight and speed.
-
-Astra said, "You are like me, you could save Earth by ruling."
-
 Kara said, "No. Saving through hope not fear."
-
-Kara could not finish, brought DEO, Astra woke only talks Kara mother used her to lure out, Alura used Kara to lure Astra out hiding.
-
-Kara asked virtual mother if true frustrated can't give all info, Alura hologram.
-
-Cat had son Adam sends money hasn't spoken years, Adam twenty-four, I send money, we do not speak.
-
-Adrian, back at desk, placed mug back, went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady, hearing still, bullpen pen hearing.
-
-Kara told Alex about kiss, simple honest not as Supergirl just as Kara, Alex stared then smiled then said about time also gross also about time also if you hurt her I will not I know I am supposed to say it sister thing.
 
 Cat intercom Keira where is my coffee.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping.
-
-There would be another headline tomorrow. Tonight, there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup and debris and history shared.
-
 Adrian went back to work, ordinary, human-level, as if not helped.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss.
-
-She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
-
-She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
-
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
-
-There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping and soup that counts as soup and debris help and history shared.
-
-Kara looked at Adrian across bullpen, small smile, powers humming higher than ever after sun baseline higher cells remember overcompensate, finger healed, heart faster baseline higher.
 
 Adrian nodded, quiet you okay from across room, mouth.
 
 She nodded.
 
-Adrian placed mug back on desk next to magnet, went back to work.
-
-There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more.
-
 Adrian went back to work.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history and now helping and soup and debris.
-
-She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam.
-
-She thought maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing, vulnerability and strength choosing when to share either and with whom.
-
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet.
-
-There would be another headline tomorrow. Tonight there was sun still in cells and kiss on roof and friend who had become something more and Adrian helping.
 
 Kara looked at Adrian across bullpen, small smile.
 
@@ -287,10 +231,5 @@ Adrian nodded.
 
 Adrian placed mug back on desk, went back to work.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun and kiss and history.
-
-She thought about what Astra said about mother using her to lure out, about Alura, about Cat having son Adam, about James telling Winn tell Kara feelings, about Alex figuring Astra wanted defeat, about Cat figuring out Kara is Supergirl, about Non and Gor attacking Lord Technologies, about Lord gadgets and DEO backup, about case open empty and suit new sheen wrists, about Adrian helping evacuate and catching her and quiet you okay.
-
-She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to understand shielding and being able to be caught are all sides same thing, vulnerability and strength choosing when to share either and with whom.
-
 Adrian went back to work.
+

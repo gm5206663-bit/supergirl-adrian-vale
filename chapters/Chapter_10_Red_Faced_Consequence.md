@@ -190,15 +190,9 @@ At CatCo, Lucy told James her father General Lane told her she was holding James
 
 James said, "You are not. He is wrong. You think wrong."
 
-Lucy said, "He thinks you are not good enough for me because you are photographer not soldier, because you are photographer not soldier."
-
 James said, "He is wrong about many things. He is wrong about Supergirl, he is wrong about Wraith, he is wrong about you, he is wrong about what distinguishes humans from Kryptonians."
 
 Winn, at his desk, private monitor closed, no civilian disclosure, had three new Wraith clips that day, train station, but did not show, no civilian disclosure, private means private, angled away from door, sticky note DO NOT SHOW CAT YET. He had closed it, no civilian disclosure, private means private.
-
-Kara at desk, typing, fingers not ache, vision sees individual dust motes in Cat office from bullpen, hearing hears Adrian pen across room, ordinary was choice he made and he chose to share sun with her later, but now just ordinary, ordinary was choice he made.
-
-Later, Alex and Kara at apartment, pizza, TV night, Game of Thrones, blankets, pizza, TV night, Alex said she pushed Henshaw into using powers he did not want to, said she had date with Maxwell Lord, can handle him, that he wouldn't be able to do anything without her seeing it coming, that he wouldn't be able to do anything without her seeing it coming.
 
 Lord, at lab, saw security footage of someone phasing through door to Room 52, wondered who or what broke into facility. Inside, Jane Doe strapped table, brain trauma, bracelet, eyes black like demon, holographic projection Red Tornado torn-off arm, Bizarro Galatea, Jane Doe black eyes, Bizarro.
 
@@ -206,16 +200,10 @@ Kara told Alex about Wraith being Adrian, via slip, will not tell Lucy, moves li
 
 Alex said, "You trust him?"
 
-"Yes," Kara said. "He caught a gauntlet blast and turned it into sky instead of overpowering. He braced a train door with shoulder while passengers moved. He asked for nothing. He heard alarm from CatCo and came to help evacuate lifting beam and car and catching me through lab wall quiet you okay. He placed chipped mug back on desk next to theater mask magnet and went back to work ordinary human-level as if not helped."
-
 Alex nodded. "Good. Then we trust him. Good."
 
 ---
 
-
-Kara could not sleep, powers humming higher than ever after Red Tornado fight, baseline higher temporarily, cells remember overcompensate, finger healed, no scar.
-
-Adrian was there, not too close, ordinary clothes, band at wrist, chipped mug in hand even up here because he had brought it to wash and then forgotten to leave it inside, brought to wash forgot to leave inside, ordinary.
 
 "You didn't have to come up here," Kara said.
 
@@ -231,8 +219,6 @@ Kara laughed, bright, powers humming, brighter than before.
 
 "Do you ever get tired of being ordinary?" she asked.
 
-"Ordinary was choice I made," he said. "Because I wanted ordinary. Built device myself because wanted ordinary. Some Daxamites murdered my parents over mixed union. My father Kryptonian, mother Daxamite. Influential house father collateral royal branch mother. I did something bad, a city, genuine responsibility, caught because exhausted. So built device myself."
-
 Kara stared. "You did something bad a city?"
 
 "Yes. Genuine culpability."
@@ -241,34 +227,9 @@ Kara stared. "You did something bad a city?"
 
 "Yes. Wanted ordinary. Now choosing when not ordinary."
 
-Kara was quiet, wind, then, "Thank you for telling me. For sharing history natural phrasing not design bullets as file."
-
-Adrian nodded, went back to work next morning, ordinary, human-level, as if not flown, as if not told history, band at wrist, mug next to magnet, theater mask magnet.
-
-Kara at desk, finger healed, thinks maybe being able to bleed and being able to go to sun and being able to tell history are sides same thing, vulnerability and strength choosing when to share either, sun still in cells? No sun yet, that was next chapter, but tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history.
-
-Adrian, at desk, placed chipped mug back, went back to work, ordinary, human-level, as if not helped, as if not told history.
-
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and history shared and ordinary choice and vulnerability and strength.
+Adrian went back to work.
 
 Adrian went back to work.
 
-Kara at desk typing fingers not ache? No after Red Tornado fight, fingers ache? No, powers humming, but finger cut healed.
-
-She thought about what it means to be able to bleed and being able to melt asphalt and being able to be named Wraith and being able to be told you matter.
-
 Adrian went back to work.
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice.
-
-Adrian picked up mug, placed back on desk, went back to work.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her later, but now just ordinary, ordinary was choice he made.
-
-Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed.
-
-Thank you you do not need to thank me you needed sun I know what it feels like to burn out? No sun yet, that was next chapter, but tonight there was cut finger and Red Tornado melted.
-
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and history shared.
-
-Adrian went back to work.

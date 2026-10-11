@@ -65,8 +65,6 @@ Kara at desk typing fingers not ache vision sees individual dust motes in Cat of
 
 Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed, beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after.
 
-Alex said, "Okay you went to sun came back powers increased no one saw tell DEO Supergirl went to upper atmosphere to recharge after Red Tornado true just upper atmosphere a little higher than usual, a little higher than usual."
-
 Wraith was not there. Wraith is name Cat gave masked figure freeway train this was Adrian helping Kara recover no mask no coat no reward, no mask no coat no reward.
 
 Cat intercom Keira where is my coffee.
@@ -91,98 +89,14 @@ Kara laughs brighter than before flies down through open roof hatch landing ligh
 
 Adrian went back to work, ordinary, human-level, as if he had not just flown to sun and back before Alex's shift ended.
 
-There would be another headline tomorrow. Tonight, there was sun still in her cells, and a chipped mug on a desk, and a friend who had taken her to a star and back and asked for nothing.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her.
-
-Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed.
-
 Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-There would be another headline tomorrow. Tonight, there was sun still in her cells, and a chipped mug on a desk, and a friend who had taken her to a star and back and asked for nothing.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her.
-
-Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed.
-
-There would be another headline tomorrow. Tonight, there was sun still in her cells, and a chipped mug on a desk, and a friend who had taken her to a star and back and asked for nothing.
 
 Adrian picked up mug, placed back on desk next to magnet, went back to work, ordinary, human-level, as if he had not just flown to sun and back before Alex's shift ended.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her.
-
-Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed.
-
-Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-There would be another headline tomorrow. Tonight, there was sun still in her cells, and a chipped mug on a desk, and a friend who had taken her to a star and back and asked for nothing.
-
 Adrian went back to work.
-
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her.
-
-Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed.
-
-There would be another headline tomorrow. Tonight, there was sun still in her cells, and a chipped mug on a desk, and a friend who had taken her to a star and back and asked for nothing.
 
 Adrian picked up mug, placed back on desk next to magnet, went back to work.
 
 
 There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
 
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
-
-
-There would be another headline tomorrow. Tonight there was sun still in cells and chipped mug on desk and friend who had taken her to star and back and asked for nothing. Adrian went back to work ordinary human-level band at wrist mug next to magnet. Kara at desk typing fingers not ache vision sees dust motes Cat office from bullpen hearing hears Adrian pen across room ordinary was choice he made and he chose to share sun with her. Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed. Thank you you do not need to thank me you needed sun I know what it feels like to burn out.
