@@ -221,8 +221,6 @@ Red Tornado torn-off arm on table next to her, holographic projection, speculati
 
 Adrian, at CatCo early next morning, chipped mug on desk next to theater mask magnet, saw James come in bloodied, camera broken, lip bleeding, and knew because hearing. He had heard Lord's lab alarm from CatCo, three miles, but hearing, baseline higher after sun? No after trade, but hearing still.
 
-He said, quiet so only James could hear, "You went to Lord."
-
 James looked up, lip bleeding, eyes tired. "How—"
 
 "I heard alarm from CatCo," Adrian said. "And saw you leave with Winn. Private monitor? No, hearing."
@@ -243,8 +241,6 @@ James stared, then nodded.
 
 Later, during exchange, Adrian was already there, helping evacuate, moving debris, lifting car that had trapped guard, set down gently, not fighting Kryptonians head-on, because even stronger now, two Kryptonians plus prisoners not fight he could win without revealing, and civilian identity protected, and also because this was Kara's family, not his, and because this was Kara's family, not his, and because even stronger now.
 
-He caught Kara when Non hit her through Lord lab wall, one arm around waist, absorbing momentum, setting her down, field bent light, not breaking.
-
 "You okay?" he asked, quiet.
 
 "I am okay," Kara said, and flew again, supersonic.
@@ -262,3 +258,4 @@ Adrian picked up mug, placed back on desk next to magnet, went back to work, ord
 There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes and Adrian helping and J'onn reveal and Cat knows then not knows.
 
 Adrian went back to work.
+

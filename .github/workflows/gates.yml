@@ -1,0 +1,24 @@
+name: supergirl gates
+
+# The release gate (tools/verify.py) and its selftests (tools/selftest.py) run
+# here through tools/ci_run.py. Chapters 09–15 were repaired after the author
+# accepted them; their acceptance receipts are the author's to re-issue, so the
+# gate reports exactly those seven by design until then. CI PINS that known set
+# and fails on ANY failure beyond it — a build that can still go red when
+# something new breaks. See audits/REPAIR_2026-10-11_DUPLICATE_PADDING.md.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: run the gates (pinned author-pending set)
+        run: python3 tools/ci_run.py

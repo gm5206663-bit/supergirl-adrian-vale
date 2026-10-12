@@ -19,5 +19,5 @@
 | SG-E05-13 | changed_with_receipt | Kara sees Adrian with Evelyn close caring behavior arm in arm collar fixing head on shoulder, misunderstands as romantic girlfriend, feels awkward jealous pang, retreats, tries to be professional. |
 | SG-E05-14 | changed_with_receipt | Clarification: Adrian explains Evelyn is family who helped when he first came and learned to live sealed, mother/sister figure calls him kid, not romantic. Evelyn perceptive warmth clarifies with humor, fixes Kara collar, notices Kara likes Adrian, tells Kara she is good for him as friend. |
 
-Sources: [SRC-SG-E05-EW](https://ew.com/recap/supergirl-season-1-episode-5/) [SRC-SG-E05-TVTR](https://tvtropes.org/pmwiki/pmwiki.php/Recap/Supergirl2015S1E5Livewire) [SRC-SG-E05-ARROW](https://arrow.fandom.com/wiki/Livewire) [SRC-U31-USER](user_request_U31)
+Sources: [SRC-SG-E05-EW](https://ew.com/recap/supergirl-season-1-episode-5/) [SRC-SG-E05-TVTR](https://tvtropes.org/pmwiki/pmwiki.php/Recap/Supergirl2015S1E5Livewire) [SRC-SG-E05-ARROW](https://arrow.fandom.com/wiki/Livewire) [SRC-U31-USER](user_request_U31.md)
 Recaps, not a viewing receipt. Broadcast swap noted per ORDER_POLICY.md. U31 original character Evelyn Hart per user request. No subsequent episode verified.

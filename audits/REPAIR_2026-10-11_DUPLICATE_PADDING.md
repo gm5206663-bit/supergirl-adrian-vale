@@ -82,3 +82,23 @@ than half of them; the rest have no punctuation to split on at all.
 2026-10-11 "Defect" ruling authorising chapter repair. It removes text and adds
 none. If the author prefers the padded text, `git revert` this commit restores
 it exactly.*
+
+---
+
+## RE-ACCEPTANCE PENDING — added 2026-10-12
+
+The repairs above changed chapters 09–15 AFTER the author accepted them. The house does not rewrite an ACCEPTED_HASH receipt — the acceptance is the author's act — so `tools/verify.py` reports exactly these seven chapters by design until the author re-accepts. The CI workflow pins this set: any failure BESIDES these fails the build.
+
+To re-accept, the author reads each chapter, then the manifest entry in `foundation/CURRENT_STATE_MANIFEST.json` (`accepted_chapters`) gets the new `sha256` below with a fresh `accepted_on` and receipt line — or say the word and it is done for the chapters named.
+
+| chapter | old sha256 (accepted) | new sha256 (repaired) |
+|---|---|---|
+| chapters/Chapter_09_Red_Faced_and_Named.md | `5242cb1d9b9b…` | `7d9361f95527349abfd2a94e7a4f2f426ba0aaae74d9743d88160562ca4509e1` |
+| chapters/Chapter_10_Red_Faced_Consequence.md | `96c06c73e408…` | `ab25fb602154df6365826671a6b2e0daa765b8c3e97cfc0c794e8f14825ef0a0` |
+| chapters/Chapter_11_The_Sun.md | `016a5dd5b6ca…` | `b0d93e134735042dc9b6e15773bd0041d5e5840baa4869f4335151f4ed38b739` |
+| chapters/Chapter_12_The_Kiss.md | `85c151539c91…` | `1eb7c4d6f9818762579c9bcc3a04a91d3f5343804402f35a51ba41705011fa48` |
+| chapters/Chapter_13_Human_for_a_Day.md | `a383f170299e…` | `11865eb6e3008da75eaaf9ab1b834a4082966a38ac740b3fe68204c3e642de27` |
+| chapters/Chapter_14_Hostile_Takeover.md | `e1bfdce40e10…` | `0b8e6b6d6ff34cf962aa86742bbbfe8d2c51d3678e5b63aae3fee2093e78330c` |
+| chapters/Chapter_15_Blood_Bonds.md | `9b16317f2296…` | `a54ea126932cbc07a2a3635d487eac28dba6335f92bf4e62907a795fb0bd2bf7` |
+
+*Changed by:* the 2026-10-11 padding-loop repair (additive-free deletion of duplicated passages, keep-first) and the 2026-10-12 shelf pass (one stutter collapsed). Word sequences of the removed material are recoverable from `git log` for each chapter.
