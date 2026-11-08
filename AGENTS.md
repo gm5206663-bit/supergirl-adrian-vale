@@ -1,5 +1,16 @@
 # Project working contract
 
+<!-- account-agent-navigation: 2026-10-16 -->
+## Account navigation — read before acting
+
+[Start here for agents](https://github.com/gm5206663-bit/the-authors-desk/blob/main/agents/START-HERE.md) provides task routes,
+permission boundaries, evidence handling and handoff templates. It is navigation,
+not a replacement for this repository's local contract or a story authorization.
+Read applicable local/nested instructions and amendments; load current state
+from its designated owner, not an old profile, draft or maximum filename.
+
+<!-- /account-agent-navigation -->
+
 Read HANDOFF.md → foundation/STATUS_PANEL.md → foundation/NO_MISTAKE_LIVE_RULES.md → latest audit → last accepted chapter. Read the relevant foundation before changing it.
 
 The author’s latest instruction is the project authority. Preserve exact rulings in USER_LOCKS.json; distinguish menu selections from verbatim messages. This is not permission to disregard platform safety or handling of credentials.
