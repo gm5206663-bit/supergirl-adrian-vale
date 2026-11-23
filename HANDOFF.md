@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: e72b3cd128a977433751f92c50202842076d52af55f1cb6e969fa709f8f5a34f -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: d7e69fe62e057e99f788d981139d627a957052a47e0ed083a218e0c9efd8bbfd -->
 
 # Handoff — Supergirl / Adrian Vale
 
@@ -7,7 +7,7 @@ A native male Kryptonian–Daxamite hybrid Talent holder with a genuinely crimin
 
 ## 2. The live edge
 **Epoch:** v1 · **Revision:** foundation-022  
-**Accepted chapter edge:** 29 · **Next chapter:** 30  
+**Accepted chapter edge:** 30 · **Next chapter:** 31  
 **Phase:** canon-style-rewrite-complete
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
@@ -15,7 +15,7 @@ A native male Kryptonian–Daxamite hybrid Talent holder with a genuinely crimin
 **U23 public identity:** complete suit/mask for interventions; civilian identity protected. Visual resemblance is out-of-world only. See `bible/PUBLIC_IDENTITY_AND_COSTUME.md`.
 
 
-The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 29, R1**, at `drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md`: latest_candidate. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
+The first chat chapter is preserved under drafts/ as R1. The latest candidate is **Chapter 30, R1**, at `drafts/Chapter_30_The_Last_Children_of_Krypton_R1.md`: latest_candidate. No draft automatically advances the accepted edge. Continuation receipts and adopted chapter files are recorded in the manifest; never infer adoption from a revision filename alone.
 
 ## 3. The one status source
 `foundation/CURRENT_STATE_MANIFEST.json`. STATUS_PANEL, this handoff, SERIAL_LOG and the overview are generated from it. Do not edit a generated mirror to repair state.
@@ -42,4 +42,4 @@ Read the latest candidate’s review and prewrite record. Adopted chapters and t
 Do not ask the author again for the choices already above. Do not treat the seal as loss of his real strength or assume Krypton could not capture him. Do not infer that the author's anger was about prose after they explicitly identified missing files.
 
 ## 9. Verification and delivery
-`python3 tools/verify.py` checks structural state; `python3 tools/selftest.py` proves defect detection; `python3 tools/verify.py --ship 29` checks candidate release readiness: **TECHNICALLY READY — author acceptance remains separate**. See `audits/VALIDATION.md`. Only after review and explicit acceptance should a chapter enter chapters/ and advance the manifest. Deliver files, coverage, state and receipts together. Nothing has been pushed to GitHub.
+`python3 tools/verify.py` checks structural state; `python3 tools/selftest.py` proves defect detection; `python3 tools/verify.py --ship 30` checks candidate release readiness: **TECHNICALLY READY — author acceptance remains separate**. See `audits/VALIDATION.md`. Only after review and explicit acceptance should a chapter enter chapters/ and advance the manifest. Deliver files, coverage, state and receipts together. Nothing has been pushed to GitHub.

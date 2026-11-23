@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: e72b3cd128a977433751f92c50202842076d52af55f1cb6e969fa709f8f5a34f -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: d7e69fe62e057e99f788d981139d627a957052a47e0ed083a218e0c9efd8bbfd -->
 
 # Supergirl — Adrian Vale
 
@@ -7,7 +7,7 @@
 This is the local, GitHub-ready working project—not another generic DC questionnaire kit. It records the author's chosen Supergirl premise, foundations, original draft, canon research, state and executable checks.
 
 **Epoch:** v1 · **Revision:** foundation-022  
-**Accepted chapter edge:** 29 · **Next chapter:** 30  
+**Accepted chapter edge:** 30 · **Next chapter:** 31  
 **Phase:** canon-style-rewrite-complete
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
@@ -73,6 +73,7 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 27](chapters/Chapter_27_Myriad.md): audits/CHAPTER_27_R4_REVIEW.md — U73: canon style, butterfly carry-through, Adrian existential arc
 - [Chapter 28](chapters/Chapter_28_Better_Angels.md): audits/CHAPTER_28_R4_REVIEW.md — U73: canon style, butterfly carry-through, Adrian existential arc
 - [Chapter 29](chapters/Chapter_29_The_Adventures_of_Supergirl.md): audits/CHAPTER_29_R1_REVIEW.md — U73: canon style, butterfly carry-through
+- [Chapter 30](chapters/Chapter_30_The_Last_Children_of_Krypton.md): audits/CHAPTER_30_R1_REVIEW.md — U73: canon style, butterfly carry-through
 
 ### Preserved drafts and current candidate
 
@@ -112,8 +113,9 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [drafts/Chapter_27_Myriad_R3.md](drafts/Chapter_27_Myriad_R3.md): superseded
 - [drafts/Chapter_28_Better_Angels_R3.md](drafts/Chapter_28_Better_Angels_R3.md): superseded
 - [drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md](drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md): latest_candidate
+- [drafts/Chapter_30_The_Last_Children_of_Krypton_R1.md](drafts/Chapter_30_The_Last_Children_of_Krypton_R1.md): latest_candidate
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 29, R1**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 30, R1**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -121,7 +123,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 29
+python3 tools/verify.py --ship 30
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.

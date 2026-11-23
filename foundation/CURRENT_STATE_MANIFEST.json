@@ -18,6 +18,7 @@
       "OC-27-ADRIAN",
       "OC-28-ADRIAN",
       "OC-29-ADRIAN",
+      "OC-30-ADRIAN",
       "SG-10-01",
       "SG-10-02",
       "SG-11-01",
@@ -213,6 +214,26 @@
       "SG-E05-12",
       "SG-E05-13",
       "SG-E05-14",
+      "SG-E22-01",
+      "SG-E22-02",
+      "SG-E22-03",
+      "SG-E22-04",
+      "SG-E22-05",
+      "SG-E22-06",
+      "SG-E22-07",
+      "SG-E22-08",
+      "SG-E22-09",
+      "SG-E22-10",
+      "SG-E22-11",
+      "SG-E22-12",
+      "SG-E22-13",
+      "SG-E22-14",
+      "SG-E22-15",
+      "SG-E22-16",
+      "SG-E22-17",
+      "SG-E22-18",
+      "SG-E22-19",
+      "SG-E22-20",
       "SG-P01",
       "SG-P02",
       "SG-P03",
@@ -274,8 +295,8 @@
     "canon_foreknowledge": false,
     "learned_skills_erased_by_seal": false
   },
-  "accepted_edge": 29,
-  "next_chapter": 30,
+  "accepted_edge": 30,
+  "next_chapter": 31,
   "accepted_chapters": [
     {
       "number": 1,
@@ -650,6 +671,21 @@
       "accepted_on": "2026-09-27",
       "acceptance_basis": "continuation_authorization",
       "revision": "R1"
+    },
+    {
+      "number": 30,
+      "title": "The Last Children of Krypton",
+      "episode": "S02E02 - The Last Children of Krypton",
+      "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+      "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+      "word_count": 5380,
+      "canon_style_approved": true,
+      "acceptance_receipt": "audits/CHAPTER_30_R1_REVIEW.md \u2014 U73: canon style, butterfly carry-through",
+      "epoch": "v1",
+      "coverage": "canon_coverage/Chapter_30_ACCEPTED.json",
+      "accepted_on": "2026-09-27",
+      "acceptance_basis": "continuation_authorization",
+      "revision": "R1"
     }
   ],
   "drafts": [
@@ -940,6 +976,14 @@
       "revision": "R1",
       "status": "latest_candidate",
       "coverage": "canon_coverage/Chapter_29_ACCEPTED.json"
+    },
+    {
+      "chapter": 30,
+      "path": "drafts/Chapter_30_The_Last_Children_of_Krypton_R1.md",
+      "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_30_ACCEPTED.json",
+      "revision": "R1"
     }
   ],
   "source_authority": {
@@ -1273,6 +1317,12 @@
       "kind": "chapter_adopted",
       "date": "2026-09-27",
       "description": "Chapter 29 The Adventures of Supergirl (S02E01) adopted R1. Canon style with butterfly carry-through."
+    },
+    {
+      "id": "CH30-30",
+      "kind": "chapter_adopted",
+      "date": "2026-09-27",
+      "description": "Chapter 30 The Last Children of Krypton adopted R1, 5380w, SHA 0d25510135b41149..."
     }
   ],
   "background": {

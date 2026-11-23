@@ -69,6 +69,13 @@
           "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
           "description": "Evelyn visit triggers Kara misunderstanding jealous then understanding, plus Livewire origin and Eliza visit, ordinary work continues.",
           "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -116,6 +123,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Carter babysitting logistics handled as executive operations aide; Cat award travel arranged; Cat lesson have it all start small adapt.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -135,6 +149,13 @@
           "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
           "description": "Winn receives emergency-contact permission through Kara, calls Adrian during injury and hears rescue dialogue.",
           "receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18: Next; continuation adoption"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -147,7 +168,15 @@
       "baseline": "No accepted personal history. James introduction belongs to source timeline.",
       "development": "Professional regard or disagreement follows evidence.",
       "guard": "No automatic romantic rivalry or secret-identity disclosure.",
-      "accepted_changes": []
+      "accepted_changes": [
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
+        }
+      ]
     },
     {
       "id": "R05",
@@ -193,6 +222,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Alex warns spread thin, provides technical liaison for both train and airport, finds kill switch, questions Hank.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -240,6 +276,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Voluntary backup at train, custody aid for multiple prisoners continues, no pardon or hybrid test.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -273,6 +316,13 @@
           "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
           "description": "Astra claims Non on Earth without verified location; refuses plane-order answer; custody conditions unchanged.",
           "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -320,6 +370,13 @@
           "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
           "description": "Sister dinner, Krull/wife reporting, cousin-message support and siren response reinforce truthful cooperation.",
           "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -353,6 +410,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Cat wins Siegel award, needs babysitter, mother decorative grandmother, Kara volunteers, later Cat correction smart brave kind hero.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -393,6 +457,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "James at airport for Lucy departure, realizes cares, reconciliation, plus airport bomb context.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -405,7 +476,15 @@
       "baseline": "His Kryptonian father came from an influential house and was murdered; Daren Varr is a retained assistant-designed name.",
       "development": "Develop their actual relationship through a credible memory or historical scene.",
       "guard": "Do not restore the unrelated accident or infer a specific office from elite status.",
-      "accepted_changes": []
+      "accepted_changes": [
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
+        }
+      ]
     },
     {
       "id": "R12",
@@ -416,7 +495,15 @@
       "baseline": "His Daxamite mother came from a collateral royal branch and was murdered; Ilyra Varr is a retained assistant-designed name.",
       "development": "Her life and mixed family can matter independently of court politics.",
       "guard": "Exact royal genealogy, title, birth surname and relations with the ruling family remain unassigned.",
-      "accepted_changes": []
+      "accepted_changes": [
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
+        }
+      ]
     },
     {
       "id": "R13",
@@ -427,7 +514,15 @@
       "baseline": "Maternal royal-branch membership is established; exact kinship to Mon-El and personal acquaintance are not.",
       "development": "A later contact may involve shared family history if the chronology supports it.",
       "guard": "No automatic sibling/cousin designation, rivalry or mutual recognition.",
-      "accepted_changes": []
+      "accepted_changes": [
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
+        }
+      ]
     },
     {
       "id": "R14",
@@ -438,7 +533,15 @@
       "baseline": "Mother\u2019s royal-branch membership does not establish a personal history with Rhea.",
       "development": "Set genealogy, dates and information before using court history.",
       "guard": "Rhea is not established as ordering or knowing about the murders.",
-      "accepted_changes": []
+      "accepted_changes": [
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
+        }
+      ]
     },
     {
       "id": "R15",
@@ -449,7 +552,15 @@
       "baseline": "Mother\u2019s royal-branch membership does not establish a personal history with Lar Gand.",
       "development": "A court or genealogical connection needs a designed chronology.",
       "guard": "No automatic royal protection, pardon, hostility or knowledge of the Earth alias.",
-      "accepted_changes": []
+      "accepted_changes": [
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
+        }
+      ]
     },
     {
       "id": "R16",
@@ -502,6 +613,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Winn loses Carter due to curiosity, alerts Kara, follows to station, sees Knox vest, video games on Cat monitor array.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -521,6 +639,13 @@
           "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
           "description": "Adrian describes Non as interested in usefulness; no current location or command knowledge follows.",
           "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -547,6 +672,13 @@
           "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
           "description": "Vartox remains alive/separated from weapon; seeks distance from Kael and refuses substantive interrogation. Fear does not guarantee cooperation.",
           "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -566,6 +698,13 @@
           "sha256": "13b9d2ea3e8b0c51d5b764eecf3b6835e7f0f5035c027d28475ae0a0e86fcd54",
           "description": "Recognizes and fears Kael in closed command vehicle after capture; gives temporary prisoner-delivery rendezvous as a lead.",
           "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -585,6 +724,13 @@
           "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
           "description": "Thanksgiving visit, brings soup theater mask magnet chipped mug, mother/sister family by staying not romantic, knows abilities and seal wants ordinary life does NOT know Kael name etc., leaves after Thanksgiving.",
           "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -604,6 +750,13 @@
           "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
           "description": "Meets in lobby, sees arm in arm collar fixing outside diner misunderstands as romantic girlfriend awkward jealous pang retreats professional, later clarified family by staying not romantic, Evelyn fixes collar notices Kara likes Adrian.",
           "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -623,6 +776,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Lord subsidiary bombing, drone surveillance, maglev train debut, offers containment equipment, cultivates publicity/technology interest. Kara confronts balcony about testing and paying Knox daughter care.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -642,6 +802,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Tests Supergirl agility strength speed with bombings and drone, pays Knox daughter treatment, failsafe quote, interest in emotional connections as weakness. Kara confronts balcony.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -661,6 +828,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Lucy pumps Kara for info about James dating Supergirl awkward, heading back to Metropolis airport bomb reconciliation.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -680,6 +854,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Former partners, Lucy heading back to Metropolis, airport bomb, James heads to airport because cares, reconciliation embrace, Ojai trip mentioned.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -699,6 +880,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Public cousin disclosure motivates targeting, freeway rescue damages suit, early capture at first freeway attack with masked helper support, power unit shielded/removed.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -718,6 +906,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Fast precise interception restraint stops first attack before escape, no equal-power duel, supports passenger movement and structural stabilization.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -737,6 +932,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Carter babysitting logistics handled as executive operations aide, award travel, train debut Carter curiosity leads to supertrain, masked backup supports evacuation ensuring Cat son safe.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -756,6 +958,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Volunteers to babysit for Siegel prize, bonds over Catan, Carter disappears to train station hoping to meet Supergirl, Kara chooses train because Carter aboard, moves passengers back, Carter meets Supergirl.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -775,6 +984,13 @@
           "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
           "description": "Shock jock annual list not grateful Supergirl vulgarity demoted to traffic chopper helicopter lightning rescue pilot helicopter grabs hand lightning passes through coma hospital alley power discovery blackouts CatCo attack elevator Element X capacitor trap Ghostbusters Cat bait water pipe short out comatose DEO custody.",
           "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -794,6 +1010,13 @@
           "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
           "description": "CatCo blackout screens attack, Cat sends Kara to security, Supergirl shields tells Cat leave, remains sealed civilian support ensuring Cat safety no masked takeover.",
           "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -813,6 +1036,13 @@
           "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
           "description": "Thanksgiving visit tension makeup apology confession Jeremiah DEO deal under Hank died mysterious suspicious red eyes.",
           "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -832,6 +1062,13 @@
           "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
           "description": "Thanksgiving visit tension mother blames letting Kara become Supergirl tells mother works for DEO not lab makeup apology harder on Alex wanted better, you have always been my super girl, Jeremiah DEO deal.",
           "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -844,7 +1081,15 @@
       "baseline": "No prior connection. Eliza is Danvers mother visiting Thanksgiving.",
       "development": "Livewire intended: No direct scene yet. Adrian as Cat aide may be aware of Danvers family visit via Kara, no interaction.",
       "guard": "No automatic knowledge transfer.",
-      "accepted_changes": []
+      "accepted_changes": [
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
+        }
+      ]
     },
     {
       "id": "R35",
@@ -862,6 +1107,13 @@
           "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
           "description": "Notices Kara likes Adrian during visit, gently teases fixes collar tells good for him as friend, warm humor not making Kara foolish.",
           "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -881,6 +1133,13 @@
           "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
           "description": "Visit Thanksgiving week, practical help history when he arrived and sealed power, mother/sister calls kid/Ade checks eats teases protective, leaves chipped mug.",
           "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -900,6 +1159,13 @@
           "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
           "description": "Subsidiary bombing, train bomb vest, dialogue about daughter, 30-second plunger, heat vision separation, front car explosion over water, dies, medical records Lord paid daughter care.",
           "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
+        },
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
         }
       ]
     },
@@ -912,7 +1178,15 @@
       "baseline": "No prior connection.",
       "development": "How Does She Do It?: No direct interaction, Adrian as masked backup supports evacuation not Knox dialogue.",
       "guard": "No automatic knowledge.",
-      "accepted_changes": []
+      "accepted_changes": [
+        {
+          "chapter": 30,
+          "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
+          "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+          "on": "2026-09-27",
+          "description": "Kryptonite-powered Metallo attacks; Superman and J'onn reach agreement on kryptonite; Cat leaves CatCo; James becomes head; Snapper Carr as new boss; Mercy Graves declares war; Mon-El wakes."
+        }
+      ]
     }
   ],
   "romance_status": "under_consideration",

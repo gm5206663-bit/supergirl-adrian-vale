@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: e72b3cd128a977433751f92c50202842076d52af55f1cb6e969fa709f8f5a34f -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: d7e69fe62e057e99f788d981139d627a957052a47e0ed083a218e0c9efd8bbfd -->
 
 # Serial log
 
@@ -212,4 +212,8 @@ U73 R4 rewrite of Ch27/Ch28: butterfly effects carry through naturally, canon wo
 
 Chapter 29 The Adventures of Supergirl (S02E01) adopted R1. Canon style with butterfly carry-through.
 
-Accepted chapter edge: 29. Draft prose is not an accepted event.
+## CH30-30 — 2026-09-27 — chapter_adopted
+
+Chapter 30 The Last Children of Krypton adopted R1, 5380w, SHA 0d25510135b41149...
+
+Accepted chapter edge: 30. Draft prose is not an accepted event.

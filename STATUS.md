@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: e72b3cd128a977433751f92c50202842076d52af55f1cb6e969fa709f8f5a34f -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: d7e69fe62e057e99f788d981139d627a957052a47e0ed083a218e0c9efd8bbfd -->
 
 # File map
 
@@ -103,6 +103,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [audits/CHAPTER_28_R3_REVIEW.md](audits/CHAPTER_28_R3_REVIEW.md)
 - [audits/CHAPTER_28_R4_REVIEW.md](audits/CHAPTER_28_R4_REVIEW.md)
 - [audits/CHAPTER_29_R1_REVIEW.md](audits/CHAPTER_29_R1_REVIEW.md)
+- [audits/CHAPTER_30_R1_REVIEW.md](audits/CHAPTER_30_R1_REVIEW.md)
 - [audits/CHAPTER_9_R8_REVIEW.md](audits/CHAPTER_9_R8_REVIEW.md)
 - [audits/CHECKSUMS.sha256](audits/CHECKSUMS.sha256)
 - [audits/COMPLETE_CHECK_2026_09_30.md](audits/COMPLETE_CHECK_2026_09_30.md)
@@ -357,6 +358,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [canon_coverage/Chapter_28_PRESERVED_R2.json](canon_coverage/Chapter_28_PRESERVED_R2.json)
 - [canon_coverage/Chapter_28_PRESERVED_R3.json](canon_coverage/Chapter_28_PRESERVED_R3.json)
 - [canon_coverage/Chapter_29_ACCEPTED.json](canon_coverage/Chapter_29_ACCEPTED.json)
+- [canon_coverage/Chapter_30_ACCEPTED.json](canon_coverage/Chapter_30_ACCEPTED.json)
 - [canon_coverage/EPISODE_02_BEAT_MAP.md](canon_coverage/EPISODE_02_BEAT_MAP.md)
 - [canon_coverage/EPISODE_03_BEAT_MAP.md](canon_coverage/EPISODE_03_BEAT_MAP.md)
 - [canon_coverage/EPISODE_04_BEAT_MAP.md](canon_coverage/EPISODE_04_BEAT_MAP.md)
@@ -412,6 +414,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [chapters/Chapter_27_Myriad.md](chapters/Chapter_27_Myriad.md)
 - [chapters/Chapter_28_Better_Angels.md](chapters/Chapter_28_Better_Angels.md)
 - [chapters/Chapter_29_The_Adventures_of_Supergirl.md](chapters/Chapter_29_The_Adventures_of_Supergirl.md)
+- [chapters/Chapter_30_The_Last_Children_of_Krypton.md](chapters/Chapter_30_The_Last_Children_of_Krypton.md)
 - [chapters/README.md](chapters/README.md)
 - [codex/ADRIAN_KARA_CANON_STUDY.md](codex/ADRIAN_KARA_CANON_STUDY.md)
 - [codex/BUTTERFLY_REGISTRY.md](codex/BUTTERFLY_REGISTRY.md)
@@ -484,6 +487,7 @@ Generated project navigation. File presence does not imply approval or canon ver
 - [drafts/Chapter_28_Better_Angels_R3.md](drafts/Chapter_28_Better_Angels_R3.md)
 - [drafts/Chapter_28_Better_Angels_R4.md](drafts/Chapter_28_Better_Angels_R4.md)
 - [drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md](drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md)
+- [drafts/Chapter_30_The_Last_Children_of_Krypton_R1.md](drafts/Chapter_30_The_Last_Children_of_Krypton_R1.md)
 - [drafts/README.md](drafts/README.md)
 - [foundation/AUTHORITY_AND_PROVENANCE.md](foundation/AUTHORITY_AND_PROVENANCE.md)
 - [foundation/BUTTERFLY_EFFECTS_CH10_17_NATURAL.md](foundation/BUTTERFLY_EFFECTS_CH10_17_NATURAL.md)
