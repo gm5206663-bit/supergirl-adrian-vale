@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: d7e69fe62e057e99f788d981139d627a957052a47e0ed083a218e0c9efd8bbfd -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: ec7428cfb5937fb594817511d5f0e2a08b7fd64bcf034a94301a92461abc417f -->
 
 # Supergirl — Adrian Vale
 

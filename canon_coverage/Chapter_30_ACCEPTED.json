@@ -2,7 +2,7 @@
   "chapter": 30,
   "revision": "R1",
   "draft_path": "drafts/Chapter_30_The_Last_Children_of_Krypton_R1.md",
-  "draft_sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+  "draft_sha256": "c92d57409951e8e48078d9098bd2aa81481bc378e20353a3b6512a65a315e1be",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -31,28 +31,160 @@
     }
   ],
   "beats": [
-    {"id": "SG-E22-01", "status": "covered", "reason": "", "source": "SG-E22-EW", "description": "Kara and Clark extinguish port fire together, proper absorbing momentum technique"},
-    {"id": "SG-E22-02", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Bank robbery team-up, kid asks if they are together"},
-    {"id": "SG-E22-03", "status": "covered", "reason": "", "source": "SG-E22-EW", "description": "Clark suggests Kara come to Metropolis, she neither refuses nor agrees"},
-    {"id": "SG-E22-04", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Man on building ledge is Corben, revived with kryptonite chest piece"},
-    {"id": "SG-E22-05", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Kryptonite beam hits Kara, drains strength, Clark carries her off roof"},
-    {"id": "SG-E22-06", "status": "covered", "reason": "", "source": "SG-E22-EW", "description": "Clark confronts J'onn about stolen kryptonite shipment"},
-    {"id": "SG-E22-07", "status": "covered", "reason": "", "source": "SG-E22-EW", "description": "Four months ago, DEO shipment stolen, no leads"},
-    {"id": "SG-E22-08", "status": "covered", "reason": "", "source": "SG-E22-EW", "description": "Conflict between Superman and Martian Manhunter over kryptonite"},
-    {"id": "SG-E22-09", "status": "covered", "reason": "", "source": "SG-E22-EW", "description": "Cat takes leave of absence, I need to dive"},
-    {"id": "SG-E22-10", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "James becomes head of CatCo, honest conversation with Kara"},
-    {"id": "SG-E22-11", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Snapper Carr as new boss, says Kara has a lot to learn"},
-    {"id": "SG-E22-12", "status": "covered", "reason": "", "source": "SG-E22-EW", "description": "Alex confronts Agent McGill, the Cadmus mole"},
-    {"id": "SG-E22-13", "status": "covered", "reason": "", "source": "SG-E22-EW", "description": "Mercy Graves ambushes Alex, tries to recruit her, declares war"},
-    {"id": "SG-E22-14", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Warehouse fight, Kara arrives to save Alex, J'onn joins"},
-    {"id": "SG-E22-15", "status": "covered", "reason": "", "source": "SG-E22-EW", "description": "Graves escapes with smoke canister, declares this is a war"},
-    {"id": "SG-E22-16", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Fortress of Solitude, Kelex scans residue, finds Prometheum"},
-    {"id": "SG-E22-17", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Clark and J'onn reach agreement, Clark takes kryptonite to hidden location"},
-    {"id": "SG-E22-18", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Clark returns to Metropolis, texts Kara he misses her"},
-    {"id": "SG-E22-19", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Kara visits Cat, emotional farewell, Cat says she will come back"},
-    {"id": "SG-E22-20", "status": "covered", "reason": "", "source": "SG-E22-MULTI", "description": "Mon-El wakes and chokes Kara, cliffhanger"},
-    {"id": "U73-01", "status": "covered", "reason": "", "source": "U73", "description": "Butterfly carry-through: chipped mug, theater mask magnet, bandage, DEO, bullpen, pattern, paper, ghost code, Marcus, parking lot, back gate"},
-    {"id": "OC-30-ADRIAN", "status": "covered", "reason": "", "source": "U73", "description": "Adrian present at DEO desk with chipped mug and theater mask magnet"}
+    {
+      "id": "SG-E22-01",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-EW",
+      "description": "Kara and Clark extinguish port fire together, proper absorbing momentum technique"
+    },
+    {
+      "id": "SG-E22-02",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Bank robbery team-up, kid asks if they are together"
+    },
+    {
+      "id": "SG-E22-03",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-EW",
+      "description": "Clark suggests Kara come to Metropolis, she neither refuses nor agrees"
+    },
+    {
+      "id": "SG-E22-04",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Man on building ledge is Corben, revived with kryptonite chest piece"
+    },
+    {
+      "id": "SG-E22-05",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Kryptonite beam hits Kara, drains strength, Clark carries her off roof"
+    },
+    {
+      "id": "SG-E22-06",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-EW",
+      "description": "Clark confronts J'onn about stolen kryptonite shipment"
+    },
+    {
+      "id": "SG-E22-07",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-EW",
+      "description": "Four months ago, DEO shipment stolen, no leads"
+    },
+    {
+      "id": "SG-E22-08",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-EW",
+      "description": "Conflict between Superman and Martian Manhunter over kryptonite"
+    },
+    {
+      "id": "SG-E22-09",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-EW",
+      "description": "Cat takes leave of absence, I need to dive"
+    },
+    {
+      "id": "SG-E22-10",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "James becomes head of CatCo, honest conversation with Kara"
+    },
+    {
+      "id": "SG-E22-11",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Snapper Carr as new boss, says Kara has a lot to learn"
+    },
+    {
+      "id": "SG-E22-12",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-EW",
+      "description": "Alex confronts Agent McGill, the Cadmus mole"
+    },
+    {
+      "id": "SG-E22-13",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-EW",
+      "description": "Mercy Graves ambushes Alex, tries to recruit her, declares war"
+    },
+    {
+      "id": "SG-E22-14",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Warehouse fight, Kara arrives to save Alex, J'onn joins"
+    },
+    {
+      "id": "SG-E22-15",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-EW",
+      "description": "Graves escapes with smoke canister, declares this is a war"
+    },
+    {
+      "id": "SG-E22-16",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Fortress of Solitude, Kelex scans residue, finds Prometheum"
+    },
+    {
+      "id": "SG-E22-17",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Clark and J'onn reach agreement, Clark takes kryptonite to hidden location"
+    },
+    {
+      "id": "SG-E22-18",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Clark returns to Metropolis, texts Kara he misses her"
+    },
+    {
+      "id": "SG-E22-19",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Kara visits Cat, emotional farewell, Cat says she will come back"
+    },
+    {
+      "id": "SG-E22-20",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E22-MULTI",
+      "description": "Mon-El wakes and chokes Kara, cliffhanger"
+    },
+    {
+      "id": "U73-01",
+      "status": "covered",
+      "reason": "",
+      "source": "U73",
+      "description": "Butterfly carry-through: chipped mug, theater mask magnet, bandage, DEO, bullpen, pattern, paper, ghost code, Marcus, parking lot, back gate"
+    },
+    {
+      "id": "OC-30-ADRIAN",
+      "status": "covered",
+      "reason": "",
+      "source": "U73",
+      "description": "Adrian present at DEO desk with chipped mug and theater mask magnet"
+    }
   ],
   "reviews": {
     "canon": "pass",
@@ -62,12 +194,29 @@
     "prose": "pass"
   },
   "review_receipts": {
-    "canon": {"path": "audits/CHAPTER_30_R1_REVIEW.md", "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"},
-    "continuity": {"path": "audits/CHAPTER_30_R1_REVIEW.md", "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"},
-    "power": {"path": "audits/CHAPTER_30_R1_REVIEW.md", "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"},
-    "knowledge": {"path": "audits/CHAPTER_30_R1_REVIEW.md", "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"},
-    "prose": {"path": "audits/CHAPTER_30_R1_REVIEW.md", "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"}
+    "canon": {
+      "path": "audits/CHAPTER_30_R1_REVIEW.md",
+      "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_30_R1_REVIEW.md",
+      "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"
+    },
+    "power": {
+      "path": "audits/CHAPTER_30_R1_REVIEW.md",
+      "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_30_R1_REVIEW.md",
+      "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_30_R1_REVIEW.md",
+      "sha256": "08493d4f1caae45c4c8ce4d11dff951fa7984799647eb205779aafc6f036a914"
+    }
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R1"
+  "draft_revision": "R1",
+  "chapter_sha256": "c92d57409951e8e48078d9098bd2aa81481bc378e20353a3b6512a65a315e1be",
+  "word_count": 7105
 }

@@ -677,8 +677,8 @@
       "title": "The Last Children of Krypton",
       "episode": "S02E02 - The Last Children of Krypton",
       "path": "chapters/Chapter_30_The_Last_Children_of_Krypton.md",
-      "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
-      "word_count": 5380,
+      "sha256": "c92d57409951e8e48078d9098bd2aa81481bc378e20353a3b6512a65a315e1be",
+      "word_count": 7105,
       "canon_style_approved": true,
       "acceptance_receipt": "audits/CHAPTER_30_R1_REVIEW.md \u2014 U73: canon style, butterfly carry-through",
       "epoch": "v1",
@@ -980,7 +980,7 @@
     {
       "chapter": 30,
       "path": "drafts/Chapter_30_The_Last_Children_of_Krypton_R1.md",
-      "sha256": "0d25510135b41149ac0564da8305b48da10a75001f4cab60cfb10fd72fa2c737",
+      "sha256": "c92d57409951e8e48078d9098bd2aa81481bc378e20353a3b6512a65a315e1be",
       "status": "latest_candidate",
       "coverage": "canon_coverage/Chapter_30_ACCEPTED.json",
       "revision": "R1"

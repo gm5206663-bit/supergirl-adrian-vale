@@ -18,7 +18,9 @@ They moved together without talking about it. She froze the worst of the fire wi
 
 He grabbed the bow of the tanker. Pushed it away from the dock, toward the open water where the current would carry it away from the city.
 
-She caught the stern and kept it steady. Matching his pace, absorbing the weight the way she had learned to — not brute force, but momentum, counter-rotation, letting the water do most of the work.
+She caught the stern and kept it steady. She matched his pace, absorbing the weight the way she had learned to.
+
+Not brute force. Momentum. Counter-rotation. Letting the water do most of the work.
 
 The tanker drifted into the bay. The fire burned itself out on the surface.
 
@@ -152,9 +154,67 @@ The next morning, Kara woke to the sound of low voices outside the infirmary doo
 
 She swung her legs over the bed and stood.
 
-The corridor was quiet. The DEO always felt quiet in the mornings, before the shift started, before the alarms and the radios and the steady business of containing extraordinary things. Adrian's desk was near the bullpen, and she could see the chipped mug on the corner of his monitor, the theater mask magnet beside it. The things he carried because they were the texture of his life.
+The corridor was quiet. The DEO always felt quiet in the mornings, before the shift started.
 
-She walked past it without stopping.
+She walked past the bullpen. Adrian was already at his desk, the chipped mug on the corner of his monitor, the theater mask magnet beside it. The paper was open in front of him — the pattern, the names, the times, the parking lot, the back gate, the ghost code. He was reading through it, not looking up, working the leak the way he'd been working it for three weeks.
+
+He didn't look up when she passed. He didn't need to. He'd know she was there.
+
+"You shouldn't be up," he said, without turning.
+
+"I'm okay."
+
+"Your shoulder's still draining you. J'onn said to keep you horizontal for another day."
+
+"I'm not horizontal."
+
+He finally looked up. His eyes were the kind of tired that came from sleeping in a chair next to a console for three weeks, not from one night. "I'm not arguing with you about this. Not today. There's too much going on."
+
+"I'm not arguing either. I'm just saying I'm okay."
+
+He held her gaze for a second. Then he nodded, once. "The pattern's changed."
+
+That stopped her. She walked to his desk and looked over his shoulder at the paper.
+
+The names were the same. The times were the same. The parking lot, the back gate, the ghost code — all the same. But there was a new column on the right, in Adrian's hand, and it was short.
+
+"What's that?"
+
+"The stolen shipment," he said. "I matched the theft window against the ghost code log. The code was used three times in that window. All three times, the figure was seen at the back gate within ten minutes."
+
+"McGill."
+
+"I think so." Adrian tapped the paper. "The pattern holds. The leak is inside the DEO. And the shipment went out through the same window."
+
+"Four months," Kara said.
+
+"Four months."
+
+She looked at the paper. At the names, the times, the pattern. At the work Adrian had been holding, the thing that couldn't be changed because it was on paper. She'd been carrying the same paper. She'd folded it and put it in her drawer the night the device had been released into the black.
+
+"I have it," she said. "The paper. It's at CatCo."
+
+"I know."
+
+"You want me to bring it?"
+
+"No. Winn's working the digital copy. We have what we need here." He closed the file on the screen and turned to face her fully. "But there's something else. Alex came in early. She's in the briefing room with the McGill file. She's going to go see him."
+
+"She shouldn't go alone."
+
+"She said she can handle it."
+
+"She always says that."
+
+Adrian's mouth twitched. Not a smile. Something closer to frustration. "I know. But she's an agent. She's been training for this. And J'onn's in the field with Clark. I'm the only one here who can sit on the console and keep the pattern running if something goes sideways."
+
+Kara knew he was right. She didn't like it, but she knew. "Call me if it goes sideways."
+
+"I will."
+
+She left him at the console, the paper open, the chipped mug and theater mask magnet on the desk, the work still running. The butterfly items weren't props. They were the texture of his life.
+
+The things he carried because they were real. Because Evelyn had left the magnet. Because Winn had given the mug. Because the paper was the thing that had kept him going when everything else was gone.
 
 Alex was in the briefing room, and Winn was with her. They were bent over a monitor, and the screen showed a face Kara didn't recognize.
 
@@ -190,6 +250,18 @@ Kara looked from one to the other. She could see the argument that was coming, a
 
 "I will."
 
+Adrian appeared in the doorway. He'd been listening from the corridor, and his face was set. "Alex. If you go, I want a check-in every fifteen minutes. Not when it's done. Every fifteen minutes."
+
+"I'm not a kid," Alex said.
+
+"I know you're not a kid. I'm saying it because McGill is a DEO agent, and DEO agents know the protocol. He'll expect you to follow it. He'll use it against you."
+
+Alex stared at him. Then she nodded. "Fifteen minutes."
+
+"Good." Adrian turned to Winn. "Keep the ghost code log running. If anything spikes, you call me before you call anyone else."
+
+"Got it."
+
 Alex stood. She checked the weapon at her hip, the way she always did before a field operation. Then she was gone, out the door, moving with the purpose of someone who had been training for this moment for a long time.
 
 Winn stared at the screen after she left. "She's going to get herself killed."
@@ -200,13 +272,17 @@ Winn stared at the screen after she left. "She's going to get herself killed."
 
 "I know Alex."
 
-Winn didn't look convinced. But he didn't argue.
+"And I know the pattern," Adrian said. His voice was quiet, but it was there. "If McGill is what we think he is, he's been preparing for this for months. He's had time to set things up. Alex is walking into something he's had time to build."
+
+Kara looked at him. "You think she's walking into a trap."
+
+"I think she's walking into a situation she can't fully predict." Adrian's eyes went to the paper on his desk. The names, the times, the parking lot, the back gate. "And I can't predict it either. Not from here. That's why I'm here. To catch it when it happens."
 
 Kara sat in the briefing room for a long time after Winn left. The green poison in her shoulder was a dull, persistent throb.
 
 She thought about the man on the ledge. She thought about four months.
 
-She thought about the pattern she'd been holding. The paper, the names, the parking lot, the back gate, the ghost code, Marcus. All of it, written in her own hand, because the leak couldn't change paper.
+She thought about the pattern Adrian had been holding. The paper, the names, the parking lot, the back gate, the ghost code. All of it, written in his hand, because the leak couldn't change paper.
 
 And now the leak was inside the DEO. Not a ghost in the code. A person. An agent she'd probably passed in the hallway a hundred times.
 
@@ -298,7 +374,43 @@ She nodded. "Okay."
 
 He picked the pen back up and went back to the papers. Kara stood there for a moment, then turned and walked away.
 
-Her first day as a reporter, not an assistant, started the next morning.
+Adrian was at his desk when she came back to the bullpen. The paper was still open. The ghost code log was running on the monitor. He was working, but he looked up when she approached.
+
+"Something?" he asked.
+
+"Cat's leaving."
+
+He nodded. He'd probably already heard. "I figured. The pattern doesn't change, but the city does. People move. Things shift."
+
+"You sound like you're okay with it."
+
+"I'm not okay with it. I'm okay with the fact that it's happening." He tapped the paper. "The pattern holds. The work continues. Cat leaving doesn't change the leak. It doesn't change Cadmus. It doesn't change what's coming."
+
+Kara pulled out the chair across from him and sat. "What's coming?"
+
+"A war." He didn't look away from the paper. "Graves made that clear. They're not going to stop. They built a man into a weapon. They stole a shipment. They have a mole inside the DEO. They're declaring war on every alien on this planet."
+
+"And we're ready?"
+
+"We're here." He looked up at her. "That's what we can be. Ready enough. The pattern holds. The paper doesn't change. We catch it when it happens."
+
+She looked at the paper. At the names, the times, the parking lot, the back gate, the ghost code. At the work he'd been holding for three weeks, the thing that had kept him going when the device had taken everything.
+
+"You've been holding this alone," she said.
+
+"Not alone. You've been holding it too. Alex. Winn. J'onn. The team."
+
+"But you're at the console every night."
+
+"Somebody has to be."
+
+Kara didn't argue. She knew that was true. She knew that Adrian was the one who sat at the desk, the chipped mug and theater mask magnet on the corner, the paper open, the ghost code log running, every night for three weeks. The ordinary man who had chosen the ordinary and was holding it because the device had tried to take it.
+
+"What happens after this?" she asked. "After the war starts?"
+
+Adrian was quiet for a moment. He looked at the paper, then at her. "I don't know. But I know the pattern holds. And I know that when the next thing happens, I'll be at the console. And the paper will still be here. And the names will still be the same. And we'll catch it."
+
+Kara's first day as a reporter, not an assistant, started the next morning.
 
 She wore a jacket she'd worn before, one that was clean and professional and didn't look like she'd been up all night fighting kryptonite-powered cyborgs. She brought her notebook. She brought the article she'd been working on, the one about the port fire, polished and ready.
 
@@ -342,7 +454,7 @@ She turned.
 
 "Good."
 
-She left the office and walked back to her desk. The bullpen was quiet. The chipped mug was still on Adrian's desk. The theater mask magnet was still on the corner of his monitor. The things that had been the texture of her life for a year, still there, still real, even as everything else was changing.
+She left the office and walked back to her desk. The bullpen was quiet. Adrian was at his desk with the paper open, the ghost code log running. The chipped mug was on the corner of his monitor. The theater mask magnet was beside it. The cartoon bandage was in her pocket. The things that had been the texture of her life for a year, still there, still real, even as everything else was changing.
 
 She sat at her own desk and opened her notebook.
 
@@ -359,6 +471,10 @@ Kara was already standing. "I'm on my way."
 "J'onn's in the field. He's closest. He's going in first."
 
 "I'm closer. I'll be there in two minutes."
+
+"Adrian's on the console. He's monitoring the ghost code. He says the pattern spiked."
+
+"Tell him to keep watching."
 
 She didn't wait for an argument. She dropped the pen, left the notebook, and ran.
 
@@ -408,13 +524,7 @@ J'onn came through the far door. He moved with the quiet, deliberate precision o
 
 The third shooter went down. Graves was alone.
 
-Graves looked at Kara. She didn't look afraid. She looked like she'd expected this, and she was already planning the next move.
-
-"You're outnumbered," Kara said.
-
-"I'm not done," Graves said. She reached into her jacket and pulled out a device — small, metallic, glowing green at the edge. "Cadmus is just getting started. This is a war, Supergirl. On all of you."
-
-She pressed a button and a smoke canister erupted on the floor. The warehouse filled with white.
+Kara moved toward her, but Graves was already moving — a smoke canister erupted on the floor, and the warehouse filled with white.
 
 Kara lunged for her, but the smoke was thick, and when it cleared, Graves was gone.
 
@@ -436,37 +546,49 @@ J'onn's face was grim. "And now they know we know."
 
 They got Alex up. Kara supported her on one side, J'onn on the other, and they moved through the smoke toward the door.
 
-Back at the DEO, the briefing room was full. Winn was at his desk with the ghost code log open, the pattern Kara had been holding for three weeks, the same paper, the same names, the same times. He was working through the data, cross-referencing, building the case that would tie McGill to Cadmus and to the stolen shipment.
+Back at the DEO, Adrian was at the console with the ghost code log open. The pattern Kara had been holding for three weeks. The same paper, the same names, the same times, the same parking lot and back gate and Marcus. He looked up when they came in, and the tiredness in his eyes was still there, but it was sharper now, focused.
 
-"I have it," he said, without looking up. "I have the link. McGill's financial records, the movements, the phone call — it all points to Cadmus. And the stolen shipment traces back to the same window."
+"Graves got away," he said, without looking back at the screen.
 
-"Good," J'onn said. "File it. We'll need it."
+"I saw," Kara said.
 
-"We need more than that," Kara said. She was standing in the doorway, her shoulder wrapped, the green poison mostly drained but still present as a dull ache. "We need to know what they're building. What they did to Corben. What else they have."
+"The pattern spiked three times during the fight. Cadmus made moves while we were in the warehouse. They're coordinating. They're not just reacting."
 
-"The Fortress," J'onn said. "Clark and I can go there. Kelex can scan the kryptonite residue from the fight. Maybe we can learn something."
+"What kind of moves?" J'onn asked.
 
-"When?"
+"Movement at the back gate. Two figures. Same window as the original shipment theft." Adrian tapped the paper. "They're re-stocking. Or they're moving something new in."
 
-"Now." J'onn stood. "Clark's waiting."
+"Prometheum," Kara said. The word tasted like the green in her shoulder. "The thing Kelex found. The metal they used for the chest piece."
 
-Kara watched them go. Clark and J'onn, the two men who'd been at odds since the moment they met, going to the Fortress of Solitude to figure out how to fight a war that had been declared against them.
+"That's what I'd guess." Adrian looked at her. "We need the Fortress scan. Clark and you need to go there and find out exactly what they're using."
 
-Winn was still at his desk. Kara walked over and stood beside him.
+"I'm not in any shape to fly to the Fortress," Kara said.
 
-"You okay?" she asked.
+"You don't have to. Clark can go. J'onn can go with him." Adrian's voice was steady, practical, the voice of someone who had been making hard calls for three weeks and was still making them. "You stay here. You recover. You keep the pattern running with me. Winn's on the digital side. We hold the line from this room."
 
-"I'm working," he said.
+Kara wanted to argue. She knew she could fly. She knew the green poison was fading. But she also knew that Adrian was right — someone needed to hold the console, and the pattern, and the work. And he'd been doing it alone for three weeks.
 
-"That's not an answer."
+"Okay," she said.
 
-He looked up at her. His eyes were tired. "I'm okay. I'm just — I'm tired of finding out who the bad guys are after they've already won."
+Adrian nodded. "J'onn. Clark's waiting at the Fortress channel."
 
-"We haven't lost."
+J'onn went to the radio. Kara sat in the chair beside Adrian's desk, the paper open between them, the names and times and parking lot and back gate and ghost code all there, the work still running.
 
-"Not yet."
+Adrian was at the console. The paper open. The ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. The things he carried because they were the texture of his life, because they were real, because the ordinary was something he had chosen and was holding.
 
-Kara put a hand on his shoulder. "Not yet."
+They sat in silence for a while. Then Adrian spoke, without looking up from the paper.
+
+"You going to stay in National City?"
+
+The question surprised her. She thought about Clark. About Metropolis. About the roof, and the pier, and the easy thing it would be to go with him.
+
+She thought about the pattern on the paper. The parking lot. The back gate. The ghost code. Marcus. The leak inside the DEO. The war Cadmus had declared. The city that needed her here. The man at the console who had been holding the work for three weeks.
+
+"I'm staying," she said.
+
+Adrian nodded. "Good."
+
+They sat there. The ghost code log ran. The paper sat open. The city outside the DEO went on with its evening, unaware of the war that had just been declared on it.
 
 The Fortress of Solitude was cold and silent. White walls, white floors, the crystalline structure that felt more like a cathedral than a base. Clark walked through the corridors with the familiarity of someone who had grown up here, and J'onn followed, his steps quiet on the crystal floor.
 
@@ -504,37 +626,43 @@ When he came back, he texted Kara a single line.
 
 *It's done. I miss you already.*
 
-Kara read it on her phone in the DEO bullpen. The chipped mug was on the desk beside her. The theater mask magnet was on the corner of the monitor. The cartoon bandage was in her pocket. She held the phone in her hand and read the message three times.
+Kara read it on her phone in the DEO bullpen. The chipped mug was on the desk beside her. The theater mask magnet was on the corner of the monitor. The cartoon bandage was in her pocket. Adrian was at his console, the paper open, the ghost code log still running. She held the phone in her hand and read the message three times.
 
 She didn't reply immediately. She didn't know what to say. The work was done. The kryptonite was gone. But the war wasn't. Cadmus had declared it. They had declared it on all of them.
 
-She put the phone in her pocket and went to check on Alex.
+She put the phone in her pocket and looked at Adrian.
 
-Alex was in the infirmary, bandaged, propped against the pillows. She was reading the file Winn had compiled on McGill and Cadmus. Her eyes were sharp, focused, the way they got when she was processing something she was going to act on.
+He was reading the paper. The names. The times. The parking lot. The back gate. The ghost code. The work.
 
-"Graves got away," Alex said, without looking up.
-
-"I saw."
-
-"She'll come back."
+"Clark's gone," she said.
 
 "I know."
 
-"We need to be ready for the next thing." Alex closed the file. "Not just the fight. The next thing. Whatever they build. Whatever they try."
+"Back to Metropolis."
 
-"We will be."
+"I know."
 
-Alex looked at her. "You going to stay in National City?"
+"And the war is on."
 
-The question surprised Kara. She hadn't expected it. She thought about Clark. About Metropolis. About the roof, and the pier, and the easy thing it would be to go with him.
+Adrian looked up. "The war was on the moment they stole the shipment. We just didn't know it yet."
 
-She thought about the pattern on the paper. The parking lot. The back gate. The ghost code. Marcus. The leak inside the DEO. The war Cadmus had declared. The city that needed her here.
+"And now we know."
 
-"I'm staying," she said.
+"Now we know." He tapped the paper. "And the pattern holds. And we're here. And we'll catch it when it happens."
 
-Alex nodded. "Good."
+She looked at the paper. At the names, the times, the parking lot, the back gate, the ghost code. At the work Adrian had been holding, the thing that had kept him going when the device had taken everything, the thing that was still running, still alive, because the leak couldn't change paper.
 
-Kara stood. "I need to check on something."
+"You're not going to stop," she said.
+
+"No." He looked at her. His eyes were tired. But they were clear. "I'm not stopping because when the device was running, and the city was gone, and every mind was taken — the ordinary was gone. The life I chose was gone. Not the band on my wrist. Not the desk. The thing the band and the desk existed for. The free mind in a free city. That was gone. And the only thing left was this paper. The only thing left was the pattern the device couldn't reach. I held it because it was the only thing still alive."
+
+Kara didn't say anything. She just sat there, at the desk across from him. The paper open between them. The ghost code log running. The chipped mug and theater mask magnet on the corner of the monitor. The cartoon bandage in her pocket.
+
+The things that had been the texture of her life for a year. Still there. Still real. Still alive.
+
+Because Adrian was there. At the console. Holding the work.
+
+She needed to check on something.
 
 She walked to the holding area. The room was at the back of the DEO, past the lab, past the cells. It was quiet. The lights were low.
 
@@ -542,9 +670,21 @@ The pod man was in the bed.
 
 He'd been there since the premiere. Unconscious. The Kryptonian from the pod, the stranger who had come out of the same sky she had come out of. He hadn't woken up. He hadn't opened his eyes. He'd just been there, breathing, alone.
 
-Kara sat beside the bed. She pulled the chair close.
+Adrian was already there. He stood at the end of the bed, his arms crossed, looking at the man in the bed. He didn't turn when Kara came in.
 
-"You're not alone," she said. Her voice was quiet in the still room. "I know what it's like. To arrive somewhere new. To not know anyone. To not know where you are or what's happening."
+"You don't have to do this alone," she said.
+
+"I'm not doing it alone. I'm standing here."
+
+"That's not the same thing."
+
+He looked at her. "It's the same thing when there's no one else to do it."
+
+Kara walked to the side of the bed and sat in the chair. She pulled it close.
+
+Adrian stayed standing. He looked at the man in the bed, then at the paper in his hand — he'd brought it, the pattern, the names, the times, the parking lot, the back gate, the ghost code. He held it the way he held it every night, the way he'd held it when the device was running, the way he held it because it was the only thing still alive.
+
+"You're not alone," Kara said to the man in the bed. Her voice was quiet in the still room. "I know what it's like. To arrive somewhere new. To not know anyone. To not know where you are or what's happening."
 
 The man didn't move. His chest rose and fell, steady, rhythmic.
 
@@ -566,9 +706,9 @@ She looked at his face. The fury. The fear. The disorientation of waking up in a
 
 He didn't let go.
 
-The alarms started blaring. The door burst open. J'onn and Winn were there. The next few seconds were a blur of motion.
+The alarms started blaring. The door burst open. Adrian was there — he'd moved, fast, across the room — and J'onn and Winn were behind him, and the next few seconds were a blur of motion.
 
-J'onn's hands on the man's arm. The pressure releasing. Kara gasping for air. Winn's voice shouting something over the alarm.
+Adrian's hands on the man's arm. The pressure releasing. Kara gasping for air. Winn's voice shouting something over the alarm.
 
 The man's eyes locked on Kara's. He didn't look away.
 
@@ -582,8 +722,10 @@ Kara caught her breath. "National City," she said. "You're safe."
 
 He didn't look like he believed her. He looked like someone who had been told that before and had learned not to.
 
-But he didn't attack again. He just sat there, the fury fading into something darker, something more dangerous — the kind of danger that came from a man who didn't know who he was or where he was, and who had nowhere to go.
-
-Kara held his gaze. She didn't look away.
+Adrian was at the door, his hand on the frame, the paper still in his hand, the pattern still open, the ghost code log still running in the console down the hall. He looked at the man in the bed, then at Kara. His expression was the one it always got when things went sideways — focused, steady, already processing.
 
 The war had just gotten a new player. And he didn't know which side he was on yet.
+
+But Adrian was there. At the console. At the bed. Holding the work. Holding the pattern. Holding the ordinary.
+
+And the paper was still open. And the names were still the same. And they would catch it when it happened.
