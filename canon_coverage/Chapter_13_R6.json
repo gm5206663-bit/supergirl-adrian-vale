@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "chapter": 13,
+  "revision": "R6",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_13_Human_for_a_Day_R6.md",
+  "draft_sha256": "23f5214413a647a1a577f2196013286d8d3ce711d29e2b84456be9182274129f",
+  "accepted": false,
+  "claimed_episode": "S01E07 Human for a Day",
+  "span": "Human for a Day clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
+  "sources": [
+    {
+      "id": "SRC-SG-E07-GBREVIEWS",
+      "url": "http://www.gbreviews.com/supergirl-episode-recap-season-1-episode-7-human-for-a-day/",
+      "title": "Supergirl S1E7 Human for a Day GBReviews",
+      "accessed": "2026-10-01",
+      "verification": "Kara tests DEO hologram mother informs Red Tornado drained cells solar radiation will regain 2 days powers not back James Lucy apartment hunting notices lost powers earthquake Kara falls breaking arm James shirt sling DEO prisoner escaped James Kara Catco Alex lockdown standard safety Cat wants order allows go home Winn Catco up running news Maxwell Lord criticizing Supergirl not helping after earthquake Cat Winn feed counter story Alex stays Hank 2 agents search Jemm lose track Henshaw 2 agents mental attack firing guns shooting each other Kara James Maxwell Lord Kara defends Supergirl Lord figured lost powers how why not there depend themselves if not back likely won't woman father injured car accident Lord medical training hopeless without hospital X-Ray Kara tries powers not working Alex convinces Donovan go out Winn Cat office advice motivating James comforts Kara upset unable save man lost powers notices breaking into store insists helping stop it Alex Donovan find inhibitors on dead agents despite Henshaw told destroyed before Donovan put one Jemm gets head control Donovan tells Alex get away before lose control Kara dresses Supergirl enters store robbers talk down Cat broadcasts Supergirl spirit stays sure return encourage people call stories heroism helping each other DEO Henshaw finds Alex brings closet tells what happened Donovan Donovan radios not Donovan anymore Henshaw knows Jemm will get surface James Winn Kara open elevator doors people above unable open James climbs helps open doors people climb down ladder safety Kara floor James climbing down another explosion knocked off ladder grab elevator cables DEO Henshaw prepares tell Alex truth no one else knows can't tell anyone not even Kara reveals not Hank Henshaw real Henshaw died same night as father Supergirl flies outside Cat office thanks broadcast Cat demands where was reprimands not being there people look heroes in crisis Supergirl tells Cat glad had her give hope Cat inspires them just like Cat inspires her flies off pleased"
+    },
+    {
+      "id": "SRC-SG-E07-EW",
+      "url": "https://ew.com/recap/supergirl-season-1-episode-7/",
+      "title": "Supergirl recap Human for a Day EW",
+      "accessed": "2026-10-01",
+      "verification": "Two days since last episode powerless Kara poked prodded DEO hologram Alura informs fight Red Tornado drained Kryptonian cells solar energy stored need time recharge like battery meantime crash course human like suffering common cold Kara arrives work sneezing Cat sends home if Cat gets sick world fall deadly recession important James on way check apartments Lucy exposition power loss fight Red Tornado unlocked new power cousin calls solar flare usually puts Superman out 48 hours earthquake hits National City Kara James talking confusion Kara breaks arm shockwave knocks out DEO power not good holding Jemm alien telepathic keen escape underground cell Henshaw orders Alex reluctantly locks down base isn't looking forward trapped with man probably killed father using neuro-inhibitors block alien powers Hank two other agents head out recapture alien Alex stays behind Hank orders annoys suspicious National City struggling without Supergirl Maxwell Lord takes advantage disaster further smear Supergirl world's most unreliable superhero wishing protect Supergirl name brand Cat orders Winn works for her set up live feed office address city Kara can't stand doing nothing asks James come talk Maxwell convince stop spreading panic offer message hope refuses thinks Supergirl actually isn't coming back knows solar flare knows usually takes Superman 48 hours recharge assumes permanently dead battery longer than that DEO Alex another agent Donovan monitor Hank team progress video feed Hank disappears during attack Jemm two agents die raising suspicions Alex decides go looking Hank shows up locked door tells two agents neuro-inhibitors destroyed struggle figure Jemm planning using knowledge stole two agents free rest aliens being held captive use escape facility Kara suits up heads store talk robber down Winn finally able get Cat on air jump between scenes Cat implores people act like superheroes even though aren't Kara appeals robber humanity faith he'll choose better man faith rewarded robber hands over gun Alex Donovan disobey Hank go after him find two dead agents inhibitors intact means Hank lied liars gonna lie Donovan doesn't get on in time Jemm takes control mind Alex runs off right into Hank takes her side room Hank tries explain away lie Alex doesn't buy handcuffs him decides meet Jemm own promising let go without having release other aliens CatCo Kara riding high recent save tender hug James Winn walks in upset reminds Kara two thing James with Lucy superhero never gets guy impossible normal life hurts Kara informs based calculations Kara needs surge adrenaline get powers back adrenaline rush explosion few floors above CatCo offices James heroically opens elevator shaft climbs rope helps people down another explosion cuts rope sends James falling Kara springs action manages save him powers back takes off help rest city return annoys Maxwell Lord Alex breaks out skills fight Jemm assault rifles shotguns flashing grenades dual wielding pistols backed claim Alex top agent eventually Jemm upper hand Hank arrives snaps neck aftermath fight Alex confronts Hank secret Hank reveals true identity J'onn J'onzz last survivor Mars stranded planet real Hank Henshaw obsessed finding him didn't mean harm Jeremiah Danvers realizing J'onn good intentions sacrificed himself save him return J'onn promised protect daughter even after Kara saves day Winn still disappointed jealous Kara behavior James before leaving day Kara decides suit up pay Cat visit thank what said today moment develops Supergirl Cat relationship end ominous Kara begins take off into sky Aunt Astra goons knock down take prisoner"
+    },
+    {
+      "id": "SRC-U40-TRASH",
+      "url": "user_request_U40_trash",
+      "title": "No ticker spam",
+      "accessed": "2026-10-01",
+      "verification": "Remove ticker spam every chapter"
+    },
+    {
+      "id": "SRC-U41-CAT",
+      "url": "user_request_U41_cat",
+      "title": "No Cat private secrets",
+      "accessed": "2026-10-01",
+      "verification": "Cat must not know private monitor nor James secret"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-13-01",
+      "status": "covered",
+      "reason": "Kara powerless 2 days after Red Tornado solar flare drained cells Alura battery Superman 48h longer cold sneeze Cat sends home James notices lost powers",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-02",
+      "status": "covered",
+      "reason": "Earthquake breaks arm James shirt sling DEO power outage Jemm escape",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-03",
+      "status": "covered",
+      "reason": "Lord smear unreliable knows solar flare Cat Winn live feed counter",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-04",
+      "status": "covered",
+      "reason": "Injured father car accident Lord medical X-ray fails cannot save",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-05",
+      "status": "covered",
+      "reason": "Robbery store Kara as Supergirl without powers talks down robber",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-06",
+      "status": "covered",
+      "reason": "Cat broadcast be heroes Winn figures adrenaline needed",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-07",
+      "status": "covered",
+      "reason": "DEO Jemm inhibitors intact Hank lied Donovan controlled Alex handcuffs Hank",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-08",
+      "status": "covered",
+      "reason": "Gas explosion elevator James climbs rope second explosion rope cut James falls adrenaline restores Kara powers saves James montage",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-09",
+      "status": "covered",
+      "reason": "J'onn reveal last son Mars real Henshaw died Peru Jeremiah sacrifice",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-10",
+      "status": "covered",
+      "reason": "Astra capture cliffhanger",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW"
+      ]
+    },
+    {
+      "id": "SG-13-11",
+      "status": "changed_with_receipt",
+      "reason": "Adrian natural butterfly alive seen: Wraith helps debris during earthquake private monitor closed no ticker spam, chipped mug theater mask magnet Evelyn family, helps move beam soup, catches Kara, shares history natural phrasing not meta file, romance kara affects Winn James Alex naturally Cat only coffee",
+      "source_ids": [
+        "SRC-SG-E07-GBREVIEWS",
+        "SRC-SG-E07-EW",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
+    },
+    "power": {
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_13_R2_REVIEW.md",
+      "sha256": "c9620e14aee8c20ff7495ff5b5a62149c49148767fabb83df28ccf6bb9e0b3c0"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [],
+  "notes": "Full 3313w proper prose not rushing per user 3000_plus request, was 1740w short rushing, now 3313w like Ch1-5",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 7,
+    "canon_title": "Day",
+    "chapter": 13,
+    "chapter_title": "Human for a Day clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen"
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R6"
+}

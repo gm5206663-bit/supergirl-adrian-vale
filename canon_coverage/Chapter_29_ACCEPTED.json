@@ -1,0 +1,241 @@
+{
+  "chapter": 29,
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md",
+  "draft_sha256": "c1ebe1d2d1811633c1f65c090dd628ca021e2e44f79e392a74d3c1c3dd391c6e",
+  "epoch": "v1",
+  "accepted": true,
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "SG-E21-EW",
+      "url": "https://ew.com/recap/supergirl-season-2-premiere/",
+      "title": "Supergirl S02E01 The Adventures of Supergirl recap - ew.com",
+      "accessed": "2026-09-27",
+      "verification": "Picks up where S01E20 left off: Kara and J'onn find a man asleep in a pod. DEO moves to a new skyscraper facility. Cat gives Kara two days to pick a job. First date with James interrupted by Venture launch sabotage. Superman arrives, team saves the rocket. Tension between Superman and J'onn (Kryptonite stockpile). Lena Luthor was the target, not perpetrator. Lex hired John Corben to kill her. Drone attack on Lena's helicopter. Kara struggles with career and James. Cat's inspirational speech. L-Corp renaming ceremony - Corben attacks again. Alex fights Corben. Supergirl stabilizes building. Lena shoots Corben. Kara tells Cat she wants to be a reporter. Kara tells James they're better as friends. Winn hired at DEO. Superman stays. Cadmus turns Corben into Metallo - cliffhanger."
+    },
+    {
+      "id": "SG-E21-MULTI",
+      "url": "https://tvfanatic.com/",
+      "title": "Supergirl S02E01 - tvfanatic, rycetvblogs, insidemybookshelves, dailysuperhero, dconscreen",
+      "accessed": "2026-09-27",
+      "verification": "Pod crash site - Kara and J'onn find Mon-El asleep. DEO new facility in skyscraper. Cat gives two days. James date with pizza/pot stickers, watching Venture launch. Explosion. Superman and Supergirl save rocket. Superman at DEO - Winn geeks out, J'onn tense. Superman-J'onn conflict over Kryptonite. Lena Luthor investigation - she cooperates, gives drive. Lex hired Corben. Drone attack on helicopter. Alex fights Corben, Lena shoots him. Kara becomes reporter. Kara friend-zones James. Winn hired at DEO. Superman stays. Corben alive at Cadmus, becomes Metallo."
+    },
+    {
+      "id": "U73",
+      "url": "foundation/USER_LOCKS.json",
+      "title": "U73: canon style, butterfly carry-through, original transformative prose",
+      "accessed": "2026-09-27",
+      "verification": "Butterfly effects carry through naturally (leak investigation thread, chipped mug, theater mask magnet, Evelyn, DEO, bullpen, ordinary-choice texture). Canon beats woven naturally in show's emotional character-driven voice. Adrian's ordinary arc continues. Original transformative prose, not episode recap."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-21-01",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Picks up where S01E20 left off - Kara and J'onn find a man asleep in the pod from the cliffhanger"
+    },
+    {
+      "id": "SG-21-02",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "DEO moves to a new skyscraper facility in National City"
+    },
+    {
+      "id": "SG-21-03",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Cat gives Kara two days to figure out what job she wants"
+    },
+    {
+      "id": "SG-21-04",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "First date with James - pizza and pot stickers, watching Venture launch on TV"
+    },
+    {
+      "id": "SG-21-05",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Venture spacecraft launch sabotaged - engine explodes, hull breach"
+    },
+    {
+      "id": "SG-21-06",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Superman arrives - Kara and Superman team up to save the rocket together"
+    },
+    {
+      "id": "SG-21-07",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Tension between Superman and J'onn - Kryptonite stockpile conflict"
+    },
+    {
+      "id": "SG-21-08",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "DEO discovers Lena Luthor was supposed to be on the Venture flight - she was the target"
+    },
+    {
+      "id": "SG-21-09",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Clark and Kara visit Lena as journalists - she cooperates, gives them a drive"
+    },
+    {
+      "id": "SG-21-10",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Lex Luthor hired John Corben to kill Lena"
+    },
+    {
+      "id": "SG-21-11",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Corben attacks Lena's helicopter with drones - Supergirl and Superman save her"
+    },
+    {
+      "id": "SG-21-12",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Kara struggles with career choice and James relationship"
+    },
+    {
+      "id": "SG-21-13",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Cat's inspirational speech - keep daring, keep diving"
+    },
+    {
+      "id": "SG-21-14",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "L-Corp renaming ceremony - Corben attacks again with bombs at base of building"
+    },
+    {
+      "id": "SG-21-15",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Superman and Supergirl stabilize the building together"
+    },
+    {
+      "id": "SG-21-16",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Corben takes Alex hostage with a gun"
+    },
+    {
+      "id": "SG-21-17",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Alex fights Corben"
+    },
+    {
+      "id": "SG-21-18",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Lena shoots Corben in the back - two bullets"
+    },
+    {
+      "id": "SG-21-19",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Kara tells Cat she wants to be a reporter"
+    },
+    {
+      "id": "SG-21-20",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Kara tells James they're better as friends"
+    },
+    {
+      "id": "SG-21-21",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Winn officially hired at DEO"
+    },
+    {
+      "id": "SG-21-22",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Superman decides to stick around National City"
+    },
+    {
+      "id": "SG-21-23",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E21-EW",
+      "description": "Cadmus picks up Corben's body and turns him into Metallo - cliffhanger"
+    },
+    {
+      "id": "U73-01",
+      "status": "changed_with_receipt",
+      "reason": "Butterfly carry-through: leak investigation thread (paper, pattern, names, ghost code, Marcus, parking lot, back gate) woven as connective texture. Chipped mug, theater mask magnet, Evelyn, cartoon bandage as ordinary desk texture. Adrian's ordinary arc referenced. Canon style: show's emotional character-driven voice, natural contractions, quick scene cuts.",
+      "source": "U73",
+      "description": "Butterfly effects carry through naturally in canon style"
+    },
+    {
+      "id": "OC-29-ADRIAN",
+      "status": "changed_with_receipt",
+      "reason": "Adrian's ordinary arc referenced through the theater mask magnet and the ordinary texture on Kara's desk. The leak investigation thread continues from Ch22-28. Canon style voice maintained.",
+      "source": "U73",
+      "description": "Adrian's presence woven through butterfly items"
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_29_R1_REVIEW.md",
+      "sha256": "2197d205041ddfc2dd1c9a90c048b70730b6308f7b7a7e8b971b66824a96ad6c"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_29_R1_REVIEW.md",
+      "sha256": "2197d205041ddfc2dd1c9a90c048b70730b6308f7b7a7e8b971b66824a96ad6c"
+    },
+    "power": {
+      "path": "audits/CHAPTER_29_R1_REVIEW.md",
+      "sha256": "2197d205041ddfc2dd1c9a90c048b70730b6308f7b7a7e8b971b66824a96ad6c"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_29_R1_REVIEW.md",
+      "sha256": "2197d205041ddfc2dd1c9a90c048b70730b6308f7b7a7e8b971b66824a96ad6c"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_29_R1_REVIEW.md",
+      "sha256": "2197d205041ddfc2dd1c9a90c048b70730b6308f7b7a7e8b971b66824a96ad6c"
+    }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R1"
+}

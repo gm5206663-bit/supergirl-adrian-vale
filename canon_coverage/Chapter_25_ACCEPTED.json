@@ -1,8 +1,8 @@
 {
   "chapter": 25,
-  "revision": "R1",
-  "draft_path": "drafts/Chapter_25_Manhunter_R1.md",
-  "draft_sha256": "d1b32c921089cdff69649da302558fb1da71a3198aca212868b2d9444abf2306",
+  "revision": "R4",
+  "draft_path": "drafts/Chapter_25_Manhunter_R4.md",
+  "draft_sha256": "ed9444feaa87ca496f7812c495585a7bbb067d063b61d44edc1256620ceba52f",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -109,5 +109,7 @@
       "path": "audits/CHAPTER_22_R1_REVIEW.md",
       "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
     }
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R2"
 }

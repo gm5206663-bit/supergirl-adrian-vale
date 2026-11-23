@@ -1,0 +1,20 @@
+{
+  "chapter": 27,
+  "revision": "R3",
+  "draft_path": "drafts/Chapter_27_Myriad_R3.md",
+  "draft_sha256": "2d87b7b2c62c49af6f2babd90f6a8298d02340f2e2b958e47828da63001635f9",
+  "epoch": "v1",
+  "accepted": false,
+  "release_ready": false,
+  "continuity_conflicts": [],
+  "beats": [],
+  "reviews": {
+    "canon": "superseded",
+    "continuity": "superseded",
+    "power": "superseded",
+    "knowledge": "superseded",
+    "prose": "superseded"
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R3"
+}

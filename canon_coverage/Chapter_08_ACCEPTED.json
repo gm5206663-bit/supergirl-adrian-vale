@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 8,
-  "revision": "R1",
+  "revision": "R4",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_08_The_Woman_Who_Stayed_R1.md",
-  "draft_sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
+  "draft_path": "drafts/Chapter_08_The_Woman_Who_Stayed_R4.md",
+  "draft_sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
   "accepted": true,
   "claimed_episode": "S01E05 intended \u2014 Livewire",
   "span": "S01E05 intended Livewire \u2014 Thanksgiving, Eliza visit, Leslie Willis shock jock lightning powers, plus U31 Earth mother/sister figure Evelyn Hart visit and Kara misunderstanding",
@@ -242,5 +242,7 @@
     "chapter_title": "The Woman Who Stayed"
   },
   "accepted_path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-  "acceptance_receipt": "audits/CONTINUATION_Chapter_08.md"
+  "acceptance_receipt": "audits/CONTINUATION_Chapter_08.md",
+  "draft_revision": "R2",
+  "updated_on": "2026-09-27"
 }

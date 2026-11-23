@@ -17,50 +17,58 @@
         {
           "chapter": 1,
           "path": "chapters/Chapter_01_Adrian_Vale.md",
-          "sha256": "44b36dbfc1404bac2d482fbf9dbbf3be91aa4e612d5bcb0d54238d1b814d3510",
-          "description": "Adrian gives favored pastries/donuts and ice cream; Kara appreciates the attention and invites him to sit. Warmth established, not exclusivity."
+          "sha256": "8002ab86e7abccca0fd2c947fd3a01186f4f43c1267e5509c426107cb938a624",
+          "description": "Adrian gives favored pastries/donuts and ice cream; Kara appreciates the attention and invites him to sit. Warmth established, not exclusivity.",
+          "receipt": "audits/CONTINUATION_Chapter_01.md \u2014 U13: Next chapter; adoption for continuation"
         },
         {
           "chapter": 2,
           "path": "chapters/Chapter_02_A_Familiar_Face.md",
-          "sha256": "d913f75dd680a7941f5ae85aff507395f652283f21b70b0673b0f227176532bf",
-          "description": "Mutual disclosure: Kara confirms rescue, origin and cousin; Adrian discloses ancestry, seal and deceased parents. She chooses further conversation, not exclusivity or forgiveness of undisclosed crimes."
+          "sha256": "3084cb15a927c6b8ddf4444349933a4d7f6414eb5914b7e2c154542284d3aea5",
+          "description": "Mutual disclosure: Kara confirms rescue, origin and cousin; Adrian discloses ancestry, seal and deceased parents. She chooses further conversation, not exclusivity or forgiveness of undisclosed crimes.",
+          "receipt": "audits/AMENDMENT_Chapter_02_U18.md \u2014 U18 continuation from revised branch; U14 original receipt preserved"
         },
         {
           "chapter": 3,
           "path": "chapters/Chapter_03_The_Name_He_Feared.md",
-          "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-          "description": "Adrian warns about Alura\u2019s enemies but withholds his own case; rescue exposes Kael/prison/Alura association. Kara accepts consensual wound care without forgiving undisclosed history."
+          "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
+          "description": "Adrian warns about Alura\u2019s enemies but withholds his own case; rescue exposes Kael/prison/Alura association. Kara accepts consensual wound care without forgiving undisclosed history.",
+          "receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18: Next; continuation adoption"
         },
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
-          "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-          "description": "Kara hears fuller guilt/family/Astra\u2013Non account; thanks him for rescue and asks for time. Gratitude, hurt and moral judgment coexist; no forgiveness or romance selected."
+          "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+          "description": "Kara hears fuller guilt/family/Astra\u2013Non account; thanks him for rescue and asks for time. Gratitude, hurt and moral judgment coexist; no forgiveness or romance selected.",
+          "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
         },
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Kara thanks him for bringing Astra alive; ordinary conversation resumes without absolution/exclusivity. He supports her independent interview choice."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Kara thanks him for bringing Astra alive; ordinary conversation resumes without absolution/exclusivity. He supports her independent interview choice.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         },
         {
           "chapter": 6,
           "path": "chapters/Chapter_06_Under_the_Headline.md",
-          "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-          "description": "Kara relays Non claim and lack of location to Adrian; prompt freeway backup changes Reactron outcome; ordinary work/bakery attentiveness continues without absolution."
+          "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+          "description": "Kara relays Non claim and lack of location to Adrian; prompt freeway backup changes Reactron outcome; ordinary work/bakery attentiveness continues without absolution.",
+          "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
         },
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Train choice due to Carter, trusts DEO for airport, calls Adrian as masked backup for train; Lord confrontation shows testing motive."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Train choice due to Carter, trusts DEO for airport, calls Adrian as masked backup for train; Lord confrontation shows testing motive.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         },
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-          "description": "Evelyn visit triggers Kara misunderstanding jealous then understanding, plus Livewire origin and Eliza visit, ordinary work continues."
+          "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+          "description": "Evelyn visit triggers Kara misunderstanding jealous then understanding, plus Livewire origin and Eliza visit, ordinary work continues.",
+          "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
         }
       ]
     },
@@ -77,32 +85,37 @@
         {
           "chapter": 1,
           "path": "chapters/Chapter_01_Adrian_Vale.md",
-          "sha256": "44b36dbfc1404bac2d482fbf9dbbf3be91aa4e612d5bcb0d54238d1b814d3510",
-          "description": "Adrian assists with Tribune review and receives post-rescue logistics duties; Cat observes his band without learning its function."
+          "sha256": "8002ab86e7abccca0fd2c947fd3a01186f4f43c1267e5509c426107cb938a624",
+          "description": "Adrian assists with Tribune review and receives post-rescue logistics duties; Cat observes his band without learning its function.",
+          "receipt": "audits/CONTINUATION_Chapter_01.md \u2014 U13: Next chapter; adoption for continuation"
         },
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
-          "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-          "description": "Adrian reports emergency absence and work handoff; Cat demands notice but does not know powers."
+          "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+          "description": "Adrian reports emergency absence and work handoff; Cat demands notice but does not know powers.",
+          "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
         },
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Anonymous rescue footage does not identify employee; normal work continues, no rejected public-power confession or employment hearing."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Anonymous rescue footage does not identify employee; normal work continues, no rejected public-power confession or employment hearing.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         },
         {
           "chapter": 6,
           "path": "chapters/Chapter_06_Under_the_Headline.md",
-          "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-          "description": "Anonymous rescue footage does not identify employee; normal reception work continues; Cat article dispute concerns cousin framing, not Adrian powers."
+          "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+          "description": "Anonymous rescue footage does not identify employee; normal reception work continues; Cat article dispute concerns cousin framing, not Adrian powers.",
+          "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
         },
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Carter babysitting logistics handled as executive operations aide; Cat award travel arranged; Cat lesson have it all start small adapt."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Carter babysitting logistics handled as executive operations aide; Cat award travel arranged; Cat lesson have it all start small adapt.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -119,8 +132,9 @@
         {
           "chapter": 3,
           "path": "chapters/Chapter_03_The_Name_He_Feared.md",
-          "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-          "description": "Winn receives emergency-contact permission through Kara, calls Adrian during injury and hears rescue dialogue."
+          "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
+          "description": "Winn receives emergency-contact permission through Kara, calls Adrian during injury and hears rescue dialogue.",
+          "receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18: Next; continuation adoption"
         }
       ]
     },
@@ -148,32 +162,37 @@
         {
           "chapter": 3,
           "path": "chapters/Chapter_03_The_Name_He_Feared.md",
-          "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-          "description": "Alex meets Adrian at rescue, witnesses precision heat vision and asks for a record check."
+          "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
+          "description": "Alex meets Adrian at rescue, witnesses precision heat vision and asks for a record check.",
+          "receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18: Next; continuation adoption"
         },
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
-          "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-          "description": "Alex removes fragment after his effective field care, hears monitored biography and observes voluntary inquiry."
+          "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+          "description": "Alex removes fragment after his effective field care, hears monitored biography and observes voluntary inquiry.",
+          "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
         },
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Informed operation includes masked Adrian; prompt intervention prevents abduction; Alex has shallow graze only."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Informed operation includes masked Adrian; prompt intervention prevents abduction; Alex has shallow graze only.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         },
         {
           "chapter": 6,
           "path": "chapters/Chapter_06_Under_the_Headline.md",
-          "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-          "description": "Alex calls available masked backup promptly via ordinary call; inclusive operation prevents abduction; shallow graze remains; technical liaison role preserved."
+          "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+          "description": "Alex calls available masked backup promptly via ordinary call; inclusive operation prevents abduction; shallow graze remains; technical liaison role preserved.",
+          "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
         },
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Alex warns spread thin, provides technical liaison for both train and airport, finds kill switch, questions Hank."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Alex warns spread thin, provides technical liaison for both train and airport, finds kill switch, questions Hank.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -190,32 +209,37 @@
         {
           "chapter": 3,
           "path": "chapters/Chapter_03_The_Name_He_Feared.md",
-          "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-          "description": "Field responders receive restrained Vartox/axe and hear a new Kael/Adrian identity lead; no returned record or institutional resolution yet."
+          "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
+          "description": "Field responders receive restrained Vartox/axe and hear a new Kael/Adrian identity lead; no returned record or institutional resolution yet.",
+          "receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18: Next; continuation adoption"
         },
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
-          "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-          "description": "Limited record confirms identity/conviction; Adrian agrees to preliminary supervised inquiry, not device surrender or final custody resolution."
+          "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+          "description": "Limited record confirms identity/conviction; Adrian agrees to preliminary supervised inquiry, not device surrender or final custody resolution.",
+          "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
         },
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Voluntary backup and custody aid coexist with unresolved personal inquiry; no pardon, power ceiling or test of hybrid kryptonite susceptibility."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Voluntary backup and custody aid coexist with unresolved personal inquiry; no pardon, power ceiling or test of hybrid kryptonite susceptibility.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         },
         {
           "chapter": 6,
           "path": "chapters/Chapter_06_Under_the_Headline.md",
-          "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-          "description": "Voluntary backup and custody aid coexist with unresolved inquiry; no pardon or hybrid susceptibility test; DEO retains alien-custody staff."
+          "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+          "description": "Voluntary backup and custody aid coexist with unresolved inquiry; no pardon or hybrid susceptibility test; DEO retains alien-custody staff.",
+          "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
         },
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Voluntary backup at train, custody aid for multiple prisoners continues, no pardon or hybrid test."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Voluntary backup at train, custody aid for multiple prisoners continues, no pardon or hybrid test.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -232,20 +256,23 @@
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
-          "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-          "description": "Adrian tells Kara Astra argued with him and feared him; Astra still lacks current Kael information."
+          "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+          "description": "Adrian tells Kara Astra argued with him and feared him; Astra still lacks current Kael information.",
+          "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
         },
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Private recognition at rendezvous; Astra fears him, attempts to withdraw and is physically stopped; joins custody after Kara promises to listen, not agree."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Private recognition at rendezvous; Astra fears him, attempts to withdraw and is physically stopped; joins custody after Kara promises to listen, not agree.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         },
         {
           "chapter": 6,
           "path": "chapters/Chapter_06_Under_the_Headline.md",
-          "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-          "description": "Astra claims Non on Earth without verified location; refuses plane-order answer; custody conditions unchanged."
+          "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+          "description": "Astra claims Non on Earth without verified location; refuses plane-order answer; custody conditions unchanged.",
+          "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
         }
       ]
     },
@@ -262,32 +289,37 @@
         {
           "chapter": 1,
           "path": "chapters/Chapter_01_Adrian_Vale.md",
-          "sha256": "44b36dbfc1404bac2d482fbf9dbbf3be91aa4e612d5bcb0d54238d1b814d3510",
-          "description": "Kara saves Alex; their first argument over public exposure remains unresolved."
+          "sha256": "8002ab86e7abccca0fd2c947fd3a01186f4f43c1267e5509c426107cb938a624",
+          "description": "Kara saves Alex; their first argument over public exposure remains unresolved.",
+          "receipt": "audits/CONTINUATION_Chapter_01.md \u2014 U13: Next chapter; adoption for continuation"
         },
         {
           "chapter": 3,
           "path": "chapters/Chapter_03_The_Name_He_Feared.md",
-          "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-          "description": "Kara discovers Alex\u2019s DEO role through capture; Alex later responds to power plant and dresses injury."
+          "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
+          "description": "Kara discovers Alex\u2019s DEO role through capture; Alex later responds to power plant and dresses injury.",
+          "receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18: Next; continuation adoption"
         },
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
-          "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-          "description": "Alex acknowledges withholding was unsafe; supplies fixed Alura recording and promises truthful warnings/training."
+          "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+          "description": "Alex acknowledges withholding was unsafe; supplies fixed Alura recording and promises truthful warnings/training.",
+          "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
         },
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Disclosed/consented training, field backup and interactive Alura introduction reinforce truthful cooperation."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Disclosed/consented training, field backup and interactive Alura introduction reinforce truthful cooperation.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         },
         {
           "chapter": 6,
           "path": "chapters/Chapter_06_Under_the_Headline.md",
-          "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-          "description": "Sister dinner, Krull/wife reporting, cousin-message support and siren response reinforce truthful cooperation."
+          "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+          "description": "Sister dinner, Krull/wife reporting, cousin-message support and siren response reinforce truthful cooperation.",
+          "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
         }
       ]
     },
@@ -304,20 +336,23 @@
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Cat offers direct interview; Kara accepts on her own terms and protects masked helper identity."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Cat offers direct interview; Kara accepts on her own terms and protects masked helper identity.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         },
         {
           "chapter": 6,
           "path": "chapters/Chapter_06_Under_the_Headline.md",
-          "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-          "description": "Cat interview publishes cousin relationship; Kara protects masked helper identity; article framing dispute and two-word headline change."
+          "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+          "description": "Cat interview publishes cousin relationship; Kara protects masked helper identity; article framing dispute and two-word headline change.",
+          "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
         },
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Cat wins Siegel award, needs babysitter, mother decorative grandmother, Kara volunteers, later Cat correction smart brave kind hero."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Cat wins Siegel award, needs babysitter, mother decorative grandmother, Kara volunteers, later Cat correction smart brave kind hero.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -334,26 +369,30 @@
         {
           "chapter": 1,
           "path": "chapters/Chapter_01_Adrian_Vale.md",
-          "sha256": "44b36dbfc1404bac2d482fbf9dbbf3be91aa4e612d5bcb0d54238d1b814d3510",
-          "description": "Kara meets James and receives his Superman photograph; no new romance commitment."
+          "sha256": "8002ab86e7abccca0fd2c947fd3a01186f4f43c1267e5509c426107cb938a624",
+          "description": "Kara meets James and receives his Superman photograph; no new romance commitment.",
+          "receipt": "audits/CONTINUATION_Chapter_01.md \u2014 U13: Next chapter; adoption for continuation"
         },
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Cape gift/independence explanation and teamwork; James refuses to guarantee Cat cannot recognize Kara. No exclusive relationship selected."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Cape gift/independence explanation and teamwork; James refuses to guarantee Cat cannot recognize Kara. No exclusive relationship selected.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         },
         {
           "chapter": 6,
           "path": "chapters/Chapter_06_Under_the_Headline.md",
-          "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-          "description": "Winn passes clear image to James for Reactron recognition; James shares watch existence; Lucy/James dinner agreement private; no exclusive pairing selected."
+          "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+          "description": "Winn passes clear image to James for Reactron recognition; James shares watch existence; Lucy/James dinner agreement private; no exclusive pairing selected.",
+          "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
         },
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "James at airport for Lucy departure, realizes cares, reconciliation, plus airport bomb context."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "James at airport for Lucy departure, realizes cares, reconciliation, plus airport bomb context.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -425,38 +464,44 @@
         {
           "chapter": 2,
           "path": "chapters/Chapter_02_A_Familiar_Face.md",
-          "sha256": "d913f75dd680a7941f5ae85aff507395f652283f21b70b0673b0f227176532bf",
-          "description": "Kara tells Winn and demonstrates flight; they begin costume planning."
+          "sha256": "3084cb15a927c6b8ddf4444349933a4d7f6414eb5914b7e2c154542284d3aea5",
+          "description": "Kara tells Winn and demonstrates flight; they begin costume planning.",
+          "receipt": "audits/AMENDMENT_Chapter_02_U18.md \u2014 U18 continuation from revised branch; U14 original receipt preserved"
         },
         {
           "chapter": 3,
           "path": "chapters/Chapter_03_The_Name_He_Feared.md",
-          "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-          "description": "Winn helps with costumes, maintains live contact, and summons Adrian as authorized backup."
+          "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
+          "description": "Winn helps with costumes, maintains live contact, and summons Adrian as authorized backup.",
+          "receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18: Next; continuation adoption"
         },
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
-          "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-          "description": "Kara ends live earpiece before biography and later reports capture/uncertainty to Winn; he offers support without receiving full case."
+          "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+          "description": "Kara ends live earpiece before biography and later reports capture/uncertainty to Winn; he offers support without receiving full case.",
+          "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
         },
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Winn makes ordinary backup call and works with James on smaller rescues; no full Adrian-crime confession imported from held draft."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Winn makes ordinary backup call and works with James on smaller rescues; no full Adrian-crime confession imported from held draft.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         },
         {
           "chapter": 6,
           "path": "chapters/Chapter_06_Under_the_Headline.md",
-          "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-          "description": "Private workspace and contact policy established; no accidental Superman civilian disclosure; covers for Kara at reception."
+          "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+          "description": "Private workspace and contact policy established; no accidental Superman civilian disclosure; covers for Kara at reception.",
+          "receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter"
         },
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Winn loses Carter due to curiosity, alerts Kara, follows to station, sees Knox vest, video games on Cat monitor array."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Winn loses Carter due to curiosity, alerts Kara, follows to station, sees Knox vest, video games on Cat monitor array.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -473,8 +518,9 @@
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
-          "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-          "description": "Adrian describes Non as interested in usefulness; no current location or command knowledge follows."
+          "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+          "description": "Adrian describes Non as interested in usefulness; no current location or command knowledge follows.",
+          "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
         }
       ]
     },
@@ -491,14 +537,16 @@
         {
           "chapter": 3,
           "path": "chapters/Chapter_03_The_Name_He_Feared.md",
-          "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-          "description": "Vartox recognizes and fears Kael, attempts escape unsuccessfully, exposes prison association, and is captured alive."
+          "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
+          "description": "Vartox recognizes and fears Kael, attempts escape unsuccessfully, exposes prison association, and is captured alive.",
+          "receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18: Next; continuation adoption"
         },
         {
           "chapter": 4,
           "path": "chapters/Chapter_04_What_Remains.md",
-          "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-          "description": "Vartox remains alive/separated from weapon; seeks distance from Kael and refuses substantive interrogation. Fear does not guarantee cooperation."
+          "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+          "description": "Vartox remains alive/separated from weapon; seeks distance from Kael and refuses substantive interrogation. Fear does not guarantee cooperation.",
+          "receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit"
         }
       ]
     },
@@ -515,8 +563,9 @@
         {
           "chapter": 5,
           "path": "chapters/Chapter_05_In_Plain_Sight.md",
-          "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-          "description": "Recognizes and fears Kael in closed command vehicle after capture; gives temporary prisoner-delivery rendezvous as a lead."
+          "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+          "description": "Recognizes and fears Kael in closed command vehicle after capture; gives temporary prisoner-delivery rendezvous as a lead.",
+          "receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter"
         }
       ]
     },
@@ -533,8 +582,9 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-          "description": "Thanksgiving visit, brings soup theater mask magnet chipped mug, mother/sister family by staying not romantic, knows abilities and seal wants ordinary life does NOT know Kael name etc., leaves after Thanksgiving."
+          "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+          "description": "Thanksgiving visit, brings soup theater mask magnet chipped mug, mother/sister family by staying not romantic, knows abilities and seal wants ordinary life does NOT know Kael name etc., leaves after Thanksgiving.",
+          "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
         }
       ]
     },
@@ -551,8 +601,9 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-          "description": "Meets in lobby, sees arm in arm collar fixing outside diner misunderstands as romantic girlfriend awkward jealous pang retreats professional, later clarified family by staying not romantic, Evelyn fixes collar notices Kara likes Adrian."
+          "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+          "description": "Meets in lobby, sees arm in arm collar fixing outside diner misunderstands as romantic girlfriend awkward jealous pang retreats professional, later clarified family by staying not romantic, Evelyn fixes collar notices Kara likes Adrian.",
+          "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
         }
       ]
     },
@@ -569,8 +620,9 @@
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Lord subsidiary bombing, drone surveillance, maglev train debut, offers containment equipment, cultivates publicity/technology interest. Kara confronts balcony about testing and paying Knox daughter care."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Lord subsidiary bombing, drone surveillance, maglev train debut, offers containment equipment, cultivates publicity/technology interest. Kara confronts balcony about testing and paying Knox daughter care.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -587,8 +639,9 @@
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Tests Supergirl agility strength speed with bombings and drone, pays Knox daughter treatment, failsafe quote, interest in emotional connections as weakness. Kara confronts balcony."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Tests Supergirl agility strength speed with bombings and drone, pays Knox daughter treatment, failsafe quote, interest in emotional connections as weakness. Kara confronts balcony.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -605,8 +658,9 @@
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Lucy pumps Kara for info about James dating Supergirl awkward, heading back to Metropolis airport bomb reconciliation."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Lucy pumps Kara for info about James dating Supergirl awkward, heading back to Metropolis airport bomb reconciliation.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -623,8 +677,9 @@
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Former partners, Lucy heading back to Metropolis, airport bomb, James heads to airport because cares, reconciliation embrace, Ojai trip mentioned."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Former partners, Lucy heading back to Metropolis, airport bomb, James heads to airport because cares, reconciliation embrace, Ojai trip mentioned.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -641,8 +696,9 @@
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Public cousin disclosure motivates targeting, freeway rescue damages suit, early capture at first freeway attack with masked helper support, power unit shielded/removed."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Public cousin disclosure motivates targeting, freeway rescue damages suit, early capture at first freeway attack with masked helper support, power unit shielded/removed.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -659,8 +715,9 @@
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Fast precise interception restraint stops first attack before escape, no equal-power duel, supports passenger movement and structural stabilization."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Fast precise interception restraint stops first attack before escape, no equal-power duel, supports passenger movement and structural stabilization.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -677,8 +734,9 @@
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Carter babysitting logistics handled as executive operations aide, award travel, train debut Carter curiosity leads to supertrain, masked backup supports evacuation ensuring Cat son safe."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Carter babysitting logistics handled as executive operations aide, award travel, train debut Carter curiosity leads to supertrain, masked backup supports evacuation ensuring Cat son safe.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -695,8 +753,9 @@
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Volunteers to babysit for Siegel prize, bonds over Catan, Carter disappears to train station hoping to meet Supergirl, Kara chooses train because Carter aboard, moves passengers back, Carter meets Supergirl."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Volunteers to babysit for Siegel prize, bonds over Catan, Carter disappears to train station hoping to meet Supergirl, Kara chooses train because Carter aboard, moves passengers back, Carter meets Supergirl.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -713,8 +772,9 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-          "description": "Shock jock annual list not grateful Supergirl vulgarity demoted to traffic chopper helicopter lightning rescue pilot helicopter grabs hand lightning passes through coma hospital alley power discovery blackouts CatCo attack elevator Element X capacitor trap Ghostbusters Cat bait water pipe short out comatose DEO custody."
+          "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+          "description": "Shock jock annual list not grateful Supergirl vulgarity demoted to traffic chopper helicopter lightning rescue pilot helicopter grabs hand lightning passes through coma hospital alley power discovery blackouts CatCo attack elevator Element X capacitor trap Ghostbusters Cat bait water pipe short out comatose DEO custody.",
+          "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
         }
       ]
     },
@@ -731,8 +791,9 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-          "description": "CatCo blackout screens attack, Cat sends Kara to security, Supergirl shields tells Cat leave, remains sealed civilian support ensuring Cat safety no masked takeover."
+          "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+          "description": "CatCo blackout screens attack, Cat sends Kara to security, Supergirl shields tells Cat leave, remains sealed civilian support ensuring Cat safety no masked takeover.",
+          "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
         }
       ]
     },
@@ -749,8 +810,9 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-          "description": "Thanksgiving visit tension makeup apology confession Jeremiah DEO deal under Hank died mysterious suspicious red eyes."
+          "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+          "description": "Thanksgiving visit tension makeup apology confession Jeremiah DEO deal under Hank died mysterious suspicious red eyes.",
+          "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
         }
       ]
     },
@@ -767,8 +829,9 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-          "description": "Thanksgiving visit tension mother blames letting Kara become Supergirl tells mother works for DEO not lab makeup apology harder on Alex wanted better, you have always been my super girl, Jeremiah DEO deal."
+          "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+          "description": "Thanksgiving visit tension mother blames letting Kara become Supergirl tells mother works for DEO not lab makeup apology harder on Alex wanted better, you have always been my super girl, Jeremiah DEO deal.",
+          "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
         }
       ]
     },
@@ -796,8 +859,9 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-          "description": "Notices Kara likes Adrian during visit, gently teases fixes collar tells good for him as friend, warm humor not making Kara foolish."
+          "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+          "description": "Notices Kara likes Adrian during visit, gently teases fixes collar tells good for him as friend, warm humor not making Kara foolish.",
+          "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
         }
       ]
     },
@@ -814,8 +878,9 @@
         {
           "chapter": 8,
           "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-          "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-          "description": "Visit Thanksgiving week, practical help history when he arrived and sealed power, mother/sister calls kid/Ade checks eats teases protective, leaves chipped mug."
+          "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+          "description": "Visit Thanksgiving week, practical help history when he arrived and sealed power, mother/sister calls kid/Ade checks eats teases protective, leaves chipped mug.",
+          "receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter"
         }
       ]
     },
@@ -832,8 +897,9 @@
         {
           "chapter": 7,
           "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-          "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-          "description": "Subsidiary bombing, train bomb vest, dialogue about daughter, 30-second plunger, heat vision separation, front car explosion over water, dies, medical records Lord paid daughter care."
+          "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+          "description": "Subsidiary bombing, train bomb vest, dialogue about daughter, 30-second plunger, heat vision separation, front car explosion over water, dies, medical records Lord paid daughter care.",
+          "receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter"
         }
       ]
     },
@@ -850,5 +916,6 @@
     }
   ],
   "romance_status": "under_consideration",
-  "romance_research": "codex/ADRIAN_KARA_CANON_STUDY.md"
+  "romance_research": "codex/ADRIAN_KARA_CANON_STUDY.md",
+  "updated_on": "2026-10-25"
 }

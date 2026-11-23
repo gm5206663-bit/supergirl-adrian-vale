@@ -1,0 +1,73 @@
+{
+  "chapter": 22,
+  "revision": "R1",
+  "draft_path": "drafts/Chapter_22_Truth_Justice_R1.md",
+  "draft_sha256": "8f6ca93f06025436c742460c7a7945d289b2c7e1b9ad3ca43664bb84147888f1",
+  "epoch": "v1",
+  "accepted": false,
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "SG-E14-IMDB",
+      "url": "https://www.imdb.com/title/tt52385122/",
+      "title": "Supergirl S01E14 - Truth, Justice and the American Way",
+      "accessed": "2026-10-09",
+      "verification": "S01E14 - Truth, Justice and the American Way"
+    },
+    {
+      "id": "U60",
+      "url": "foundation/USER_LOCKS.json",
+      "title": "U60 share spent all night together",
+      "accessed": "2026-10-09",
+      "verification": "share spent all night together ordinary"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-14-01",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E14-IMDB",
+      "description": "S01E14 - Truth, Justice and the American Way"
+    },
+    {
+      "id": "SG-22-02",
+      "status": "changed_with_receipt",
+      "reason": "Adrian Kara share spent all night together ordinary",
+      "source": "U60",
+      "description": "Share spent all night together"
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    },
+    "power": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_22_R1_REVIEW.md",
+      "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R2"
+}

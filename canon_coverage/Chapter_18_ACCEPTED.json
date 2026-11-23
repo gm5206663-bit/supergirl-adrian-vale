@@ -4,7 +4,7 @@
   "revision": "R3",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_18_Strange_Visitor_Part1_R3.md",
-  "draft_sha256": "c3cfa05cd2aade24f00fe8d995f2bcdc61316b1158bce662b611dce137215b51",
+  "draft_sha256": "6c4c224f244e5897a9e43e11ccf4f2a570ec1f4b8ab8f978132775d3924dc4a9",
   "accepted": true,
   "claimed_episode": "S01E11 Strange Visitor From Another Planet Part1",
   "span": "Strange Visitor Part1 White Martian full 3000+ natural butterfly",
@@ -179,5 +179,7 @@
     "canon_title": "Strange Visitor From Another Planet",
     "chapter": 18,
     "chapter_title": "Strange Visitor Part1 White Martian"
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R4"
 }

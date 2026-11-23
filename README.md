@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: db82fe50076c20d57bb59b5e2f004db942ab03ae44f28dcf2e776cd1b7424233 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: b07dd3c34935acdae59df68f80a368b5a0bb598135c2ce9c6e137c9932805c9f -->
 
 # Supergirl — Adrian Vale
 
@@ -6,9 +6,9 @@
 
 This is the local, GitHub-ready working project—not another generic DC questionnaire kit. It records the author's chosen Supergirl premise, foundations, original draft, canon research, state and executable checks.
 
-**Epoch:** v1 · **Revision:** foundation-021  
-**Accepted chapter edge:** 26 · **Next chapter:** 27  
-**Phase:** chapter-26-adopted-worlds-finest-no-skip-episodes-13-14-15-added-4000w-natural
+**Epoch:** v1 · **Revision:** foundation-022  
+**Accepted chapter edge:** 29 · **Next chapter:** 30  
+**Phase:** canon-style-rewrite-complete
 
 **Latest audit:** `audits/CANON_AND_CONTINUITY_AUDIT_2026_09_29.md` (dated findings; current acceptance state is shown above).
 
@@ -70,41 +70,50 @@ At the opening, active superpowers are human-level while sealed; release is volu
 - [Chapter 24](chapters/Chapter_24_Falling.md): audits/CHAPTER_24_R3_REVIEW.md — U60: Chapter 24 Falling
 - [Chapter 25](chapters/Chapter_25_Manhunter.md): audits/CHAPTER_25_R1_REVIEW.md — U60: Chapter 25 Manhunter
 - [Chapter 26](chapters/Chapter_26_Worlds_Finest.md): audits/CHAPTER_26_R1_REVIEW.md — U60: Chapter 26 Worlds_Finest
+- [Chapter 27](chapters/Chapter_27_Myriad.md): audits/CHAPTER_27_R4_REVIEW.md — U73: canon style, butterfly carry-through, Adrian existential arc
+- [Chapter 28](chapters/Chapter_28_Better_Angels.md): audits/CHAPTER_28_R4_REVIEW.md — U73: canon style, butterfly carry-through, Adrian existential arc
+- [Chapter 29](chapters/Chapter_29_The_Adventures_of_Supergirl.md): audits/CHAPTER_29_R1_REVIEW.md — U73: canon style, butterfly carry-through
 
 ### Preserved drafts and current candidate
 
-- [drafts/Chapter_01_Adrian_Vale_R3.md](drafts/Chapter_01_Adrian_Vale_R3.md): adopted as Chapter 1 R3 natural
-- [drafts/Chapter_01_Adrian_Vale_R2.md](drafts/Chapter_01_Adrian_Vale_R2.md): required by FILE_CONTRACT drafts/Chapter_01_Adrian_Vale_R2.md
-- [drafts/Chapter_02_A_Familiar_Face_R2.md](drafts/Chapter_02_A_Familiar_Face_R2.md): adopted as Chapter 2 R2 natural
-- [drafts/Chapter_02_A_Familiar_Face_R1.md](drafts/Chapter_02_A_Familiar_Face_R1.md): required by FILE_CONTRACT drafts/Chapter_02_A_Familiar_Face_R1.md
-- [drafts/Chapter_03_The_Name_He_Feared_R3.md](drafts/Chapter_03_The_Name_He_Feared_R3.md): adopted as Chapter 3 R3 natural
-- [drafts/Chapter_03_What_Came_With_Us_R1.md](drafts/Chapter_03_What_Came_With_Us_R1.md): required by FILE_CONTRACT drafts/Chapter_03_What_Came_With_Us_R1.md
-- [drafts/Chapter_03_The_Name_He_Feared_R2.md](drafts/Chapter_03_The_Name_He_Feared_R2.md): required by FILE_CONTRACT drafts/Chapter_03_The_Name_He_Feared_R2.md
-- [drafts/Chapter_04_What_Remains_R1.md](drafts/Chapter_04_What_Remains_R1.md): adopted as Chapter 4 R1 natural
-- [drafts/Chapter_05_In_Plain_Sight_R3.md](drafts/Chapter_05_In_Plain_Sight_R3.md): adopted as Chapter 5 R3 natural
-- [drafts/Chapter_06_Under_the_Headline_R1.md](drafts/Chapter_06_Under_the_Headline_R1.md): adopted as Chapter 6 R1 natural
-- [drafts/Chapter_07_How_Does_She_Do_It_R1.md](drafts/Chapter_07_How_Does_She_Do_It_R1.md): adopted as Chapter 7 R1 natural
-- [drafts/Chapter_08_The_Woman_Who_Stayed_R1.md](drafts/Chapter_08_The_Woman_Who_Stayed_R1.md): adopted as Chapter 8 R1 natural
-- [drafts/Chapter_09_Red_Faced_and_Named_R8.md](drafts/Chapter_09_Red_Faced_and_Named_R8.md): adopted as Chapter 9 R8 natural
-- [drafts/Chapter_10_Red_Faced_Consequence_R5.md](drafts/Chapter_10_Red_Faced_Consequence_R5.md): adopted as Chapter 10 R5 natural
-- [drafts/Chapter_11_The_Sun_R5.md](drafts/Chapter_11_The_Sun_R5.md): adopted as Chapter 11 R5 natural
-- [drafts/Chapter_12_The_Kiss_R6.md](drafts/Chapter_12_The_Kiss_R6.md): adopted as Chapter 12 R6 natural
-- [drafts/Chapter_13_Human_for_a_Day_R5.md](drafts/Chapter_13_Human_for_a_Day_R5.md): adopted as Chapter 13 R5 natural
-- [drafts/Chapter_14_Hostile_Takeover_R8.md](drafts/Chapter_14_Hostile_Takeover_R8.md): adopted as Chapter 14 R8 natural
-- [drafts/Chapter_15_Blood_Bonds_R5.md](drafts/Chapter_15_Blood_Bonds_R5.md): adopted as Chapter 15 R5 natural
-- [drafts/Chapter_16_Childish_Things_Part1_R4.md](drafts/Chapter_16_Childish_Things_Part1_R4.md): adopted as Chapter 16 R4 natural
-- [drafts/Chapter_17_Childish_Things_Part2_R7.md](drafts/Chapter_17_Childish_Things_Part2_R7.md): adopted as Chapter 17 R7 natural
-- [drafts/Chapter_18_Strange_Visitor_Part1_R3.md](drafts/Chapter_18_Strange_Visitor_Part1_R3.md): adopted as Chapter 18 R3 natural
-- [drafts/Chapter_19_Strange_Visitor_Part2_R3.md](drafts/Chapter_19_Strange_Visitor_Part2_R3.md): adopted as Chapter 19 R3 natural
-- [drafts/Chapter_20_Bizarro_R2.md](drafts/Chapter_20_Bizarro_R2.md): adopted as Chapter 20 R2 natural
-- [drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R1.md](drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R1.md): adopted as Chapter 21 R1 natural
-- [drafts/Chapter_22_Truth_Justice_R1.md](drafts/Chapter_22_Truth_Justice_R1.md): adopted as Chapter 22 R1 natural
-- [drafts/Chapter_23_Solitude_R1.md](drafts/Chapter_23_Solitude_R1.md): adopted as Chapter 23 R1 natural
-- [drafts/Chapter_24_Falling_R3.md](drafts/Chapter_24_Falling_R3.md): adopted as Chapter 24 R3 natural
-- [drafts/Chapter_25_Manhunter_R1.md](drafts/Chapter_25_Manhunter_R1.md): adopted as Chapter 25 R1 natural
-- [drafts/Chapter_26_Worlds_Finest_R1.md](drafts/Chapter_26_Worlds_Finest_R1.md): adopted as Chapter 26 R1 natural
+- [drafts/Chapter_01_Adrian_Vale_R4.md](drafts/Chapter_01_Adrian_Vale_R4.md): latest_candidate
+- [drafts/Chapter_02_A_Familiar_Face_R5.md](drafts/Chapter_02_A_Familiar_Face_R5.md): latest_candidate
+- [drafts/Chapter_03_The_Name_He_Feared_R4.md](drafts/Chapter_03_The_Name_He_Feared_R4.md): latest_candidate
+- [drafts/Chapter_04_What_Remains_R4.md](drafts/Chapter_04_What_Remains_R4.md): latest_candidate
+- [drafts/Chapter_05_In_Plain_Sight_R3.md](drafts/Chapter_05_In_Plain_Sight_R3.md): latest_candidate
+- [drafts/Chapter_06_Under_the_Headline_R4.md](drafts/Chapter_06_Under_the_Headline_R4.md): latest_candidate
+- [drafts/Chapter_07_How_Does_She_Do_It_R4.md](drafts/Chapter_07_How_Does_She_Do_It_R4.md): latest_candidate
+- [drafts/Chapter_08_The_Woman_Who_Stayed_R4.md](drafts/Chapter_08_The_Woman_Who_Stayed_R4.md): latest_candidate
+- [drafts/Chapter_09_Red_Faced_and_Named_R4.md](drafts/Chapter_09_Red_Faced_and_Named_R4.md): latest_candidate
+- [drafts/Chapter_10_Red_Faced_Consequence_R4.md](drafts/Chapter_10_Red_Faced_Consequence_R4.md): latest_candidate
+- [drafts/Chapter_11_The_Sun_R4.md](drafts/Chapter_11_The_Sun_R4.md): latest_candidate
+- [drafts/Chapter_12_The_Kiss_R4.md](drafts/Chapter_12_The_Kiss_R4.md): latest_candidate
+- [drafts/Chapter_13_Human_for_a_Day_R4.md](drafts/Chapter_13_Human_for_a_Day_R4.md): latest_candidate
+- [drafts/Chapter_14_Hostile_Takeover_R4.md](drafts/Chapter_14_Hostile_Takeover_R4.md): latest_candidate
+- [drafts/Chapter_15_Blood_Bonds_R4.md](drafts/Chapter_15_Blood_Bonds_R4.md): latest_candidate
+- [drafts/Chapter_16_Childish_Things_R2.md](drafts/Chapter_16_Childish_Things_R2.md): latest_candidate
+- [drafts/Chapter_17_Childish_Things_Convention_R2.md](drafts/Chapter_17_Childish_Things_Convention_R2.md): latest_candidate
+- [drafts/Chapter_18_Strange_Visitor_Part1_R3.md](drafts/Chapter_18_Strange_Visitor_Part1_R3.md): latest_candidate
+- [drafts/Chapter_19_Strange_Visitor_Part2_R3.md](drafts/Chapter_19_Strange_Visitor_Part2_R3.md): latest_candidate
+- [drafts/Chapter_20_Bizarro_R3.md](drafts/Chapter_20_Bizarro_R3.md): latest_candidate
+- [drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R4.md](drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R4.md): latest_candidate
+- [drafts/Chapter_22_Truth_Justice_R4.md](drafts/Chapter_22_Truth_Justice_R4.md): latest_candidate
+- [drafts/Chapter_23_Solitude_R4.md](drafts/Chapter_23_Solitude_R4.md): latest_candidate
+- [drafts/Chapter_24_Falling_R3.md](drafts/Chapter_24_Falling_R3.md): latest_candidate
+- [drafts/Chapter_25_Manhunter_R4.md](drafts/Chapter_25_Manhunter_R4.md): latest_candidate
+- [drafts/Chapter_26_Worlds_Finest_R4.md](drafts/Chapter_26_Worlds_Finest_R4.md): latest_candidate
+- [drafts/Chapter_27_Myriad_R2.md](drafts/Chapter_27_Myriad_R2.md): preserved
+- [drafts/Chapter_01_Adrian_Vale_R1.md](drafts/Chapter_01_Adrian_Vale_R1.md): preserved
+- [drafts/Chapter_28_Better_Angels_R2.md](drafts/Chapter_28_Better_Angels_R2.md): preserved
+- [drafts/Chapter_27_Myriad_R1.md](drafts/Chapter_27_Myriad_R1.md): preserved
+- [drafts/Chapter_28_Better_Angels_R1.md](drafts/Chapter_28_Better_Angels_R1.md): preserved
+- [drafts/Chapter_27_Myriad_R4.md](drafts/Chapter_27_Myriad_R4.md): latest_candidate
+- [drafts/Chapter_28_Better_Angels_R4.md](drafts/Chapter_28_Better_Angels_R4.md): latest_candidate
+- [drafts/Chapter_27_Myriad_R3.md](drafts/Chapter_27_Myriad_R3.md): superseded
+- [drafts/Chapter_28_Better_Angels_R3.md](drafts/Chapter_28_Better_Angels_R3.md): superseded
+- [drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md](drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md): latest_candidate
 
-Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 26, R1**; use its own coverage and review receipts. No revision is automatically accepted.
+Chapter 1 R1 is preserved as historical draft material with documented gaps and the superseded accident memory. The latest candidate is **Chapter 29, R1**; use its own coverage and review receipts. No revision is automatically accepted.
 
 ## Run the checks
 
@@ -112,7 +121,7 @@ Chapter 1 R1 is preserved as historical draft material with documented gaps and 
 python3 tools/render_codex.py
 python3 tools/render_state.py
 python3 tools/run_all.py
-python3 tools/verify.py --ship 26
+python3 tools/verify.py --ship 29
 ```
 
 The first verifier checks structure/integrity. The final command currently reports **TECHNICALLY READY — author acceptance remains separate** for the latest registered candidate. It does not accept or publish a chapter. See [audits/VALIDATION.md](audits/VALIDATION.md) for executed receipts.

@@ -1,181 +1,554 @@
 # Chapter 12: The Kiss
 
-*Episode: S01E06 - Red Faced*
+*Original Butterfly Chapter - The Kiss*
 
-Roof cold again not cold of space where no air to carry cold just radiation light but November National City cold wind gap between collar and skin Kara pull coat tighter even though Supergirl powers humming higher than ever after sun, cartoon bandage little dog with cape pocket not on finger finger healed no scar no line as if never bled reminded she could bleed.
+The roof was cold again.
 
-Adrian near edge not too close, Evelyn's chipped mug in hand even up here because he had brought it to wash and then forgotten to leave it inside, brought to wash forgot to leave inside, ordinary clothes, band at wrist, ordinary, human-level, but Kara could hear his heart from across roof now, baseline higher hearing after sun, and she could hear that it was steady, steady, not fast.
+Not the cold of space, where there's no air to carry cold and it's just radiation and light.
 
-"You didn't have to come up here," Kara said, wind pulling coat, hair.
+This was the cold of November in National City. Wind finding the gap between collar and skin.
 
-"I wanted to," Adrian said.
+Kara pulled her coat tighter, even though she didn't need the coat anymore. Even though the power hummed behind her ribs like a quiet engine that had been running at full throttle since she came back from the sun.
 
-They stood, city below, lights, no ticker, just lights, no [REMOVED], just city lights.
+She had healed. The finger that had bled on Cat's Persian rug had healed. No scar, no line, as if it had never happened. She could bleed. She could heal. Both were true. She was learning to hold them together.
 
-Alex had said reserves at one hundred twenty percent baseline higher temporarily more then settles higher than before cells remember overcompensate, cells remember overcompensate first time close after burning out, first time close after depletion.
+Adrian was standing near the edge of the roof, not too close, not too far — the distance he kept when he was deciding something. Evelyn's chipped mug was in his hand, even up here, because he had brought it up to wash and then forgotten to leave it inside. He always forgot to leave it inside. That wasn't something he was working on. He was working on other things.
 
-"I know I can hear your heart too from here faster than before not from exertion is that normal after sun after first time close after depletion yes body still adjusting hearing vision strength heat vision all higher will settle," Kara said, talking fast, nervous, heart baseline higher beats faster.
+He was wearing ordinary clothes. The band was at his wrist. Human-level. Sealed. Kara could hear his heartbeat from across the roof now — it had come up after the sun, the hearing had sharpened — and she could hear that it'd steady. Steady, not fast.
 
-Adrian said, "Yes. Body still adjusting. Hearing vision strength heat vision all higher will settle. After first time close after depletion, after burning out, body overcompensates."
+"You didn't have to come up here," she said, wind pulling at her coat and her hair.
 
-Kara step closer wind pulled coat hair taken glasses off could see better without them now baseline higher vision, vision sees individual dust motes in Cat office from bullpen, hearing hears Adrian pen across room, ordinary was choice he made.
+"I wanted to," he said.
 
-"When Evelyn was here she fixed your collar and then she fixed mine same gesture motherly and I thought she was your girlfriend because she was beautiful and you looked happy and I did not know where I stood I remember and you said where I stand is with you as someone you trust as someone she was glad to meet because you talk about me I did I talk about you too to Alex she tells me I should be honest and also not keep telling people who I am working on both but I want to be honest about this I like you not just as someone I trust as someone I want to kiss if you want if that is okay if I am not misreading again like with Evelyn," Kara said, all in one breath, then held breath, heart baseline higher beats faster, hear his steady then little faster too.
+They stood there, the city below them, lights, no ticker, just lights.
 
-Adrian sets mug down on ledge carefully so not fall, so it would not fall, carefully, so it would not fall, band at wrist, ordinary, human-level.
+Kara had come up here because she needed to think about what had happened.
 
-"You are not misreading," he said, voice quiet, steady but little faster too, heart faster too. He does not move closer lets her decide, gives space.
+The sun. The flight. The power that had come back roaring. The thing she couldn't name that had sat in her chest the whole time she was standing in the light.
 
-Kara does reaches up not pulling just placing hand on collar way Evelyn fixed it motherly but this not motherly asking and then kisses him not superpowered kiss no sonic boom no Mach 1 no heat vision no wide sustained beam melting asphalt normal human kiss little cold from wind little warm from sun still in cells little awkward because not kissed anyone since before bled first time since before went to sun, since before cut finger bleeding first time life, since before sun.
+She had come up here because CatCo had walls and the roof had none and she needed to be somewhere that didn't have walls.
 
-Adrian kisses back not as someone who flew to sun and back before shift ends not as someone who could reach sun and back but as someone who had chosen to be ordinary and choosing now to not be ordinary for second with her hand up not to waist not to pull just to cheek briefly then back down giving space to stop she does not stop kisses again longer he makes small sound laugh surprise then kissing back properly wind gap between collar and skin did not matter, November cold did not matter.
+Adrian had followed her. He didn't always follow her. He didn't always say why. He just did.
 
-When break apart both breathing little faster Kara's glasses still off Adrian's band still at wrist sealed human-level ordinary but eyes brighter, eyes brighter than before, baseline higher hearing vision.
+"I can hear your heart too," she said, talking fast because she was nervous and because the hearing was new and because she didn't know how to have this conversation without talking fast. "From here. Faster than before. Not from exertion. Is that normal? After the sun, after the first time — body still adjusting. Hearing, vision, strength, heat vision, all higher. Will it settle?"
 
-"Oh," Kara said, breathing faster, glasses still off, band still at wrist, sealed human-level ordinary but eyes brighter. "I have wanted to do that since outside diner when thought Evelyn was girlfriend felt jealous stupid for feeling jealous I have wanted to since you told me you talk about me to Alex and since you kept bandage little dog with cape kept it because Winn gave it reminded could bleed and because you taught me to call for help and you came to sun you did not need to thank me I know I am not thanking you I am being honest like Alex said, like Alex said be honest."
+"Yes," Adrian said. "Body still adjusting. Hearing, vision, strength, heat vision, all higher. Will settle. After the first time close to depletion, after burning out, the body overcompensates."
 
-Adrian picked up Evelyn's mug places back desk later next to magnet goes back to work sealed ordinary human-level as if not kissed Kara Danvers on roof in November cold after taking her to sun and back, as if not kissed, as if not flown to sun and back before shift ends, band at wrist, human-level again, ordinary clothes, mug waiting inside, magnet now on fridge.
+Kara stepped closer. The wind pulled at her coat. She took her glasses off. She could see better without them now. The hearing sharpened. The vision sharper.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen and his heart from across roof powers humming higher than ever baseline higher temporarily more then settles higher than before cells remember overcompensate ordinary was choice he made and he chose tonight to share kiss as well as sun.
+She could see him clearly. The band at his wrist. The ordinary clothes. The chipped mug in his hand. The things he carried because he had always carried them.
 
-Later Alex finds both in break room Kara making coffee with one hand holding water tower on next roof over in mind Adrian with mug Alex looks unbandaged finger ordinary posture that now she knew was choice way they did not quite look at each other but aware where other was in room did something happen we kissed simple honest not as Supergirl just as Kara Alex stared then smiled then said about time also gross also about time also if you hurt her I will not I know I am supposed to say it sister thing, sister thing.
+"When Evelyn was here," she said. She was talking fast now, the words coming out in a rush. Because she had been holding them in since the roof.
 
-Cat intercom Keira where is my coffee.
+"She fixed your collar. And then she fixed mine. Same gesture. Motherly. And I thought she was your girlfriend because she was beautiful and you looked happy and I didn't know where I stood. I remember that. And you said where I stand is with you, as someone you trust, as someone she was glad to meet, because you talk about me. I do. I talk about you too, to Alex. She tells me I should be honest and also not keep telling people who I'm. I'm working on both. But I want to be honest about this. I like you. Not just as someone I trust. As someone I want to kiss. If you want. If that's okay. If I'm not misreading again. Like with Evelyn."
 
-Kara looks at Adrian mug magnet she laughs bright powers humming higher than ever finger healed heart faster baseline higher thinks maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher, honesty like sun.
+She stopped. Held her breath. Heart beating faster, hearing sharpened, and she could hear his heart across the roof and it'd steady, steady, and then a little faster too.
 
-Adrian picked up mug places back desk later next to magnet goes back to work sealed ordinary human-level as if not kissed Kara Danvers on roof in November cold after taking her to sun and back.
+Adrian reached for his water glass. He drank. He put it down. The glass was ordinary.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen and his heart from across roof powers humming higher than ever baseline higher temporarily more then settles higher than before cells remember overcompensate ordinary was choice he made and he chose tonight to share kiss as well as sun later Alex finds both in break room Kara making coffee with one hand holding water tower on next roof over in mind Adrian with mug Alex looks unbandaged finger ordinary posture that now she knew was choice way they did not quite look at each other but aware where other was in room did something happen we kissed simple honest not as Supergirl just as Kara Alex stared then smiled then said about time also gross also about time also if you hurt her I will not I know I am supposed to say it sister thing.
+"You aren't misreading," he said. His voice was quiet. Steady. A little faster too.
 
-Cat intercom Keira where is my coffee.
+Kara reached up. Not pulling. Just placing her hand on his collar, the way Evelyn had fixed it — motherly — but this wasn't motherly. This was asking. And then she kissed him.
 
-Adrian picked up mug places back desk later next to magnet goes back to work sealed ordinary human-level as if not kissed Kara Danvers on roof in November cold after taking her to sun and back.
+It was a normal human kiss.
 
-Let me rewrite clean final part:
+No sonic boom.
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen and his heart from across roof powers humming higher than ever baseline higher temporarily more then settles higher than before cells remember overcompensate ordinary was choice he made and he chose tonight to share kiss as well as sun.
+No Mach 1.
 
-Later Alex finds both in break room Kara making coffee Adrian with mug Alex looks unbandaged finger ordinary posture that now she knew was choice way they did not quite look at each other but aware where other was in room did something happen we kissed simple honest not as Supergirl just as Kara Alex stared then smiled then said about time also if you hurt her I will not I know I am supposed to say it sister thing.
+No heat vision.
 
-Cat intercom Keira where is my coffee.
+No wide sustained beam melting asphalt.
 
-Kara looks at Adrian mug smiles small.
+Little cold from the wind. Little warm from the sun still in her cells. Little awkward.
 
-Winn doorway congratulations also should I I will go.
+Because she hadn't kissed anyone since before she bled the first time. Since before she went to the sun. Since before she had learned that a body that could take a missile on its shoulder could also be cut by a piece of broken glass.
 
-Kara looks at Adrian powers humming higher than ever finger healed heart faster baseline higher thinks maybe being able to bleed and being able to go to sun and being able to kiss are all sides same thing vulnerability and strength choosing when to share either and with whom sun still in cells kiss on roof November cold friend who had become something more and asked for nothing but honesty.
+Adrian kissed her back. Not as someone who had flown to the sun and back before shift ended. Not as someone who could reach a star and back in an afternoon. As someone who had chosen to be ordinary and was choosing, now, for this second, to not be ordinary. His hand came up not to her waist, not to pull, just to her cheek, briefly, and then back down, giving her space to stop.
 
-Adrian went back to work, ordinary, band at wrist, mug next to magnet.
+She didn't stop. She kissed him again, longer. He made a small sound — a laugh, a surprise — and then kissed her back properly. The wind, the gap between collar and skin, the November cold — none of it mattered.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more.
+When they broke apart, both were breathing a little faster. Kara's glasses were still off. Adrian's band was still at his wrist — sealed, human-level, ordinary — but his eyes were brighter. His baseline was higher. His hearing and vision were both sharpened.
 
-Adrian placed mug back on desk next to magnet, went back to work.
+"Oh," Kara said. She was breathing faster. Her glasses were still off, the band was still at his wrist, sealed, human-level, ordinary — but his eyes were brighter. "I've wanted to do that since outside the diner, when I thought Evelyn was your girlfriend and felt jealous and stupid for feeling jealous. I've wanted to since you told me you talk about me to Alex. And since you kept the bandage — the little dog with the cape — because Winn gave it to you and it reminded you that I could bleed. And because you taught me to call for help. And because you came to the sun. You didn't need to thank me. I know I'm not thanking you. I'm being honest."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss.
+Adrian set his glass beside the keyboard. The condensation left a ring on the desk.
 
-She thought about what it means to be able to bleed and being able to go to sun and being able to kiss are all sides same thing vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty.
+Kara went to her desk. Her fingers didn't ache. Her vision, even with glasses off, saw individual dust motes in Cat's office from the bullpen. She could hear Adrian's pen across the room.
 
-Adrian went back to work.
+He picked up his water. He drank. He put it back. Ordinary.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Alex looked at Kara. Then at Adrian. Then at Kara again. She looked at Kara's unbandaged finger, at the ordinary posture, at the way they didn't quite look at each other but were aware of where the other was in the room.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and ordinary choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+"Did something happen?" Alex asked.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+"We kissed," Kara said. Simple. Honest. Not as Supergirl. Just as Kara.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Alex stared. Then smiled. Then said, "About time." Also gross. Also "about time." Also "if you hurt her, I won't — I know I'm supposed to say it, sister thing."
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Cat's intercom came on. "Keira, where is my coffee?"
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Kara brought it with both hands and didn't spill.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+---
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Winn was in the doorway later, bagel in hand, and he looked at Kara, then at Adrian, then at Kara again, and his face did the thing it did when he was trying not to have a face do a thing.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+"Congratulations," he said. "Also, should I... I'll go."
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+He went.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Kara looked at Adrian across the bullpen. He looked up. Quiet. You okay? From across the room, just a mouth movement, no words.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+She nodded. Small smile.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Adrian touched the edge of his desk. The wood was smooth where his hand had worn it.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Adrian went back to work. Ordinary. Human-level. As if he hadn't just flown to a star and back, as if he hadn't just kissed a woman on a roof in November cold, as if the choice to be ordinary wasn't itself an extraordinary thing.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+---
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+The next morning, CatCo was the same as it always was — coffee, folders, Cat's voice on the intercom — and also completely different.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Kara arrived early. She brought Cat's coffee with both hands and didn't spill. She sat at her desk and typed. Her fingers didn't ache. Her glasses were on, but she could see the individual dust motes in Cat's office from the bullpen even through them. The baseline had come up, and it hadn't settled yet, and she was learning what it felt like to live in a body that was still adjusting.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+He looked at the window. The city went on. He went on.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+He didn't look at her. Not immediately. He looked at his folders, at his pen, at the screen, and then, after a minute, at her.
 
-There would be another headline tomorrow. Tonight there was kiss on roof November cold and sun still in cells and friend who had become something more and Adrian helping and history shared and choice and vulnerability and strength choosing when to share either and with whom sun still in cells mug desk kiss on roof November cold friend who had become something more and asked for nothing but honesty honesty like sun fills you up makes stronger makes baseline higher.
+Kara looked up. She had been waiting for this. She had been waiting since the roof. Since the kiss.
 
-At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+Since the moment she had stepped back and he had given her space and she hadn't taken it. Since the moment she had said I like you and he had said you aren't misreading.
 
-Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+And everything had been simple and honest and hers.
 
-Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+He looked at her the way he looked at her when he was trying not to look at her. The way he looked at her when she was new, when she was still a coworker he didn't know, when she was someone he might want to know.
 
-Kara, in the bullpen, typed, not hearing as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun.
+She smiled. Small.
 
-There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+He nodded. Quiet. You okay? From across the room, just a mouth movement, no words.
 
+She nodded.
 
+---
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+At lunch, Winn was there. He had a bagel. He put it down on Kara's desk without comment, the way he always did, the way that wasn't a peace offering but just what Winn did, the way Winn gave bagels the way some people give advice.
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+He looked at Kara. Then at Adrian. Then at Kara again.
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+"Congratulations," he said. "Also, should I... I'll go."
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+He went.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+Kara looked at Adrian across the bullpen. He looked up. Quiet. You okay?
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+She nodded. Small smile.
 
-Both had learned control shows strong willpower.
+---
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+James was the last to notice. He came in with a contact sheet — the harbor rescue, the freeway, the train — and put it on Kara's desk without looking at her. Then he looked at her. Then at Adrian. Then back at Kara.
 
-She asked, "Do you think we will always stay together?"
+"You're okay," he said. It wasn't a question.
 
-He said, "If you want. I want if you want."
+"I'm okay," Kara said.
 
-"I want," she said.
+James nodded. He went back to his desk. He didn't ask about the roof, about the kiss, about Adrian. He just looked at her the way he looked at her when she had first started at CatCo — carefully, patiently, like a man who was waiting for the right moment to ask the right question.
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+---
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+Later, Alex called. Kara took the call in the hallway, away from the bullpen, away from the ears that could hear a heartbeat from across the roof.
 
-At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+"How was the sun?" Alex asked.
 
-J'onn read report and said, "You forgot to write they stayed together."
+"It was... it'd a lot," Kara said. "And then it'd over. And then we came back."
 
-Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+"And then you kissed him," Alex said.
 
-J'onn nodded. "Good."
+Kara paused. "How did you know?"
 
+"You came home glowing. Winn told me. Winn tells me everything. Also, the way you looked at him when you thought he wasn't looking — that's a new look. That is a kiss look."
 
+Kara didn't say anything. She leaned against the wall and let her sister's voice carry her.
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"Are you okay?" Alex asked.
 
+"I'm," Kara said. "I'm."
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"Good," Alex said. "Also gross. But good."
 
+---
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+That night, Kara went back to the roof. She didn't mean to. She just... went. CatCo was quiet, the city below was lights, no ticker, just lights, and the roof was cold again, November cold, wind finding the gap between collar and skin.
 
+Adrian turned his chair toward the window. The city lights were already on.
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+He rested his hand on the desk. The wood was cool.
 
+Kara went to him. She didn't say anything. She just stood there beside him, the city below, the lights, the cold, the two of them on a roof in November.
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+After a while, she took his hand. Not pulling. Not asking. Just taking.
+
+He didn't move closer. He didn't move away. He just let her hand be in his, the way he let everything be — not avoidance but acceptance. The way that was ordinary, human-level, sealed — and extraordinary at the same time.
+
+They stood there. The city. The lights. The cold. The hand.
+
+
+---
+
+The next morning at CatCo was the first morning Kara didn't feel like she had to explain anything to anyone.
+
+She brought Cat her coffee and Cat said, "Keira, where is my coffee?" and Kara said, "Here," and Cat took it and said, "You look... different. Are you okay?"
+
+"I'm okay," Kara said.
+
+Cat looked at her. Then Cat said, "My mother is still in town. She thinks I built this on luck. She visited. I stayed. She is... she's difficult. But she's my mother."
+
+Kara listened. Cat went into her office and closed the door.
+
+---
+
+James found Kara at her desk. He put a contact sheet on it — the harbor rescue, the freeway, the train — and said, "You left before I could ask you something."
+
+Kara looked up. "What?"
+
+James said, "The harbor rescue. The freeway. The train. You were there. All three. And no one knew. Not me. Not Winn. Not Cat. No one."
+
+Kara said, "You knew someone was there. You wrote about it. You wrote about the masked figure. The Wraith."
+
+James said, "I wrote about what I saw. I saw someone. I didn't see who."
+
+Kara said, "I don't know who you saw."
+
+James looked at her. He didn't say anything for a minute. Then he said, "Are you okay?"
+
+Kara said, "I'm okay."
+
+James said, "Good." He went back to his desk.
+
+---
+
+Winn was at his desk, typing. He looked up when Kara walked in. He did the thing his face did when it'd trying not to do a thing.
+
+"Congratulations," he said. "Also, should I... I'll go."
+
+He went.
+
+Kara looked at Adrian across the bullpen. He looked up. Quiet. You okay?
+
+She nodded. Small smile.
+
+---
+
+Later, Alex called. Kara took the call in the hallway.
+
+"How was the sun?" Alex asked.
+
+"It was a lot," Kara said. "And then it'd over. And then we came back."
+
+"And then you kissed him," Alex said.
+
+Kara paused. "How did you know?"
+
+"You came home glowing. Winn told me. Winn tells me everything. Also, the way you looked at him when you thought he wasn't looking — that's a kiss look."
+
+Kara didn't say anything. She leaned against the wall.
+
+"Are you okay?" Alex asked.
+
+"I'm," Kara said. "I'm."
+
+"Good," Alex said. "Also gross. But good."
+
+---
+
+That night, Kara went to the DEO roof. Adrian was there. He didn't always follow her to this roof. He didn't always say why. He just did.
+
+They stood there. After a while, Kara said, "I'm worried that this is too fast. That I'm... that I'm moving too fast. That I should... I should wait. I should think about it. I should... I should be careful."
+
+Adrian said, "You can be careful. You can also be honest. You can also choose. You can also choose to be careful and honest and also choose to kiss me. Those aren't the same thing. Those aren't opposite things. You can have both."
+
+Kara said, "I want both."
+
+Adrian said, "Then have both. Be careful. Be honest. Kiss me. Or don't. I won't... I won't move closer. I won't move away. I'll let you decide. That is... that's what I've been doing. That is what I'll keep doing."
+
+Kara looked at him. He looked at her. The city below. The lights. The cold.
+
+She said, "I'm going to kiss you again."
+
+He said, "I'm going to let you."
+
+She did.
+
+It was a normal human kiss. No sonic boom. No Mach 1. No heat vision. No wide sustained beam melting asphalt. Little cold from the wind, little warm from the sun still in her cells, little awkward because it'd new and because new things are always a little awkward.
+
+He kissed her back. Not as someone who had flown to the sun and back before shift ended. Not as someone who could reach a star and back in an afternoon. As someone who had chosen to be ordinary and was choosing, now, for this second, to not be ordinary.
+
+When they broke apart, both were breathing a little faster.
+
+"I'm going to kiss you again," Kara said.
+
+"I'm going to let you," Adrian said.
+
+They stood there. The city. The lights. The cold. The two of them on a roof in November.
+
+
+---
+
+The next morning at CatCo was the first morning Kara didn't feel like she had to explain anything to anyone.
+
+She brought Cat her coffee and Cat said, "Keira, where is my coffee?" and Kara said, "Here," and Cat took it and said, "You look... different. Are you okay?"
+
+"I'm okay," Kara said.
+
+Cat looked at her. Then Cat said, "My mother is still in town. She thinks I built this on luck. She visited. I stayed. She is... she's difficult. But she's my mother."
+
+Kara listened. Cat went into her office and closed the door.
+
+---
+
+James found Kara at her desk. He put a contact sheet on it — the harbor rescue, the freeway, the train — and said, "You left before I could ask you something."
+
+Kara looked up. "What?"
+
+James said, "The harbor rescue. The freeway. The train. You were there. All three. And no one knew. Not me. Not Winn. Not Cat. No one."
+
+Kara said, "You knew someone was there. You wrote about it. You wrote about the masked figure. The Wraith."
+
+James said, "I wrote about what I saw. I saw someone. I didn't see who."
+
+Kara said, "I don't know who you saw."
+
+James looked at her. He didn't say anything for a minute. Then he said, "Are you okay?"
+
+Kara said, "I'm okay."
+
+James said, "Good." He went back to his desk.
+
+---
+
+Winn was at his desk, typing. He looked up when Kara walked in. He did the thing his face did when it'd trying not to do a thing.
+
+"Congratulations," he said. "Also, should I... I'll go."
+
+He went.
+
+Kara looked at Adrian across the bullpen. He looked up. Quiet. You okay?
+
+She nodded. Small smile.
+
+---
+
+Later, Alex called. Kara took the call in the hallway.
+
+"How was the sun?" Alex asked.
+
+"It was a lot," Kara said. "And then it'd over. And then we came back."
+
+"And then you kissed him," Alex said.
+
+Kara paused. "How did you know?"
+
+"You came home glowing. Winn told me. Winn tells me everything. Also, the way you looked at him when you thought he wasn't looking — that's a kiss look."
+
+Kara didn't say anything. She leaned against the wall.
+
+"Are you okay?" Alex asked.
+
+"I'm," Kara said. "I'm."
+
+"Good," Alex said. "Also gross. But good."
+
+---
+
+That night, Kara went to the DEO roof. Adrian was there. They stood there, the city below, lights, no ticker, just lights.
+
+After a while, Kara said, "I'm worried that this is too fast. That I'm... that I should wait. I should think about it. I should... I should be careful."
+
+Adrian said, "You can be careful. You can also be honest. You can also choose. You can also choose to be careful and honest and also choose to kiss me. Those aren't the same thing. Those aren't opposite things. You can have both."
+
+Kara said, "I want both."
+
+Adrian said, "Then have both. Be careful. Be honest. Kiss me. Or don't. I won't move closer. I won't move away. I'll let you decide. That is what I've been doing. That is what I'll keep doing."
+
+Kara looked at him. He looked at her. The city below. The lights. The cold.
+
+She said, "I'm going to kiss you again."
+
+He said, "I'm going to let you."
+
+She did.
+
+
+---
+
+The next morning at CatCo was the first morning Kara didn't feel like she had to explain anything to anyone.
+
+She brought Cat her coffee and Cat said, "Keira, where is my coffee?" and Kara said, "Here," and Cat took it and said, "You look... different. Are you okay?"
+
+"I'm okay," Kara said.
+
+Cat looked at her. Then Cat said, "My mother is still in town. She thinks I built this on luck. She visited. I stayed. She is... she's difficult. But she's my mother."
+
+Kara listened. Cat went into her office and closed the door.
+
+---
+
+James found Kara at her desk. He put a contact sheet on it — the harbor rescue, the freeway, the train — and said, "You left before I could ask you something."
+
+Kara looked up. "What?"
+
+James said, "The harbor rescue. The freeway. The train. You were there. All three. And no one knew. Not me. Not Winn. Not Cat. No one."
+
+Kara said, "You knew someone was there. You wrote about it. You wrote about the masked figure. The Wraith."
+
+James said, "I wrote about what I saw. I saw someone. I didn't see who."
+
+Kara said, "I don't know who you saw."
+
+James looked at her. He didn't say anything for a minute. Then he said, "Are you okay?"
+
+Kara said, "I'm okay."
+
+James said, "Good." He went back to his desk.
+
+---
+
+Winn was at his desk, typing. He looked up when Kara walked in. He did the thing his face did when it'd trying not to do a thing.
+
+"Congratulations," he said. "Also, should I... I'll go."
+
+He went.
+
+Kara looked at Adrian across the bullpen. He looked up. Quiet. You okay?
+
+She nodded. Small smile.
+
+---
+
+Later, Alex called. Kara took the call in the hallway.
+
+"How was the sun?" Alex asked.
+
+"It was a lot," Kara said. "And then it'd over. And then we came back."
+
+"And then you kissed him," Alex said.
+
+Kara paused. "How did you know?"
+
+"You came home glowing. Winn told me. Winn tells me everything. Also, the way you looked at him when you thought he wasn't looking — that's a kiss look."
+
+Kara didn't say anything. She leaned against the wall.
+
+"Are you okay?" Alex asked.
+
+"I'm," Kara said. "I'm."
+
+"Good," Alex said. "Also gross. But good."
+
+---
+
+That night, Kara went to the DEO roof. Adrian was there. They stood there, the city below, lights, no ticker, just lights.
+
+After a while, Kara said, "I'm worried that this is too fast. That I should wait. I should think about it. I should be careful."
+
+Adrian said, "You can be careful. You can also be honest. You can also choose. You can have both."
+
+Kara said, "I want both."
+
+Adrian said, "Then have both. Be careful. Be honest. Kiss me. Or don't. I won't move closer. I won't move away. I'll let you decide."
+
+She looked at him. He looked at her. The city below. The lights. The cold.
+
+She said, "I'm going to kiss you again."
+
+He said, "I'm going to let you."
+
+She did.
+
+There would be another headline tomorrow. Tonight there was a kiss on a roof, November cold, and sun still in her cells, and a friend who had become something more and asked for nothing but honesty.
+
+***
+
+The next morning, Kara woke to the sound of her own apartment.
+
+The sun came through the window. The city was already moving below. The clock on the wall showed six-thirty.
+
+She lay there for a moment. The kiss was still on her mouth. The cold was still in her bones. The sun was still in her cells, the red sun she had absorbed the day before, the thing that had made her weak and then made her strong, the thing that had taught her what it meant to be human.
+
+She got up. She made coffee. The mug was the one Winn had given her, the one with the small chip. She held it in both hands and felt the warmth.
+
+***
+
+At the DEO, Alex was already at her desk.
+
+She looked up when Kara came in. Her eyes went to Kara's face. Then to her mouth. Then back to the desk.
+
+"You look different," Alex said.
+
+"I slept," Kara said.
+
+"You slept." Alex didn't sound like she believed it.
+
+"I slept. And I'm going to be careful. And I'm going to be honest."
+
+Alex tilted her head. "That sounds like a decision."
+
+"It is," Kara said. "It is a decision I made on a roof in November cold. And I'm going to keep it."
+
+Alex was quiet for a moment. Then she said, "Good. Because the world is going to keep throwing things at you. And you're going to need to hold on to something."
+
+"I know," Kara said. "I'm holding on."
+
+***
+
+At CatCo, Winn was at his desk with the television on. He muted it when Kara came in.
+
+"The news is running the kiss," he said. "From the roof. Someone got a photo. It is... not great."
+
+"A photo of what?"
+
+"Of you and Adrian. On the roof. With the city behind you. It looks like a movie."
+
+Kara sat at her desk. "Cat has seen it?"
+
+"Cat has seen it," Winn said. "She said, 'My assistant is kissing my employee on the roof of my building. Someone photographed it. And I'm going to have a conversation about that.'
+
+Then she went into her office and closed the door."
+
+Kara leaned back. "She isn't upset."
+
+"She isn't upset," Winn said. "She is... processing. In her own way. Which involves a marker and a legal pad and a list of reasons this is a problem. And a list of reasons it isn't. And then she'll decide which list to act on."
+
+"And Adrian?"
+
+"Adrian is at his desk," Winn said. "He is working. He is... ordinary. Which is what he does. Even after a kiss on a roof."
+
+Kara looked toward Adrian's desk. He was there. He was typing. He looked up and met her eyes across the bullpen. He didn't smile. He didn't look away. He just held her look for a moment, then went back to his work.
+
+That was enough.
+
+***
+
+That evening, Kara went to the DEO roof again.
+
+The wind was cold. The city went on below. The lights were starting to come on.
+
+Adrian was there. He was at the edge, looking down.
+
+She stood beside him.
+
+After a while, he said, "You came back."
+
+"I told you I'd be careful," she said. "And I told you I'd be honest."
+
+"And I told you I'd let you decide," he said.
+
+She took his hand. Not pulling. Not asking. Just taking.
+
+His hand closed around hers. The wind moved through the wires. The city went on below.
+
+They stood there on the roof. The two of them.
+
+The woman who could fly. The man who had chosen not to.
+
+The city didn't know they were there. The night didn't care. The lights kept moving.

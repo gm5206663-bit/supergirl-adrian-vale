@@ -1,0 +1,32 @@
+{
+  "chapter": 27,
+  "revision": "1",
+  "draft_path": "drafts/Chapter_27_Myriad_R1.md",
+  "draft_sha256": "1c24de052ac9fe1c6dde04acb972517ace1d135941eb424d06e405732199978d",
+  "epoch": "v1",
+  "accepted": false,
+  "release_ready": false,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "PRESERVED_27_1",
+      "url": "internal",
+      "title": "Preserved draft Chapter 27 1 - superseded by R3",
+      "accessed": "2026-09-27",
+      "verification": "Preserved historical draft. R3 is the accepted revision for Chapter 27."
+    }
+  ],
+  "beats": [],
+  "reviews": {
+    "canon": "not_accepted",
+    "continuity": "not_accepted",
+    "power": "not_accepted",
+    "knowledge": "not_accepted",
+    "prose": "not_accepted"
+  },
+  "review_receipts": {},
+  "updated_on": "2026-09-27",
+  "draft_revision": "1",
+  "preserved": true,
+  "superseded_by": "R3"
+}

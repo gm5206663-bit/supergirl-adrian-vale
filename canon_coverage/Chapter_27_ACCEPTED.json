@@ -1,0 +1,199 @@
+{
+  "chapter": 27,
+  "revision": "R4",
+  "draft_path": "drafts/Chapter_27_Myriad_R4.md",
+  "draft_sha256": "de93093188f66b79f7b0a9fe888159452f4be16803cbbb7c488242583b399229",
+  "epoch": "v1",
+  "accepted": true,
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "SG-E19-EW",
+      "url": "https://ew.com/recap/supergirl-season-1-episode-19/",
+      "title": "Supergirl S01E19 Myriad recap - ew.com",
+      "accessed": "2026-09-27",
+      "verification": "Non and Indigo activate Myriad mind-control device via Maxwell Lord's hijacked satellites. Entire National City becomes drones. Kara, Cat, and Max unaffected (Max invented ion blocker, sent Cat earrings). Non forces James, Winn, and receptionist to jump from balcony - Kara saves only James and Winn. Max proposes Kryptonite bomb (kills all Kryptonians + ~8% humans). Alura hologram explains Myriad was created by Astra and Non, banned by High Council. Alex and J'onn on the run, go back to National City, Indigo stabs J'onn, Alex falls under Myriad. Cliffhanger: Alex in Kryptonite suit with Kryptonite sword vs Kara."
+    },
+    {
+      "id": "SG-E19-MULTI",
+      "url": "https://mtrnetwork.net/",
+      "title": "Supergirl S01E19 Myriad - mtrnetwork, scifipulse, joblo, projectfandom",
+      "accessed": "2026-09-27",
+      "verification": "Myriad is Astra and Non's creation. Superman also affected (human brain more susceptible). Non's plan: use combined brainpower of all humans as supercomputer. Indigo manipulating Non for galaxy-domination goals. Bomb would make National City uninhabitable for Kryptonians for 50 years. Alex's determination to go back is character-consistent. Hank/J'onn disguised on bus to Midvale, stop at Eliza's house."
+    },
+    {
+      "id": "U73",
+      "url": "foundation/USER_LOCKS.json",
+      "title": "U73 User correction: butterfly effects carry-through + canon woven naturally",
+      "accessed": "2026-09-27",
+      "verification": "User rejected R3: butterfly effects from prior chapters must carry through naturally (leak investigation thread, chipped mug, theater mask magnet, Evelyn, DEO, bullpen, ordinary-choice texture). Canon beats must be woven naturally, not forced or listed. Canon style: show's emotional character-driven voice and pacing/rhythm woven naturally."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-19-01",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Non and Indigo activate Myriad mind-control device via Maxwell Lord's hijacked satellites"
+    },
+    {
+      "id": "SG-19-02",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Entire National City becomes drones - people walk and act in rhythm"
+    },
+    {
+      "id": "SG-19-03",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Kara at CatCo sees Winn, James, and receptionist typing in rhythm"
+    },
+    {
+      "id": "SG-19-04",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Military quarantines the city"
+    },
+    {
+      "id": "SG-19-05",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Fortress of Solitude - Alura hologram explains Myriad was created by Astra and Non to unite minds, banned by High Council"
+    },
+    {
+      "id": "SG-19-06",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Cat arrives at CatCo unaffected - wearing ion-blocker earrings from Max"
+    },
+    {
+      "id": "SG-19-07",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Max arrives unaffected - ion blocker, satellites hijacked"
+    },
+    {
+      "id": "SG-19-08",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Non forces James, Winn, and receptionist onto balcony - Kara saves James and Winn, receptionist falls"
+    },
+    {
+      "id": "SG-19-09",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Max proposes Kryptonite bomb plan - would kill all Kryptonians and ~8% of humans"
+    },
+    {
+      "id": "SG-19-10",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Cat advises hope over fear - hope is the counter to Myriad"
+    },
+    {
+      "id": "SG-19-11",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Alex and J'onn return to National City - Indigo stabs J'onn, Alex falls under Myriad"
+    },
+    {
+      "id": "SG-19-12",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-EW",
+      "description": "Cliffhanger: Alex in Kryptonite suit with Kryptonite sword vs Kara"
+    },
+    {
+      "id": "SG-19-13",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-MULTI",
+      "description": "Superman also affected - raised on Earth, human brain more susceptible"
+    },
+    {
+      "id": "SG-19-14",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-MULTI",
+      "description": "Non's plan: use combined brainpower of all humans as a supercomputer"
+    },
+    {
+      "id": "SG-19-15",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-MULTI",
+      "description": "Indigo is manipulating Non for her own galaxy-domination goals"
+    },
+    {
+      "id": "SG-19-16",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-MULTI",
+      "description": "Bomb would make National City uninhabitable for Kryptonians for 50 years"
+    },
+    {
+      "id": "SG-19-17",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E19-MULTI",
+      "description": "Hank/J'onn disguised on a bus to Midvale, stop at Eliza's house"
+    },
+    {
+      "id": "U73-01",
+      "status": "changed_with_receipt",
+      "reason": "Butterfly carry-through: leak investigation thread (paper, pattern, names, ghost code, Marcus, parking lot, back gate) woven as the narrative engine. Chipped mug, theater mask magnet, Evelyn, cartoon bandage as ordinary texture on Kara's desk. Adrian's existential arc: device threatens ordinary life itself. Canon beats woven naturally in show's emotional character-driven voice.",
+      "source": "U73",
+      "description": "Butterfly effects carry through + canon woven naturally in show style"
+    },
+    {
+      "id": "OC-27-ADRIAN",
+      "status": "changed_with_receipt",
+      "reason": "Adrian's arc: device makes ordinary life impossible - the existential tension. He doesn't take the band off because taking it off is the wrong kind of answer. He holds the paper because the device can't reach it. Canon style voice: natural contractions, character-distinct dialogue, emotional interiority woven through action.",
+      "source": "U73",
+      "description": "Adrian's existential arc around the device threatening ordinary life"
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_27_R4_REVIEW.md",
+      "sha256": "876757f2f56417701110ba8e6f3d93d5db7d7c4331d3efb9ef42657e55b70760"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_27_R4_REVIEW.md",
+      "sha256": "876757f2f56417701110ba8e6f3d93d5db7d7c4331d3efb9ef42657e55b70760"
+    },
+    "power": {
+      "path": "audits/CHAPTER_27_R4_REVIEW.md",
+      "sha256": "876757f2f56417701110ba8e6f3d93d5db7d7c4331d3efb9ef42657e55b70760"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_27_R4_REVIEW.md",
+      "sha256": "876757f2f56417701110ba8e6f3d93d5db7d7c4331d3efb9ef42657e55b70760"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_27_R4_REVIEW.md",
+      "sha256": "876757f2f56417701110ba8e6f3d93d5db7d7c4331d3efb9ef42657e55b70760"
+    }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R4"
+}

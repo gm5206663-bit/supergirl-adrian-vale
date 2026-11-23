@@ -4,7 +4,7 @@
   "revision": "R3",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_19_Strange_Visitor_Part2_R3.md",
-  "draft_sha256": "8d52c0301b6a11641adcd5da47af08e9e5da3bd3a4a7bfd4d43954d96d681c8c",
+  "draft_sha256": "7a338c11006e98b3f0a794c17d0e24c94441f9073d85c639f64f133f7a78a023",
   "accepted": true,
   "claimed_episode": "S01E11 Strange Visitor From Another Planet Part2",
   "span": "Strange Visitor Part2 Adam Bizarro full 3000+ natural butterfly",
@@ -171,5 +171,7 @@
     "canon_title": "Strange Visitor From Another Planet",
     "chapter": 19,
     "chapter_title": "Strange Visitor Part2 Adam Bizarro"
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R4"
 }

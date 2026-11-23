@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 17,
-  "revision": "R7",
+  "revision": "R2",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_17_Childish_Things_Part2_R7.md",
-  "draft_sha256": "9a8ebcf078dbdd3cc822ea5ad74ea439dfca62b3a0486201d3a9dae20f387c04",
+  "draft_path": "drafts/Chapter_17_Childish_Things_Convention_R2.md",
+  "draft_sha256": "9b93f23adabbf5a892b37a67728be92696c2969889ab93c49e7c7d993a9c77d3",
   "accepted": true,
   "claimed_episode": "S01E10 Childish Things Part 2",
   "span": "Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss complete serious rebuild everything fixed",
@@ -179,5 +179,7 @@
     "canon_title": "Childish Things",
     "chapter": 17,
     "chapter_title": "Childish Things Part 2 - The Convention Complete Serious Rebuild Everything Fixed Not Just Kiss"
-  }
+  },
+  "draft_revision": "R8",
+  "updated_on": "2026-09-27"
 }

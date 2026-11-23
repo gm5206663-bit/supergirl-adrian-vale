@@ -1,8 +1,8 @@
 {
   "chapter": 21,
-  "revision": "R1",
-  "draft_path": "drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R1.md",
-  "draft_sha256": "ebd9d9d635dbbf79aff55a14e15ae0c6582f970c7a7627ce70d33474b1a9a0b4",
+  "revision": "R4",
+  "draft_path": "drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R4.md",
+  "draft_sha256": "a1dcf4b366077eb6083ca61d146e2c531ffd83f91e70aca5955c985c3224618c",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -67,5 +67,7 @@
       "path": "audits/CHAPTER_21_R1_REVIEW.md",
       "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
     }
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R2"
 }

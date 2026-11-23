@@ -1,0 +1,241 @@
+{
+  "chapter": 28,
+  "revision": "R4",
+  "draft_path": "drafts/Chapter_28_Better_Angels_R4.md",
+  "draft_sha256": "0a7b21238bea313b5e03150c187b76be1b4c0ea8d1074c9f696358bbd580f04a",
+  "epoch": "v1",
+  "accepted": true,
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "SG-E20-EW",
+      "url": "https://ew.com/recap/supergirl-season-1-finale/",
+      "title": "Supergirl S01E20 Better Angels recap - ew.com",
+      "accessed": "2026-09-27",
+      "verification": "Picks up with Kara and Alex about to fight. Eliza and J'onn arrive, Eliza talks Alex back through memory of her father. Kara broadcasts message of hope, House of El emblem wakes everyone. Non and Indigo plan to kill all humans, leave Kara as queen of dead Earth. Max tells Kara 4 hours left, suicide mission, no backup (J'onn wounded, Superman unconscious). Max tracks signal to Fort Rozz. J'onn rips Indigo in half, Kara burns Non's eyes out with heat vision. Indigo locked the Myriad system - only way to save everyone is flying Fort Rozz into space (Kara will die). Kara does it anyway. Alex rescues her in Kara's pod. J'onn pardoned and reinstated as DEO head. Cat promotes Kara. General Lane gives Max the Omegahedron. Kryptonian pod cliffhanger."
+    },
+    {
+      "id": "SG-E20-MULTI",
+      "url": "https://tvfanatic.com/",
+      "title": "Supergirl S01E20 Better Angels - tvfanatic, theworldgoespop, comic-books-in-the-media, museled, dconscreen, comicboxcommentary, wobamentertainment",
+      "accessed": "2026-09-27",
+      "verification": "Kara's goodbye tour (Winn, Cat, James, J'onn). Lucy stands up to General Lane, mentions Lois. Alex tells Eliza Jeremiah is alive at Cadmus. Max tracks signal to Fort Rozz in Nevada (US government had cloaked it). J'onn and Kara fight Non and Indigo. J'onn rips Indigo in half, Kara overpowers Non's heat vision. Indigo reveals signal no longer from Omegahedron, can't be stopped. Kara flies Fort Rozz into space, lets go, floats unconscious. Alex arrives in Kara's pod to rescue her. J'onn reinstated, co-directs DEO with Lucy. Cat gives Kara a promotion and new office, finally calls her Kara not Kira. James gives Kara framed photo and kisses her. Dinner toast to family. Kryptonian pod crashes - cliffhanger."
+    },
+    {
+      "id": "U73",
+      "url": "foundation/USER_LOCKS.json",
+      "title": "U73 User correction: butterfly effects carry-through + canon woven naturally + canon style",
+      "accessed": "2026-09-27",
+      "verification": "User rejected R3: butterfly effects must carry through naturally (leak investigation thread, chipped mug, theater mask magnet, Evelyn, DEO, bullpen, ordinary-choice texture). Canon beats woven naturally, not forced or listed. Canon style: show's emotional character-driven voice and pacing/rhythm woven naturally. Adrian's arc: device threatens ordinary life itself - the existential tension."
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-20-01",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Picks up with Kara and Alex about to fight - Alex in Kryptonite suit with sword"
+    },
+    {
+      "id": "SG-20-02",
+      "status": "covered",
+      "reason": "Eliza AND J'onn both speak Alex's name back through the signal - mother's voice and partner's voice.",
+      "source": "SG-E20-EW",
+      "description": "Eliza and J'onn arrive - Eliza talks Alex back through memory of her father"
+    },
+    {
+      "id": "SG-20-03",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Kara broadcasts message of hope - House of El emblem wakes everyone"
+    },
+    {
+      "id": "SG-20-04",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Non and Indigo plan to kill all humans - leave Kara as queen of dead Earth"
+    },
+    {
+      "id": "SG-20-05",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Max tells Kara 4 hours left - suicide mission, no backup (J'onn wounded, Superman unconscious)"
+    },
+    {
+      "id": "SG-20-06",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Max tracks signal to Fort Rozz"
+    },
+    {
+      "id": "SG-20-07",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "J'onn rips Indigo in half"
+    },
+    {
+      "id": "SG-20-08",
+      "status": "covered",
+      "reason": "Kara drives the Kryptonite blade into Non.",
+      "source": "SG-E20-EW",
+      "description": "Kara burns Non's eyes out with heat vision - kills Non"
+    },
+    {
+      "id": "SG-20-09",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Indigo reveals signal no longer from Omegahedron - can't be stopped"
+    },
+    {
+      "id": "SG-20-10",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Kara flies Fort Rozz into space - will die, does it anyway"
+    },
+    {
+      "id": "SG-20-11",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Alex rescues Kara in Kara's pod"
+    },
+    {
+      "id": "SG-20-12",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "J'onn pardoned and reinstated as DEO head"
+    },
+    {
+      "id": "SG-20-13",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Cat promotes Kara"
+    },
+    {
+      "id": "SG-20-14",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-EW",
+      "description": "Kryptonian pod cliffhanger"
+    },
+    {
+      "id": "SG-20-15",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-MULTI",
+      "description": "Kara's goodbye tour - Winn, Cat, James, J'onn"
+    },
+    {
+      "id": "SG-20-16",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-MULTI",
+      "description": "Lucy stands up to General Lane - mentions Lois"
+    },
+    {
+      "id": "SG-20-17",
+      "status": "changed_with_receipt",
+      "reason": "Butterfly thread woven through: Eliza reading Kara's paper/logs at DEO, the leak investigation thread as connective tissue. Canon style: show's emotional voice and pacing.",
+      "source": "SG-E20-MULTI",
+      "description": "Alex tells Eliza Jeremiah is alive at Cadmus"
+    },
+    {
+      "id": "SG-20-18",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-MULTI",
+      "description": "Max tracks signal to Fort Rozz in Nevada - US government had cloaked it"
+    },
+    {
+      "id": "SG-20-19",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-MULTI",
+      "description": "J'onn reinstated, co-directs DEO with Lucy"
+    },
+    {
+      "id": "SG-20-20",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-MULTI",
+      "description": "Cat gives Kara promotion and new office - finally calls her Kara not Kira"
+    },
+    {
+      "id": "SG-20-21",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-MULTI",
+      "description": "James gives Kara framed photo and kisses her"
+    },
+    {
+      "id": "SG-20-22",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-MULTI",
+      "description": "Dinner toast to family"
+    },
+    {
+      "id": "SG-20-23",
+      "status": "covered",
+      "reason": "",
+      "source": "SG-E20-MULTI",
+      "description": "Kryptonian pod crashes - cliffhanger"
+    },
+    {
+      "id": "U73-01",
+      "status": "changed_with_receipt",
+      "reason": "Butterfly carry-through: leak investigation thread (paper, pattern, names, ghost code, parking lot, back gate) woven as connective tissue through every scene. Chipped mug, theater mask magnet, Evelyn, bandage as ordinary texture. Adrian's existential arc: device threatens ordinary life, he holds the paper because the device can't reach it. Canon beats woven naturally in show's emotional character-driven voice and pacing.",
+      "source": "U73",
+      "description": "Butterfly effects carry through + canon woven naturally in show style"
+    },
+    {
+      "id": "OC-28-ADRIAN",
+      "status": "changed_with_receipt",
+      "reason": "Adrian's arc: the device makes ordinary life impossible. He spots the pod on the tracker - the realization that ordinary is something you do, not something you have. He holds the pattern at the dinner table because it will come back. Canon style voice: natural contractions, character-distinct dialogue, emotional interiority woven through action.",
+      "source": "U73",
+      "description": "Adrian's existential arc around the device threatening ordinary life"
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_28_R4_REVIEW.md",
+      "sha256": "c3a6ec93f7ccd261725d936bccbea1b17b9ab60ff78c63307521495fa20d8db0"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_28_R4_REVIEW.md",
+      "sha256": "c3a6ec93f7ccd261725d936bccbea1b17b9ab60ff78c63307521495fa20d8db0"
+    },
+    "power": {
+      "path": "audits/CHAPTER_28_R4_REVIEW.md",
+      "sha256": "c3a6ec93f7ccd261725d936bccbea1b17b9ab60ff78c63307521495fa20d8db0"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_28_R4_REVIEW.md",
+      "sha256": "c3a6ec93f7ccd261725d936bccbea1b17b9ab60ff78c63307521495fa20d8db0"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_28_R4_REVIEW.md",
+      "sha256": "c3a6ec93f7ccd261725d936bccbea1b17b9ab60ff78c63307521495fa20d8db0"
+    }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R4"
+}

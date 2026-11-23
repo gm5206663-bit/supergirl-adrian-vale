@@ -1,8 +1,8 @@
 {
   "chapter": 23,
-  "revision": "R1",
-  "draft_path": "drafts/Chapter_23_Solitude_R1.md",
-  "draft_sha256": "8a61af2f0e09162046e454c122f99bae97e5e11e6d6733a74ab7569df9afab78",
+  "revision": "R4",
+  "draft_path": "drafts/Chapter_23_Solitude_R4.md",
+  "draft_sha256": "9c8714b6f6843b078e56e440388d12d752a1fe68ccd42ca311ca785d634379b3",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -67,5 +67,7 @@
       "path": "audits/CHAPTER_23_R1_REVIEW.md",
       "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
     }
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R2"
 }

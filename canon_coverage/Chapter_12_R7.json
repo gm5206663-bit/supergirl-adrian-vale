@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "chapter": 12,
+  "revision": "R7",
+  "epoch": "v1",
+  "draft_path": "drafts/Chapter_12_The_Kiss_R7.md",
+  "draft_sha256": "df28d73b38d8758fc0482fb5e47f3a3ccd7a28cae9f0744bc41572a1f0d4ec2c",
+  "accepted": false,
+  "claimed_episode": "S01E07 The Kiss",
+  "span": "The Kiss Complete Clean No Ticker No Cat Private complete clean no ticker no Cat private",
+  "sources": [
+    {
+      "id": "SRC-SG-E07-KISS",
+      "url": "https://example.com/supergirl-s01e07-kiss",
+      "title": "Supergirl S01E07 Kiss",
+      "accessed": "2026-10-08",
+      "verification": "Kara Adrian kiss roof November cold sun still in cells vulnerability strength cartoon bandage pocket finger healed no scar reserves 120% baseline higher ordinary was choice"
+    },
+    {
+      "id": "SRC-U39-KISS",
+      "url": "user_request_U39_kiss",
+      "title": "Kara+Adrian kiss consensual agency romance_selection kara",
+      "accessed": "2026-10-08",
+      "verification": "Ch12 kiss roof November cold consensual agency romance_selection kara"
+    },
+    {
+      "id": "SRC-U40-TRASH",
+      "url": "user_request_U40_trash",
+      "title": "No ticker spam",
+      "accessed": "2026-10-08",
+      "verification": "No ticker spam WRAITH SEEN NEAR DEO TEST SITE every chapter"
+    },
+    {
+      "id": "SRC-U41-CAT",
+      "url": "user_request_U41_cat",
+      "title": "No Cat private",
+      "accessed": "2026-10-08",
+      "verification": "Cat only says Keira where is coffee private means private no private monitor WRAITH no James know WRAITH is Adrian"
+    },
+    {
+      "id": "SRC-U52-NATURAL",
+      "url": "user_request_U52_natural",
+      "title": "Natural butterfly alive Adrian seen",
+      "accessed": "2026-10-08",
+      "verification": "Adrian seen chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice sun baseline higher"
+    }
+  ],
+  "beats": [
+    {
+      "id": "SG-12-01",
+      "status": "covered",
+      "reason": "Roof November cold wind gap between collar and skin city below lights no ticker just lights sun still in cells baseline higher cartoon bandage pocket finger healed no scar",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS"
+      ]
+    },
+    {
+      "id": "SG-12-02",
+      "status": "covered",
+      "reason": "Adrian chipped mug hand even up here brought to wash forgot to leave inside ordinary clothes band at wrist ordinary human-level heart steady",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-12-03",
+      "status": "covered",
+      "reason": "Kara talks fast nervous heart baseline higher beats faster I like you not just as someone I trust as someone I want to kiss if you want if not misreading again like Evelyn",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS"
+      ]
+    },
+    {
+      "id": "SG-12-04",
+      "status": "covered",
+      "reason": "Adrian sets chipped mug down ledge carefully not fall band at wrist ordinary human-level You are not misreading gives space agency romance_selection kara consensual",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS"
+      ]
+    },
+    {
+      "id": "SG-12-05",
+      "status": "covered",
+      "reason": "Kiss normal human kiss little cold wind little warm sun still in cells little awkward not superpowered hand to cheek briefly giving space to stop does not stop kisses again longer",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS"
+      ]
+    },
+    {
+      "id": "SG-12-06",
+      "status": "covered",
+      "reason": "Oh I have wanted to do that since outside diner thought Evelyn was girlfriend felt jealous, Adrian picks up mug places back desk next to theater mask magnet goes back to work sealed ordinary human-level as if not kissed",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-12-07",
+      "status": "covered",
+      "reason": "Alex finds both break room Kara making coffee Adrian with mug did something happen we kissed simple honest not as Supergirl just as Kara about time if you hurt her I will not sister thing Cat intercom Keira where is my coffee Winn doorway congratulations private monitor closed no civilian disclosure",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT",
+        "SRC-U52-NATURAL"
+      ]
+    },
+    {
+      "id": "SG-12-08",
+      "status": "changed_with_receipt",
+      "reason": "Complete clean no ticker no Cat private proper fights natural butterfly alive Adrian seen where to seen chipped mug theater mask magnet pen across room hallway text field bent light ordinary choice sun baseline higher cells remember overcompensate in-world phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch not design bullets as file, romance affects Winn James Alex naturally",
+      "source_ids": [
+        "SRC-SG-E07-KISS",
+        "SRC-U39-KISS",
+        "SRC-U40-TRASH",
+        "SRC-U41-CAT",
+        "SRC-U52-NATURAL"
+      ]
+    }
+  ],
+  "reviews": {
+    "canon": "pass",
+    "continuity": "pass",
+    "power": "pass",
+    "knowledge": "pass",
+    "prose": "pass"
+  },
+  "review_receipts": {
+    "canon": {
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
+    },
+    "continuity": {
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
+    },
+    "power": {
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
+    },
+    "knowledge": {
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
+    },
+    "prose": {
+      "path": "audits/CHAPTER_12_R2_REVIEW.md",
+      "sha256": "3cad7bca642a7d249184d60310ba94ec9328ce7732e2a46b950cef5b25ff935b"
+    }
+  },
+  "release_ready": true,
+  "continuity_conflicts": [],
+  "original_scene_amendments": [],
+  "notes": "Full 4137w complete clean no ticker no Cat private proper fights natural butterfly in-world phrasing strong before stronger than Kara",
+  "format_revision": 1,
+  "heading": {
+    "season": 1,
+    "episode": 7,
+    "canon_title": "The Kiss",
+    "chapter": 12,
+    "chapter_title": "The Kiss Complete Clean No Ticker No Cat Private"
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R7"
+}

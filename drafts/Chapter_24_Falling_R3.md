@@ -1,313 +1,451 @@
-# Chapter 21: Falling
+# Chapter 24: Falling
 
 *Episode: S01E16 - Falling*
 
-The call came at 2:17 p.m. Chemical plant on the edge of National City, fire in the storage wing, three workers trapped on the second floor catwalk, wind pushing smoke toward the river.
+The call came at 2:17 p.m.
 
-Kara was already moving before Alex finished the sentence.
-
-She hit the sky over CatCo with chipped mug next to theater mask magnet, cape snapping, and went supersonic in the climb. She had learned to absorb her own momentum on takeoff after the Fort Rozz mess, to roll her shoulders and counter-rotate so the windows below didn't shudder. Ninety seconds. She could see the column now, black and orange, and the DEO chatter in her ear.
-
-"Second floor, north side. Beam's giving."
-
-She didn't try to be clever. Freeze breath first, wide and controlled, the way J'onn had shown her to think about Torquasm Vo as closing a door, not holding back a flood. She laid a sheet of ice across the lower doors to choke the fire, then dropped through the smoke.
-
-The catwalk was buckling. Two men and a woman in hard hats, coughing, holding a rail. The main support beam had slipped six inches and was pinning the exit.
-
-Kara got under it. She set her feet, breathed once, and lifted. She made herself feel the weight transfer the way Adrian had described it once after the train — not lifting the world, just taking the momentum into your own frame and not letting it go anywhere else. The beam came up. She held it with one hand and pulled the three of them through with the other.
-
-"Go," she said, voice rough from smoke. "Straight down the stairs, don't stop."
-
-She carried the beam out to the yard and set it down like it was glass. When she turned back, the storage drums on the far wall were venting. A fine red dust had burst from one of them, caught in the heat. It glittered.
-
-She breathed it before she could think not to.
-
-It didn't burn. It didn't make her weak. It just sat behind her eyes. She coughed once, shook her head, and flew the workers to the paramedic line. Alex was calling her name. She told Alex she was fine.
-
-She wasn't.
+Chemical plant on the edge of National City. Fire in the storage wing. Three workers trapped on the second floor catwalk. Wind pushing smoke toward the river.
 
 ---
 
-The next morning Cat Grant arrived at 9:30 and said, "Keira, where is my coffee?"
+Kara was at her desk at CatCo when her phone buzzed.
 
-Kara was already at the desk, but not in the cardigan she'd worn the day before. She was wearing a striped dress that clung and cut out at the midriff, and heels that made her taller than James, and lipstick that Cat herself would have called aggressive. She handed Cat the coffee without spilling and smiled in a way that was all teeth.
+She looked at the screen. The DEO alert. She read it in two seconds and stood up.
 
-Siobhan stared. Winn stared.
+Adrian was at his desk across the bullpen. He was typing. He didn't look up.
 
-Cat took the coffee, looked Kara up and down, and said, "Well. Who died and made you me?"
+"There is a fire at the chemical plant," she said.
 
-Kara laughed. "No one. I just got tired of being told to smile smaller."
+"I saw the alert," he said.
 
-James came over with a contact sheet from the plant. "Hey. You left before I could —"
+"Three workers are trapped. They're on the second floor catwalk. The smoke is moving toward the river."
 
-He reached for her arm. She didn't mean to grip back hard, but she did. Her fingers closed around his wrist and didn't let go right away. He winced.
+"You are going."
 
-"Kara, you're hurting me."
+"I'm going."
 
-She let go. The smile didn't drop. "Sorry. You startled me."
+"Go. Get the assignment from Alex first. Don't go without the assignment."
 
-Winn watched that hand. He'd seen Kara catch a falling light rig one-handed and set it down like it was nothing, always careful to make it look effortless, always checking if anyone was hurt. This was different. This was careless.
+"The fire is burning. The workers are trapped. I'm not waiting for the assignment."
 
-By lunch she had rewritten Siobhan's copy in front of Siobhan, told a junior reporter his pitch was boring, and told Cat that the magazine spread needed more skin because "awe is a kind of honesty."
+"You are waiting for the assignment. Because if you go without it, you'll be seen. And if you're seen, it will be in the news. And if it's in the news, Lord will have something to point at."
 
-Cat, who had sat with presidents and pop stars and knew when someone was performing, watched her for a long time and then called Supergirl to her office.
+Kara stood at her desk. Her hands were on the edge of the desk.
 
-Supergirl arrived in a new suit. Not the blue and red, but black, severe, cut like armor. It was not Bizarro wrong, eyes wrong teeth many. It was deliberate. Kara had taken the pattern and made it sharp.
+"I'm going to the DEO. I'm getting the assignment. Then I'm going."
 
-Cat closed the blinds.
+"Good. Get the assignment. Then go."
 
-"You want to tell me what's going on?" Cat said.
-
-Kara — no, Supergirl — perched on the edge of the desk. "People love me when I'm nice. They worship me when I'm not."
-
-That night she went to Noonan's. Not for pie. She stood on the bar and told everyone that National City didn't deserve her. She used a handful of peanuts to shatter three bottles behind the counter just to hear them pop. People filmed it. She liked that.
-
-Winn called James. James called Alex.
-
-At the DEO, Alex had a sample of the red dust from Kara's cape. She'd sent it to the lab without telling Kara.
-
-"It's synthetic," the tech said. "Kryptonite, but not green. Red."
-
-Hank — J'onn — frowned. "Red doesn't weaken. Red changes."
-
-Alex's phone rang. Maxwell Lord.
-
-Lord didn't bother with hello. "Is she angry? Is she... different? Wearing different clothes, being cruel, enjoying it?"
-
-Alex put him on speaker.
-
-Lord talked fast. He'd been trying to make synthetic Kryptonite to build a trap for Non. He'd wanted something that would take a Kryptonian off the board without killing them. He got the lattice wrong. The result didn't sap strength. It rewired affect. It made Kryptonians progressively more aggressive, more grandiose, less inhibited. It was a lab accident. A Gone Horribly Wrong.
-
-"And you let it sit in a chemical plant?" Alex said.
-
-"I didn't let it — the shipment was mislabeled, I — look, I'm not asking for forgiveness. I'm asking to fix it. I have an idea for a counteragent, but I need a DEO lab."
-
-J'onn looked at Alex. This was the man who had made Bizarro. This was also the man who sounded, for the first time since they'd met him, genuinely remorseful. Out of character, but not impossible.
-
-"Bring him in," J'onn said.
+Kara walked out of the bullpen and went to the elevator.
 
 ---
 
-Kara was over downtown now, high enough that the city was a grid. She'd stopped answering her comms. She'd told Alex she didn't need a sister who worried, told J'onn she didn't need a father figure who hid, told James she didn't need a boyfriend who flinched.
+She drove to the DEO. She went to Alex's office.
 
-She hadn't told Adrian anything. She hadn't seen him since yesterday morning, when he'd come in at 8:50 with his mug and put it back next to the magnet on the filing cabinet and gone back to typing. He'd looked tired. She'd liked that he looked tired and kept working anyway. Now she didn't like anything.
+Alex was at her desk with a map spread out in front of her. The map showed the chemical plant. The storage wing. The catwalk. The river.
 
-She dropped to the roof of CatCo and broadcast without a filter.
+"There you're," Alex said. "I was about to call you."
 
-"Do you know how hard I work?" she said, voice carrying. People on the street stopped. Phones came up. "I catch your trucks when your drivers fall asleep. I catch your bridges. I freeze your fires. And you love me best when I'm small. No more. No one on Earth can stop me."
+"I'm going to the plant."
 
-She meant it as a triumph. She felt huge, bright, finally honest.
+"You are going to the plant. I need you to go to the plant and get the workers off the catwalk. I need you to go in, get them out, and get out. I don't need you to fight the fire. I don't need you to stop the fire. I need you to get the workers out."
 
-It was a classic mistake.
+"I'll get them out."
 
-A shadow detached from the next building. Not Wraith — J'onn had learned not to let Adrian take those calls alone anymore, and Adrian wasn't here. This was J'onn as himself, seven feet tall, white eyes, Martian.
+"Go in from the south side. The smoke is moving north toward the river. The south side will have the clearest air. The catwalk is on the second floor. It runs from the storage wing to the loading area. The workers are on the catwalk between the two."
 
-"Kara Zor-El," he said, and his voice wasn't Hank's. It was older. "You are not well."
+"I'll go in from the south."
 
-She swung at him. She didn't hold back. He didn't dodge. He let her hit him and took a step back and said, in a language that made the air hum, "H'ronmeer."
+"Good. Go in. Get them out. Get out. Report to the radio. Don't go toward the smoke. Don't go toward the fire. Stay on the catwalk. Stay on the path."
 
-She knew that word. J'onn had taught her and Adrian the shape of it, not the sound — Torquasm Vo, closing the mind, Torquasm Rao, projecting it. She'd practiced it after the sun, after her finger healed and her baseline came up higher than ever, heart faster, vision sharper. She'd practiced it because Adrian did.
+"I'll stay on the path."
 
-J'onn didn't attack. He put a hand on her forehead and showed her a memory that wasn't hers: Mars, a furnace, two small graves. The grief was so clean it cut through the red.
+Alex looked at her. "This is a rescue. Not a fight. Get the workers out. Get out. That is the assignment."
 
-Kara gasped.
+"I've the assignment."
 
-Inside the quiet, J'onn spread ice from his feet, an ice dome to make a room where sound went flat. She could hear her own heartbeat, irregular, fast.
-
-Alex was there then, with Lord's counteragent in a pressurized syringe. J'onn held Kara while Alex pressed it to her neck.
-
-The red drained out of her eyes first, then her voice.
-
-She looked down at the black suit, at her hands, at the city staring up.
-
-"Did I kill anyone?" she whispered. It was the first thing she said. Thou shalt not kill — not a rule she recited, just who she was.
-
-J'onn said, "No."
-
-Alex said, "You nearly destroyed the riverfront. You didn't."
-
-Lord, behind them, said, "The effect is reversible. The personality change — the megalomania, the demand for awe and worship, the cruelty — it fades. The memory doesn't."
-
-They took her to the DEO. They gave her water. They gave her a blanket. They didn't give her a lecture.
+Kara turned and walked out. She went to the vehicle bay and got into the DEO aircraft.
 
 ---
 
-Cat was booked on The Talk that afternoon. She had been asked to discuss Supergirl, because Supergirl had been seen on a bar at Noonan's shattering bottles with peanuts and demanding worship.
+She took the aircraft up. She climbed above the clouds and turned toward the chemical plant.
 
-Cat went, because Cat goes where cameras are. She sat between two other hosts and said, "Supergirl is going through something. I have sat with difficult people before. I have sat with Putin, Pope Francis, and Taylor Swift and not worried about dinner with my son. Supergirl is not difficult. She is young and she is angry and she is allowed to be angry, but not cruel. There is a difference."
+The plant was on the edge of the city, near the river. It was a large complex of buildings and pipes and storage tanks. The storage wing was on the north side, near the river.
 
-The hosts asked if Supergirl was dangerous.
+She brought the aircraft down. She landed on the south side of the complex, in an open area away from the buildings.
 
-Cat said, "She is dangerous the way a storm is dangerous. You respect it. You don't poke it with a stick. And you don't put it on a bar and film it."
+She went in on foot.
 
-Kara watched it from the DEO med bay, in the black suit, and started crying again.
+The smoke was thick. It moved through the corridors and filled the air. Kara kept low. She moved along the south corridor, toward the storage wing.
+
+The catwalk was ahead. It ran along the side of the storage building, above the loading area. The smoke was thicker here. The wind was pushing it toward the river.
+
+She could hear them. Three people, coughing, calling for help. They were on the catwalk, between the storage wing and the loading area.
+
+She reached the catwalk. She went up the stairs. The metal was hot under her hands. The smoke was thicker here. She couldn't see more than a few feet ahead.
+
+"Kara Danvers, DEO," she called. "I'm coming to you. Stay where you're. Stay low."
+
+"We're here," a voice said. "We're on the catwalk. We can't move. The smoke is too thick."
+
+"I'm coming. Stay low. Stay where you're."
+
+She moved along the catwalk. She moved slowly. She kept low. She moved in the direction of the voice.
+
+She found them. Three workers. They were sitting on the catwalk, pressed against the railing, away from the smoke. They were coughing. Their faces were black with soot.
+
+"I'm here," Kara said. "I'm going to get you out."
+
+"Can you get us out?" one of them asked.
+
+"I can. I'm going to take you to the stairs on the south end. We will go down and out."
+
+"The smoke is too thick," the worker said. "We can't see."
+
+"I can see. I'll lead. Stay behind me. Stay low. Hold onto the railing."
+
+She stood up. She moved to the south end of the catwalk. She went down the stairs first. She kept her hand on the railing. She moved slowly, so the workers could follow.
+
+The smoke was thick on the stairs. Kara could feel it in her throat. She kept going. She reached the bottom of the stairs. She turned and looked up.
+
+The first worker was coming down. The second was behind him. The third was behind the second.
+
+"Come on," she said. "Stay low. Hold onto the railing."
+
+The first worker reached the bottom. The second reached the bottom. The third reached the bottom.
+
+"Follow me," Kara said. "I'm going to the south corridor. We will go out the south door."
+
+She led them down the corridor. The smoke was thinner here. She moved fast. She reached the south door. She pushed it open.
+
+The air outside was clear.
+
+She led them away from the building. She took them to the aircraft. She got them in.
+
+"Are you okay?" she asked.
+
+The first worker was coughing. He nodded. "We're okay."
+
+"Stay here. Help is coming. I need to go back."
+
+"You are going back?" the worker asked.
+
+"I need to check the rest of the building. There may be more people."
+
+"The building is on fire. You can't go back."
+
+"I can go back. I'm going back. Stay here. Help is coming."
+
+She got out of the aircraft. She ran back to the building.
 
 ---
 
-Hours later, after the med bay lights had dimmed, Kara sat on the edge of the bed with her boots off and her cape folded beside her. Alex sat next to her. J'onn stood by the door, back in Hank's face because the DEO still needed Hank.
+She went back into the storage wing. She moved through the corridors. She checked each room. She called out. She listened.
 
-Kara kept turning her hands over. The same hands that had gripped James too hard.
+Nobody answered.
 
-"It was just dust," she said. "Just Red Kryptonite. I breathed it and I was... I liked being angry. I liked being mean. I wanted everyone to look at me and be scared and love me anyway."
+She reached the catwalk again. She went up the stairs. The smoke was thicker now. The fire had moved closer.
 
-Alex said, "It affects minds. Makes you progressively more aggressive. It's not you."
+She moved along the catwalk. She checked the storage wing. She checked the loading area. She checked the far end.
 
-Kara shook her head. "But it was me. It was my anger, just louder. And it was only Red Kryptonite. Just that. Just one exposure."
+Nobody was there.
 
-She went quiet. Then she said, very quietly, "Adrian."
+She turned to go back. She reached the stairs. The fire had reached the stairwell. The flames were coming up the stairs. The smoke was thick. She couldn't see.
 
-Alex looked up.
+She went down anyway. She kept her hand on the railing. She moved through the smoke. She reached the corridor. She moved along it. She reached the south door.
 
-Kara said, "Just Red Kryptonite made me so angry I nearly tore the city apart. I wanted to. I thought no one could stop me. And I was only under it for a day. Adrian was under a red sun his whole childhood. Not a day. His whole life. Red sun development harmed temperament and emotional stability, not just life experiences. You told me that. His father was from an influential Kryptonian house, his mother from a collateral Daxamite royal branch, and Daxamite attackers murdered them both because of the mixed union. And he destroyed a city. A real city, on Krypton. Not because he wanted to be worshipped. Because he was in rage and grief and his power was unstable under a red sun that never let him be steady."
+The door was hot. The fire had reached the south side of the building. The door was blocked by flames.
 
-Alex didn't interrupt. J'onn didn't.
+She looked at the door. She looked at the corridor. She looked up.
 
-Kara's voice was thin. "He did it. Genuinely did it. Not framed. Genuine mass-killing culpability. And they caught him not because he wanted to be caught, but because he was exhausted. Advanced Kryptonian technology had to bring him in. No nerf to make the capture make sense. He was that strong even under a red sun. And then he built the device himself. The seal. He wanted ordinary. He built it himself to suppress himself to human-level so he wouldn't hurt anyone again."
+The ceiling was metal. The smoke was thick. The fire was below. The door was blocked.
 
-She wiped her eyes.
+She went up.
 
-"Just Red Kryptonite made me so angry, so malicious, so dangerous. I demanded awe and worship and shattered bottles with peanuts for laughs and wore that awful dress to prove I could be Cat and hurt James without meaning to. Just that. And he destroyed a city after his parents died even though he was affected by a red sun completely. He was affected completely. And now he controls enough to hear a pen across the room and not use it, to feel a field bend light around a car and choose to lift it like a person would, to text from the hallway when a friend needs help instead of listening through walls. That's willpower. That's strong willpower. How much is he holding back all the time?"
+She climbed the corridor wall. She reached the ceiling. She moved along it, away from the fire. She moved toward the loading area. She found a vent. She pulled it open.
 
-J'onn spoke, low. "Red sun power development does harm temperament. It did harm his. He knows it. He controls it anyway. That is not a small thing. That shows strong willpower. "
+The air outside was clear.
 
-Alex said, "You're realizing how much he's controlling."
+She went through the vent. She dropped to the ground outside. She was on the north side of the building, near the river.
 
-Kara nodded, tears finally coming. "Just Red Kryptonite made me so angry. And he destroyed a city after his parents died even though he was affected by a red sun completely. That actually also shows how strong his willpower is."
+She stood up. She ran along the side of the building. She reached the aircraft. She got in.
 
-She had gotten a text at 3:04 p.m., during the worst of it, when she was on the bar at Noonan's: "Kara, heartbeat irregular. Are you okay? I'm in hallway if you need." From Adrian. He hadn't come to the roof. He'd stayed in the hallway, where she could find him if she wanted, where he wouldn't be another person telling her who to be.
+She took the aircraft up. She climbed above the smoke. She reported to the radio.
 
-She called him now. He picked up on the second ring.
+"All workers are out. The building is on fire. I'm clear."
 
-"I'm at CatCo," he said. "I put your mug back."
+"Acknowledged," Alex said on the radio. "Good work. Come back."
 
-"I'm okay now," she said, voice still rough. "It was Red Kryptonite. Synthetic. Max Lord made it trying to trap Non. Gone Horribly Wrong, doesn't weaken, affects minds, makes you progressively more aggressive."
+"I'm coming back."
 
-"Are you hurt?" he asked.
+She flew the aircraft toward the city.
 
-"No. Did I kill anyone? No. Nearly destroyed city, but no."
+---
 
-He was quiet. Then, "Do you want me to come to DEO or do you want to come here?"
+She landed at the DEO and went to Alex's office.
 
-"Here," she said. "CatCo. I want ordinary."
+"All three workers are out," she said. "They're at the medical station. They're okay. They're coughing. They will be fine."
 
-He was there when she arrived, not in the Wraith suit, not as a headline, just Adrian in a soft shirt with the band at his wrist, typing. He had left space on the desk next to his keyboard where her mug usually sat.
+"Good," Alex said. "You did the assignment. You got them out."
 
-She sat. She didn't touch him right away. She just breathed.
+"I went back into the building. I checked for more people. There were no more. The fire had reached the stairwell and the south door. I'd to come out through a vent on the north side."
 
-"You controlled it for a day," he said quietly. "I didn't control it at all."
+"You went back in after the workers were out. That wasn't the assignment."
 
-"That's what I told Alex," Kara said. "Just Red Kryptonite made me so angry, but you destroyed a city after your parents died even though you were affected by a red sun completely. Red sun completely. And you control it now. You control it every day. You hear everything and you choose to hear pen and not use it. You could bend light and be invisible and you choose to lift cars like a person would. You built device yourself because you wanted ordinary. That shows strong willpower. How much you are controlling."
+"I went back in because there may have been more people. I checked. There were no more. I came out."
 
-Adrian's hand found hers under the desk, not big, not showy, just there.
+"The assignment was to get the workers out and get out. You did that. You also went back in. That wasn't the assignment. And it'd dangerous."
 
-"I am still learning," he said. "Torquasm Vo and Rao help. Thinking about sun helps. Thinking about you helps. ."
+"I know it'd dangerous. But I went back in because there may have been more people. There were no more. I came out."
 
-Kara squeezed. She had told Adam months ago on the roof in November cold, before the lean, hand up gentle but firm, boundary clear, "I'm with Adrian," because she wanted to, because she is Kara who chooses who to kiss. Agency shown through events, not told via repetitive paragraph.
+"Next time, you do the assignment. You get the workers out. You get out. You don't go back in. You don't check for more people. You do the assignment."
 
-Now she said it again, to herself.
+"I'll do the assignment."
 
-"I'm with Adrian," she whispered, and it steadied her more than any counteragent.
+"Good. Go home. You are done."
 
-At the DEO, Alex stayed late to file the report. She wrote: exposure to synthetic red Kryptonite, subject Kara Danvers alias Supergirl, duration approximately 26 hours, symptoms progressive aggression grandiosity decreased inhibition megalomania demand for awe and worship reenactment Superman III peanut scene wearing non-standard uniforms slinky striped dress peekaboo midriff black catsuit grip strength unregulated causing minor injury to civilian James Olsen no fatalities cure counteragent developed by Maxwell Lord in cooperation with DEO remorseful cooperation noted Out-of-Character Moment but documented.
+Kara turned and walked out. She went to her car and drove home.
 
-She paused, then added: subject's first words upon cure: "Did I kill anyone?" Thou Shalt Not Kill principle intact.
+---
 
-J'onn read it over her shoulder and said, "You should add that she nearly destroyed city. This Is Your Brain on Evil. And that she was stopped by Martian Manhunter after Tempting Fate statement no one on Earth can stop me."
+That evening, Kara went back to her apartment.
 
-Alex added it.
+Non was at the kitchen table. He looked up when she came in.
 
-Downstairs, Lord was still waiting for his escort. He looked smaller without his usual entourage, hands still cuffed, but talking to the guard about lattice structures and how he had been trying to make trap for Non and got it wrong, Gone Horribly Wrong. The guard didn't understand, but Lord kept talking because remorse needs a listener.
+"You did a rescue," he said.
 
-Kara, in the med bay, asked for her phone. She had three missed calls from Cat, one from James, one from Winn, and one from Adam Foster that just said "saw news, you okay? not a date, just friends, you said you have boyfriend Adrian since roof in November cold, I remember, you put hand up gentle but firm before lean, I remember."
+"I did a rescue," Kara said. She sat down across from him. "Three workers were trapped on a catwalk in a burning chemical plant. I got them out."
 
-She texted Adam back: "I'm okay. Red Kryptonite. Not me. Friends still. Thank you."
+"And you went back in."
 
-She texted James: "Sorry I hurt your wrist. It was Red. Not me. Can we talk tomorrow?"
+"And I went back in. I checked for more people. There were no more. I came out through a vent on the north side."
 
-She texted Winn: "Sorry I was cruel about games. You were right about DEO wanting me to cool it."
+"You went back in after the assignment was done. That wasn't the assignment."
 
-She didn't text Cat. Cat had already said what she needed to say on The Talk.
+"I know. Alex told me the same thing. I went back in because there may have been more people. There were no more."
 
-Later, when Adrian came to the DEO to bring her coat, the one she had left at CatCo, he didn't ask about the black suit or the peanuts or the dress. He just handed her the coat and said, "You want to go home or you want to stay?"
+"And you came out."
 
-"Home," she said. "My apartment. Where toothbrush is blue and second jacket is too big and book about sun is open. Ordinary."
+"And I came out. Through a vent. On the north side. Near the river."
 
-He nodded. "Ordinary."
+"You came out. That is what matters. You went in. You got them out. You checked for more. You came out. That is a complete action. It wasn't the assignment. But it'd the right thing to do."
 
-They flew home together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so the building didn't shake, flight counter rotation, quiet you okay at the end, not because they had to, but because they wanted to.
+"Alex said it'd dangerous."
 
-At her apartment, she made tea. He put his mug back next to the magnet, the one place she always knew to find it. No ticker, no private monitor, just city lights and tea and the quiet knowledge that just Red Kryptonite had made her so angry, and he had lived under a red sun his whole life and still chose to be ordinary every day, and that showed strong willpower.
+"It was dangerous. Going in is dangerous. Going back in is more dangerous. Coming out is the most dangerous part. You came out. That is what matters."
 
-At CatCo the next morning, things were ordinary on purpose.
+Kara leaned back in her chair. "I'm tired."
 
-Cat said, "Keira, where is my coffee?" and Kara, back in her own coat, the one Adrian had once said looked nice, brought it with both hands and didn't spill. No slinky dress. No heels that could cut.
+"I know. You did a hard thing. You went into a burning building. You got people out. You went back in. You came out. That is a hard thing. You are allowed to be tired."
 
-Winn came over and put a bagel on her desk without comment. James left a contact sheet face-down — not of her in the black suit, but of the workers from the plant, safe, with their families.
+"I'm not just tired. I'm tired of all of it. The fires. The files. The leak. The ghost code. The waiting. I'm tired of waiting."
 
-At noon Adam Foster came by with coffee for everyone because he'd heard about the plant and wanted to make sure Kara was okay. He was friends, not a date, because Kara had told him clearly months ago that she had a boyfriend, and he had listened. He stayed for ten minutes and left.
+"I know. But the waiting is the work. The waiting is the part that matters. Because when Lord makes his move, he'll act in the open. He will act in front of people. He will act because he wants everyone to see. And when he acts, he'll leave a trail. And the trail will lead to him. And you'll have the pattern. You will have the paper. You will have the names. And you'll use all of it. And you'll stop him."
 
-There would be another headline tomorrow. Tonight there was just coffee, and a mug put back where it belonged next to a magnet, and the quiet knowledge of how much control it takes to live under a red sun and still choose to be ordinary — and how much stronger that made Adrian's willpower than any synthetic red dust ever could.
+"And if I can't stop him?"
 
+"You can stop him. Not alone. Not with your power alone. You stop him with the pattern. You stop him with the paper. You stop him with the people you trust. You stop him by knowing what he did and how he did it and who helped him. And you stop him by using all of it at the right moment."
 
+"And until then?"
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, because second jacket was at Adrian's and would stay there.
+"And until then, you hold. You hold the pattern. You hold the paper. You hold the names. You watch the tech room. You watch Marcus. You watch the ghost code. You watch Lord. You watch without the cameras. You watch with your eyes. And you wait."
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families, not of her in black suit, but of ordinary.
+"And you stay here," Kara said.
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+"And I stay here. I wait with you. I don't leave. I don't call. I don't go out. I stay here until you and Alex tell me to leave. And then I go the way I came. I go to you first. I tell you where I'm going. And I wait there until you need me again."
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day, and how much stronger that made Adrian's willpower than any synthetic red dust ever could.
+Kara went to the sofa and sat down.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+The television was off. The city lights moved across the ceiling.
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+She sat there. She thought about the fire. She thought about the catwalk. She thought about the workers. She thought about the smoke and the flames and the vent on the north side.
 
-Both had learned control shows strong willpower.
+She thought about the files. She thought about the names. She thought about the leak. She thought about the ghost code. She thought about Lord, building his story, waiting for the right moment.
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
 
-She asked, "Do you think we will always spend all night together?"
+She knew one thing. She had the pattern. She had the paper. She had the names. And she would be ready.
 
-He said, "If you want. I want if you want."
+She sat there. The night went on. The city went on outside the window. The pattern was there. The paper was there. The names were there. And she would be ready when the moment came. She would hold. She would wait. And she wouldn't let go.
 
-"I want," she said.
+---
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+The next morning, Kara arrived at CatCo at eight.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, ordinary, all night shared.
+She walked through the lobby. The bullpen was quiet. Winn was at his desk. James was at his desk. The receptionist was at the front desk. Adrian was at his desk.
 
+She sat down and opened her email.
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+At nine, Cat called her into the office.
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+"The chemical plant fire," Cat said. She had a newspaper open on her desk. "The workers you saved are on the news. They're telling their story. They're saying a woman flew them out of the building."
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+"I flew them out," Kara said.
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+"I know you did. And now the story is out. And the story is about a woman who can fly. And the story is going to move. And when it moves, it will move on its own terms."
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+"And Lord will use it."
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+"Lord is already using it. He is calling it a miracle. He is calling it a tragedy that was averted. He is calling it a reason to build something. He is calling it a story that proves the city needs him."
 
-Both had learned control shows strong willpower.
+"He didn't cause the fire."
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+"He didn't cause the fire. But he's using the fire. He is using the rescue. He is using the workers. He is using your face on the news. He is building his story. And he's waiting for his moment."
 
-She asked, "Do you think we will always stay together?"
+"And we're waiting for his moment."
 
-He said, "If you want. I want if you want."
+"We're waiting for his moment. We hold the pattern. We hold the paper. We hold the names. We watch the tech room. We watch Marcus. We watch the ghost code. We watch Lord. And we wait."
 
-"I want," she said.
+"And when he makes his move?"
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+"And when he makes his move, we use the pattern. We use the paper. We use the names. We use all of it. And we stop him."
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+Kara stood by the desk. "I'm going to the DEO."
 
-At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+"Go. Do the work. Come back when you've something."
 
-J'onn read report and said, "You forgot to write they stayed together."
+Kara left Cat's office and went to the elevator.
 
-Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+---
 
-J'onn nodded. "Good."
+She drove to the DEO. She went to Alex's office.
 
+Alex was at her desk with her notebook open. She looked up when Kara came in.
+
+"I've been going through the paper," Alex said. "I've been going through the names. I've been going through the times. I've been looking for the pattern in the pattern."
+
+"What have you found?"
+
+"I've found that the ghost code was used three times in the last month. I've found that the ghost code was used on the night Astra left, on the night of the fire at Lord Technologies, and on the night the files were taken. I've found that the ghost code was used at two, three, and one in the morning."
+
+"The same times Marcus accessed the parking lot code."
+
+"The same times. Marcus accessed the parking lot code. And the ghost code was used. On the same nights. At the same times. And Marcus was in the corridor. And someone else was in the parking lot."
+
+"And someone else used the ghost code."
+
+"And someone else used the ghost code. Marcus was in the corridor. Someone else was in the parking lot. And the ghost code was used to open the back gate. And the back gate was opened at the same time Marcus was in the corridor."
+
+"So Marcus was in the corridor. And someone else was in the parking lot. And they were working together."
+
+"They were working together. Marcus went to the panel. Someone else went to the parking lot. Marcus opened the door. Someone else used the ghost code to open the back gate. And Astra walked out through the back gate."
+
+"And we don't know who the someone else is."
+
+"We don't know who the someone else is. But we know the ghost code was used. And we know the ghost code was created by Miller. And we know Miller left three months ago. And we know the ghost code is still in the system. And we know the ghost code will be used again."
+
+"And we watch for it to be used again."
+
+"We watch for it to be used again. Without the cameras. With our eyes. We watch who comes to the building at two, three, and one in the morning. We watch who's in the parking lot. We watch who uses the ghost code. And we write it on paper."
+
+"And we write it on paper," Kara said.
+
+"And we write it on paper. The paper is the only thing the leak can't change. The leak can change the system. The leak can change the cameras. The leak can change the logs. The leak can't change a piece of paper in our hands."
+
+Kara looked at the notebook on Alex's desk. The names. The times. The pattern. It was all there. It was all on paper. And the leak couldn't stop it.
+
+---
+
+That afternoon, Kara went to the tech room.
+
+She walked through the door and looked at the desks. Winn was at one. Two tech team members were at two others. The fourth desk was empty.
+
+She walked to the fourth desk. She looked at the computer. She looked at the monitor. She looked at the keyboard. She looked at the plant on the corner.
+
+"Miller sat here," she said.
+
+"Miller sat here," Winn said. "For three years. He knew the systems. He had admin access. He created codes. He changed codes. He deleted codes. He knew everything about the system."
+
+"And he left."
+
+"And he left. Three months ago. He said he got a better job. He turned in his badge. He walked out. And we thought his access was deactivated."
+
+"And his access wasn't deactivated."
+
+"His access wasn't deactivated. Or he created a ghost code before he left and the ghost code stayed in the system. Or he gave the code to someone before he left and that someone is still using it."
+
+"And that someone is in the parking lot at two, three, and one in the morning."
+
+"And that someone is in the parking lot at two, three, and one in the morning. And Marcus is in the corridor. And they're working together. And we don't know who that someone is."
+
+"And we find them by watching."
+
+"We find them by watching. Not by the systems. Not by the cameras. By watching. We watch who comes to the building at two, three, and one in the morning. We watch who's in the parking lot. We watch who uses the ghost code. And we write it on paper."
+
+"And we write it on paper," Kara said.
+
+She turned and walked out of the tech room.
+
+She walked down the corridor. She stopped at the holding area. She looked through the glass at the empty cell. The bed was empty. The floor was clean. The door was open. The panel was open.
+
+Miller had sat at the desk in the tech room. Miller had created the ghost code. Miller had given it to someone. And that someone had used it to open the back gate. And Marcus had walked the corridor. And Astra had walked out.
+
+And Miller was gone. And Marcus was still here. And the person who used the ghost code was still here. And we didn't know who.
+
+Kara walked past the holding area and went to the lobby.
+
+She stood by the door and looked at the city outside.
+
+The city was the same. The traffic moved in the same direction. The people walked the same streets. The buildings stood the same way.
+
+And somewhere in this city, Miller was hiding, or waiting, or both. And somewhere in this building, the figure was walking the same corridor, doing the same job, feeding the same information. And somewhere in this city, Lord was standing in his lab, watching the data come in, and building his story from it.
+
+She stood by the door and watched the city.
+
+She didn't go to the tech room. She didn't go to Marcus. She didn't go to anyone. She held the pattern. She held the paper. She held the names.
+
+And she waited.
+
+The city went on outside the window.
+
+And she watched.
+
+---
+
+That evening, Kara went back to her apartment.
+
+Non was at the kitchen table. He looked up when she came in.
+
+"You found that the ghost code was used on the same nights Marcus was in the corridor," he said.
+
+"We found that," Kara said. She sat down across from him. "The ghost code was used on the night Astra left, on the night of the fire at Lord Technologies, and on the night the files were taken. It was used at two, three, and one in the morning. The same times Marcus accessed the parking lot code."
+
+"And Marcus was in the corridor. And someone else was in the parking lot. And they were working together."
+
+"They were working together. Marcus went to the panel. Someone else went to the parking lot. Marcus opened the door. Someone else used the ghost code to open the back gate. And Astra walked out through the back gate."
+
+"And you don't know who the someone else is."
+
+"We don't know who the someone else is. But we know the ghost code was created by Miller. And we know the ghost code will be used again. And we're watching for it to be used again."
+
+"Good. The paper is the tool that the leak can't control. The leak created the code. The leak changed the creation log. The leak can't change a piece of paper in your hand."
+
+Kara leaned back in her chair. "I'm tired of waiting."
+
+"I know. But waiting is the work. The waiting is the part that matters. Because when Lord makes his move, he'll act in the open. He will act in front of people. He will act because he wants everyone to see. And when he acts, he'll leave a trail. And the trail will lead to him. And you'll have the pattern. You will have the paper. You will have the names. And you'll use all of it. And you'll stop him."
+
+"And if I can't stop him?"
+
+"You can stop him. Not alone. Not with your power alone. You stop him with the pattern. You stop him with the paper. You stop him with the people you trust. You stop him by knowing what he did and how he did it and who helped him. And you stop him by using all of it at the right moment."
+
+"And until then?"
+
+"And until then, you hold. You hold the pattern. You hold the paper. You hold the names. You watch the tech room. You watch Marcus. You watch the ghost code. You watch Lord. You watch without the cameras. You watch with your eyes. And you wait."
+
+"And you stay here," Kara said.
+
+"And I stay here. I wait with you. I don't leave. I don't call. I don't go out. I stay here until you and Alex tell me to leave. And then I go the way I came. I go to you first. I tell you where I'm going. And I wait there until you need me again."
+
+Kara went to the sofa and sat down.
+
+The television was off. The city lights moved across the ceiling.
+
+She sat there. She thought about the fire. She thought about the catwalk. She thought about the workers. She thought about the smoke and the flames and the vent on the north side.
+
+She thought about the ghost code. She thought about Miller. She thought about Marcus. She thought about Lord, building his story, waiting for the right moment.
+
+She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
+
+She knew one thing. She had the pattern. She had the paper. She had the names. And she would be ready.
+
+She sat there. The night went on. The city went on outside the window. The pattern was there. The paper was there. The names were there. And she would be ready when the moment came. She would hold. She would wait. And she wouldn't let go.'''

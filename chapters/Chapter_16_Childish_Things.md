@@ -4,182 +4,568 @@
 
 The morning started with a yo-yo.
 
-Not the kind from a toy aisle at National City Mall, not the kind Winn had played with as a child when his father still made toys for him and not for revenge. The news clip on the break room television at CatCo showed Van Kell Maximum Security at 0600, concrete and chain-link and guard towers that had been guard towers for twenty years. The clip was grainy, security footage, timestamped, routine that had been routine for six years since Winslow Schott Sr. had been sentenced for six counts of murder.
+A toy Yo-Yo lay on the floor of the lobby at CatCo. It was red and blue, with a string looped through the axle. It had been dropped there by someone who didn't care that it'd there.
 
-Then a man in his late fifties with neat hair and a soft voice and hands that had once made a robot that could walk and a doll that could say his son's name flicked his wrist, and the yo-yo left his hand on a string that was not string but braided steel, military-grade, the kind used for tripwires. The edge caught the light from the yard floods. It was a circular saw blade, balanced, sharpened, spinning at three thousand RPM, the teeth catching and throwing sparks. It cut through a security camera housing, through a lock housing, through a guard's baton as he raised it, through the chain that held the gate at the exact link that held tension, and returned to the man's palm with a soft whirr and a little blood that was not his.
+Kara picked it up on her way in. She turned it over in her hand. The string was tangled. The yo-yo didn't spin.
 
-Winslow Schott Sr. did not run. He walked. He had always walked, not run, because running was for people who were afraid, and he had not been afraid since he mailed a bomb in a teddy bear and killed six people who were not Chester Dunholtz.
+She put it in her pocket and went to her desk.
 
-By the time the second alarm sounded he was already at the outer gate, and the outer gate was already open because the yo-yo had cut the chain at the exact link, and two guards went down, not dead from the blade but from the fall when the gate slammed, and the news said killed because news says killed when it does not know, but later the report would say injured, concussion and broken wrist, and the clip made it look clean, almost surgical, almost like a toy.
+---
 
-Kara saw it while holding a chipped mug that had been there since Evelyn left. The mug had a theater mask magnet stuck to its side now, because Evelyn's niece had given it to her mother as a thank-you for covering a shift, and Evelyn had left it on the counter when she moved her things back to her apartment after Thanksgiving week, and Adrian had placed it back next to the coffee machine the morning after, ordinary, human-level, as if he had not lifted a beam off a car the night before, as if he had not taken Kara to sun and held her hand while her cells drank light and remembered to overcompensate, baseline higher temporarily then settles higher than before cells remember overcompensate.
+"Someone left a toy in the lobby," she said to Adrian.
 
-The mug was chipped on the rim, a small chip that caught lip, and Kara liked it because it was imperfect and because Evelyn had left it and because Adrian placed it back every morning without comment, ordinary.
+"I saw it," Adrian said. He didn't look up from his work.
 
-Winn walked in, saw the television, and went pale in a way Kara had never seen, not even when Red Tornado had ripped its own forearm and hydraulic fluid sprayed fifteen feet and scorched circle fifteen feet wide instead of ten, not even when Kara had cut her finger first time bleeding and it hurt small ordinary way. He reached for the remote and turned it off with a hand that shook, and the remote clattered against the table.
+"It is a yo-yo."
 
-"Winn?" Kara asked, because she is Kara and she asks.
+"It is a yo-yo."
 
-"It's nothing," he said, too fast, too loud for bullpen, too loud for 0900. "Prison break. Old news. Van Kell. Old news."
+"Who leaves a yo-yo in a lobby?"
 
-Adrian was at his desk in the bullpen, hearing Winn's pen stop scratching. He could hear the heartbeat from across the room, a fast irregular thump, 110 BPM then 130 then 90, and the way Winn held his breath, and the way his chair squeaked when he shifted weight. He did not look up. choice he made, built device himself because wanted ordinary, parents murdered mixed union Daxamites murdered parents over mixed union father Kryptonian influential house mother Daxamite collateral royal branch, city destruction genuine culpability, caught because exhausted, wanted ordinary. Part of ordinary was not staring when someone wanted to not be seen. He placed a file on Cat's desk, the mug next to the magnet, and went back to typing, pen audible to Kara but not to others, because Kara's hearing after sun sees individual dust motes in Cat office from bullpen and hears Adrian pen and baseline higher.
+"A child. Or someone who wants to look like a child." Adrian turned a page. "Both are a problem."
 
-Winn saw the mug, saw Adrian's hand place it back ordinary, saw Kara's smile when Adrian handed her file, small different smile since the sun since the roof in November cold. He had known since they started leaving together, since the magnet on the cabinet, since Adrian texted from the hallway once before instead of listening through walls. His jaw tightened because his best friend is with his crush, his guy in the chair is dating his crush, and he bottled it like his father bottled, which is why his heartbeat was irregular now, which is why his pen stopped.
+Kara put the yo-yo on her desk. She looked at it. The red and blue paint was chipped. The string was frayed at the end. It had been used. Not just dropped. Used.
 
-Ten minutes later two people in dark suits arrived. FBI. Agent Cameron Chase, sharp eyes, sharper suit, the kind of person who had read every file before she walked into a room and still asked questions as if she had not, the kind of person who had been on Buffy once in another life as Anya but now was FBI and was here for Winn and had a gun and a badge and a file that was thicker than Winn's employee file.
+---
 
-"Winn Schott Jr.," she said, voice that did not ask, told. "We need to ask you about your father."
+Cat called Kara into her office at ten.
 
-The bullpen went quiet, the kind of quiet CatCo gets when Cat is about to yell but Cat is not yet in, but her office door was open and the light was on and the mug was on her desk next to magnet and James was at his desk with a contact sheet from toy convention that had not happened yet and Lucy was by the elevator with a resume folder because Cat had offered her a job the week before as lawyer and she was deciding and she had JD-MBA from Harvard and West Point degree and Cat likes women who have done things and 90 percent of CatCo companies are run by women.
+"I want you to go to the DEO," Cat said. "I want you to pick up a package for me."
 
-James looked up, because he had known Winn for two years and had never heard him talk about his father, and because he knows Adrian is Wraith and will not tell Lucy private means private.
+"What package?"
 
-Kara tried not to listen. She failed. Kryptonian hearing in a quiet office is not a thing you can turn off without practice, and she had not practiced enough because the sun was still in her cells from the trip with Adrian and everything was louder, baseline higher, cells remember overcompensate. She could hear Winn's heartbeat, 130 now, could hear Agent Chase's pen scratching notes, could hear Adrian's pen across the room stop for half a second when Agent Chase said father, could hear James's heartbeat go fast because James knows secret.
+"A file. Alex Danvers is holding it for me. It is about the Lord Technologies fire. She has the investigator's report."
 
-"My father is Winslow Schott Sr.," Winn said, voice low, as if saying it quietly would make it less true, as if saying it in bullpen would make it less true, as if saying it where Kara and Adrian and James and Lucy could hear would make it less true. "He is the Toyman. He has been in Van Kell for six years for six counts of murder. I have not spoken to him since I was eleven."
+Kara stood by the door. "You want me to pick up a file."
 
-Agent Chase said, "He broke out at 0600 with a weaponized yo-yo. He killed two guards on the way out. He has not used his bank accounts. He has not contacted his old associates. The only person he has ever called from prison, once a year on your birthday, is you, and you never picked up. He left a doll at your front desk this morning."
+"I want you to pick up a file and bring it to me. Don't open it. Don't read it. Don't look at it. Bring it to me."
 
-Winn's hands were fists on his desk, knuckles white, the kind of white that comes before punch. "Because I hate him."
+"Why not have Alex send it?"
 
-"Why?" Chase asked, not unkindly, but directly, FBI direct.
+"Because I don't trust the email. I don't trust the cloud. I don't trust anything that leaves this building and comes back through a wire." Cat looked up. "I want it in your hands. I want you to walk it here. I want to know that it's in your hands and not in a system."
 
-"Because he was my best friend," Winn said, voice that was eleven again. "When I was a kid he made toys. Not for money, for me. He made a robot that could walk and a doll that could say my name, Winn, my boy, my best creation. He worked for Chester Dunholtz at Schott Toys. Dunholtz stole his designs. All of them. The jumping jack that became a bestseller, the talking bear, the robot, everything. My dad was... he was not a brave man. He was cowardly. He bottled things up. He did not yell, he did not fight, he did not tell Dunholtz to stop stealing, he just... held it. And one day he snapped. He put a bomb in a teddy bear and mailed it to Dunholtz's office. A teddy bear bomb."
+Kara nodded. "I'll go now."
 
-Kara's breath caught, audible to Adrian across room, inaudible to FBI. Across the room, Adrian's pen stopped again, because he knows what bottling does, because he did something bad a city genuine responsibility and was caught because exhausted and built device himself because wanted ordinary.
+"Go now. Come back with it. Don't stop anywhere. Don't talk to anyone. Don't put it down."
 
-"The assistant opened it," Winn said, eleven again, voice small. "Not Dunholtz. The assistant and five other people. Six counts. Six counts murder. I was eleven. My mom left. We moved. I changed my last name legally but kept Schott for work because... because I did not want to pretend he did not exist. I wanted to be better than him. I wanted to make things that help people, not things that kill."
+"I won't put it down."
 
-Agent Chase nodded, made a note, not unkindly, but FBI. "Has he contacted you since the escape?"
+"Good."
 
-"No," Winn said, and it was a lie, and everyone who knew Winn knew it was a lie because his heartbeat spiked to 140 and he looked at his bag and his bag buzzed and his hands shook.
+---
 
-The bag buzzed again.
+Kara drove to the DEO.
 
-Inside was a doll. Jester-style, 1970s costume, big forced grin, porcelain cracked at the corner of the mouth, eyes that did not blink. It had been left at the front desk that morning with Winn's name on it in neat handwriting that Winn knew, because it was his father's handwriting, the same handwriting that had written Winn's birthday cards before prison. The receptionist had thought it was a toy convention promo, because National City Toy Convention was next week and everyone was leaving toys.
+She walked through the lobby and went to Alex's office. Alex was at her desk with a file in front of her. The file was closed. It had a stamp on the front that said CONFIDENTIAL.
 
-Winn opened it in the interrogation room Cat lent the FBI because Cat likes the FBI when they are polite and hates them when they are not, and because Cat was not yet in but her office was open and she would have lent it anyway because she likes being involved. The doll said, in Winslow Sr.'s voice, soft, pleased, proud, the voice that had said Winn, my boy, my best creation, "Winn, my boy. My best creation. Meet me at our favorite spot. You know where. Our favorite spot."
+"Cat sent me," Kara said.
 
-Winn knew where. The boardwalk arcade at Santa Monica, where his father had taken him every Saturday before the murders, before teddy bear bomb, before six counts. The place with the Superman rocket ride outside and the smell of salt and old electricity and the skee-ball lanes where he had learned to add and where his father had taught him how to make a yo-yo sleep.
+"Cat always sends you," Alex said. She pushed the file across the desk. "Here. Don't open it."
 
-Kara was in the hallway, holding a file she did not need to hold, because she had heard the doll through the wall, through two walls, because sun baseline higher.
+"She said don't open it."
 
-"I should come," she said, not as Supergirl, as Kara Danvers, as friend.
+"I know what she said. I'm telling you the same thing."
 
-"No," Winn said, eleven and thirty at same time. "FBI sting. They will be there. Agent Chase will be there. They will catch him."
+Kara picked up the file. It was heavier than it looked. She held it in both hands.
 
-"I will be nearby," Kara said. "Not as... I will be nearby. As Kara. As friend."
+"Don't put it down," Alex said.
 
-Adrian walked past with a stack of layouts for Cat, ordinary, human-level, band at wrist, mug in hand even though he had just placed it back, because he had brought it to wash and then forgotten to leave it inside, brought to wash forgot to leave inside, ordinary. He caught Kara's eye for half a second, and she saw that he had heard too, because he could hear a pen across the room and therefore he could hear a doll's speaker through a wall, through two walls, because he is hybrid extraordinary before Fort Rozz. He gave a tiny nod, not a plan, just an acknowledgment: I heard, I am here if needed, I will not make it a spectacle, I will place mug back ordinary, I trust you to handle, I know Winn knows you are with me and that makes this harder.
+"She said that too."
 
-The arcade was exactly as creepy as an abandoned arcade should be when it has been abandoned for two years because the owner died and the city has not decided what to do with it. The lights were off but some machines were still plugged in, blinking, because no one had paid electric bill but no one had turned it off either. Robotic stuffed animals lined the walls, their eyes dark, stitching coming loose, fur matted. The Superman rocket ride outside was rusted, its red paint peeling, its blue seat faded, its coin slot jammed with a popsicle stick. The air smelled like brine and old popcorn and something sweet that had gone bad, like cotton candy left in sun.
+"I know. I'm saying it again."
 
-Winslow Sr. was waiting by the skee-ball lanes, hands in his pockets, looking smaller than his news photo, looking like a man who had been in prison for six years and had not eaten well, looking like Winn in thirty years if Winn bottled things up. Henry Czerny's face, soft, intelligent, terribly calm, the kind of man who could make a child's toy and a murder weapon with the same hands and not see difference.
+Kara turned and walked out of the office. She walked through the DEO lobby and went to the door.
 
-"Winn," he said, soft, pleased, father soft. "You came. My boy. My best creation."
+A man was standing in the lobby. He was leaning against the wall, reading a magazine. He was ordinary. He was unremarkable. He was the kind of man you wouldn't notice if you didn't look twice.
 
-"You killed two guards," Winn said, voice shaking, eleven and thirty, son and man.
+Kara looked twice.
 
-"I had to," Schott Sr. said, as if explaining to child why he had to go to prison. "They were between me and you. You are the best thing I ever made, Winn. Not the toys. You. Not the jumping jack, not the talking bear, you."
+He was wearing a dark coat. He had a bag over his shoulder. The bag was rectangular. It was the same shape as the bag in the footage from the fence-line camera at Lord Technologies.
 
-The FBI moved. Agent Chase gave a hand signal, small, FBI hand signal, and four agents stepped from behind machines, behind skee-ball, behind whack-a-mole, weapons raised, proper FBI, not rent-a-cop.
+Kara kept walking. She didn't change her pace. She didn't look at the man again. She walked to the door and went outside.
 
-"Winslow Schott Sr., hands where we can see them! FBI! Hands!"
+The man didn't move. He kept reading his magazine.
 
-Schott Sr. smiled, sad, father sad, the kind of sad that comes when son does not understand. "You should have come alone, Winn. You should have come alone, like I asked. Our favorite spot, just us."
+Kara walked to her car. She got in. She put the file on her lap. She started the car and drove away.
 
-He pressed a button in his pocket, small button, toy button.
+She didn't look back.
 
-The figure by the skee-ball lane flickered, like bad television, like hologram, because it was hologram projected onto glass, a trick of light, a toy's trick, the kind of trick Schott had invented for his toys, the kind of trick that made children laugh. The real Schott had never been there. The doll on the shelf laughed, a recorded laugh that was too long, too happy, the kind of laugh that makes children cry.
+---
 
-The stuffed animals on the walls opened at the seams, not with zippers but with little explosive charges that popped seams, and green gas hissed out, fast, heavier than air, pooling, then rising, chlorine and something else, something that burned nose and made eyes water, something that would become hydrochloric acid when it mixed with salt water in standard IV, NaCl and H2O to HCl, lethal to humans, the kind of chemistry Schott knew because he had made toys that needed to be safe and then made bombs that needed to not be safe.
+She drove to CatCo. She walked through the lobby and went to Cat's office. She knocked.
 
-The agents coughed, dropped to knees, masks not on fast enough because they had thought they were catching man with yo-yo, not man with poison gas.
+"Come in," Cat said.
 
-Winn shouted, "Dad, no! Dad, stop! Not again! Not six more!"
+Kara went in. She set the file on Cat's desk.
 
-Kara was already moving. She had been outside as Kara Danvers, waiting by the rocket ride, pretending to be on a call, wearing a CatCo jacket that was too thin for November and that Adrian had offered her his jacket for but she had said no because she is Kryptonian and does not get cold except when she does. She stepped behind a dumpster that smelled like old fish, and the air bent for half a second where she changed, not a flash, just light folding, light, ordinary choice to not be seen, private means private, no civilian disclosure.
+Cat put her hand on the file. She didn't open it. "Did anyone see you?"
 
-Supergirl ripped through the arcade's side wall, not the door, the wall, because the door was blocked by gas and she did not want to push gas toward Winn and agents, because she had learned from Red Tornado that absorbing momentum and flight counter rotation matter, that you do not just punch wall, you absorb momentum so wall does not collapse on people. Proper superpowered, supersonic, absorbing momentum so wall did not collapse, so agents did not die from falling concrete.
+"There was a man in the DEO lobby. He was wearing a dark coat. He had a rectangular bag over his shoulder."
 
-She inhaled.
+Cat's hand stopped on the file. "Did he follow you?"
 
-It was not a small breath. Kryptonian lungs, filled with sun from the trip with Adrian where he had taken her above the atmosphere and held her hand while her cells drank light and remembered to overcompensate, baseline higher temporarily then settles higher than before cells remember overcompensate, could hold a gymnasium of air, could hold a swimming pool of air. She took in the entire cloud, every molecule of poison, in one vast vacuum breath that pulled posters off walls and made the stuffed animals collapse inward and made Winn's hair fly back and made Agent Chase's hat fly off and made the Superman rocket ride outside rattle.
+"I don't know. I didn't look back. I drove here. I came straight to your office."
 
-She landed back in the arcade, boots soft on broken glass, cape not even dusty because she had flown so fast dust did not have time to settle, and looked at Winn, and at Agent Chase who was on knees coughing but alive.
+Cat looked at the file. Then she looked at Kara. "You did the right thing. You didn't stop. You didn't talk. You didn't put it down."
 
-"You okay?" she asked Winn, quiet, the same quiet she used when she caught him after the train, when she caught a gauntlet blast and turned it into sky, when she caught him through lab wall quiet you okay.
+"You told me not to."
 
-Winn was on the floor, coughing, eyes wet, eleven and thirty. "He was not even here. He was never here. He was hologram. Like... like my childhood. Hologram."
+"I told you not to. You didn't. That is the difference between being told and doing."
 
-"I know," Kara said, and she helped him up, because he was her best friend, and because she is with Adrian and Adrian is with her and Winn knows and that makes it harder but also makes it more important to help him up.
+Kara stood by the desk. "Who was that man?"
 
-Agent Chase was on her radio, calling for hazmat, for backup, for a perimeter, for a medal for Supergirl that Supergirl would not take. She looked at Supergirl with something like awe and something like suspicion, because FBI always has suspicion. "How did you— how did you know to be here?"
+"I don't know. But I know what he was doing. He was watching the DEO. He was watching who came in and who came out. He was watching you."
 
-"I was nearby," Supergirl said, which was true, because nearby is relative when you can hear pen, when you can hear heartbeat irregular from three miles, when you can hear doll speaker through two walls. She left before more questions could be asked, through the hole she had made, not the door, because she did not want to be seen leaving, because private means private, because light.
+"He had the same bag as the figure in the footage."
 
-At CatCo, Adrian had placed the mug back on the counter, next to magnet, next to Evelyn's niece's magnet, next to Cat's coffee that was always too hot. He had heard the gas alarm from three miles away? No, he had not, because he was choosing ordinary today, because ordinary was choice he made, because he trusts Kara to handle gas, because he knows baseline higher. He had simply been at his desk, working, ordinary, laying out Cat's editorial about night they named the Wraith, and when Kara came back twenty minutes later, hair a little windblown, jacket a little dusty, he did not ask where she had been. He handed her a file she had dropped, file that had fallen when she had rushed out as Kara Danvers.
+"I know." Cat put her hand on the file. "Lord is watching. He is watching the DEO. He is watching this building. He is watching you."
 
-"Thanks," she said, and her smile was different, tired, Winn tired.
+"Why?"
 
-He nodded, went back to work, ordinary, human-level, as if not flown, as if not heard gas, as if not known Winn knows they are together.
+"Because you're looking at his fire. Because you're looking at his warehouse. Because you're finding things he didn't want found." Cat leaned back. "He is watching you to find out what you know."
 
-Winn, back at his desk, monitor angled away from door, private means private, sticky note DO NOT SHOW CAT YET, tried to figure out where his father would go next. He knew his father, because he was his father's son, and he hated that he knew, and he hated that he knew Kara is with Adrian and he still loves her and he bottles it.
+Kara thought about the man in the lobby. The dark coat. The rectangular bag. The magazine. The ease of a man who had nothing to do and was waiting for something to happen.
 
-He typed: Schott Toys factory, abandoned, National City Industrial, SlingSchott, old factory, thermite? He typed and deleted and typed.
+"He wasn't doing anything," she said.
 
-He sent it to Kara, not to the FBI, not to Agent Chase, because he trusted Kara more than he trusted FBI, because Kara had breathed poison gas for him, because Kara is his best friend even though she is with Adrian.
+"He was doing the most dangerous thing. He was waiting. Men who wait are the ones who know what's coming."
 
-Kara read it, nodded at Adrian across the bullpen, who had heard Winn's typing from across the room, 60 WPM then 90 WPM then 30 WPM, and had not looked up, ordinary, pen.
+---
 
-Adrian gave tiny nod: I heard, hallway? No, factory.
+Kara went to her desk. She didn't sit down right away. She stood and looked at the lobby.
 
-Kara texted back: I will go, nearby, not as... nearby.
+The yo-yo was gone from her pocket. She had left it on her desk. She sat down and looked at it.
 
-Winn nodded, not looking up, because he knew Kara is with Adrian and Adrian is with Kara and that makes him bottle more, which is why he is time bomb.
+The red and blue paint. The chipped edge. The frayed string.
 
-There would be another headline tomorrow. Tonight there was a yo-yo blade, a doll that laughed too long, a gas that was breathed and dispersed in sky, and a door that was walked through in Lord Industries that had not happened yet but would tonight.
+She picked it up. She tried to spin it. The string caught. The yo-yo didn't spin. It just hung there, a toy that didn't work.
 
-Adrian placed the mug back on the desk next to the magnet, and went back to work, ordinary, human-level, as if he had not heard any of it, as if he had not known Winn knows they are together and that makes everything harder.
+"Someone left it in the lobby," she said to Adrian.
 
-Kara at her desk typing fingers not ache because baseline higher after sun, vision seeing individual dust motes in Cat's office from bullpen, hearing Adrian's pen across the room, choice he made and he chose to share sun with her and to text hallway when friend needed help and to place mug back ordinary.
+"You said that already."
 
-Tonight there was space given, and a secret kept, and a secret learned, and ordinary work, and a father who was hologram.
+"I'm saying it again. Someone left a yo-yo in the lobby. It was used. It wasn't new. It wasn't dropped. It was placed."
 
-Adrian went back to work.
+Adrian stopped typing. He looked at her. "A yo-yo is a toy."
 
+"A yo-yo is a message. Someone who wants to look like a child leaves a toy. Someone who wants to look harmless leaves a toy. Someone who wants you to pick it up and think about it leaves a toy."
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+"And you picked it up."
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+"I picked it up."
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+"And now you're thinking about it."
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+"And now I'm thinking about it."
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+Adrian went back to his work. "The man in the DEO lobby was a message too. He was placed there. He wasn't there by accident. He was there because someone wanted you to see him."
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+"I didn't see him until I was leaving."
 
-Both had learned control shows strong willpower.
+"You saw him. That is what matters. You saw him and you kept walking. You didn't stop. You didn't talk. You didn't put the file down."
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+Kara looked at the yo-yo. "Who leaves these things?"
 
-She asked, "Do you think we will always stay together?"
+"Men who manufacture events," Adrian said. "Men who don't wait for things to happen. Men who make them happen."
 
-He said, "If you want. I want if you want."
+---
 
-"I want," she said.
+The next morning, Kara arrived at CatCo at eight.
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+She walked through the lobby. She looked at the floor where the yo-yo had been. It was empty.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+She went to her desk and set down her bag. She looked at the desk. The yo-yo was still there. It hadn't moved.
 
-At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+She picked it up and put it in her pocket.
 
-J'onn read report and said, "You forgot to write they stayed together."
+She went to Cat's office and knocked.
 
-Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+"I need to talk to you," she said.
 
-J'onn nodded. "Good."
+"Come in," Cat said.
 
+Kara went in. She closed the door behind her. She took the yo-yo out of her pocket and set it on Cat's desk.
+
+Cat looked at it. She didn't touch it. "You found another one."
+
+"It was on my desk. It wasn't there yesterday. I put the first one in my pocket and someone put one on my desk."
+
+"You are being watched. Not by the man in the DEO lobby. By someone closer."
+
+Kara felt her hands tighten. "Inside the building."
+
+"Inside the building. Someone who can get to your desk. Someone who can leave a toy on it without being seen." Cat looked at the yo-yo. "Lord has people. He has people in the DEO. He has people in this building. He has people everywhere."
+
+"How many?"
+
+"I don't know. But I know this. The yo-yo on your desk means someone is close enough to touch your desk. And someone who can touch your desk can touch the file. And someone who can touch the file knows what Cat is looking at."
+
+Kara picked up the yo-yo. "I need to find who's inside."
+
+"You need to find who's inside. And you need to do it without them knowing you're looking." Cat leaned back. "Lord watches this building. He watches you. If he knows you're looking for his people, he'll move them. He will replace them. He will make it so you find nobody and you think you were wrong."
+
+"Then I need to look quietly."
+
+"You need to look quietly. You need to look like you aren't looking. You need to do your work and let them think you're doing your work and let them do what they do."
+
+Kara nodded. "I'll look quietly."
+
+"And bring me the yo-yo next time. Don't keep it. Don't play with it. Bring it to me."
+
+"I'll."
+
+Kara picked up the yo-yo and left Cat's office.
+
+---
+
+She went to her desk. She looked at the bullpen.
+
+Winn was at his desk, typing. James was at his desk, sorting contact sheets. The receptionist was at the front desk, reading her book. Adrian was at his desk, typing.
+
+Everything looked normal. Everything was normal. But someone had left a yo-yo on her desk. Someone had walked into the DEO lobby and stood against the wall with a magazine. Someone was watching.
+
+She opened her email. She started working.
+
+She didn't look at the bullpen again. She let her eyes stay on the screen. She let her hands type. She let her face stay neutral.
+
+She was doing her work. She was letting them think she was doing her work. She was letting them do what they do.
+
+---
+
+That afternoon, Kara went to the DEO.
+
+She went to Alex's office. Alex was at her desk.
+
+"I need you to check the security footage from the DEO lobby," Kara said. "The last two days. I need to see who came in and who went out."
+
+"You are looking for the man with the magazine."
+
+"I'm looking for everyone. I'm looking for who came in and who went out and who stayed. I'm looking for who touched my desk."
+
+Alex leaned back. "You think someone in the DEO left the yo-yo on your desk."
+
+"I think someone who can get to my desk left it there. The DEO isn't the only building. CatCo isn't the only building. Lord has people in both."
+
+"I'll pull the footage. Give me a day."
+
+"I'll wait."
+
+Kara stood by the door. "How is Hank?"
+
+"He is dealing with it."
+
+"Dealing with what?"
+
+"Dealing with being a Martian in a building full of humans who don't know he's a Martian. Dealing with the fact that he killed Jemm with his own hands. Dealing with the fact that Kara Danvers knows what he's." Alex looked at her. "He is dealing with it the way he deals with everything. He carries it."
+
+Kara nodded. "Tell him to talk to someone if he needs to."
+
+"He won't talk to someone. He will carry it."
+
+"That isn't a plan."
+
+"It is the plan he's."
+
+Kara turned and walked out.
+
+---
+
+That evening, Kara and Adrian sat on the sofa in her apartment.
+
+The television was on. The yo-yo sat on the table in front of them.
+
+"Someone left it on my desk," Kara said.
+
+"I know."
+
+"Someone inside the building. Someone close enough to touch my desk."
+
+"I know."
+
+"Cat says I need to look quietly. I need to look like I'm not looking."
+
+"Cat is right. If Lord knows you're looking for his people, he'll move them. He will make it so you find nothing."
+
+Kara picked up the yo-yo. She tried to spin it. The string caught again. The yo-yo didn't spin.
+
+"It doesn't work," she said.
+
+"It isn't meant to work. It is meant to be picked up. It is meant to be thought about. It is meant to make you wonder." Adrian looked at her. "You are wondering. That is what it's for."
+
+Kara put the yo-yo down. "I'm going to find who's inside. I'm going to find them quietly. I'm going to find them without Lord knowing I'm looking."
+
+"You will find them. You will find them by watching. Not by looking hard. By watching. You watch the bullpen. You watch the lobby. You watch who comes in and who goes out. You watch who touches what. You watch who doesn't belong."
+
+"And then?"
+
+"And then you bring the name to Cat. Before you do anything. Before you go anywhere. You bring the name to Cat."
+
+Kara leaned back against the sofa. "I'll."
+
+Adrian reached across the space between them and put his hand on her wrist. The band was beneath his cuff. He was human-level. He was ordinary.
+
+Kara closed her eyes.
+
+The television played. The city went on outside the window.
+
+After a while, she said, "Do you think Lord has someone in CatCo right now?"
+
+"I think Lord has someone in CatCo," Adrian said. "I think he's had someone in CatCo for a while. I think that someone watches you. I think that someone leaves toys on your desk to let you know they're there."
+
+"Why?"
+
+"To let you know they're there. To let you know they can touch your desk. To let you know they're closer than you think." Adrian paused. "It isn't a threat. It is a message. It is a message that says: I'm here. I'm close. I'm watching you."
+
+Kara picked up the yo-yo. She held it in her hand. The red and blue paint. The frayed string. The toy that didn't work.
+
+She set it down on the table.
+
+"I'm going to find them," she said.
+
+"I know you're."
+
+She didn't say anything else. She sat there with his hand on her wrist and the yo-yo on the table and the television playing and the city going on outside the window.
+
+The chipped mug sat on the desk beside the magnet, holding its corner the way it always did.
+
+---
+
+The next morning, Kara arrived at CatCo at seven-thirty.
+
+She walked through the lobby. She looked at the floor where the first yo-yo had been. It was empty. She looked at her desk. It was empty. No yo-yo. No toy. No message.
+
+She sat down and opened her email. She started working.
+
+She didn't look at the bullpen. She let her eyes stay on the screen. She let her hands type. She let her face stay neutral.
+
+She was watching. She was watching without looking like she was watching.
+
+At nine, the receptionist came to her desk. "There is a delivery for Cat," she said. "The courier left it at the front desk. It is a box."
+
+Kara stood up. "I'll take it."
+
+She walked to the front desk. A cardboard box sat on the counter. It was medium-sized. It had a shipping label on it. The label was addressed to CatCo, to Cat Grant, to the attention of Kara Danvers.
+
+Kara picked up the box. It was light. It rattled slightly when she moved it.
+
+She carried it to Cat's office and knocked.
+
+"Come in," Cat said.
+
+Kara went in and set the box on the desk.
+
+Cat looked at it. She didn't touch it. "Open it."
+
+Kara opened it. Inside, on a layer of packing paper, was another yo-yo. Red and blue. Chipped paint. Frayed string. The same as the first two.
+
+"Another one," Kara said.
+
+"Another message," Cat said.
+
+Kara took the yo-yo out of the box. She looked at the shipping label. "It was delivered by courier. Not dropped off. Not left in the lobby. Delivered. With a label. With an address."
+
+"With an address that leads nowhere," Cat said. "With a label that has no return name. With a box that was sent from a place that doesn't exist."
+
+Kara set the yo-yo on the desk. "The courier is real. The delivery is real. The yo-yo is real. Everything else is fake."
+
+"Everything else is a story," Cat said. "Lord writes stories. This is one of them. This story says: I'm here. I'm watching. I can get a box to your desk. I can get it past the receptionist. I can get it to you."
+
+"And I carried it to your office."
+
+"You carried it to my office. That is what he wanted. He wanted you to pick it up. He wanted you to carry it. He wanted you to open it and find another toy."
+
+Kara looked at the yo-yo. "What do I do with it?"
+
+"You don't play with it. You don't keep it. You don't throw it away. You put it in the box and you give the box to me."
+
+Kara picked up the yo-yo and put it back in the box. She closed the flaps and set the box on Cat's desk.
+
+"Who is doing this?" she asked.
+
+"I don't know. But I know this. The person who sends a yo-yo to your desk isn't the same person who stood in the DEO lobby with a magazine. The person in the DEO lobby was a watcher. The person who sends yo-yos is a messenger. They're different people. They work for the same man."
+
+"Lord."
+
+"Lord. Or someone in Lord's company. Someone who has access to a courier account. Someone who can send a box to a building and have it arrive."
+
+Kara stood by the desk. "I need to find the courier account."
+
+"You need to find the courier account. And you need to find it without Lord knowing you're looking. He will have used a shell. He will have used a fake name. He will have used a burner account."
+
+"Winn can trace it."
+
+"Winn can trace the account. The account will lead to a shell. The shell will lead to a fake name. The fake name will lead to nothing." Cat looked at the box. "But the courier is real. The courier delivered the box. The courier has a route. The courier has a schedule. The courier has a stop list. Find the courier. Find the route. Find where the box came from."
+
+"I'll."
+
+"And don't carry any more boxes to my office. If another one comes, leave it at the front desk. Don't touch it. Don't carry it. Don't open it. Leave it where it's and tell me."
+
+"I'll."
+
+---
+
+Kara went to her desk and called Winn.
+
+"I need you to trace a courier delivery," she said. "A box was delivered to CatCo this morning. Addressed to Cat Grant, attention Kara Danvers. I need the account that was used to send it."
+
+"I need the tracking number," Winn said.
+
+"I don't have a tracking number. There was no tracking number on the label."
+
+"Then I need the courier company name. The label will have it."
+
+"I didn't look at the courier company name. I only looked at the shipping label."
+
+"Go back to Cat's office. Look at the label. Get the courier company name. Then I can trace the account."
+
+"I'll."
+
+Kara went back to Cat's office. She picked up the box and looked at the label. The courier company name was printed in small letters at the bottom.
+
+She wrote it down. She went back to her desk and called Winn.
+
+"Courier company is Metro Express," she said.
+
+"Metro Express. Give me a day. I'll pull the account and the delivery route."
+
+"I'll wait."
+
+---
+
+The next day, Winn called her at CatCo.
+
+"The account was a burner," he said. "A prepaid business account. Bought with cash at a kiosk in the bus terminal. No name attached. No phone attached. Just cash and a card."
+
+"The delivery route?"
+
+"The box was picked up at a drop box near the bus terminal. The drop box is one of those rented boxes that anyone can use with a code. The code was entered at nine yesterday morning. The box was picked up at ten. It was delivered to CatCo at eleven."
+
+"So someone rented a drop box, put a yo-yo in a box, printed a label, and had it delivered."
+
+"That is what happened. The drop box rental was also paid in cash. The code was used once. The box was never used again."
+
+"There is no name. No account. No trail."
+
+"There is a drop box," Winn said. "There is a courier route. There is a delivery time. There is a building. That is all."
+
+"That is enough to watch," Kara said. "The drop box is at the bus terminal. If someone uses it again, I'll see them."
+
+"You won't see them. The drop box is in a public place. Anyone can use it. You can't watch every person who goes near it."
+
+"I can watch the area. I can watch who goes in and who goes out. I can watch who puts a box in the drop box."
+
+"And what if someone else puts the box in? A courier. A kid. A random person. You won't know who sent it."
+
+"I'll know who delivered it. And the person who delivers it works for the person who sends it."
+
+"That is a long chain. You will be watching a courier who doesn't know who they work for."
+
+"I know. But it's a chain. And chains have links. And I'll find the link."
+
+Winn was quiet for a moment. "You are going to watch the bus terminal."
+
+"I'm going to watch the drop box."
+
+"You are going to sit at the bus terminal and watch a drop box."
+
+"I'm going to watch the area. I'm going to look like I belong there. I'm going to look like I'm waiting for a bus."
+
+"You don't take the bus."
+
+"I don't take the bus. But I can look like I do."
+
+---
+
+That afternoon, Kara went to the bus terminal.
+
+She wore ordinary clothes. She carried a book. She sat on a bench near the drop box and looked like she was waiting for something.
+
+The terminal was busy. People came and went. Buses arrived and departed. A newsstand sold papers. A food cart sold pretzels. A man played a guitar near the entrance.
+
+Kara sat on the bench. She read her book. She didn't look at the drop box. She looked at her book. She let her eyes move without moving her head.
+
+The drop box was a grey metal box with a slot and a keypad. It was near the ticket counter. People walked past it. Some looked at it. Most didn't.
+
+Kara watched.
+
+She watched for an hour. She watched people walk past the drop box. She watched people stop at the ticket counter. She watched people go to the food cart. She watched people get on buses.
+
+Nobody put anything in the drop box.
+
+She watched for another hour. She watched a woman with a baby. She watched a man with two suitcases. She watched a group of teenagers. She watched an old man with a cane.
+
+Nobody put anything in the drop box.
+
+She watched for a third hour. The light changed. The terminal got busier. The evening crowd came in.
+
+Still nobody put anything in the drop box.
+
+Kara closed her book. She stood up. She walked away from the bench. She didn't look at the drop box.
+
+She went back to her car and drove home.
+
+---
+
+That evening, Kara and Adrian sat on the sofa in her apartment.
+
+"I watched the drop box for three hours," she said.
+
+"And nobody put anything in it."
+
+"Nobody put anything in it."
+
+"The drop box was used once. It was rented for one use. It won't be used again."
+
+"I know. But I'd to watch. I'd to see if anyone came back."
+
+"Nobody came back. The drop box was a one-time use. Lord will use a new drop box next time. Or he'll use a different method. Or he won't send another yo-yo at all."
+
+Kara leaned back against the sofa. "What is he doing?"
+
+"He is testing you. He is watching how you react. He is sending messages and seeing what you do with them. You picked up the first yo-yo. You carried the box to Cat's office. You watched the drop box for three hours. He is learning your pattern."
+
+"He is learning my pattern so he can predict what I'll do next."
+
+"Yes. And once he can predict what you'll do, he can plan around it. He can send the next message to a place he knows you'll look. He can leave the next toy where he knows you'll find it."
+
+Kara looked at the ceiling. "I don't like being predictable."
+
+"Then don't be predictable. The next time a box arrives, don't carry it. Don't open it. Don't watch the drop box. Do something he doesn't expect."
+
+"What?"
+
+"Nothing. Do nothing. Let the box sit. Let the toy sit. Let the message sit. Don't react. Don't pick it up. Don't carry it. Don't watch anything. Let him send the message and get nothing back. Let him wonder what you're doing."
+
+Kara thought about this. "If I do nothing, he'll think I missed it."
+
+"He will think you missed it. Or he'll think you don't care. Or he'll think you're watching something else. Either way, he won't know what you're doing. And not knowing is better than knowing."
+
+Kara nodded. "I'll do nothing next time."
+
+"You will do nothing. You will let the message sit. You will let it be there. You won't react."
+
+Adrian reached across the space between them and put his hand on her wrist. The band was beneath his cuff. He was human-level. He was ordinary.
+
+Kara closed her eyes.
+
+The television played. The city went on outside the window.
+
+After a while, she said, "Do you think he'll send another one?"
+
+"I think he'll," Adrian said. "He is learning your pattern. He will send another one to see if you change your pattern. He will send it to a different place. He will see if you pick it up. He will see if you carry it. He will see if you watch."
+
+"And I'll do nothing."
+
+"You will do nothing. And he won't know what to do with that. Men who manufacture events need a reaction. They need you to pick up the toy. They need you to carry the box. They need you to watch the drop box. If you do nothing, they've nothing to work with."
+
+Kara picked up the yo-yo from the table. She held it in her hand. The red and blue paint. The frayed string. The toy that didn't work.
+
+She set it back down.
+
+"I'll do nothing," she said.
+
+"I know you'll."
+
+She didn't say anything else. She sat there with his hand on her wrist and the yo-yo on the table and the television playing and the city going on outside the window.
+
+The chipped mug sat on the desk beside the magnet, holding its corner the way it always did.

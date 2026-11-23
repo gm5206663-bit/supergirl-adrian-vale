@@ -20,9 +20,17 @@ She looked up at him, then down at the red cloth spread between her hands. It wa
 
 That afternoon, Alex called with a direct number for DEO operations. Henshaw had agreed to let Kara work with them. She would share her movements; they would share information that could keep her alive. Training would begin when Alex cleared her arm.
 
-Adrian left the facility that evening after another interview. Henshaw required further appointments and contact details, but did not attempt to turn voluntary cooperation into an arrest whose consequences he could not control. The conviction remained under investigation. There was no pardon, and Adrian did not ask for one.
+Adrian left the facility that evening after another interview. Henshaw required further appointments and contact details, but didn't attempt to turn voluntary cooperation into an arrest whose consequences he couldn't control. The conviction remained under investigation. There was no pardon, and Adrian didn't ask for one.
 
-At home, he closed the seal himself. Distant traffic faded into the ordinary sounds of his apartment. Then he checked the fitted case he kept ready for emergencies and set it beside his work bag. Having a way to leave the seal did not mean he intended to leave his identity on the evening news.
+At home, he closed the seal himself.
+
+Distant traffic faded into the ordinary sounds of his apartment.
+
+On the desk beside his work bag sat the theater mask magnet Evelyn had left behind — a small thing, but the only piece of her that had stayed.
+
+He checked the fitted case he kept ready for emergencies and set it beside the magnet.
+
+Having a way to leave the seal didn't mean he intended to leave his identity on the evening news.
 
 For several days, the arrangement held.
 
@@ -92,7 +100,7 @@ By the time the last line came free, foam was covering the burning slick along t
 
 Kara landed beside him while an ambulance attendant examined the men he had carried out. Across the cordon, a cameraman turned his lens toward them. Adrian kept the mask on. When the attendant asked whether anyone else remained on the broken gangway, he answered with a shake of his head and pointed toward the crewman who had supervised the evacuation.
 
-There was nothing on him that belonged to Cat's office: no office shirt, badge, watch or visible band. To the people filming, he was the man in black who had come to help Supergirl.
+There was nothing on him that belonged to Cat's office: no office shirt, badge, watch or visible band. To the people filming, he was Wraith, who had come to help Supergirl.
 
 Kara waited until they were beyond the microphones before speaking.
 
@@ -104,7 +112,7 @@ Then he left over the water, still masked, instead of flying straight back to hi
 
 ***
 
-By the afternoon meeting, Cat had three usable views of the rescue and no confirmed name for the man in black.
+By the afternoon meeting, Cat had three usable views of the rescue and no confirmed name for Wraith.
 
 She played the clearest angle twice. The mask, high collar and moving coat gave the newsroom an unmistakable figure to print, but not an employee to identify. Beside Kara, Adrian turned a page in the ordinary shirt he had retrieved after returning unseen through the service entrance. His work bag was under his desk, the case closed inside it. He had re-engaged the seal before joining the others.
 
@@ -112,11 +120,17 @@ She played the clearest angle twice. The mask, high collar and moving coat gave 
 
 A producer suggested asking the harbor crews whether the man had given them a name.
 
-“Do that. And use the word unidentified until you have an answer. A black coat is not a biography.” Cat changed the image to Kara's failed attempt to blow out the fire.
+“Do that. And use the word unidentified until you've an answer. A black coat isn't a biography.” Cat changed the image to Kara's failed attempt to blow out the fire.
 
-Maxwell Lord appeared in the next clip, condemning untrained intervention around hazardous cargo. The tanker had not spilled, but the first burst of flame made an excellent loop for television.
+Maxwell Lord appeared in the next clip, condemning untrained intervention around hazardous cargo.
 
-Kara looked down at her notes. Adrian did not try to make her feel better by pretending the footage showed something else.
+The story above it was about Reactron — a man in metal who had been attacking National City. The footage showed Superman arriving, the red-and-blue blur that everyone already knew.
+
+Supergirl was the new one. The one who hadn't been assigned a headline yet, because CatCo was still deciding what to call her.
+
+The tanker hadn't spilled. But the first burst of flame made an excellent loop for television.
+
+Kara looked down at her notes. Adrian didn't try to make her feel better by pretending the footage showed something else.
 
 Cat let the clip finish. “Now that we've established how easily a rescue becomes a headline about liability, perhaps we can ask Supergirl what she's actually trying to do.”
 
@@ -150,11 +164,11 @@ At the DEO, Alex took her to the training room.
 
 Kara looked through the glass. “You weren't going to tell me that last week, were you?”
 
-Alex did not try to smile it away. “I'm telling you now.”
+Alex didn't try to smile it away. “I'm telling you now.”
 
 Kara considered the room, then nodded.
 
-Knowing the weakness was coming did not make it pleasant. Her knees felt less certain beneath her. When Alex told her to attack, she lunged too directly and found herself on the mat with her sister holding her wrist.
+Knowing the weakness was coming didn't make it pleasant. Her knees felt less certain beneath her. When Alex told her to attack, she lunged too directly and found herself on the mat with her sister holding her wrist.
 
 “Again,” Alex said, helping her up.
 
@@ -182,7 +196,7 @@ Her subordinate stopped the recording as the black-coated man crossed the gap ab
 
 “Do you know him?”
 
-“No.” Astra studied the image, then gestured for him to continue. Guessing at a face behind a mask would not tell her what had happened to Vartox. “Find out whether he stays with the girl.”
+“No.” Astra studied the image, then gestured for him to continue. Guessing at a face behind a mask wouldn't tell her what had happened to Vartox. “Find out whether he stays with the girl.”
 
 They still had no answer from the missing operative. Astra had ordered the places his handler routinely used cleared while they established what the humans knew. The warehouse where she would receive a prisoner was a separate rendezvous, not a place she intended to keep her people.
 
@@ -194,11 +208,11 @@ The Hellgrammite arrived there under guard. He glanced at the empty loading bays
 
 “Your soldiers found me.”
 
-“So will the humans. When they do, you will bring me one of their agents. Alive.”
+“So will the humans. When they do, you'll bring me one of their agents. Alive.”
 
 He looked at the guards. Neither moved aside.
 
-Astra turned the screen toward him. Kara was visible above the harbor, the man in black landing nearby.
+Astra turned the screen toward him. Kara was visible above the harbor, Wraith landing nearby.
 
 “If either of these two is with them, don't try to fight both. Watch where they take the shipment. Learn their route. There will be another opportunity.”
 
@@ -236,13 +250,13 @@ James looked from him to Kara. “You know?”
 
 Winn glanced upward, checking the windows. “That would save a lot of time.”
 
-She wanted their help finding things she could do well, and learning the things she could not yet do well. Not a campaign that turned every rescue into a test of whether the city liked her. James knew people who worked on the ground. Winn could find calls that needed a faster response than the city could provide.
+She wanted their help finding things she could do well, and learning the things she couldn't yet do well. Not a campaign that turned every rescue into a test of whether the city liked her. James knew people who worked on the ground. Winn could find calls that needed a faster response than the city could provide.
 
 That evening, James directed her to a stranded ambulance before its patient ran out of time. Winn found a frightened child whose pet was stuck in a tree. He neglected to establish that Fluffy was a snake until Kara already had it draped over both arms.
 
 By the time she returned it, she was laughing.
 
-Later, carrying groceries up six flights for an elderly woman whose elevator had failed, Kara realized she had not thought about the harbor for nearly an hour. The woman offered her an orange. Kara accepted it and ate it on the roof while James listened to her account of the snake.
+Later, carrying groceries up six flights for an elderly woman whose elevator had failed, Kara realized she hadn't thought about the harbor for nearly an hour. The woman offered her an orange. Kara accepted it and ate it on the roof while James listened to her account of the snake.
 
 When the laughter faded, he told her about Cat's latest demand.
 
@@ -256,7 +270,7 @@ Kara turned the orange peel between her fingers. “Cat already has that passeng
 
 James looked toward the lit windows of CatCo. “Then I can't promise she won't see you.”
 
-It was not comforting, but she trusted it more than reassurance he could not support.
+It wasn't comforting, but she trusted it more than reassurance he couldn't support.
 
 “I still want people to hear from me,” she said. “Let me work out how.”
 
@@ -278,7 +292,13 @@ Adrian studied the proposed route.
 
 “And the truck?” Kara asked. “If he attacks it, someone should be there who can keep the chemicals off the road.”
 
-Henshaw adjusted the assignments. The truck would cross an isolated service stretch under surveillance, with the approaches closed to traffic. Alex would travel in the escort vehicle; Kara would cover the cargo and crews. Adrian would stop the attacker before he could reach the crews or escape. He would change and release his seal before deployment, not wait for someone to be hurt. Field reports would use the assigned channel; neither his civilian name nor his prison identity needed to travel over an open radio.
+Henshaw adjusted the assignments. The truck would cross an isolated service stretch under surveillance, with the approaches closed to traffic.
+
+Alex would travel in the escort vehicle. Kara would cover the cargo and crews.
+
+Adrian would stop the attacker before he could reach the crews or escape. He would change and release his seal before deployment. Not wait for someone to be hurt.
+
+Field reports would use the assigned channel. Neither his civilian name nor his prison identity needed to travel over an open radio.
 
 It was less tidy than Henshaw's first diagram. It also gave them an answer to more than one thing going wrong.
 
@@ -332,7 +352,7 @@ Beyond them, the cargo trailer swerved. Another stinger from the opening attack 
 
 The prisoner strained once against Adrian's grip. Nothing moved except his own shoulder. He twisted his head and saw the mask from the harbor recording.
 
-He had not seen either flyer before committing to the attack. The food had been close enough to smell, the escort apparently human. Now the space between himself and the truck might as well have been the wall of a cell.
+He hadn't seen either flyer before committing to the attack. The food had been close enough to smell, the escort apparently human. Now the space between himself and the truck might as well have been the wall of a cell.
 
 Alex approached with restraints. Adrian kept the mask on while the prisoner was secured and moved inside the closed command vehicle. There were no reporters or civilian crew members at the operation; beyond the perimeter, the road remained closed.
 
@@ -394,7 +414,7 @@ Astra's face changed.
 
 “Kael.”
 
-Behind her, one guard took a step back so sharply that he struck a crate. The other lowered the hand he had been moving toward a second weapon. Recognition had done what disarmament had not: made them afraid to try again.
+Behind her, one guard took a step back so sharply that he struck a crate. The other lowered the hand he had been moving toward a second weapon. Recognition had done what disarmament hadn't: made them afraid to try again.
 
 Adrian kept the mask in his hand. None of them needed to be told what he had once done. He gave them no name other than the one they already knew.
 
@@ -410,17 +430,17 @@ Her eyes moved toward the far door.
 
 Adrian saw the decision before she completed it. When she moved, he crossed the space between them and stopped her at the exit. Her wrist met his hand; her shoulder met the closed door, held there without a blow.
 
-The guards did not move to help her.
+The guards didn't move to help her.
 
 “Let go,” she said.
 
 “Will you stay?”
 
-For a moment, she pulled against him. His grip did not change. Then she stopped.
+For a moment, she pulled against him. His grip didn't change. Then she stopped.
 
 “Yes.”
 
-He released her and stood between her and the door. Astra straightened her sleeve with a precision that did not quite conceal the effort it took to steady her hand.
+He released her and stood between her and the door. Astra straightened her sleeve with a precision that didn't quite conceal the effort it took to steady her hand.
 
 Over the earpiece, Kara asked what he had found.
 
@@ -434,7 +454,7 @@ When Kara arrived, Adrian had put the mask back on and the three prisoners were 
 
 Kara stopped just inside the door.
 
-Knowing her aunt might have survived had not prepared her for the movement of her face. Nor had hearing Adrian confirm it made the sight ordinary. This was not the fixed image of her mother that Alex had brought to the apartment. Astra turned toward her. She breathed. She said her name.
+Knowing her aunt might have survived hadn't prepared her for the movement of her face. Nor had hearing Adrian confirm it made the sight ordinary. This wasn't the fixed image of her mother that Alex had brought to the apartment. Astra turned toward her. She breathed. She said her name.
 
 “Kara.”
 
@@ -454,17 +474,17 @@ For an instant, Astra's expression softened. Then she looked toward the masked m
 
 “But you sent him to take a prisoner.”
 
-Astra did not deny it. “I needed to know what these people had done with Vartox.”
+Astra didn't deny it. “I needed to know what these people had done with Vartox.”
 
 “He's alive. Was bringing down the plane your order?”
 
 Outside, vehicles approached. Astra listened to them, then looked back at Kara.
 
-“I will not answer questions about my people in front of armed humans.”
+“I won't answer questions about my people in front of armed humans.”
 
 “You were going to make one of them answer yours.”
 
-The comparison tightened Astra's mouth. “There is more at stake than one agent. I watched our world destroy itself while people who could have stopped it refused to act. I will not let that happen here.”
+The comparison tightened Astra's mouth. “There is more at stake than one agent. I watched our world destroy itself while people who could have stopped it refused to act. I won't let that happen here.”
 
 Kara remembered the dead guard's identification card. She remembered the harbor crew trying to tell her where to put her hands.
 
@@ -490,7 +510,7 @@ Henshaw ordered the weapons secured. Astra watched the guards comply, then looke
 
 “Will you hear me without him deciding whether I'm allowed to speak?”
 
-Kara glanced at Adrian. He had not answered any of her aunt's questions for her.
+Kara glanced at Adrian. He hadn't answered any of her aunt's questions for her.
 
 “I'll hear you,” she said. “That isn't a promise to agree.”
 
@@ -504,15 +524,15 @@ At the DEO, the transfer took longer than the confrontation.
 
 Henshaw cleared the holding corridor, brought the existing kryptonite suppression system online in the designated rooms and kept Kara outside its field. Adrian stayed with her beyond the transfer vestibule while the agents completed the handover.
 
-Through the observation glass, Kara watched Astra's strength leave her. Her aunt reached for the edge of a table and stared toward the emitters. This was not a weapon she had expected the humans to possess.
+Through the observation glass, Kara watched Astra's strength leave her. Her aunt reached for the edge of a table and stared toward the emitters. This wasn't a weapon she had expected the humans to possess.
 
 “What is that?” Kara heard her ask.
 
 Henshaw answered from the control station. “Kryptonite.”
 
-He did not pretend the word settled everything. The cells would remain monitored, the captured weapons isolated and the prisoners separated while his people established what they could verify.
+He didn't pretend the word settled everything. The cells would remain monitored, the captured weapons isolated and the prisoners separated while his people established what they could verify.
 
-Astra was alive. So were her guards, the Hellgrammite and Vartox. The questions had not ended because the fighting had stopped.
+Astra was alive. So were her guards, the Hellgrammite and Vartox. The questions hadn't ended because the fighting had stopped.
 
 Kara turned away from the glass. Alex was beside her, hurt only by the shallow graze in her arm instead of whatever might have happened if the Hellgrammite had carried her away.
 
@@ -556,7 +576,7 @@ Then the image of Alura turned toward her.
 
 Kara stepped forward. The image waited.
 
-There were a hundred questions she wanted to ask, and one request she knew the light could not grant. She held her hands together until the urge to reach for her mother passed.
+There were a hundred questions she wanted to ask, and one request she knew the light couldn't grant. She held her hands together until the urge to reach for her mother passed.
 
 “Tell me about Astra,” she said. “Not only why you sentenced her. I want to understand what happened before that.”
 
@@ -572,7 +592,7 @@ Then he turned away.
 
 Cat was in her car when James called.
 
-“If you are about to tell me that Supergirl values her privacy,” she said, “I would like you to consider how little that sentence improves my evening.”
+“If you're about to tell me that Supergirl values her privacy,” she said, “I'd like you to consider how little that sentence improves my evening.”
 
 “She agreed to meet you.”
 
@@ -580,7 +600,7 @@ Cat was in her car when James called.
 
 The car rose smoothly from the ground.
 
-Cat went silent. Outside her window, the city dropped away; beneath the chassis, a red cape streamed in the air. When the car settled again, it was in a quiet place beyond the crowded streets, with enough light for Cat to see the woman who stepped around to her door.
+Cat went silent. Outside her window, the city dropped away; beneath the chassis, a red cape streamed in the air. When the car settled again, it'd in a quiet place beyond the crowded streets, with enough light for Cat to see the woman who stepped around to her door.
 
 Kara waited while Cat got out. She could have sent another message through James. She could have let the mystery of the masked man occupy the news for another evening while she put this off. Neither choice would have made the things she wanted to say less necessary.
 
@@ -600,6 +620,6 @@ Instead, Cat held up her phone.
 
 Cat's thumb hovered over the screen. “Then let's hear from you.”
 
-Kara stood a little straighter in the cape her cousin had sent her. She knew the others were out there: her sister, James, Winn, Adrian. Knowing she could call them did not make this their decision.
+Kara stood a little straighter in the cape her cousin had sent her. She knew the others were out there: her sister, James, Winn, Adrian. Knowing she could call them didn't make this their decision.
 
 It made it easier to make her own.

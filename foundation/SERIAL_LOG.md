@@ -1,4 +1,4 @@
-<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: db82fe50076c20d57bb59b5e2f004db942ab03ae44f28dcf2e776cd1b7424233 -->
+<!-- GENERATED from foundation/CURRENT_STATE_MANIFEST.json; SHA256: b07dd3c34935acdae59df68f80a368b5a0bb598135c2ce9c6e137c9932805c9f -->
 
 # Serial log
 
@@ -204,4 +204,12 @@ Chapter 25 adopted 25 w no skip
 
 Chapter 26 adopted 26 w no skip
 
-Accepted chapter edge: 26. Draft prose is not an accepted event.
+## E073-R4 — 2026-09-27 — rewrite
+
+U73 R4 rewrite of Ch27/Ch28: butterfly effects carry through naturally, canon woven naturally in show's canon style (emotional character-driven voice + pacing). Adrian's existential arc: device threatens ordinary life itself. Coverage, audits, drafts, and manifest updated.
+
+## CH29-29 — 2026-09-27 — chapter_adopted
+
+Chapter 29 The Adventures of Supergirl (S02E01) adopted R1. Canon style with butterfly carry-through.
+
+Accepted chapter edge: 29. Draft prose is not an accepted event.

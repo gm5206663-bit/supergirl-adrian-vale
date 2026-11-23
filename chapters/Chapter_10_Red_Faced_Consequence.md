@@ -1,331 +1,602 @@
 # Chapter 10: Red Faced Consequence
-
 *Episode: S01E06 - Red Faced*
 
-Kara kept the cartoon bandage in her pocket. Small dog with cape, Winn had given it, said it reminded her she could bleed, said it reminded her she could bleed first time life.
+Kara kept the cartoon bandage in her pocket. Winn had given it to her. A small dog with a cape. He said it reminded her she could bleed. She hadn't needed that reminder — the cut had closed already, a thin white line where the glass had gone in, then nothing — but she remembered how it felt. Not the missile on her shoulder. Not the fall from the sky. Small. Ordinary. A human way of hurting.
 
-The cut had already closed, thin white line, then nothing, but she remembered how it felt. First time bleeding. Small, ordinary, human way. Hurts small ordinary way, not like taking missile on shoulder, not like taking missile on shoulder, small ordinary human way.
+***
 
-At DEO, Alex showed her the photo Winn found: two men entering a cave in South America, only one leaving. Hank Henshaw, who redacted most of the file, presumed dead. The other, Jeremiah Danvers, declared dead accident, declared dead accident.
+At the DEO, Alex called her into the tech room.
 
-"Henshaw killed him," Alex said, voice tight, hands tight on console, eyes red, jaw tight.
+Winn was at the console with a file pulled up. The screen showed a photo: two men entering a cave in South America. Only one leaving.
 
-Winn said, "File redacted by Henshaw, only survivor. Eyes glow red chamber. I found while hacking DEO, father Jeremiah and another agent track alien, two men entered cave only one left, Hank Henshaw who ended up redacting most file presumed dead other agent Jeremiah declared dead accident."
+"Hank Henshaw," Alex said. Her voice was tight. Her hands were tight on the console. "Presumed dead."
 
-Kara looked at the photo, then at Alex, then at photo again. "We need to ask him. We need to ask Henshaw."
+She scrolled. Another image. A file stamped with redactions.
 
-Henshaw's office was empty, chair pushed back, coffee cold, half-drunk.
+"The other one," Alex said. "Jeremiah Danvers. Declared dead. Accident."
 
----
+Kara looked at the photo. Then at Alex. Then at the photo again.
 
-Cat called Kara in that morning, intercom, voice sharp.
+"Henshaw killed him," Alex said.
 
-"Where is my son?" Cat asked, not looking up from screen, typing, black marker. Then, "Keira, where is my coffee?"
+The words landed in the room like a stone dropped in still water.
 
-Kara blinked, standing in doorway. "Your son?"
+"File was redacted by Henshaw," Winn said. "Only survivor. Two men entered the cave. Only one left. Henshaw ended up redacting most of the file. The other agent — Jeremiah — declared dead, accident."
 
-"Adam. He is twenty-four. I send money. We do not speak. He is in National City, actually, but we do not speak. He is twenty-four, I send money, we do not speak." Cat finally looked up, eyes sharp, tired. "You cut your finger. When was your last tetanus shot?"
+Kara's hands weren't shaking. Her eyes weren't wet. But she felt it — the shape of it, the way a fact that had been a name on a wall suddenly became a person she had loved, had lost, had been told to believe was gone.
 
-"Yesterday," Kara said, holding hand still, bandage little dog with cape, cartoon bandage. "Bandage."
+"We need to ask him," she said. "We need to ask Henshaw."
 
-Cat studied her, from finger to face, from face to finger. "You are bleeding less than usual for someone who punches robots and melts asphalt with wide beam."
+***
 
-Kara kept hand still, smiled small, nervous.
+Henshaw's office was empty.
 
-Later, in bullpen, Adrian watched city through window, Evelyn's chipped mug in his hand, now with small chip more from where he had washed it, next to theater mask magnet, small magnet, magnet. He had heard Cat's question from across room, pen hearing, but did not say. Ordinary clothes, band at wrist, human-level again, ordinary.
+The chair was pushed back. The coffee was cold, half-drunk in the mug on the desk. The desk was clean otherwise. No files. No personal items. Nothing that said a man had been sitting there.
 
-Kara thought about wrist she broke in Red Tornado fight, about children flinching at bus stop shelter, about never figuring out ordinary extraordinary, about Evelyn fixing Adrian's collar and then hers, motherly, about mug, about Wraith named, about cut finger.
+Kara stood in the doorway. She looked at the chair. At the coffee. At the desk.
 
-James found her at garage again, punching bag gone, totaled car still there from DEO, 5580w earlier chapter but now garage quiet, garage quiet, car still there, totaled car.
+The man who had killed her father had sat here. Had typed here. Had made calls here. And now he was gone. Or dead. Or something worse — a man who had been wearing another man's face, wearing another man's name, and had been living inside the DEO for months without anyone knowing.
 
-"You broke your wrist?" he asked, leaning against car, arms crossed.
+She closed the door.
 
-"Red Tornado," Kara said. "I kept punching after it was done. Pent-up anger about road rage clip, about Cat's mother making Cat sharp, about never having a normal life because my parents put me in a ship, about Evelyn leaving and mug, about Wraith getting named before I could tell Adrian I was glad he had a name, about never having a normal life, about cut finger."
+***
 
-James said, "You want to hit something that won't break, or someone who will not flinch?"
+Winn was at the DEO console when Kara came back to the tech room.
 
-Kara looked at car, at garage, at James. She lifted it, super strength, flight inches off ground, letting hang, setting down gently, not destroy but feel weight, not break, naming things upset slips thought Adrian sister was girlfriend James realizes Adrian is Wraith will not tell Lucy moves like someone who does not want to be seen advanced restraint anger behind anger fear becoming someone who scares children never figure out ordinary extraordinary.
+He had the Lord Technologies security footage pulled up on his screen. The phase-through door. He was running it frame by frame.
 
-Adrian stood further back, in doorway, ordinary clothes, band at wrist, human-level again, ordinary, but eyes steady, hearing still.
+"I found something," he said without looking up.
 
-"You should not lift cars alone," he said quiet, not loud, just quiet, so only Kara heard, pen hearing.
+Kara stood behind him.
 
-Kara smiled, small, tired, small. "I know. Thank you. Thank you for telling me you talk about me to Alex."
+"The person who phased through the door," Winn said. "The footage is from the inside camera. It shows the corridor. No one is there. But the door control log shows the lock released at nine forty-two. And the internal camera shows nothing."
+
+"Nothing at all?"
+
+"Nothing," Winn said. "No figure. No shadow. No movement. Just an empty corridor and a door that unlocked."
+
+He paused. Scrolled back.
+
+"I went back through the footage from the outer camera," he said. "The one that covers the loading dock. And there's a gap. Four seconds. The footage from four seconds before the door unlocked is... gone. It was overwritten. Clean."
+
+"Like someone in the tech room did it," Kara said.
+
+"Like someone with admin access," Winn said. He looked up at her. His eyes were tired behind the glasses. "Miller had admin access. Miller left three months ago. And the log shows someone using his credentials in the last week."
+
+"Someone in the building," Kara said.
+
+"Someone in the building," Winn said. "Using a ghost code. For a person who doesn't exist. Feeding information to someone outside. And we're writing it on paper because the paper doesn't lie."
+
+Kara looked at the screen. The empty corridor. The overwritten footage. The four seconds of nothing.
+
+"How many nights?" she asked.
+
+"Twelve," Winn said. "Twelve nights with a gap in the footage. Twelve nights with the door unlocked. Twelve nights with someone walking through the building who isn't on the video."
+
+"And the paper," Kara said.
+
+"The paper shows the walk," Winn said. "The guard log. The handwriting. The walk-throughs at one-forty in the morning. Every time. The same time. The same rounds."
+
+Kara leaned on the console. The metal was cool against her arms.
+
+"We write it on paper," she said.
+
+"We write it on paper," Winn said.
+
+Cat called Kara in that morning. The intercom buzzed sharp.
+
+"Where is my son?"
+
+Kara stood in the doorway. "Your son?"
+
+"Adam. He is twenty-four. I send money. We don't speak." Cat was typing, not looking up. "He is in National City. Actually. But we don't speak."
+
+She finally looked up. Her eyes were sharp. Tired.
+
+"You cut your finger."
+
+Kara held her hand still. The bandage was the small dog with a cape, the cartoon bandage, the one Winn had picked out.
+
+"When was your last tetanus shot?"
+
+"Yesterday," Kara said.
+
+Cat studied her. From the finger to the face. From the face to the finger.
+
+"You are bleeding less than usual for someone who punches robots and melts asphalt with a wide beam."
+
+Kara kept her hand still and smiled. Small. Nervous.
+
+"You will need to tell me things, Keira," Cat said. "When they matter."
+
+"I know," Kara said.
+
+Cat looked at her for a moment longer. Then she picked up her pen and went back to the screen. "And the coffee," she said. "Wasn't ready when I asked for it. Remember that."
+
+"I'll," Kara said.
+
+***
+
+Later, in the bullpen, Adrian stood at the window.
+
+Evelyn's chipped mug was in his hand. A small additional chip from where he had washed it. It sat beside the theater-mask magnet on the edge of his desk.
+
+He had heard Cat's question from across the room. He had heard the pen scratch. He didn't say anything.
+
+His cuffs were down. The band was at his wrist. Human-level again. Ordinary.
+
+Kara typed at her desk. The words on the screen were about National City. About the harbor. About the freeway. About being with Adrian — not because anyone had told her to, not because the situation required it, but because she wanted to.
+
+James found her in the garage later.
+
+The punching bag was gone. The totaled car was still there, the one from the DEO fight. The garage was quiet.
+
+"You broke your wrist," he said. He leaned against the car. Arms crossed.
+
+"I heal," she said.
+
+"That's not what I asked."
+
+Kara looked at the car. At the garage. At James.
+
+She lifted it. Super strength. Flight, inches off the ground. She let it hang. Then she set it down — gently, not destroying it, just feeling the weight.
+
+"I know what it's to want to hit something that won't break," she said. "Or someone who won't flinch."
+
+James was quiet. He pushed off the car and stood in front of her.
+
+"You aren't the only one who wants to hit something," he said. "I've been writing about a man in black who saves people and doesn't take credit. I've been looking at photographs of him and wondering who he's. And I've been asking myself whether I want to know."
+
+Kara looked at him.
+
+"I don't want to know," James said. "Because if I know, I've to decide what to do with the knowledge. And I don't know what that would mean for the people I care about."
+
+"So you don't ask," Kara said.
+
+"So I don't ask," James said. He looked at the car. At the garage. At the floor. "I write about what I see. I don't write about what I don't know. And I don't ask questions that will change things I can't change."
+
+Kara thought about that. She thought about the file in her pocket. The cartoon bandage. The dog with the cape. The small ordinary hurt that had closed by morning.
+
+"Sometimes asking changes things," she said. "And sometimes not asking lets the wrong things keep going."
+
+James looked at her.
+
+"I know," he said. "That is why I'm standing here in a garage talking to you instead of writing my story."
+
+"Adrian is Wraith," he said. Not a question.
+
+Kara didn't answer.
+
+James nodded. "That explains the restraint. The way he moves. Advance restraint, not brute. Like someone who doesn't want to be seen."
+
+"He won't tell Lucy," Kara said.
+
+"I know," James said. "Moves like someone who has anger behind his anger. Fear of becoming someone who scares children."
+
+Kara didn't say anything.
+
+Adrian stood in the doorway, further back. Ordinary clothes. Band at the wrist. Human-level. But his eyes were steady. His hearing was sharp.
+
+"You shouldn't lift cars alone," he said. Quiet. Not loud. Just quiet, so only Kara could hear.
+
+Kara smiled. Small. Tired.
+
+"I know," she said. "Thank you. For telling Alex. For trusting me with the hallway."
 
 Adrian almost smiled.
 
----
+He went back to his desk. He opened his file again. He looked at the route map, the timings, the schedule. He didn't look up again.
 
-General Lane wanted Red Tornado's arm. Maxwell Lord wanted it too, wanted it too.
+***
 
-Alex went to Lord Technologies with a warrant, uniform, badge, serious. Lord said DEO had no jurisdiction over private tech, offered reward for info on Wraith once, mentioned outside jurisdiction once, said aliens took nothing after Alex confided DEO have working relationship with Supergirl, said aliens took nothing.
+The next morning, Kara went to the DEO early.
 
-Alex said, "We had a working relationship with Supergirl."
+Alex was already in the bullpen, a cup of coffee going cold at her elbow, a stack of paper in front of her. She looked up when Kara came in.
 
-Lord said, "You have a working relationship with many aliens, apparently. Mata Hari. You are Mata Hari."
+"I was going through the data from the Red Tornado fight," Alex said. "The suit's log. What the system recorded before it went down."
 
-At CatCo, Lucy told James her father General Lane told her she was holding James back, not good enough, holding her back.
+Kara sat across from her.
 
-James said, "You are not. He is wrong. You think wrong."
+"The suit was remote-operated from the lab," Alex said. "Someone in the Lord Technologies facility piloted it. The log shows the connection dropping at the moment the arm was torn off. But the suit kept moving. For four seconds. Then it went dead."
 
-Lucy said, "He thinks you are not good enough for me because you are photographer not soldier, because you are photographer not soldier."
+"Four seconds of what?"
 
-James said, "He is wrong about many things. He is wrong about Supergirl, he is wrong about Wraith, he is wrong about you."
+"Four seconds of no pilot," Alex said. "The suit was running on its own. Autonomous. And in those four seconds, it'd still fighting. Still trying to do what it had been told to do."
 
-Kara at desk, typing, fingers not ache, vision sees individual dust motes in Cat office from bullpen, hearing hears Adrian pen, ordinary was choice he made and he chose to share sun with her later, but now just ordinary, ordinary was choice he made.
+Kara leaned back. "That isn't possible."
 
-Later, Alex and Kara at apartment, pizza, TV night, Game of Thrones, blankets, pizza, TV night, Alex said she pushed Henshaw into using powers he did not want to, said she had date with Maxwell Lord, can handle him, that he wouldn't be able to do anything without her seeing it coming, that he wouldn't be able to do anything without her seeing it coming.
+"It is possible if someone built it to continue without a pilot," Alex said. "If someone designed the suit to keep fighting even after the link was cut. To protect itself. Or to keep going until it couldn't."
 
-Lord, at lab, saw security footage of someone phasing through door to Room 52, wondered who or what broke into facility. Inside, Jane Doe strapped table, brain trauma, bracelet, eyes black like demon, holographic projection Red Tornado torn-off arm, Bizarro Galatea, Jane Doe black eyes.
+"Or until it reached a certain point," Kara said.
 
-Kara told Alex about Wraith being Adrian, via slip, will not tell Lucy, moves like someone who does not want to be seen, advanced restraint, light, absorbing momentum, proper superpowered.
+Alex looked at her. "That is what I think too."
 
-Alex said, "You trust him?"
+Kara looked at the paper. The logs. The timings. The four seconds.
 
-"Yes," Kara said. "He caught a gauntlet blast and turned it into sky instead of overpowering. He braced a train door with shoulder while passengers moved. He asked for nothing. He heard alarm from CatCo and came to help evacuate lifting beam and car and catching me through lab wall quiet you okay. He placed mug back on desk next to magnet and went back to work ordinary human-level as if not helped."
+"He designed it," she said. "Lord designed the suit so it would keep going without him. So that even if the link was cut, it would still do what it'd supposed to do."
 
-Alex nodded. "Good. Then we trust him. Good."
+"And what was it supposed to do?" Alex asked.
 
----
+Kara didn't answer. She didn't have to. They both knew.
 
-Kara could not sleep, powers humming higher than ever after Red Tornado fight, baseline higher temporarily, cells remember overcompensate, finger healed, no scar.
+***
 
-Adrian was there, not too close, ordinary clothes, band at wrist, mug in hand even up here because he had brought it to wash and then forgotten to leave it inside, brought to wash forgot to leave inside, ordinary.
+At CatCo, Winn was already at his desk with the television on. The news was still running clips from the weekend — the freeway, the train, the harbor. The masked figure. Wraith.
 
-"You didn't have to come up here," Kara said.
+He muted it when Kara came in.
 
-"I wanted to," he said.
+"My father called," he said. He didn't look up from his keyboard.
 
-They stood, city below.
+"What did he say?"
 
-Kara said, "I cut my finger. First time bleeding. It hurt small ordinary way. And I kept punching Red Tornado after it was done because I was angry about other things. Road rage guy, Cat's mother, my parents putting me in ship, Evelyn leaving, Wraith named, cut finger."
+"He said the DEO shouldn't have let a Kryptonian general walk into a building full of civilians. He said I should quit and come home. He said I'm working for a government agency that doesn't exist."
 
-"I know," Adrian said. "I heard from bullpen. pen."
+Winn typed. Then he stopped.
 
-Kara laughed, bright, powers humming, brighter than before.
+"I told him I'm working for a friend," he said. "Who happens to work for an agency that doesn't exist."
 
-"Do you ever get tired of being ordinary?" she asked.
+Kara sat at her desk. "Did he like that?"
 
-"Ordinary was choice I made," he said. "Because I wanted ordinary. Built device myself because wanted ordinary. Some Daxamites murdered my parents over mixed union. My father Kryptonian, mother Daxamite. Influential house father collateral royal branch mother. I did something bad, a city, genuine responsibility, caught because exhausted. So built device myself."
+"No," Winn said. "But he stopped talking about it."
 
-Kara stared. "You did something bad a city?"
+***
 
-"Yes. Genuine culpability."
+Adrian was at his desk across the bullpen. He had a file open — not the one from the DEO, but a smaller one. Kara could see the corner of it from where she sat.
 
-"And you chose ordinary after?"
+He noticed her looking. He closed the file.
 
-"Yes. Wanted ordinary. Now choosing when not ordinary."
+"Route planning," he said. "For the maglev coverage. CatCo is covering the launch next week."
 
-Kara was quiet, wind, then, "Thank you for telling me. For sharing history natural phrasing not design bullets as file."
+"And the file is route planning?"
 
-Adrian nodded, went back to work next morning, ordinary, human-level, as if not flown, as if not told history, band at wrist, mug next to magnet, magnet.
+"And other things," he said. He didn't open it again.
 
-Kara at desk, finger healed, thinks maybe being able to bleed and being able to go to sun and being able to tell history are sides same thing, vulnerability and strength choosing when to share either, sun still in cells? No sun yet, that was next chapter, but tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history.
+Kara turned back to her screen. She didn't push. If Adrian wanted to tell her about the file, he would. If he didn't, he had his reasons.
 
-Adrian, at desk, placed mug back, went back to work, ordinary, human-level, as if not helped, as if not told history.
+***
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and history shared and ordinary choice and vulnerability and strength.
+General Lane wanted Red Tornado's arm. Maxwell Lord wanted it too.
 
-Adrian went back to work.
+Alex went to Lord Technologies with a warrant. Uniform. Badge. Serious.
 
-Kara at desk typing fingers not ache? No after Red Tornado fight, fingers ache? No, powers humming, but finger cut healed.
+Lord stood behind his desk. He didn't look surprised.
 
-She thought about what it means to be able to bleed and being able to melt asphalt and being able to be named Wraith and being able to be told you matter.
+"The DEO has no jurisdiction over private technology," he said.
 
-Adrian went back to work.
+"This is a murder investigation," Alex said.
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and ordinary choice.
+"Which is yours." Lord offered a smile that didn't reach his eyes. "I'll offer a reward for information on Wraith. Have I mentioned that?"
 
-Adrian picked up mug, placed back on desk, went back to work.
+"Yes," Alex said. "Once."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun with her later, but now just ordinary, ordinary was choice he made.
+"Then you understand my position." Lord leaned back. "Aliens took nothing from that lab. You confided that the DEO has a working relationship with Supergirl. Aliens took nothing."
 
-Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed.
+"We had a working relationship with Supergirl," Alex said.
 
-Thank you you do not need to thank me you needed sun I know what it feels like to burn out? No sun yet, that was next chapter, but tonight there was cut finger and Red Tornado melted.
+"You have a working relationship with many aliens, apparently," Lord said. "Mata Hari. That is you."
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and history shared.
+***
 
-Adrian went back to work.
+At CatCo, Lucy told James her father had told her she was holding James back. Not good enough for her.
 
----
+"You aren't," James said. "He is wrong."
 
-The morning after Red Tornado, CatCo was quiet, but DEO was not.
+"He thinks you aren't good enough for me because you're a photographer, not a soldier."
 
-Alex had Kara in med bay, vitals, blood pressure, hearing, vision, strength, heat vision, all baseline higher temporarily more then settles higher than before cells remember overcompensate.
+"He is wrong about many things," James said. "He is wrong about Supergirl. He is wrong about Wraith. He is wrong about you."
 
-"Reserves at one hundred twenty percent," Alex said, looking at screen, vitals spiking, heart rate, "Baseline higher temporarily more then settles higher than before cells remember overcompensate first time close after burning out."
+Lucy looked at him. She didn't say anything for a moment.
 
-Kara sat on edge of bed, cape folded, boots off, looking at hands, at cartoon bandage little dog with cape in pocket, at hands that had ripped forearm hydraulic fluid spray.
+"You say that like you know," she said.
 
-"I kept punching after it was done," Kara said, quiet, so only Alex heard, not loud. "Pent-up anger about road rage clip, about Cat's mother making Cat sharp, about never having a normal life because my parents put me in a ship, about Evelyn leaving and mug, about Wraith getting named before I could tell Adrian I was glad he had a name, about never figuring out ordinary extraordinary."
+James held her look. "I do."
 
-Alex said, "I know. I saw. You ripped forearm, hydraulic fluid spray, you kept punching after it was done, after it was done."
+***
 
-Kara said, "Why do I get to be angry? Men can be angry public, women can't, find anger behind anger what are you really angry about never have normal life parents put in ship."
+That evening, Alex and Kara sat on the sofa with pizza and the television on. Blankets over their legs.
 
-Alex said, "You get to be angry because you are person. You get to be angry because you lost Krypton, you lost parents, you were put in pod, you were in Phantom Zone twenty-four years, you came here baby was Superman, you learned English, you learned which sounds you were supposed to hear and which objects you were supposed to find heavy, you learned to catch yourself before doing something that would leave everyone staring, you carried list of people back to desk and tried to work out how you tell someone they aren't needed anymore, you collected layouts, you made calls, and tomorrow you'll do more of it, and you want something to be good, you want something to be part of your life too."
+The television was on a comedy show. Kara watched it without following it. Alex watched the screen without watching it at all.
 
-Kara looked at Alex, eyes wet. "Thank you."
+"I pushed Henshaw into using powers he didn't want to," Alex said. "I told him to fire. I told him to use the suit. And he did. And it took him."
 
-Alex hugged her, tight, sister thing.
+Kara stopped chewing.
 
----
+"It wasn't your fault," she said.
 
-General Lane wanted Red Tornado's arm, wanted Red Tornado's arm, wanted it for government, for anti-insurgent, for more Red Tornados.
+"I know," Alex said. But she didn't sound like she knew.
 
-Maxwell Lord wanted it too, wanted it too, for private tech, for Room 52, for Jane Doe black eyes, for Bizarro.
+The television laughed. Neither of them laughed.
 
-Alex went to Lord Technologies with a warrant, uniform, badge, serious, gun, jacket, Director Danvers? No, still agent, but warrant.
+"I've a date with Maxwell Lord," Alex said. She took a bite of pizza. Chewed. Swallowed. "I can handle him."
 
-Lord said DEO had no jurisdiction over private tech, offered reward for info on Wraith once, mentioned outside jurisdiction once, said aliens took nothing after Alex confided DEO have working relationship with Supergirl, said aliens took nothing, said aliens took nothing.
+Kara looked at her. "You can handle a man who builds weapons and talks like a silk handshake?"
 
-Alex said, "We had a working relationship with Supergirl."
+"He won't be able to do anything without me seeing it coming."
 
-Lord said, "You have a working relationship with many aliens, apparently. Mata Hari. You are Mata Hari. Femme fatale spy."
+Kara set her pizza down. "I don't like that."
 
-At CatCo, Lucy told James her father General Lane told her she was holding James back, not good enough, holding her back, not good enough for daughter.
+"I don't either," Alex said. "But it's the job. And I'm the one who can do it."
 
-James said, "You are not. He is wrong. You think wrong."
+Kara picked up her slice again. She didn't eat it.
 
-Lucy said, "He thinks you are not good enough for me because you are photographer not soldier, because you are photographer not soldier."
+"What if he does something you don't see coming?"
 
-James said, "He is wrong about many things. He is wrong about Supergirl, he is wrong about Wraith, he is wrong about you, he is wrong about what distinguishes humans from Kryptonians."
+"Then I'll deal with it."
 
-Kara at desk, typing, fingers not ache, vision sees individual dust motes in Cat office from bullpen, hearing hears Adrian pen, ordinary was choice he made and he chose to share sun with her later, but now just ordinary, ordinary was choice he made.
+"And if you can't?"
 
-Later, Alex and Kara at apartment, pizza, TV night, Game of Thrones, blankets, pizza, TV night, Alex said she pushed Henshaw into using powers he did not want to, said she had date with Maxwell Lord, can handle him, that he wouldn't be able to do anything without her seeing it coming, that he wouldn't be able to do anything without her seeing it coming.
+Alex looked at her. Her eyes were steady. But Kara saw the tiredness there, the weight of it, the way Alex carried all of it without showing any of it.
 
-Lord, at lab, saw security footage of someone phasing through door to Room 52, wondered who or what broke into facility. Inside, Jane Doe strapped table, brain trauma, bracelet, eyes black like demon, holographic projection Red Tornado torn-off arm, Bizarro Galatea, Jane Doe black eyes, Bizarro.
+"I can," Alex said. "That is what I'm. That is what the DEO trained me to do."
 
-Kara told Alex about Wraith being Adrian, via slip, will not tell Lucy, moves like someone who does not want to be seen, advanced restraint, light, absorbing momentum, proper superpowered, no jokes.
+Kara nodded. She took a bite of pizza. It tasted like cardboard.
 
-Alex said, "You trust him?"
+"I'm worried about you," she said.
 
-"Yes," Kara said. "He caught a gauntlet blast and turned it into sky instead of overpowering. He braced a train door with shoulder while passengers moved. He asked for nothing. He heard alarm from CatCo and came to help evacuate lifting beam and car and catching me through lab wall quiet you okay. He placed mug back on desk next to magnet and went back to work ordinary human-level as if not helped."
+"I know," Alex said. "And I'm worried about you too. That is what sisters do. They worry. And they do their jobs. And they come home."
 
-Alex nodded. "Good. Then we trust him. Good."
+"Come home," Kara said.
 
----
+"Yes," Alex said. "Come home."
 
-Kara could not sleep, powers humming higher than ever after Red Tornado fight, baseline higher temporarily, cells remember overcompensate, finger healed, no scar.
+***
 
-Adrian was there, not too close, ordinary clothes, band at wrist, mug in hand even up here because he had brought it to wash and then forgotten to leave it inside, brought to wash forgot to leave inside, ordinary.
+At the Lord Technologies lab, Maxwell Lord stood in front of a bank of monitors.
 
-"You didn't have to come up here," Kara said.
+Security footage played. Someone phasing through the door to Room 52. Lord watched it once. Then again.
 
-"I wanted to," he said.
+"Who or what broke into my facility?" he said.
 
-They stood, city below.
+No one answered. His assistant had gone home. The lab was empty except for the equipment and the thing on the table.
 
-Kara said, "I cut my finger. First time bleeding. It hurt small ordinary way. And I kept punching Red Tornado after it was done because I was angry about other things. Road rage guy, Cat's mother, my parents putting me in a ship, Evelyn leaving, Wraith named, cut finger."
+He looked at the next screen. Inside Room 52, a woman was strapped to a table. Brain trauma. A bracelet on her wrist. Her eyes were black, like a demon's.
 
-"I know," Adrian said. "I heard from bullpen. pen."
+On a holographic projection beside her, a torn-off arm rotated slowly. Red Tornado's arm.
 
-Kara laughed, bright, powers humming, brighter than before.
+Lord watched. He didn't look pleased.
 
-"Do you ever get tired of being ordinary?" she asked.
+He touched the screen. The arm stopped rotating. He thought about the woman on the table. He thought about what she had been. He thought about what she was now.
 
-"Ordinary was choice I made," he said. "Because I wanted ordinary. Built device myself because wanted ordinary. Some Daxamites murdered my parents over mixed union. My father Kryptonian, mother Daxamite. Influential house father collateral royal branch mother. I did something bad, a city, genuine responsibility, caught because exhausted. So built device myself."
+He had paid for the suit. He had paid for the lab. He had paid for the people who had built the suit and programmed it. And now the suit was gone. The arm was here. And the woman on the table was the only thing left that could tell him what had gone wrong.
 
-Kara stared. "You did something bad a city?"
+"Is she conscious?" he said.
 
-"Yes. Genuine culpability."
+A voice came through the speaker. "No."
 
-"And you chose ordinary after?"
+"Keep her alive," Lord said. "I need her."
 
-"Yes. Wanted ordinary. Now choosing when not ordinary."
+***
 
-Kara was quiet, wind, then, "Thank you for telling me. For sharing history natural phrasing not design bullets as file."
+Kara went to the DEO the next evening.
 
-Adrian nodded, went back to work next morning, ordinary, human-level, as if not flown, as if not told history, band at wrist, mug next to magnet, magnet.
+Alex was at her desk. The paper guard logs were open. She had been checking names against times against camera placements, page by page, in her own handwriting.
 
-Kara at desk, finger healed, thinks maybe being able to bleed and being able to go to sun and being able to tell history are sides same thing, vulnerability and strength choosing when to share either, sun still in cells? No sun yet, that was next chapter, but tonight there was cut finger and Red Tornado melted and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history.
+She looked up when Kara came in.
 
-Adrian, at desk, placed mug back, went back to work, ordinary, human-level, as if not helped, as if not told history.
+"What did you find?" Kara asked.
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and history shared and choice and vulnerability and strength.
+"I found the pattern," Alex said. "The ghost code was used on the night Astra left. It was used on the night the files were taken. It was used on the night the figure came to the parking lot. Four times. Four nights. Four uses."
 
-Adrian went back to work.
+Kara sat across from her.
 
-Kara at desk typing fingers not ache? No after Red Tornado fight, fingers ache? No, powers humming, but finger cut healed.
+"The person who created it isn't the person using it," Alex said.
 
-She thought about what it means to be able to bleed and being able to melt asphalt and being able to be named Wraith and being able to be told you matter.
+"Miller created it," Kara said.
 
-Adrian went back to work.
+"Miller created it," Alex said. "And left three months ago. Someone in the building has been using it. Marcus is the person who opened the door. The figure is the person who used the code. They're different people. Working together."
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and Evelyn left and James knows and Winn closed monitor and Cat mother left and Adrian told history and choice.
+"We don't know who the figure is," Kara said.
 
-Adrian picked up mug, placed back on desk, went back to work.
+"We don't know who the figure is," Alex said. "But we know the figure comes at one-forty in the morning. Through the back gate. Walks toward the tech room. Comes back at two-fifteen."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun with her later, but now just ordinary, ordinary was choice he made.
+She closed the log.
 
-Later DEO range beam wider hotter melted target faster left scorched circle fifteen feet wide instead of ten not out of breath after Alex whistles baseline higher indeed.
+"We will watch again," she said. "We will see who the figure meets. And we'll write it on paper."
 
-Thank you you do not need to thank me you needed sun I know what it feels like to burn out? No sun yet, that was next chapter, but tonight there was cut finger and Red Tornado melted.
+Kara looked at the stack of handwritten pages.
 
-There would be another headline tomorrow. Tonight there was cut finger and Red Tornado ash and Wraith named and history shared.
+"And we write it on paper," she said.
 
-Adrian went back to work.
+"The paper doesn't lie," Alex said.
 
-At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+Kara stood up. "I'll go home."
 
-Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+"Be careful."
 
-Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+"I always am."
 
-Kara, in the bullpen, typed, not hearing as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun.
+"I know. That's what worries me."
 
-There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+***
 
+Kara drove to her apartment. The city went on outside the window. The streetlights went past, one after another, the same rhythm, the same pattern, the same city she had lived in for years and still couldn't fully map.
 
+She parked. She walked up. The hallway was quiet. The door was closed.
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+She sat on the sofa. The television was off. The city lights moved across the ceiling.
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+She thought about the pattern. About the paper. About the figure in the parking lot. About Marcus. About the ghost code.
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+She thought about Henshaw's cold coffee. The empty office. The file redacted by the man who killed her father.
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+She thought about the four seconds. The suit running without a pilot. Keeping fighting even after the link was cut. Keeping going until it couldn't.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+She thought about J'onn. The Martian who had been protecting her. The one who had killed Jeremiah.
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+She sat there. The apartment was quiet. The refrigerator hummed. The city went on outside.
 
-Both had learned control shows strong willpower.
+She thought about the day she would stop waiting.
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+Adrian came home later. He sat at the kitchen table. He looked at her across the space.
 
-She asked, "Do you think we will always stay together?"
+"You're tired," he said.
 
-He said, "If you want. I want if you want."
+"I'm tired of waiting," she said.
+
+"I know."
+
+"Alex says we watch again. Tomorrow night. At the same time. And we write it on paper."
+
+"And you'll watch," he said.
+
+"I'll watch," she said. "From the corridor. In the dark. Without the cameras. With my eyes."
+
+Adrian nodded. He reached across the table and put his hand on her wrist.
+
+"Do you think we'll always stay together?" she asked.
+
+"If you want," he said. "I want if you want."
 
 "I want," she said.
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+She closed her eyes. The city went on outside. The night went on.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+***
 
-At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+The next morning, CatCo was quiet.
 
-J'onn read report and said, "You forgot to write they stayed together."
+Kara brought Cat her coffee. Cat took it without looking up.
 
-Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+"Keira," she said.
 
-J'onn nodded. "Good."
+"Here," Kara said.
 
+Cat looked at her. Not the finger this time. The face.
 
+"Jeremiah is alive," Cat said.
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+The cup in Kara's hand didn't move.
 
+"Your father," Cat said. "He is alive. He was dead. He isn't dead. He is alive. He is... complicated."
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+Kara's heart wasn't steady.
 
+"Go get me water," Cat said. "And tell me what happened."
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+Kara set the coffee down. "I'll tell you what I know."
 
+***
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+At the DEO, Alex found Kara in the hallway.
 
+"Jeremiah is alive," Alex said.
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+Kara leaned against the wall. She felt the tile against her back.
+
+"I know," she said. "Hank killed him. The real Hank. Jeremiah turned against him to protect J'onn. He was trying to protect a Martian. He was my father. He is alive."
+
+Alex was quiet. Her hands were on the console. She tapped it once.
+
+"J'onn is a Martian," Alex said. "He is the one who killed Jeremiah. He is also the one who has been protecting you."
+
+Kara closed her eyes.
+
+"I'm trying," she said. "I'm trying to be better than the things I've done. Better than the things I've seen. I'm trying to forgive J'onn. I'm also angry at him. I'm also a person who's trying."
+
+Alex tapped the console again. "Two calls," she said. "Five minutes each. Then you're off."
+
+***
+
+That night, Kara went to the DEO roof.
+
+The wind was cold. It moved through the wires on the roof, through the antenna, through her hair.
+
+Adrian was there. He was at the edge, looking down at the city. No ticker. Just lights.
+
+She stood beside him. The wind pulled at her coat.
+
+After a while, Kara said, "I don't know what to do about J'onn. He is a Martian. He killed my father. He has been protecting me. I don't know how to hold both of those things."
+
+Adrian didn't look at her. He looked at the city. The lights moved below them. The traffic went in the direction it always went.
+
+"You don't have to decide today," he said. "You can decide later. You can also just be angry. You can forgive him. You can not forgive him. You can wait."
+
+Kara looked at the city. The lights moved. The wind moved. The city didn't care about any of it.
+
+"I'm going to wait," she said. "I'm going to be angry for a while. I'm going to think about it. I'm going to decide later."
+
+Adrian nodded. "That is ordinary," he said. "That is what ordinary people do. They wait. They think. They decide. Later."
+
+She took his hand. Not pulling. Not asking. Just taking.
+
+His hand was warm. The wind was cold. The city went on below.
+
+They stood there. The city. The lights. The cold. The hand.
+
+The roof was quiet. The wind moved through the wires. Somewhere below, a car alarm went off and stopped. The city went on.
+
+***
+
+The next morning at CatCo was quiet.
+
+Kara brought Cat her coffee. Cat took it. She looked at Kara's face.
+
+"You look tired," Cat said. "Are you okay?"
+
+"I'm okay," Kara said.
+
+Cat studied her. Then she said, "My mother is still in town. She thinks I built this on luck. She visited. I stayed. She is difficult. But she's my mother."
+
+Kara waited.
+
+Cat went into her office and closed the door.
+
+***
+
+James found Kara at her desk later.
+
+He put a contact sheet on it. The harbor rescue. The freeway. The train. Three frames. Three events. One figure in black.
+
+"You left before I could ask you something," he said.
+
+Kara looked up.
+
+"The harbor," James said. "The freeway. The train. You were there. All three. And no one knew. Not me. Not Winn. Not Cat. No one."
+
+Kara looked at the contact sheet. At the three frames.
+
+"You knew someone was there," she said. "You wrote about it. You wrote about the masked figure. The Wraith."
+
+"I wrote about what I saw," James said. "I saw someone. I didn't see who."
+
+Kara met his eyes. "I don't know who you saw."
+
+James looked at her. He didn't say anything for a long moment.
+
+Then he said, "Are you okay?"
+
+"I'm okay."
+
+"Good," James said. He went back to his desk.
+
+***
+
+That night, Kara went to the DEO roof.
+
+Adrian was there. He was at the edge again.
+
+She stood beside him. The city went on below.
+
+After a while, Kara said, "I'm worried that I'm moving too fast. That I should wait. I should think about it. I should be careful."
+
+Adrian looked at her this time.
+
+"You can be careful," he said. "You can also be honest. You can choose. You can have both."
+
+Kara thought about it.
+
+"I want both," she said.
+
+Adrian nodded. "Then have both," he said. "Be careful. Be honest. That is what ordinary is. Learning. Every day. Choosing. Every day."
+
+She took his hand. Not pulling. Not asking. Just taking.
+
+His fingers closed around hers. The wind was cold. His hand was warm. The city went on below, the lights moving across the dark, the traffic going in the direction it always went, the wires humming, the night going on.
+
+They stood there on the roof of the DEO. The two of them.
+
+The woman who could fly. The man who had chosen not to.
+
+The city didn't know they were there. The night didn't care. The lights kept moving.
+
+There would be another headline tomorrow. Tonight there was a choice to be ordinary. A sister who was learning to forgive. A man who had chosen to be ordinary and hadn't been afraid.

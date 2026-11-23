@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 4,
-  "revision": "R1",
+  "revision": "R4",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_04_What_Remains_R1.md",
-  "draft_sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
+  "draft_path": "drafts/Chapter_04_What_Remains_R4.md",
+  "draft_sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
   "accepted": true,
   "claimed_episode": "S01E01 \u2014 Pilot",
   "span": "Power-plant departure through DEO consequences, evening sisters/Alura recording and closing Astra response; later James rooftop function remains pending.",
@@ -139,5 +139,7 @@
     "chapter_title": "What Remains"
   },
   "accepted_path": "chapters/Chapter_04_What_Remains.md",
-  "acceptance_receipt": "audits/CONTINUATION_Chapter_04.md"
+  "acceptance_receipt": "audits/CONTINUATION_Chapter_04.md",
+  "updated_on": "2026-09-27",
+  "draft_revision": "R2"
 }

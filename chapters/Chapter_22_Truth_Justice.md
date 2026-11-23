@@ -2,320 +2,450 @@
 
 *Episode: S01E14 - Truth, Justice and the American Way*
 
-The Master Jailer came at noon.
+The morning started with a television.
 
-Not at DEO, at CatCo. He walked through lobby in Fort Rozz armor, not as prisoner, as guard who thought he was still guard, and he said, "Kara Zor-El, you are sentenced."
+A news report was playing in the break room at CatCo. Kara heard it as she walked past. The report was about a man who had been arrested at a Lord Technologies facility. The man had been carrying a bag. The bag had contained documents. The documents had contained names.
 
-Cat was at desk. She said, "Keira, where is my coffee?" and then saw armored man and said, "And who are you and why are you in my lobby without appointment?"
+The names were DEO names.
 
-Kara was already moving, supersonic, absorbing momentum so windows didn't shudder, counter rotate so building didn't sway, ninety seconds from desk to lobby.
+---
 
-Master Jailer was tall, Fort Rozz guard, believed prisoners who escaped must be executed, believed in law that no longer exists.
+Kara stopped in the doorway of the break room.
 
-He swung at Kara. She blocked. He had Kryptonian tech baton that could hurt Kryptonian. She felt it.
+The television was on the counter. Two employees were watching it. They were eating their breakfast and not paying much attention. The report was background noise to them. It wasn't background noise to Kara.
 
-Adrian was at his desk, chipped mug next to theater mask magnet, and he heard pen stop, because Winn stopped typing, because Winn heard alarm, because Winn's heartbeat irregular.
+She walked in and stood by the counter.
 
-He put mug down and went to lobby, not as Wraith, as Adrian, because lobby is public and Wraith public naming fallout while civilian ID protected, masked anonymous after freeway train requires public naming fallout while civilian ID protected.
+"Do you know what this is about?" she asked.
 
-Master Jailer saw Adrian and said, "Kael-Varr's son. You are also sentenced. You destroyed city. Genuine mass-killing culpability. Not framed. Advanced technology captured you. No nerf to make capture make sense. You were that strong even under red sun."
+One of the employees shrugged. "Some guy got arrested at Lord Technologies. He had some files. The news is making a big deal out of it."
 
-Adrian didn't flinch. He had heard that before, from himself.
+"What files?"
 
-He said, "I was sentenced. By judge. I served. I built device myself ordinary. I choose ordinary now."
+"I don't know. They didn't say. They just said files. They said the files had names. They said the names were from a government agency."
 
-Master Jailer said, "Law does not end because you choose."
+"Which agency?"
 
-Kara said, "Law ends when planet ends. Krypton ended. Your law ended."
+"They didn't say. They just said government. Then they cut to a commercial."
 
-Master Jailer swung at her again. She dodged, but baton clipped shoulder and she hissed.
+Kara looked at the television. The commercial was playing. A car insurance ad. A happy family. A smiling man.
 
-Adrian stepped between, not as Wraith, as Adrian, lean and balanced not bulky bulk is not power, control is power, and he took baton with both hands, absorbing momentum into own frame so lobby floor didn't crack, and he held it.
+She walked out of the break room and went to her desk.
 
-Master Jailer was strong, Fort Rozz guard strong, but Adrian had developed extraordinary powers under red sun before Fort Rozz with 
+Adrian was at his desk across the bullpen. He was typing. He didn't look up.
 
-He said, "You don't have to do this. You were guard. Guards protect. Not execute."
+"A man was arrested at Lord Technologies," she said.
 
-Master Jailer said, "I protect law."
+"I saw the report," Adrian said.
 
-Kara, behind Adrian, said, "Then protect us. We are trying to protect Earth."
+"He had files. The files had names. The names were from a government agency."
 
-Master Jailer looked at Kara, at Adrian, at Cat who was still at desk saying "Keira where is my coffee and why is there armored man in my lobby," at Winn with bagel, at James with contact sheet.
+"The DEO is a government agency."
 
-He let go of baton.
+"The DEO is a government agency. And someone was arrested at Lord Technologies with files that had DEO names on them."
 
-"I will go," he said. "But law will come again."
+Adrian stopped typing. He looked at her. "Marcus."
 
-He walked out. DEO took him outside, because DEO was waiting, because Alex had called.
+"Marcus."
 
-Later, at DEO, Alex said, "Master Jailer thinks he is still law. Fort Rozz guards who escaped think they are still guards. They are not."
+"Marcus works for Lord. Marcus had access to the DEO. Marcus could have taken files. Marcus could have carried them to Lord Technologies. And someone else was arrested with those files."
 
-J'onn, as Hank, said, "Law without planet is just memory. Memory can be good or bad. Choose good."
+"Or Marcus was the one who was arrested."
 
-Kara and Adrian sat in back, because they had spent all night together sharing and now they sat together again.
+"Or Marcus was the one who was arrested. Or Marcus gave the files to someone else and that someone else was arrested. The pattern is the same. Marcus took files from the DEO. Marcus gave them to Lord. Lord used them. And now someone is in custody with the files."
 
-Alex said to Adrian, "You held baton. Human-level?"
+"And the files have DEO names. Our names. Alex's name. Hank's name. Winn's name. The guards' names. The staff's names. The names of everyone who has ever been in that building."
 
-Adrian said, "Human-level accessible superpowers exact ceilings unassigned capable not weak. I didn't invent fear fatigue incompetence to keep absent. I used established capacity."
+"And the names are now in the hands of a man who works for Lord."
 
-Alex nodded. "Good."
+Kara sat down. "We need to tell Alex."
 
-That night, they shared again. Talking about law, about judge who sentenced him, about genuine mass-killing culpability not framed, about advanced technology captured no nerf caught exhausted built device himself ordinary, about choosing ordinary every day shows strong willpower.
+"We need to tell Alex. And we need to tell Cat. And we need to do it before the news picks up the names. Because once the news picks up the names, the story changes. The story is no longer about a man with files. The story is about a government agency that has a leak. And the story is about the people whose names are in the files."
 
-She asked, "Do you think law ever ends?"
+Kara stood up. "I'm going to the DEO."
 
-He said, "Law ends when you choose better law. Like putting mug back next to magnet ordinary choice."
+"Go to the DEO. Tell Alex. Tell her what we know. Tell her the files were taken by Marcus and given to Lord. Tell her the files have names. Tell her the names are in the hands of a man who works for Lord. Tell her to do whatever she needs to do to protect the people whose names are in those files."
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary.
+"I'll."
 
-At 5 a.m., light, at 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+Kara walked out of the bullpen and went to the elevator.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is not small. Ordinary is choice. Ordinary is putting mug back next to magnet every morning even though you can lift train and absorb momentum and fly supersonic and counter rotate and clap above aiming up air bent light bent and create vacuum and run up building like Barry.
+---
 
-Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father from influential house mother from collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine mass-killing culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+She drove to the DEO. She walked through the lobby and went to Alex's office.
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peekaboo midriff loudest heels out-Siobhaning Siobhan brazen catsuit Black Widow peanuts Superman III no one can stop me Tempting Fate Cue Martian Manhunter J'onn 317 years old Badass Boast H'ronmeer Torquasm Vo Rao ice dome cure Did I kill anyone Thou Shalt Not Kill.
+Alex was at her desk. She had the television on. The report was playing again. Alex was watching it with the same attention Kara had.
 
-Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, toothbrush by sink, jacket behind door, book closed again, window open a little hearing city distant not demanding worship, are all choices.
+"You saw it," Kara said.
 
-At DEO, Alex filed report: Black Mercy or Master Jailer or Toyman Indigo, depending on episode, with sources, with beats, with reviews, with receipts, with continuity.
+"I saw it," Alex said. "I've been watching it for an hour. I've been waiting for the name of the agency to come up. It hasn't come up yet. But we both know what the agency is."
 
-J'onn read report and said, "You forgot to write they spent all night together."
+"The DEO."
 
-Alex said, "I wrote it in personal notes. Kara and Adrian share and stayed together ordinary talking sleeping tea soup mug back."
+"The DEO. And the files have names. And the names are ours."
 
-J'onn nodded. "Good. You will need that notes when Lane comes back or Non comes back or Astra comes back."
+"Marcus took them."
 
-At CatCo, Winn put bagel on desk without comment. James left contact sheet face-down of workers safe with families, not of her in black suit, but of ordinary.
+"Marcus took them. Or Marcus gave them to someone. Or someone else took them and Marcus was the one who opened the door. The pattern is the same. The leak is in the building. The leak took files. The leak gave the files to Lord. Lord used the files. And now someone is in custody with the files and the names are on them."
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+"And we need to protect the people whose names are in those files."
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day, and how much stronger that made Adrian's willpower than any synthetic red dust ever could, and how good it feels to share and spend all night together ordinary talking sleeping.
+"We need to protect them. And we need to do it now. Before the news picks up the names. Before the story changes. Before the story is about the DEO instead of about the man with the files."
 
-Kara texted Alex at 10 p.m.: "Staying at Adrian's again. We shared all night. Ordinary."
+Alex stood up. "I'm going to the tech room. I'm going to pull the access logs by hand. I'm going to find out what Marcus accessed, when he accessed it, and what he took. I'm going to write it on paper. I'm going to find out what files were accessed and who accessed them and when."
 
-Alex texted back: "Good. Stay. You get to have ordinary. Tomorrow next episode."
+"And I'm going to CatCo. I'm going to tell Cat. She needs to know the files have DEO names. She needs to know the story is going to change. She needs to know who to call and what to say and when to say it."
 
-Kara texted James: "Sorry again about wrist. Red. Not me."
+"Go to CatCo. Tell her. And tell her to do whatever she needs to do to get ahead of this. Because if the news picks up the names before we do, the story is theirs. And if the story is theirs, we lose."
 
-James texted back: "I know. You spent all night with Adrian. Good. You look better."
+"I'll tell her."
 
-Kara texted Winn: "Thank you for bagel."
+Kara turned and walked out of Alex's office.
 
-Winn texted back: "You welcome. You and Adrian share all night. Good. I am learning to be okay."
+---
 
-Kara put phone down and looked at Adrian typing at small desk, soft shirt, band at wrist frayed, lean and balanced not bulky bulk is not power control is power.
+She drove to CatCo. She went to Cat's office and knocked.
 
-"Are you coming?" she asked.
+"Come in," Cat said.
 
-"Yes," he said. "If you want."
+Kara went in. "A man was arrested at Lord Technologies. He had files. The files have DEO names on them."
 
-"I want," she said.
+Cat set down her pen. "I saw the report."
 
-They shared all night. Talking. Sleeping. Ordinary.
+"The names are ours. Alex's. Hank's. Winn's. The guards. The staff. Everyone who has ever been in the DEO."
 
-At midnight, city quiet. At 1 a.m., city quiet. At 2 a.m., city quiet. At 3 a.m., city quiet. At 5 a.m., light. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"And the files were taken by Marcus."
 
-Kara woke up and found tea waiting and him at desk, typing, not as Wraith, not as headline, just Adrian.
+"Marcus took them. Or Marcus gave them to someone. The leak is in the building. The leak took files and gave them to Lord. And now someone is in custody with the files."
 
-"Did we spend all night together?" she asked, teasing, sleepy, hair messy.
+Cat leaned back. "The story is going to change."
 
-"We shared and stayed together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
+"The story is going to change. Right now the story is about a man with files. It is going to become a story about a government agency with a leak. And it's going to become a story about the people whose names are in the files."
 
-"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back, with book closed again.
+"And we need to get ahead of it."
 
-She kissed him. Not because canon said to, but because she wanted to, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events not told via repetitive paragraph.
+"We need to get ahead of it. Before the news picks up the names. Before the story changes. Before the story is theirs."
 
-He kissed her back because he wanted to.
+Cat stood up. "I know who to call. I know what to say. I know when to say it. I'll make the calls now."
 
-They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because choice even when you can be more.
+"And I'll go back to the DEO. I'll help Alex pull the access logs. I'll write the names on paper. I'll find out what Marcus took and when he took it and who he gave it to."
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is not small. Ordinary is choice. Ordinary is putting mug back every morning even though you can lift train and absorb momentum and fly supersonic and counter rotate and clap above aiming up air bent light bent and create vacuum and run up building like Barry.
+"Go. Do the work. And come back when you've something."
 
-Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father from influential house mother from collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine mass-killing culpability caught exhausted advanced technology captured no nerf built device himself choice.
+"I'll."
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peekaboo midriff loudest heels out-Siobhaning Siobhan brazen catsuit Black Widow peanuts Superman III no one can stop me Tempting Fate Cue Martian Manhunter J'onn 317 years old Badass Boast H'ronmeer Torquasm Vo Rao ice dome cure Did I kill anyone Thou Shalt Not Kill.
+Kara left Cat's office and went to her desk. She picked up her bag and walked out.
 
-Both had learned that control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, toothbrush by sink, jacket behind door, book closed again, window open a little hearing city distant not demanding worship, are all choices.
+---
 
-At DEO, Alex filed report: Black Mercy or Master Jailer or Toyman Indigo, depending on episode, with sources, with beats, with reviews, with receipts, with continuity.
+Back at the DEO, Kara went to the tech room.
 
-J'onn read report and said, "You forgot to write they stayed together."
+Alex was at her desk with her notebook open. She was writing names and times. She looked up when Kara came in.
 
-Alex said, "I wrote it in personal notes. Kara and Adrian share and stayed together ordinary talking sleeping tea soup mug back."
+"I'm going through the access logs by hand," she said. "I'm going through every log for the last month. I'm looking for who accessed what and when. I'm looking for Marcus."
 
-J'onn nodded. "Good. You will need that notes when Lane comes back or Non comes back or Astra comes back."
+"What have you found?"
 
-At CatCo, Winn put bagel on desk without comment. James left contact sheet face-down of workers safe with families, not of her in black suit, but of ordinary.
+"Marcus accessed the holding area three times in the last month. He accessed the corridor outside the tech room twice. He accessed the lobby five times. He accessed the parking lot access code once."
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+"The parking lot access code."
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day, and how much stronger that made Adrian's willpower than any synthetic red dust ever could, and how good it feels to share and spend all night together ordinary talking sleeping.
+"The parking lot access code. Marcus accessed the parking lot code at two in the morning on the night before Astra left. The code opens the back gate. The back gate leads to the parking lot. The parking lot leads to the door to the corridor. The corridor leads to the holding area."
 
-Kara texted Alex at 10 p.m.: "Staying at Adrian's again. We shared all night. Ordinary."
+"Marcus opened the back gate."
 
-Alex texted back: "Good. Stay. You get to have ordinary. Tomorrow next episode."
+"Marcus opened the back gate at two in the morning. He walked through the parking lot. He walked through the door to the corridor. He walked to the holding area. He went to the panel. He rewired the door. He went back to the parking lot. He closed the back gate. He went home."
 
-Kara texted James: "Sorry again about wrist. Red. Not me."
+"And Astra left the next morning."
 
-James texted back: "I know. You spent all night with Adrian. Good. You look better."
+"Astra left the next morning. The door was open. The cuffs were gone. The dagger was gone. And Marcus had walked through the building at two in the morning and rewired the door."
 
-Kara texted Winn: "Thank you for bagel."
+"And the cameras."
 
-Winn texted back: "You welcome. You and Adrian share all night. Good. I am learning to be okay."
+"And the cameras. Marcus was in the corridor at two in the morning. The cameras should have recorded him. But the cameras were green. The footage was clean. Nobody walked through the corridor at two in the morning. Nobody walked through the parking lot. Nobody walked through the back gate. The cameras saw nothing."
 
-Kara put phone down and looked at Adrian typing at small desk, soft shirt, band at wrist frayed, lean and balanced not bulky bulk is not power control is power.
+"Marcus changed the footage."
 
-"Are you coming?" she asked.
+"Marcus changed the footage. Or Marcus knew how to change the footage. Or Marcus was told how to change the footage by someone who knows how to change the footage."
 
-"Yes," he said. "If you want."
+"Who knows how to change the footage?"
 
-"I want," she said.
+"Winn. Me. Hank. The tech team. Anyone in the tech room. But Marcus isn't in the tech room. Marcus is a guard. Marcus doesn't have access to the tech room. Marcus can't change the footage himself."
 
-They shared all night. Talking. Sleeping. Ordinary.
+"Then someone in the tech room changed it for him."
 
-At midnight, city quiet. At 1 a.m., city quiet. At 2 a.m., city quiet. At 3 a.m., city quiet. At 5 a.m., light. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
+"Someone in the tech room changed it for him. Or someone in the tech room told Marcus how to change it. Or someone in the tech room gave Marcus the code to access the parking lot and the corridor and the panel."
 
-Kara woke up and found tea waiting and him at desk, typing, not as Wraith, not as headline, just Adrian.
+"And that someone is the leak."
 
-"Did we spend all night together?" she asked, teasing, sleepy, hair messy.
+"And that someone is the leak. The leak isn't Marcus. Marcus is the person who does the work. The leak is the person who's in the tech room. The leak is the person who has access to the systems. The leak is the person who can change the footage and the logs and the cameras. The leak is the person behind Marcus."
 
-"We shared and stayed together," he said, matching her words, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
+Kara stood by Alex's desk. "And we don't know who the leak is."
 
-"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back, with book closed again.
+"We don't know who the leak is. We know Marcus is the person who did the work. We don't know who told Marcus to do it. We don't know who gave Marcus the codes. We don't know who changed the footage."
 
-She kissed him. Not because canon said to, but because she wanted to, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events not told via repetitive paragraph.
+"And we find them by watching Marcus."
 
-He kissed her back because he wanted to.
+"We find them by watching Marcus. Without the cameras. With our eyes. We watch who Marcus talks to. We watch who Marcus meets. We watch where Marcus goes. We watch what Marcus does. And we write it on paper."
 
-They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because choice even when you can be more.
+"And Marcus doesn't know we're watching."
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
+"Marcus doesn't know we're watching. Because we aren't using the cameras. Because we aren't using the systems. Because we're watching with our eyes. And Marcus isn't looking for eyes. Marcus is looking for cameras. And there're no cameras."
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down.
+Kara sat down. "And the files."
 
-At noon, Adam Foster came by with coffee for everyone because he'd heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed for ten minutes and left.
+"And the files. Marcus took files. Or Marcus gave files to someone. The files have names. The names are ours. And the files are in the hands of a man who works for Lord. And we need to protect the people whose names are in those files."
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
+"How?"
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
+"By getting ahead of the story. Cat is making calls. She is getting ahead of the story. She is making sure the names aren't picked up by the news. She is making sure the story stays about the man with the files and not about the DEO."
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+"And if the story changes?"
 
-Both had learned control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, are all choices.
+"And if the story changes, we do what we can. We protect the people. We move them. We tell them what's happening. We do what we can. But we also keep watching. We keep writing. We keep holding the pattern. And we wait for Lord to make his move."
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+"And when he makes his move?"
 
-She asked, "Do you think we will always spend all night together?"
+"And when he makes his move, we use the pattern. We use the paper. We use the names. We use Marcus. We use all of it. And we stop him."
 
-He said, "If you want. I want if you want."
+Kara looked at the notebook on Alex's desk. The names were written in neat handwriting. The times were written next to them. It was ordinary. It was simple. It was the kind of thing anybody could do.
 
-"I want," she said.
+And it'd the thing the leak couldn't stop.
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+---
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
+That evening, Kara went back to her apartment.
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
+Non was at the kitchen table. He looked up when she came in.
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down.
+"The files are out," Kara said. She sat down across from him.
 
-At noon, Adam Foster came by with coffee for everyone because he'd heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed for ten minutes and left.
+"The files are out," Non said.
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
+"Marcus took files from the DEO. The files have names. The names are ours. And the files are in the hands of a man who works for Lord."
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
+"And the story is going to change."
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+"The story is going to change. Cat is making calls. She is getting ahead of the story. She is making sure the names aren't picked up by the news."
 
-Both had learned control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, are all choices.
+"And the leak?"
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+"The leak is still in the building. The leak is in the tech room. The leak has access to the systems. The leak changed the footage. The leak changed the logs. The leak gave Marcus the codes. The leak is the person behind Marcus."
 
-She asked, "Do you think we will always spend all night together?"
+"And you don't know who the leak is."
 
-He said, "If you want. I want if you want."
+"We don't know who the leak is. We know Marcus is the person who did the work. We don't know who told Marcus to do it. We don't know who's in the tech room and working for Lord."
 
-"I want," she said.
+"And you're watching Marcus."
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+"We're watching Marcus. Without the cameras. With our eyes. And we're writing it on paper."
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
+"Good. The paper is the tool that the leak can't control. The leak controls the cameras. The leak controls the systems. The leak controls the logs. The leak can't control a piece of paper in your hand."
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
+Kara leaned back in her chair. "The files are out. The names are out. And we can't get them back."
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down.
+"You can't get the files back. The files are in the hands of a man who works for Lord. Lord will use the files. Lord will use the names. Lord will use the story. But the files are only one thing. The pattern is another thing. The paper is another thing. You have the pattern. You have the paper. You have the names on the paper. Those are the things Lord doesn't have."
 
-At noon, Adam Foster came by with coffee for everyone because he'd heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed for ten minutes and left.
+"And we use them when he makes his move."
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
+"And you use them when he makes his move. You use the pattern. You use the paper. You use the names. You use all of it. And you stop him."
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
+"And until then?"
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+"And until then, you hold. You hold the pattern. You hold the paper. You hold the names. You watch Marcus. You watch the leak. You watch Lord. You watch without the cameras. You watch with your eyes. And you wait."
 
-Both had learned control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, are all choices.
+Kara looked at Non. The lamp was on. The city lights were on outside the window. The apartment was quiet.
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+"I'm tired of waiting," she said.
 
-She asked, "Do you think we will always spend all night together?"
+"I know. But waiting is the work. The waiting is the part that matters. Because when Lord makes his move, he'll act in the open. He will act in front of people. He will act because he wants everyone to see. And when he acts, he'll leave a trail. And the trail will lead to him. And you'll have the pattern. You will have the paper. You will have the names. And you'll use all of it. And you'll stop him."
 
-He said, "If you want. I want if you want."
+"And if I can't stop him?"
 
-"I want," she said.
+"You can stop him. Not alone. Not with your power alone. You stop him with the pattern. You stop him with the paper. You stop him with the people you trust. You stop him by knowing what he did and how he did it and who helped him. And you stop him by using all of it at the right moment."
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+Kara went to the sofa and sat down.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
+The television was off. The city lights moved across the ceiling.
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
+She sat there. She thought about the files. She thought about the names. She thought about Marcus walking the corridor. She thought about the leak sitting at a desk in the tech room. She thought about Lord, holding the files, building the story, waiting for the right moment.
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down.
+She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
 
-At noon, Adam Foster came by with coffee for everyone because he'd heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed for ten minutes and left.
+She knew one thing. She had the pattern. She had the paper. She had the names. And she would be ready.
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
+She sat there. The night went on. The city went on outside the window.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
+---
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+The next morning, Kara arrived at CatCo at eight.
 
-Both had learned control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, are all choices.
+The bullpen was quiet. Winn was at his desk. James was at his desk. The receptionist was at the front desk. Adrian was at his desk.
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+Everything looked normal. Everything was normal. And a man was in custody with files that had DEO names on them.
 
-She asked, "Do you think we will always spend all night together?"
+She sat down and opened her email.
 
-He said, "If you want. I want if you want."
+At nine, Cat called her into the office.
 
-"I want," she said.
+"I made the calls," Cat said. "I called the DEO. I called the news outlets. I called the people who need to know that the story isn't what it looks like. I told them the files were stolen. I told them the names are being used. I told them not to pick up the names until we're ready."
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+"And what did they say?"
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
+"They said they would wait. For now. But the story is out. And the story is going to move. And when it moves, it will move on its own terms. We can steer it for a while. We can't stop it."
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
+"And the people whose names are in the files?"
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down.
+"I told them. Alex knows. Hank knows. Winn knows. The guards know. They know their names are out there. They know the story is changing. They know to be careful."
 
-At noon, Adam Foster came by with coffee for everyone because he'd heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed for ten minutes and left.
+"And Marcus?"
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes.
+"Marcus is still walking the corridor. He is still doing his job. He doesn't know we know he took the files. He doesn't know we're watching him. And that's what we want. We watch him quietly. We write it on paper. And we wait."
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself choice.
+"And the leak?"
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+"The leak is still in the tech room. The leak is still at their desk. The leak doesn't know we know about the files. The leak doesn't know we're watching. And that's what we want. We watch quietly. We write on paper. And we wait."
 
-Both had learned control shows strong willpower, that hearing pen and not using, feeling field bend light and choosing to lift like person, texting hallway instead of listening through walls, putting mug back, are all choices.
+Kara stood by the desk. "We're waiting for Lord to make his move."
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+"We're waiting for Lord to make his move. He has the files. He has the names. He has the story. He is going to use them. And when he uses them, he'll act. And when he acts, he'll leave a trail. And we'll be ready."
 
-She asked, "Do you think we will always spend all night together?"
+"And then we use the pattern."
 
-He said, "If you want. I want if you want."
+"And then we use the pattern. We use the paper. We use the names. We use Marcus. We use all of it. And we stop him."
 
-"I want," she said.
+"I'll go back to the DEO. I'll help Alex pull the logs."
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+"Go. Do the work. And come back when you've something."
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared.
+Kara left Cat's office and went to the elevator.
+
+---
+
+She drove to the DEO. She went to the tech room.
+
+Alex was at her desk with her notebook open. She had written four pages of names and times. She looked up when Kara came in.
+
+"I'm going through the access logs for the whole month," she said. "I'm going through every log. I'm looking for every access that Marcus made. I'm looking for every access that happened between midnight and six in the morning. I'm looking for the pattern."
+
+"What have you found?"
+
+"Marcus accessed the parking lot code at two in the morning, three times in the last month. He accessed it at two on the night Astra left. He accessed it at three on the night of the fire. He accessed it at one on the night the files were taken."
+
+"He was in the building on the nights things happened."
+
+"He was in the building on the nights things happened. He accessed the parking lot code at two, three, and one in the morning. He walked through the parking lot. He walked through the door to the corridor. He walked to the holding area or the tech room or wherever he needed to go. And he went back. And the cameras saw nothing."
+
+"And someone in the tech room changed the footage."
+
+"Someone in the tech room changed the footage. And that person is the leak. And we don't know who it's. We know Marcus is the person who did the work. We don't know who told Marcus to do it. We don't know who changed the footage. We don't know who gave Marcus the codes."
+
+"And we find them by watching Marcus."
+
+"We find them by watching Marcus. Without the cameras. With our eyes. We watch who Marcus talks to. We watch who Marcus meets. We watch where Marcus goes. We watch what Marcus does. And we write it on paper."
+
+"And Marcus doesn't know we're watching."
+
+"Marcus doesn't know we're watching. Because we aren't using the cameras. Because we aren't using the systems. Because we're watching with our eyes. And Marcus isn't looking for eyes. Marcus is looking for cameras. And there're no cameras."
+
+Kara sat down. "And the files. What files did Marcus take?"
+
+"I'm going through the file access logs. I'm looking for what was accessed and when. I'm looking for the files that Marcus accessed."
+
+"What have you found?"
+
+"Marcus accessed the personnel files. He accessed the access log archive. He accessed the tech room system logs. He accessed the holding area records."
+
+"He accessed everything."
+
+"He accessed everything. The personnel files, the access logs, the system logs, the holding area records. He took all of it. Or he gave all of it to someone. And the names in those files are now in the hands of a man who works for Lord."
+
+"And we can't get them back."
+
+"We can't get the files back. The files are in the hands of a man who works for Lord. Lord will use the files. Lord will use the names. Lord will use the story. But we've the pattern. We have the paper. We have the names on the paper. Those are the things Lord doesn't have."
+
+"And we use them when he makes his move."
+
+"And we use them when he makes his move. We use the pattern. We use the paper. We use the names. We use all of it. And we stop him."
+
+Kara looked at the notebook on Alex's desk. The names were written in neat handwriting. The times were written next to them. It was ordinary. It was simple. It was the kind of thing anybody could do.
+
+And it'd the thing the leak couldn't stop.
+
+---
+
+That afternoon, Kara went to the holding area.
+
+She stood in the corridor and looked through the glass at the empty cell. The bed was empty. The floor was clean. The door was open. The panel was open.
+
+Marcus had walked this corridor. Marcus had gone to the panel. Marcus had rewired the door. Marcus had opened the cell. And Astra had walked out.
+
+And Marcus was still here. Still walking the corridor. Still doing his job. Still not knowing that somebody had written his name on paper.
+
+Kara turned and walked back to the tech room.
+
+She sat down at a desk across from Alex. She opened a notebook. She started writing.
+
+She wrote down the time Marcus accessed the parking lot code. She wrote down the time Marcus walked the corridor. She wrote down the time Marcus accessed the holding area. She wrote down the time Marcus accessed the tech room records.
+
+She wrote it all on paper.
+
+The leak could change the cameras. The leak could change the logs. The leak could change the footage. The leak couldn't change a piece of paper in her hand.
+
+She wrote until the notebook was full.
+
+She looked at the paper. The names. The times. The pattern. It was all there. It was all on paper. And the leak couldn't stop it.
+
+---
+
+That evening, Kara went back to her apartment.
+
+Non was at the kitchen table. He looked up when she came in.
+
+"You have the pattern," he said.
+
+"I've the pattern," Kara said. She sat down across from him. "Marcus accessed the parking lot code three times in the last month. He was in the building on the nights things happened. He walked the corridor. He went to the panel. He opened the door. He let Astra out. He took files. And someone in the tech room changed the footage and the logs. And that someone is the leak. And we don't know who it's."
+
+"And you're watching Marcus."
+
+"We're watching Marcus. Without the cameras. With our eyes. And we're writing it on paper."
+
+"Good. The paper is the tool that the leak can't control. The leak controls the cameras. The leak controls the systems. The leak controls the logs. The leak can't control a piece of paper in your hand."
+
+"And the files are out. The names are out. And we can't get them back."
+
+"You can't get the files back. The files are in the hands of a man who works for Lord. Lord will use the files. Lord will use the names. Lord will use the story. But the files are only one thing. The pattern is another thing. The paper is another thing. You have the pattern. You have the paper. You have the names on the paper. Those are the things Lord doesn't have."
+
+"And we use them when he makes his move."
+
+"And you use them when he makes his move. You use the pattern. You use the paper. You use the names. You use all of it. And you stop him."
+
+Kara leaned back in her chair. "I'm tired of waiting."
+
+"I know. But waiting is the work. The waiting is the part that matters. Because when Lord makes his move, he'll act in the open. He will act in front of people. He will act because he wants everyone to see. And when he acts, he'll leave a trail. And the trail will lead to him. And you'll have the pattern. You will have the paper. You will have the names. And you'll use all of it. And you'll stop him."
+
+"And if I can't stop him?"
+
+"You can stop him. Not alone. Not with your power alone. You stop him with the pattern. You stop him with the paper. You stop him with the people you trust. You stop him by knowing what he did and how he did it and who helped him. And you stop him by using all of it at the right moment."
+
+"And until then?"
+
+"And until then, you hold. You hold the pattern. You hold the paper. You hold the names. You watch Marcus. You watch the leak. You watch Lord. You watch without the cameras. You watch with your eyes. And you wait."
+
+Kara looked at Non. The lamp was on. The city lights were on outside the window. The apartment was quiet.
+
+"I'll hold," she said.
+
+"I know. And I'll stay here. I'll wait with you."
+
+Kara went to the sofa and sat down.
+
+The television was off. The city lights moved across the ceiling.
+
+She sat there. She thought about the files. She thought about the names. She thought about Marcus walking the corridor. She thought about the leak sitting at a desk in the tech room. She thought about Lord, holding the files, building the story, waiting for the right moment.
+
+She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
+
+She knew one thing. She had the pattern. She had the paper. She had the names. And she would be ready.
+
+She sat there. The night went on. The city went on outside the window.'''

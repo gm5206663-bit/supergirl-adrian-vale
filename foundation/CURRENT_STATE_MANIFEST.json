@@ -2,9 +2,9 @@
   "schema_version": 1,
   "project_id": "supergirl_adrian_vale",
   "epoch": "v1",
-  "revision": "foundation-021",
-  "updated_on": "2026-10-08",
-  "phase": "chapter-26-adopted-worlds-finest-no-skip-episodes-13-14-15-added-4000w-natural",
+  "revision": "foundation-022",
+  "updated_on": "2026-09-27",
+  "phase": "canon-style-rewrite-complete",
   "remote": {
     "configured": false,
     "repository": null,
@@ -15,6 +15,9 @@
     "entry": "S01E01 \u2014 Pilot",
     "universe_policy": "this television branch; no automatic comics, DCEU or other-series imports",
     "accepted_canon_beats": [
+      "OC-27-ADRIAN",
+      "OC-28-ADRIAN",
+      "OC-29-ADRIAN",
       "SG-10-01",
       "SG-10-02",
       "SG-11-01",
@@ -89,6 +92,16 @@
       "SG-19-05",
       "SG-19-06",
       "SG-19-07",
+      "SG-19-08",
+      "SG-19-09",
+      "SG-19-10",
+      "SG-19-11",
+      "SG-19-12",
+      "SG-19-13",
+      "SG-19-14",
+      "SG-19-15",
+      "SG-19-16",
+      "SG-19-17",
       "SG-20-01",
       "SG-20-02",
       "SG-20-03",
@@ -98,8 +111,43 @@
       "SG-20-07",
       "SG-20-08",
       "SG-20-09",
+      "SG-20-10",
+      "SG-20-11",
+      "SG-20-12",
+      "SG-20-13",
+      "SG-20-14",
+      "SG-20-15",
+      "SG-20-16",
+      "SG-20-17",
+      "SG-20-18",
+      "SG-20-19",
+      "SG-20-20",
+      "SG-20-21",
+      "SG-20-22",
+      "SG-20-23",
+      "SG-21-01",
       "SG-21-02",
+      "SG-21-03",
+      "SG-21-04",
+      "SG-21-05",
       "SG-21-06",
+      "SG-21-07",
+      "SG-21-08",
+      "SG-21-09",
+      "SG-21-10",
+      "SG-21-11",
+      "SG-21-12",
+      "SG-21-13",
+      "SG-21-14",
+      "SG-21-15",
+      "SG-21-16",
+      "SG-21-17",
+      "SG-21-18",
+      "SG-21-19",
+      "SG-21-20",
+      "SG-21-21",
+      "SG-21-22",
+      "SG-21-23",
       "SG-22-02",
       "SG-22-04",
       "SG-22-05",
@@ -186,7 +234,8 @@
       "SG-P11C1",
       "SG-P11C2",
       "SG-P12A",
-      "SG-P12B"
+      "SG-P12B",
+      "U73-01"
     ]
   },
   "identity": {
@@ -225,617 +274,672 @@
     "canon_foreknowledge": false,
     "learned_skills_erased_by_seal": false
   },
-  "accepted_edge": 26,
-  "next_chapter": 27,
+  "accepted_edge": 29,
+  "next_chapter": 30,
   "accepted_chapters": [
     {
       "number": 1,
       "epoch": "v1",
       "path": "chapters/Chapter_01_Adrian_Vale.md",
-      "sha256": "44b36dbfc1404bac2d482fbf9dbbf3be91aa4e612d5bcb0d54238d1b814d3510",
+      "sha256": "8002ab86e7abccca0fd2c947fd3a01186f4f43c1267e5509c426107cb938a624",
       "coverage": "canon_coverage/Chapter_01_ACCEPTED.json",
       "accepted_on": "2026-09-28",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_01.md \u2014 U13: Next chapter; adoption for continuation",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4384
     },
     {
       "number": 2,
       "epoch": "v1",
       "path": "chapters/Chapter_02_A_Familiar_Face.md",
-      "sha256": "d913f75dd680a7941f5ae85aff507395f652283f21b70b0673b0f227176532bf",
+      "sha256": "3084cb15a927c6b8ddf4444349933a4d7f6414eb5914b7e2c154542284d3aea5",
       "coverage": "canon_coverage/Chapter_02_ACCEPTED.json",
       "accepted_on": "2026-09-28",
       "acceptance_receipt": "audits/AMENDMENT_Chapter_02_U18.md \u2014 U18 continuation from revised branch; U14 original receipt preserved",
-      "acceptance_basis": "continuation_authorization_with_dependency_amendment"
+      "acceptance_basis": "continuation_authorization_with_dependency_amendment",
+      "canon_style_approved": true,
+      "word_count": 4774
     },
     {
       "number": 3,
       "epoch": "v1",
       "path": "chapters/Chapter_03_The_Name_He_Feared.md",
-      "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
+      "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
       "coverage": "canon_coverage/Chapter_03_ACCEPTED.json",
       "accepted_on": "2026-09-28",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18: Next; continuation adoption",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4412
     },
     {
       "number": 4,
       "epoch": "v1",
       "path": "chapters/Chapter_04_What_Remains.md",
-      "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
+      "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
       "coverage": "canon_coverage/Chapter_04_ACCEPTED.json",
       "accepted_on": "2026-09-29",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_04.md \u2014 U19 executed under U22 after audit",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4383
     },
     {
       "number": 5,
       "epoch": "v1",
       "path": "chapters/Chapter_05_In_Plain_Sight.md",
-      "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
+      "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
       "coverage": "canon_coverage/Chapter_05_ACCEPTED.json",
       "accepted_on": "2026-09-30",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_05.md \u2014 U29: Next chapter",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 5612
     },
     {
       "number": 6,
       "epoch": "v1",
       "path": "chapters/Chapter_06_Under_the_Headline.md",
-      "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
+      "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
       "coverage": "canon_coverage/Chapter_06_ACCEPTED.json",
       "accepted_on": "2026-09-30",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_06.md \u2014 U30: Next chapter",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4722
     },
     {
       "number": 7,
       "epoch": "v1",
       "path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-      "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
+      "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
       "coverage": "canon_coverage/Chapter_07_ACCEPTED.json",
       "accepted_on": "2026-09-30",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_07.md \u2014 U32: Next chapter",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4362
     },
     {
       "number": 8,
       "epoch": "v1",
       "path": "chapters/Chapter_08_The_Woman_Who_Stayed.md",
-      "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
+      "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
       "coverage": "canon_coverage/Chapter_08_ACCEPTED.json",
       "accepted_on": "2026-09-30",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_08.md \u2014 U34: Next chapter",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4998
     },
     {
       "number": 9,
       "epoch": "v1",
       "path": "chapters/Chapter_09_Red_Faced_and_Named.md",
-      "sha256": "ea5316751340f7a9e1662c13751577f9f2d401e27d859b2610cf980100218a8b",
+      "sha256": "596be64f199e4547c51d3bdcae1d8f5e329bee0f4bc6abc32c4abdd82ed7cccd",
       "coverage": "canon_coverage/Chapter_09_ACCEPTED.json",
       "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_09.md \u2014 U44: Rebuild clean no ticker spam no Cat private secrets",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R8"
+      "revision": "R8",
+      "canon_style_approved": true,
+      "word_count": 4579
     },
     {
       "number": 10,
       "epoch": "v1",
       "path": "chapters/Chapter_10_Red_Faced_Consequence.md",
-      "sha256": "a19ad84723f90b027e6d2872fa62cf1f831f314d90838e9e5a1861d9a382d0a9",
+      "sha256": "5e58b985367fc5da3791273ecc843a023f375c983b9d416f4938144a5ab59d54",
       "coverage": "canon_coverage/Chapter_10_ACCEPTED.json",
       "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_10.md \u2014 U44: Rebuild clean no ticker spam no Cat private secrets",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R5"
+      "revision": "R5",
+      "canon_style_approved": true,
+      "word_count": 4300
     },
     {
       "number": 11,
       "epoch": "v1",
       "path": "chapters/Chapter_11_The_Sun.md",
-      "sha256": "a814af1ba006ef6d25ad884fffdaf900aedac6c6376153a88f1ab926e47fe211",
+      "sha256": "8f28f2f7aaa37ab60592f589fab1050cb9a7638d71c76785f18b5cc1cd68a3d9",
       "coverage": "canon_coverage/Chapter_11_ACCEPTED.json",
       "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_11.md \u2014 U44: Rebuild clean no ticker spam no Cat private secrets",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R5"
+      "revision": "R5",
+      "canon_style_approved": true,
+      "word_count": 4572
     },
     {
       "number": 12,
       "epoch": "v1",
       "path": "chapters/Chapter_12_The_Kiss.md",
-      "sha256": "ab7c901bdbb2bfa88f5cd9e7dad3fb1c7a5fd7180fd761f9bb26c9d16e25dc6c",
+      "sha256": "0f61bf804f6a6fcae6bf81b24c30731eaae955126f6ecbeef31182dac8180baf",
       "coverage": "canon_coverage/Chapter_12_ACCEPTED.json",
       "accepted_on": "2026-10-08",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_12.md \u2014 The Kiss Complete Clean No Ticker No Cat Private 4137w complete clean no ticker no Cat private proper fights natural butterfly",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R6"
+      "revision": "R6",
+      "canon_style_approved": true,
+      "word_count": 4635
     },
     {
       "number": 13,
       "epoch": "v1",
       "path": "chapters/Chapter_13_Human_for_a_Day.md",
-      "sha256": "2cb3be6aa9c5983a15381be8dc0680404c6835c9f5248c25bcd094230f65d098",
+      "sha256": "fa4bf3bcbec4a67080aa5a7d39fc6e835595ff6832b6fd68184a1b479a417ed1",
       "coverage": "canon_coverage/Chapter_13_ACCEPTED.json",
       "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_13.md \u2014 U50: clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R5"
+      "revision": "R5",
+      "canon_style_approved": true,
+      "word_count": 4753
     },
     {
       "number": 14,
       "epoch": "v1",
       "path": "chapters/Chapter_14_Hostile_Takeover.md",
-      "sha256": "6d41cbfd3b581fd6fad35f257d28db44c811ce06514a13e0d10d95e7323030aa",
+      "sha256": "94196a9d2de8c461a61cc9a757eef6af42c6c98238210df6e8a9452f97e4e3c6",
       "coverage": "canon_coverage/Chapter_14_ACCEPTED.json",
       "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_14.md \u2014 U52: Kryptonite dagger shown not told",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R8"
+      "revision": "R8",
+      "canon_style_approved": true,
+      "word_count": 4273
     },
     {
       "number": 15,
       "epoch": "v1",
       "path": "chapters/Chapter_15_Blood_Bonds.md",
-      "sha256": "7c70e85c345714c422cdd982222b363af9b1183d21c3c30e86f782233affd425",
+      "sha256": "04627aba01a8f56b114ddcfbabfbb6bfe6f62789c014d0c1788a16854b2b5f65",
       "coverage": "canon_coverage/Chapter_15_ACCEPTED.json",
       "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_15.md \u2014 Blood Bonds 2957w proper prose full not rushing per user 3000+ request",
       "acceptance_basis": "continuation_authorization",
-      "revision": "R5"
+      "revision": "R5",
+      "canon_style_approved": true,
+      "word_count": 5313
     },
     {
       "number": 16,
       "path": "chapters/Chapter_16_Childish_Things.md",
-      "sha256": "c75a1b8f273755eb26f847044a805266b929eddbb2a6ce1b7d23b0f320401409",
+      "sha256": "3daccb737009c0c54c7c778baa1ec40d0b9e2a09ce0ed7e929af8e6faf04448e",
       "revision": "R5",
       "accepted_on": "2026-10-08",
       "title": "Childish Things",
       "epoch": "v1",
       "coverage": "canon_coverage/Chapter_16_ACCEPTED.json",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_16.md \u2014 Childish Things Part 1 Toyman Returns Complete Clean No Ticker No Cat Private In-World Phrasing 4127w complete clean no ticker no Cat private proper fights natural butterfly",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4625
     },
     {
       "number": 17,
       "path": "chapters/Chapter_17_Childish_Things_Convention.md",
-      "sha256": "9a8ebcf078dbdd3cc822ea5ad74ea439dfca62b3a0486201d3a9dae20f387c04",
+      "sha256": "9b93f23adabbf5a892b37a67728be92696c2969889ab93c49e7c7d993a9c77d3",
       "revision": "R7",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_17_ACCEPTED.json",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_17.md \u2014 natural events actually happening 929w",
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
-      "title": "Childish Things Part 2 - The Convention"
+      "title": "Childish Things Part 2 - The Convention",
+      "canon_style_approved": true,
+      "word_count": 5372
     },
     {
       "number": 18,
       "path": "chapters/Chapter_18_Strange_Visitor_Part1.md",
-      "sha256": "c3cfa05cd2aade24f00fe8d995f2bcdc61316b1158bce662b611dce137215b51",
+      "sha256": "6c4c224f244e5897a9e43e11ccf4f2a570ec1f4b8ab8f978132775d3924dc4a9",
       "revision": "R3",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_18_ACCEPTED.json",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_18.md \u2014 natural events actually happening 1259w",
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
-      "title": "Strange Visitor Part1 White Martian + Torquasm Vo Rao"
+      "title": "Strange Visitor Part1 White Martian + Torquasm Vo Rao",
+      "canon_style_approved": true,
+      "word_count": 4581
     },
     {
       "number": 19,
       "path": "chapters/Chapter_19_Strange_Visitor_Part2.md",
-      "sha256": "8d52c0301b6a11641adcd5da47af08e9e5da3bd3a4a7bfd4d43954d96d681c8c",
+      "sha256": "7a338c11006e98b3f0a794c17d0e24c94441f9073d85c639f64f133f7a78a023",
       "revision": "R3",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_19_ACCEPTED.json",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_19.md \u2014 natural events actually happening 1242w",
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
-      "title": "Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao"
+      "title": "Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao",
+      "canon_style_approved": true,
+      "word_count": 5368
     },
     {
       "number": 20,
       "path": "chapters/Chapter_20_Bizarro.md",
-      "sha256": "d474809003eafe0d523c878cdf647fb4247f1386a5e9ca6c289d6e64ed2aeaa9",
+      "sha256": "494a31afc0c4aeea7efbab5c43c660680d91a636912ba035dad91dd3a81be34d",
       "revision": "R2",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_20_ACCEPTED.json",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_20.md \u2014 natural events actually happening 1044w",
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
-      "title": "Bizarro events actually happening"
+      "title": "Bizarro events actually happening",
+      "word_count": 4854,
+      "canon_style_approved": true
     },
     {
       "number": 21,
       "epoch": "v1",
       "path": "chapters/Chapter_21_For_the_Girl_Who_Has_Everything.md",
-      "sha256": "ebd9d9d635dbbf79aff55a14e15ae0c6582f970c7a7627ce70d33474b1a9a0b4",
+      "sha256": "a1dcf4b366077eb6083ca61d146e2c531ffd83f91e70aca5955c985c3224618c",
       "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_21_R1_REVIEW.md \u2014 U60: Chapter 21 For_the_Girl_Who_Has_Everything",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4642
     },
     {
       "number": 22,
       "epoch": "v1",
       "path": "chapters/Chapter_22_Truth_Justice.md",
-      "sha256": "8f6ca93f06025436c742460c7a7945d289b2c7e1b9ad3ca43664bb84147888f1",
+      "sha256": "81918ced138c1276634031a53d9c01387369e4f0a69af00c5ca0ca1a42fa6988",
       "coverage": "canon_coverage/Chapter_22_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_22_R1_REVIEW.md \u2014 U60: Chapter 22 Truth_Justice",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4797
     },
     {
       "number": 23,
       "epoch": "v1",
       "path": "chapters/Chapter_23_Solitude.md",
-      "sha256": "8a61af2f0e09162046e454c122f99bae97e5e11e6d6733a74ab7569df9afab78",
+      "sha256": "9c8714b6f6843b078e56e440388d12d752a1fe68ccd42ca311ca785d634379b3",
       "coverage": "canon_coverage/Chapter_23_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_23_R1_REVIEW.md \u2014 U60: Chapter 23 Solitude",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4874
     },
     {
       "number": 24,
       "epoch": "v1",
       "path": "chapters/Chapter_24_Falling.md",
-      "sha256": "8a47565661915fda2e674fab047420bdbbc5487a1c6ae3afe583d11654ab0a52",
+      "sha256": "b6cf5cb116b34d5c7c28ee9e5125f5efc8fd6c2a85a94dede77c8c9403e177a5",
       "coverage": "canon_coverage/Chapter_24_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_24_R3_REVIEW.md \u2014 U60: Chapter 24 Falling",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "word_count": 4316,
+      "canon_style_approved": true
     },
     {
       "number": 25,
       "epoch": "v1",
       "path": "chapters/Chapter_25_Manhunter.md",
-      "sha256": "d1b32c921089cdff69649da302558fb1da71a3198aca212868b2d9444abf2306",
+      "sha256": "ed9444feaa87ca496f7812c495585a7bbb067d063b61d44edc1256620ceba52f",
       "coverage": "canon_coverage/Chapter_25_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_25_R1_REVIEW.md \u2014 U60: Chapter 25 Manhunter",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4443
     },
     {
       "number": 26,
       "epoch": "v1",
       "path": "chapters/Chapter_26_Worlds_Finest.md",
-      "sha256": "80712cd00933a1a47cffa58b4030473e145516546cfba7bc6bdd1bfbdf20b0dd",
+      "sha256": "b6f3cb127373a6e4f849899bcde7d8563d61019b23b0eaec8643f90a7b72af71",
       "coverage": "canon_coverage/Chapter_26_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_26_R1_REVIEW.md \u2014 U60: Chapter 26 Worlds_Finest",
-      "acceptance_basis": "continuation_authorization"
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "word_count": 4883
+    },
+    {
+      "title": "Myriad",
+      "episode": "S01E19 - Myriad",
+      "path": "chapters/Chapter_27_Myriad.md",
+      "sha256": "de93093188f66b79f7b0a9fe888159452f4be16803cbbb7c488242583b399229",
+      "word_count": 4719,
+      "canon_style_approved": true,
+      "number": 27,
+      "acceptance_receipt": "audits/CHAPTER_27_R4_REVIEW.md \u2014 U73: canon style, butterfly carry-through, Adrian existential arc",
+      "epoch": "v1",
+      "coverage": "canon_coverage/Chapter_27_ACCEPTED.json",
+      "accepted_on": "2026-09-27",
+      "acceptance_basis": "continuation_authorization",
+      "revision": "R4"
+    },
+    {
+      "number": 28,
+      "epoch": "v1",
+      "path": "chapters/Chapter_28_Better_Angels.md",
+      "sha256": "0a7b21238bea313b5e03150c187b76be1b4c0ea8d1074c9f696358bbd580f04a",
+      "coverage": "canon_coverage/Chapter_28_ACCEPTED.json",
+      "accepted_on": "2026-09-27",
+      "acceptance_receipt": "audits/CHAPTER_28_R4_REVIEW.md \u2014 U73: canon style, butterfly carry-through, Adrian existential arc",
+      "acceptance_basis": "continuation_authorization",
+      "canon_style_approved": true,
+      "title": "Better Angels",
+      "episode": "S01E20 - Better Angels",
+      "word_count": 6484,
+      "revision": "R4"
+    },
+    {
+      "number": 29,
+      "title": "The Adventures of Supergirl",
+      "episode": "S02E01 - The Adventures of Supergirl",
+      "path": "chapters/Chapter_29_The_Adventures_of_Supergirl.md",
+      "sha256": "c1ebe1d2d1811633c1f65c090dd628ca021e2e44f79e392a74d3c1c3dd391c6e",
+      "word_count": 3747,
+      "canon_style_approved": true,
+      "acceptance_receipt": "audits/CHAPTER_29_R1_REVIEW.md \u2014 U73: canon style, butterfly carry-through",
+      "epoch": "v1",
+      "coverage": "canon_coverage/Chapter_29_ACCEPTED.json",
+      "accepted_on": "2026-09-27",
+      "acceptance_basis": "continuation_authorization",
+      "revision": "R1"
     }
   ],
   "drafts": [
     {
       "chapter": 1,
-      "revision": "R3",
-      "path": "drafts/Chapter_01_Adrian_Vale_R3.md",
-      "sha256": "44b36dbfc1404bac2d482fbf9dbbf3be91aa4e612d5bcb0d54238d1b814d3510",
-      "status": "adopted as Chapter 1 R3 natural",
-      "coverage": "canon_coverage/Chapter_01_ACCEPTED.json",
-      "review": "audits/CHAPTER_1_R3_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
-    },
-    {
-      "chapter": 1,
-      "revision": "R2",
-      "path": "drafts/Chapter_01_Adrian_Vale_R2.md",
-      "sha256": "44b36dbfc1404bac2d482fbf9dbbf3be91aa4e612d5bcb0d54238d1b814d3510",
-      "status": "required by FILE_CONTRACT drafts/Chapter_01_Adrian_Vale_R2.md",
-      "coverage": "canon_coverage/Chapter_01_R2.json",
-      "review": "audits/CHAPTER_1_R2_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_01_Adrian_Vale_R4.md",
+      "sha256": "8002ab86e7abccca0fd2c947fd3a01186f4f43c1267e5509c426107cb938a624",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_01_ACCEPTED.json"
     },
     {
       "chapter": 2,
-      "revision": "R2",
-      "path": "drafts/Chapter_02_A_Familiar_Face_R2.md",
-      "sha256": "d913f75dd680a7941f5ae85aff507395f652283f21b70b0673b0f227176532bf",
-      "status": "adopted as Chapter 2 R2 natural",
-      "coverage": "canon_coverage/Chapter_02_ACCEPTED.json",
-      "review": "audits/CHAPTER_2_R2_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
-    },
-    {
-      "chapter": 2,
-      "revision": "R1",
-      "path": "drafts/Chapter_02_A_Familiar_Face_R1.md",
-      "sha256": "d913f75dd680a7941f5ae85aff507395f652283f21b70b0673b0f227176532bf",
-      "status": "required by FILE_CONTRACT drafts/Chapter_02_A_Familiar_Face_R1.md",
-      "coverage": "canon_coverage/Chapter_02_R1.json",
-      "review": "audits/CHAPTER_2_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R5",
+      "path": "drafts/Chapter_02_A_Familiar_Face_R5.md",
+      "sha256": "3084cb15a927c6b8ddf4444349933a4d7f6414eb5914b7e2c154542284d3aea5",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_02_ACCEPTED.json"
     },
     {
       "chapter": 3,
-      "revision": "R3",
-      "path": "drafts/Chapter_03_The_Name_He_Feared_R3.md",
-      "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-      "status": "adopted as Chapter 3 R3 natural",
-      "coverage": "canon_coverage/Chapter_03_ACCEPTED.json",
-      "review": "audits/CHAPTER_3_R3_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
-    },
-    {
-      "chapter": 3,
-      "revision": "R1",
-      "path": "drafts/Chapter_03_What_Came_With_Us_R1.md",
-      "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-      "status": "required by FILE_CONTRACT drafts/Chapter_03_What_Came_With_Us_R1.md",
-      "coverage": "canon_coverage/Chapter_03_R1.json",
-      "review": "audits/CHAPTER_3_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
-    },
-    {
-      "chapter": 3,
-      "revision": "R2",
-      "path": "drafts/Chapter_03_The_Name_He_Feared_R2.md",
-      "sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
-      "status": "required by FILE_CONTRACT drafts/Chapter_03_The_Name_He_Feared_R2.md",
-      "coverage": "canon_coverage/Chapter_03_R2.json",
-      "review": "audits/CHAPTER_3_R2_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_03_The_Name_He_Feared_R4.md",
+      "sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_03_ACCEPTED.json"
     },
     {
       "chapter": 4,
-      "revision": "R1",
-      "path": "drafts/Chapter_04_What_Remains_R1.md",
-      "sha256": "c8688224c62354dde00f7be3a55acd64ee3452b92a6618a2ed3d49b7ee38153b",
-      "status": "adopted as Chapter 4 R1 natural",
-      "coverage": "canon_coverage/Chapter_04_ACCEPTED.json",
-      "review": "audits/CHAPTER_4_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_04_What_Remains_R4.md",
+      "sha256": "fb957fb95fa34e73d4ea3ba156ba6e63da49d988047424d0a60e9387e5517efd",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_04_ACCEPTED.json"
     },
     {
       "chapter": 5,
       "revision": "R3",
       "path": "drafts/Chapter_05_In_Plain_Sight_R3.md",
-      "sha256": "a4abf20578faf22ca392c14f77c222731158001745143a1660f7978a39cd6cc5",
-      "status": "adopted as Chapter 5 R3 natural",
-      "coverage": "canon_coverage/Chapter_05_ACCEPTED.json",
-      "review": "audits/CHAPTER_5_R3_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "sha256": "cf25c1375fec86c021babe48e1c03ef4cf62d011670c4a56a6f1bb7b0423b5ae",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_05_ACCEPTED.json"
     },
     {
       "chapter": 6,
-      "revision": "R1",
-      "path": "drafts/Chapter_06_Under_the_Headline_R1.md",
-      "sha256": "016a29f3897214ca167048e49e7193e932b1a067e85408549113bf834eb3e314",
-      "status": "adopted as Chapter 6 R1 natural",
-      "coverage": "canon_coverage/Chapter_06_ACCEPTED.json",
-      "review": "audits/CHAPTER_6_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_06_Under_the_Headline_R4.md",
+      "sha256": "c1a49bdbbc97bdd1189f8b4b9660e826c76cb2b74c160a724e41b14e36d6214e",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_06_ACCEPTED.json"
     },
     {
       "chapter": 7,
-      "revision": "R1",
-      "path": "drafts/Chapter_07_How_Does_She_Do_It_R1.md",
-      "sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
-      "status": "adopted as Chapter 7 R1 natural",
-      "coverage": "canon_coverage/Chapter_07_ACCEPTED.json",
-      "review": "audits/CHAPTER_7_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_07_How_Does_She_Do_It_R4.md",
+      "sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_07_ACCEPTED.json"
     },
     {
       "chapter": 8,
-      "revision": "R1",
-      "path": "drafts/Chapter_08_The_Woman_Who_Stayed_R1.md",
-      "sha256": "e4545d7e3ed6891644bcb2a46e47460b78bd107cab95689cc14d2b246a683323",
-      "status": "adopted as Chapter 8 R1 natural",
-      "coverage": "canon_coverage/Chapter_08_ACCEPTED.json",
-      "review": "audits/CHAPTER_8_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_08_The_Woman_Who_Stayed_R4.md",
+      "sha256": "a2f34151f16619a4b9f52343f73e4c0fbb2c3d5def4f602663bf7a58e269927e",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_08_ACCEPTED.json"
     },
     {
       "chapter": 9,
-      "revision": "R8",
-      "path": "drafts/Chapter_09_Red_Faced_and_Named_R8.md",
-      "sha256": "ea5316751340f7a9e1662c13751577f9f2d401e27d859b2610cf980100218a8b",
-      "status": "adopted as Chapter 9 R8 natural",
-      "coverage": "canon_coverage/Chapter_09_ACCEPTED.json",
-      "review": "audits/CHAPTER_9_R8_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_09_Red_Faced_and_Named_R4.md",
+      "sha256": "596be64f199e4547c51d3bdcae1d8f5e329bee0f4bc6abc32c4abdd82ed7cccd",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_09_ACCEPTED.json"
     },
     {
       "chapter": 10,
-      "revision": "R5",
-      "path": "drafts/Chapter_10_Red_Faced_Consequence_R5.md",
-      "sha256": "a19ad84723f90b027e6d2872fa62cf1f831f314d90838e9e5a1861d9a382d0a9",
-      "status": "adopted as Chapter 10 R5 natural",
-      "coverage": "canon_coverage/Chapter_10_ACCEPTED.json",
-      "review": "audits/CHAPTER_10_R5_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_10_Red_Faced_Consequence_R4.md",
+      "sha256": "5e58b985367fc5da3791273ecc843a023f375c983b9d416f4938144a5ab59d54",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_10_ACCEPTED.json"
     },
     {
       "chapter": 11,
-      "revision": "R5",
-      "path": "drafts/Chapter_11_The_Sun_R5.md",
-      "sha256": "a814af1ba006ef6d25ad884fffdaf900aedac6c6376153a88f1ab926e47fe211",
-      "status": "adopted as Chapter 11 R5 natural",
-      "coverage": "canon_coverage/Chapter_11_ACCEPTED.json",
-      "review": "audits/CHAPTER_11_R5_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_11_The_Sun_R4.md",
+      "sha256": "8f28f2f7aaa37ab60592f589fab1050cb9a7638d71c76785f18b5cc1cd68a3d9",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_11_ACCEPTED.json"
     },
     {
       "chapter": 12,
-      "revision": "R6",
-      "path": "drafts/Chapter_12_The_Kiss_R6.md",
-      "sha256": "ab7c901bdbb2bfa88f5cd9e7dad3fb1c7a5fd7180fd761f9bb26c9d16e25dc6c",
-      "status": "adopted as Chapter 12 R6 natural",
-      "coverage": "canon_coverage/Chapter_12_ACCEPTED.json",
-      "review": "audits/CHAPTER_12_R6_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_12_The_Kiss_R4.md",
+      "sha256": "0f61bf804f6a6fcae6bf81b24c30731eaae955126f6ecbeef31182dac8180baf",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_12_ACCEPTED.json"
     },
     {
       "chapter": 13,
-      "revision": "R5",
-      "path": "drafts/Chapter_13_Human_for_a_Day_R5.md",
-      "sha256": "2cb3be6aa9c5983a15381be8dc0680404c6835c9f5248c25bcd094230f65d098",
-      "status": "adopted as Chapter 13 R5 natural",
-      "coverage": "canon_coverage/Chapter_13_ACCEPTED.json",
-      "review": "audits/CHAPTER_13_R5_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_13_Human_for_a_Day_R4.md",
+      "sha256": "fa4bf3bcbec4a67080aa5a7d39fc6e835595ff6832b6fd68184a1b479a417ed1",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_13_ACCEPTED.json"
     },
     {
       "chapter": 14,
-      "revision": "R8",
-      "path": "drafts/Chapter_14_Hostile_Takeover_R8.md",
-      "sha256": "6d41cbfd3b581fd6fad35f257d28db44c811ce06514a13e0d10d95e7323030aa",
-      "status": "adopted as Chapter 14 R8 natural",
-      "coverage": "canon_coverage/Chapter_14_ACCEPTED.json",
-      "review": "audits/CHAPTER_14_R8_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_14_Hostile_Takeover_R4.md",
+      "sha256": "94196a9d2de8c461a61cc9a757eef6af42c6c98238210df6e8a9452f97e4e3c6",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_14_ACCEPTED.json"
     },
     {
       "chapter": 15,
-      "revision": "R5",
-      "path": "drafts/Chapter_15_Blood_Bonds_R5.md",
-      "sha256": "7c70e85c345714c422cdd982222b363af9b1183d21c3c30e86f782233affd425",
-      "status": "adopted as Chapter 15 R5 natural",
-      "coverage": "canon_coverage/Chapter_15_ACCEPTED.json",
-      "review": "audits/CHAPTER_15_R5_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_15_Blood_Bonds_R4.md",
+      "sha256": "04627aba01a8f56b114ddcfbabfbb6bfe6f62789c014d0c1788a16854b2b5f65",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_15_ACCEPTED.json"
     },
     {
       "chapter": 16,
-      "revision": "R4",
-      "path": "drafts/Chapter_16_Childish_Things_Part1_R4.md",
-      "sha256": "c75a1b8f273755eb26f847044a805266b929eddbb2a6ce1b7d23b0f320401409",
-      "status": "adopted as Chapter 16 R4 natural",
-      "coverage": "canon_coverage/Chapter_16_ACCEPTED.json",
-      "review": "audits/CHAPTER_16_R4_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R2",
+      "path": "drafts/Chapter_16_Childish_Things_R2.md",
+      "sha256": "3daccb737009c0c54c7c778baa1ec40d0b9e2a09ce0ed7e929af8e6faf04448e",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_16_ACCEPTED.json"
     },
     {
       "chapter": 17,
-      "revision": "R7",
-      "path": "drafts/Chapter_17_Childish_Things_Part2_R7.md",
-      "sha256": "9a8ebcf078dbdd3cc822ea5ad74ea439dfca62b3a0486201d3a9dae20f387c04",
-      "status": "adopted as Chapter 17 R7 natural",
-      "coverage": "canon_coverage/Chapter_17_ACCEPTED.json",
-      "review": "audits/CHAPTER_17_R7_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R2",
+      "path": "drafts/Chapter_17_Childish_Things_Convention_R2.md",
+      "sha256": "9b93f23adabbf5a892b37a67728be92696c2969889ab93c49e7c7d993a9c77d3",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_17_ACCEPTED.json"
     },
     {
       "chapter": 18,
       "revision": "R3",
       "path": "drafts/Chapter_18_Strange_Visitor_Part1_R3.md",
-      "sha256": "c3cfa05cd2aade24f00fe8d995f2bcdc61316b1158bce662b611dce137215b51",
-      "status": "adopted as Chapter 18 R3 natural",
-      "coverage": "canon_coverage/Chapter_18_ACCEPTED.json",
-      "review": "audits/CHAPTER_18_R3_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "sha256": "6c4c224f244e5897a9e43e11ccf4f2a570ec1f4b8ab8f978132775d3924dc4a9",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_18_ACCEPTED.json"
     },
     {
       "chapter": 19,
       "revision": "R3",
       "path": "drafts/Chapter_19_Strange_Visitor_Part2_R3.md",
-      "sha256": "8d52c0301b6a11641adcd5da47af08e9e5da3bd3a4a7bfd4d43954d96d681c8c",
-      "status": "adopted as Chapter 19 R3 natural",
-      "coverage": "canon_coverage/Chapter_19_ACCEPTED.json",
-      "review": "audits/CHAPTER_19_R3_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "sha256": "7a338c11006e98b3f0a794c17d0e24c94441f9073d85c639f64f133f7a78a023",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_19_ACCEPTED.json"
     },
     {
       "chapter": 20,
-      "revision": "R2",
-      "path": "drafts/Chapter_20_Bizarro_R2.md",
-      "sha256": "d474809003eafe0d523c878cdf647fb4247f1386a5e9ca6c289d6e64ed2aeaa9",
-      "status": "adopted as Chapter 20 R2 natural",
-      "coverage": "canon_coverage/Chapter_20_ACCEPTED.json",
-      "review": "audits/CHAPTER_20_R2_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R3",
+      "path": "drafts/Chapter_20_Bizarro_R3.md",
+      "sha256": "494a31afc0c4aeea7efbab5c43c660680d91a636912ba035dad91dd3a81be34d",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_20_ACCEPTED.json"
     },
     {
       "chapter": 21,
-      "revision": "R1",
-      "path": "drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R1.md",
-      "sha256": "ebd9d9d635dbbf79aff55a14e15ae0c6582f970c7a7627ce70d33474b1a9a0b4",
-      "status": "adopted as Chapter 21 R1 natural",
-      "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
-      "review": "audits/CHAPTER_21_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R4.md",
+      "sha256": "a1dcf4b366077eb6083ca61d146e2c531ffd83f91e70aca5955c985c3224618c",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_21_ACCEPTED.json"
     },
     {
       "chapter": 22,
-      "revision": "R1",
-      "path": "drafts/Chapter_22_Truth_Justice_R1.md",
-      "sha256": "8f6ca93f06025436c742460c7a7945d289b2c7e1b9ad3ca43664bb84147888f1",
-      "status": "adopted as Chapter 22 R1 natural",
-      "coverage": "canon_coverage/Chapter_22_ACCEPTED.json",
-      "review": "audits/CHAPTER_22_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_22_Truth_Justice_R4.md",
+      "sha256": "81918ced138c1276634031a53d9c01387369e4f0a69af00c5ca0ca1a42fa6988",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_22_ACCEPTED.json"
     },
     {
       "chapter": 23,
-      "revision": "R1",
-      "path": "drafts/Chapter_23_Solitude_R1.md",
-      "sha256": "8a61af2f0e09162046e454c122f99bae97e5e11e6d6733a74ab7569df9afab78",
-      "status": "adopted as Chapter 23 R1 natural",
-      "coverage": "canon_coverage/Chapter_23_ACCEPTED.json",
-      "review": "audits/CHAPTER_23_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_23_Solitude_R4.md",
+      "sha256": "9c8714b6f6843b078e56e440388d12d752a1fe68ccd42ca311ca785d634379b3",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_23_ACCEPTED.json"
     },
     {
       "chapter": 24,
       "revision": "R3",
       "path": "drafts/Chapter_24_Falling_R3.md",
-      "sha256": "8a47565661915fda2e674fab047420bdbbc5487a1c6ae3afe583d11654ab0a52",
-      "status": "adopted as Chapter 24 R3 natural",
-      "coverage": "canon_coverage/Chapter_24_ACCEPTED.json",
-      "review": "audits/CHAPTER_24_R3_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "sha256": "b6cf5cb116b34d5c7c28ee9e5125f5efc8fd6c2a85a94dede77c8c9403e177a5",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_24_ACCEPTED.json"
     },
     {
       "chapter": 25,
-      "revision": "R1",
-      "path": "drafts/Chapter_25_Manhunter_R1.md",
-      "sha256": "d1b32c921089cdff69649da302558fb1da71a3198aca212868b2d9444abf2306",
-      "status": "adopted as Chapter 25 R1 natural",
-      "coverage": "canon_coverage/Chapter_25_ACCEPTED.json",
-      "review": "audits/CHAPTER_25_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "revision": "R4",
+      "path": "drafts/Chapter_25_Manhunter_R4.md",
+      "sha256": "ed9444feaa87ca496f7812c495585a7bbb067d063b61d44edc1256620ceba52f",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_25_ACCEPTED.json"
     },
     {
       "chapter": 26,
+      "revision": "R4",
+      "path": "drafts/Chapter_26_Worlds_Finest_R4.md",
+      "sha256": "b6f3cb127373a6e4f849899bcde7d8563d61019b23b0eaec8643f90a7b72af71",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_26_ACCEPTED.json"
+    },
+    {
+      "chapter": 27,
+      "path": "drafts/Chapter_27_Myriad_R2.md",
+      "sha256": "c3c7f52c80f03b7e20dbca5d09db1214d53436dfa2529d69684c36a282f8aea2",
+      "revision": "2",
+      "status": "preserved",
+      "coverage": "canon_coverage/Chapter_27_PRESERVED_R2.json"
+    },
+    {
+      "chapter": 1,
+      "path": "drafts/Chapter_01_Adrian_Vale_R1.md",
+      "sha256": "44b36dbfc1404bac2d482fbf9dbbf3be91aa4e612d5bcb0d54238d1b814d3510",
       "revision": "R1",
-      "path": "drafts/Chapter_26_Worlds_Finest_R1.md",
-      "sha256": "80712cd00933a1a47cffa58b4030473e145516546cfba7bc6bdd1bfbdf20b0dd",
-      "status": "adopted as Chapter 26 R1 natural",
-      "coverage": "canon_coverage/Chapter_26_ACCEPTED.json",
-      "review": "audits/CHAPTER_26_R1_REVIEW.md",
-      "format_revision": 1,
-      "continuity_conflicts": []
+      "status": "preserved",
+      "coverage": "canon_coverage/Chapter_01_PRESERVED_R1.json"
+    },
+    {
+      "chapter": 28,
+      "path": "drafts/Chapter_28_Better_Angels_R2.md",
+      "sha256": "e03ff21b4abb074189af5eedacbcc18ffb2945ada7975619a0c28a1bde884368",
+      "revision": "2",
+      "status": "preserved",
+      "coverage": "canon_coverage/Chapter_28_PRESERVED_R2.json"
+    },
+    {
+      "chapter": 27,
+      "path": "drafts/Chapter_27_Myriad_R1.md",
+      "sha256": "1c24de052ac9fe1c6dde04acb972517ace1d135941eb424d06e405732199978d",
+      "revision": "1",
+      "status": "preserved",
+      "coverage": "canon_coverage/Chapter_27_PRESERVED_R1.json"
+    },
+    {
+      "chapter": 28,
+      "path": "drafts/Chapter_28_Better_Angels_R1.md",
+      "sha256": "dc451efaf10e6e969ad2e990e681ceb17fb8d064c67a64674a8ed1e9ed7a6cca",
+      "revision": "1",
+      "status": "preserved",
+      "coverage": "canon_coverage/Chapter_28_PRESERVED_R1.json"
+    },
+    {
+      "chapter": 27,
+      "path": "drafts/Chapter_27_Myriad_R4.md",
+      "sha256": "de93093188f66b79f7b0a9fe888159452f4be16803cbbb7c488242583b399229",
+      "revision": "R4",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_27_ACCEPTED.json"
+    },
+    {
+      "chapter": 28,
+      "path": "drafts/Chapter_28_Better_Angels_R4.md",
+      "sha256": "0a7b21238bea313b5e03150c187b76be1b4c0ea8d1074c9f696358bbd580f04a",
+      "revision": "R4",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_28_ACCEPTED.json"
+    },
+    {
+      "chapter": 27,
+      "path": "drafts/Chapter_27_Myriad_R3.md",
+      "revision": "R3",
+      "status": "superseded",
+      "coverage": "canon_coverage/Chapter_27_PRESERVED_R3.json",
+      "sha256": "2d87b7b2c62c49af6f2babd90f6a8298d02340f2e2b958e47828da63001635f9"
+    },
+    {
+      "chapter": 28,
+      "path": "drafts/Chapter_28_Better_Angels_R3.md",
+      "revision": "R3",
+      "status": "superseded",
+      "coverage": "canon_coverage/Chapter_28_PRESERVED_R3.json",
+      "sha256": "f3069609ea6c985a263b421370735b0e486110d47e1a411a5c171d4a79bb754c"
+    },
+    {
+      "chapter": 29,
+      "path": "drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md",
+      "sha256": "c1ebe1d2d1811633c1f65c090dd628ca021e2e44f79e392a74d3c1c3dd391c6e",
+      "revision": "R1",
+      "status": "latest_candidate",
+      "coverage": "canon_coverage/Chapter_29_ACCEPTED.json"
     }
   ],
   "source_authority": {
@@ -1157,6 +1261,18 @@
       "description": "Chapter 26 adopted 26 w no skip",
       "date": "2026-10-09",
       "kind": "chapter_adopted"
+    },
+    {
+      "id": "E073-R4",
+      "kind": "rewrite",
+      "date": "2026-09-27",
+      "description": "U73 R4 rewrite of Ch27/Ch28: butterfly effects carry through naturally, canon woven naturally in show's canon style (emotional character-driven voice + pacing). Adrian's existential arc: device threatens ordinary life itself. Coverage, audits, drafts, and manifest updated."
+    },
+    {
+      "id": "CH29-29",
+      "kind": "chapter_adopted",
+      "date": "2026-09-27",
+      "description": "Chapter 29 The Adventures of Supergirl (S02E01) adopted R1. Canon style with butterfly carry-through."
     }
   ],
   "background": {
@@ -1276,5 +1392,7 @@
   },
   "package": "../supergirl-adrian-vale-foundation-021-Chapter-09-R1-candidate.zip",
   "candidate_endpoint_2": "planning/Chapter_11_R2_ENDPOINT.json",
-  "romance_selection": "kara"
+  "romance_selection": "kara",
+  "notes": "U72 CANON STYLE COMPLETE: All 26 chapters rewritten in full canon style (TV serial writing feel). Artifacts=0, summary walls=0, cross-chapter repetition=0. verify.py PASS. | U73: Chapter 27 Myriad written in canon style. 4682w, IN BAND. | U74: Chapter 28 Better Angels written in canon style. 4407w, IN BAND. Season 1 finale. | U75: Ch27+28 canon-corrected with full episode research. Myriad and Better Angels rewritten to match actual S01E19/E20 canon. Butterfly effects added for Adrian.",
+  "accepted_chapter_edge": 27
 }

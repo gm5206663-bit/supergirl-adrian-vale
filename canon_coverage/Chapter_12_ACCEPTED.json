@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 12,
-  "revision": "R6",
+  "revision": "R4",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_12_The_Kiss_R6.md",
-  "draft_sha256": "ab7c901bdbb2bfa88f5cd9e7dad3fb1c7a5fd7180fd761f9bb26c9d16e25dc6c",
+  "draft_path": "drafts/Chapter_12_The_Kiss_R4.md",
+  "draft_sha256": "0f61bf804f6a6fcae6bf81b24c30731eaae955126f6ecbeef31182dac8180baf",
   "accepted": true,
   "claimed_episode": "S01E07 The Kiss",
   "span": "The Kiss Complete Clean No Ticker No Cat Private complete clean no ticker no Cat private",
@@ -164,5 +164,7 @@
     "canon_title": "The Kiss",
     "chapter": 12,
     "chapter_title": "The Kiss Complete Clean No Ticker No Cat Private"
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R7"
 }

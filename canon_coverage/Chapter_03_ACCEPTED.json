@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 3,
-  "revision": "R3",
+  "revision": "R4",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_03_The_Name_He_Feared_R3.md",
-  "draft_sha256": "970442a58294f9a49783449735cef4aa27456beb461230e2418f6f6498f17c8c",
+  "draft_path": "drafts/Chapter_03_The_Name_He_Feared_R4.md",
+  "draft_sha256": "9d1dcd797601ea54b10ff72cdfa13411a1b0ef1550afa48e60db4f0dd5967e01",
   "accepted": true,
   "claimed_episode": "S01E01 \u2014 Pilot",
   "span": "Costume/field trials through initial DEO capture and following-workday first Vartox confrontation, decisively altered by rescue/capture.",
@@ -190,5 +190,7 @@
   "status": "adopted_via_U18_continuation",
   "accepted_path": "chapters/Chapter_03_The_Name_He_Feared.md",
   "accepted_on": "2026-09-28",
-  "acceptance_receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18 continuation authorization"
+  "acceptance_receipt": "audits/CONTINUATION_Chapter_03.md \u2014 U18 continuation authorization",
+  "updated_on": "2026-09-27",
+  "draft_revision": "R4"
 }

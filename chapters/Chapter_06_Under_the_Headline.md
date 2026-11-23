@@ -2,7 +2,7 @@
 
 *Episode: S01E03 - Fight or Flight*
 
-Cat set her phone on the roof of the car, checked that it was recording and looked up at Supergirl.
+Cat set her phone on the roof of the car, checked that it'd recording and looked up at Supergirl.
 
 “Where are you from?”
 
@@ -20,7 +20,7 @@ Kara glanced toward the city. “Sometimes.”
 
 Cat made a small note. Kara wished she could see it.
 
-They talked about the harbor. Kara named the crewman who had directed the tanker and explained why the tug had mattered. Cat listened without interrupting, then asked whether the masked man had taught her to fly.
+They talked about the harbor. Kara named the crewman who had directed the tanker and explained why the tug had mattered. Cat listened without interrupting, then asked whether Wraith had taught her to fly.
 
 “No.”
 
@@ -30,7 +30,7 @@ They talked about the harbor. Kara named the crewman who had directed the tanker
 
 Cat considered her for a moment. “And what do you want when you aren't pulling people out of burning buildings? A home? Children? Someone waiting for you?”
 
-The question caught Kara in a place the others had not. Hours earlier, she had stood outside a room where her mother's sister was learning what kryptonite did. For years she had wanted family back. Now some of it was here, and she had no answer simple enough for a magazine.
+The question caught Kara in a place the others hadn't. Hours earlier, she had stood outside a room where her mother's sister was learning what kryptonite did. For years she had wanted family back. Now some of it'd here, and she had no answer simple enough for a magazine.
 
 “Do you ask my cousin whether he plans to settle down?”
 
@@ -40,7 +40,7 @@ Kara heard what she had said a fraction too late.
 
 “Your cousin.”
 
-She could not take the word out of the recording. She could decide how much more of her life followed it.
+She couldn't take the word out of the recording. She could decide how much more of her life followed it.
 
 “Yes. But I'm not giving you his private life, or mine.”
 
@@ -88,7 +88,7 @@ At CatCo, Adrian placed one of two small bakery bags on the edge of Kara's desk 
 
 “Glazed,” he said. “The other one is mine.”
 
-She looked into the bag and found a pastry tucked beside the donut. For a moment, it was possible to remember a morning when that would have been the most interesting thing waiting for her.
+She looked into the bag and found a pastry tucked beside the donut. For a moment, it'd possible to remember a morning when that would have been the most interesting thing waiting for her.
 
 “Thank you.”
 
@@ -98,13 +98,13 @@ He glanced at the television above the neighboring desks. “Does Alex know?”
 
 “Good.”
 
-He did not tell her that he would never have made the mistake. She was grateful enough for that to tear off a piece of the pastry before Cat called her name.
+He didn't tell her that he would never have made the mistake. She was grateful enough for that to tear off a piece of the pastry before Cat called her name.
 
 The article would lead the next magazine issue. There would be a launch reception, photographs and guests who would need places to stand while telling one another they had understood Supergirl's importance before anyone else did.
 
 Kara received the guest list. Adrian received the room and production requirements.
 
-“The interview is finished,” Cat told them. “That is not an invitation for the rest of you to begin improvising.”
+“The interview is finished,” Cat told them. “That isn't an invitation for the rest of you to begin improvising.”
 
 ***
 
@@ -116,7 +116,7 @@ Astra looked toward the glass before the speaker came on.
 
 “I wondered whether you would keep your promise.”
 
-“I said I would listen.”
+“I said I'd listen.”
 
 “Then come in.”
 
@@ -154,9 +154,9 @@ Kara's hand tightened against the ledge. “He's on Earth?”
 
 Kara felt Alex become still beside her. “I'm not turning it off as the price of a conversation. You sent someone to take an agent. We're trying to prevent another attack.”
 
-Her aunt studied her. “Would you have asked me these questions before he brought you to the warehouse?”
+Her aunt studied her. “Would you've asked me these questions before he brought you to the warehouse?”
 
-“Kael didn't choose my questions,” Kara said. “I went there because your man told us where you were. I would have asked who you were sending after people whoever found you first.”
+“Kael didn't choose my questions,” Kara said. “I went there because your man told us where you were. I'd have asked who you were sending after people whoever found you first.”
 
 Alex remained beside the console, where Kara could see her without looking away from her aunt.
 
@@ -166,9 +166,9 @@ Alex remained beside the console, where Kara could see her without looking away 
 
 Astra leaned back.
 
-The silence lasted until Kara understood that it was the answer she was going to receive today.
+The silence lasted until Kara understood that it'd the answer she was going to receive today.
 
-Henshaw met them beyond the checkpoint. He had a report open on his tablet and two agents waiting for instructions. The new prisoners had not made the facility safer simply by standing on the other side of a door.
+Henshaw met them beyond the checkpoint. He had a report open on his tablet and two agents waiting for instructions. The new prisoners hadn't made the facility safer simply by standing on the other side of a door.
 
 “We've reviewed your interview,” he told Kara. “We can't retrieve a public relationship once it's published. From now on, we plan for someone choosing targets around it.”
 
@@ -180,7 +180,7 @@ An alert sounded at the operations desk. Several vehicles had collided on the fr
 
 Alex followed her to the door. “Keep the channel open.”
 
-“I will.”
+“I'll.”
 
 ***
 
@@ -212,7 +212,7 @@ Kara threw the ruined door into the weapon on his right arm. Its outer casing cr
 
 She reached the vehicle first. Bracing against its frame, she turned the broken windows away from him while the last passengers crawled toward the far exit. Heat struck the road behind her. She could hear the man shouting over it, demanding that she turn around and face him.
 
-There were people beneath her hands. She did not let go.
+There were people beneath her hands. She didn't let go.
 
 ***
 
@@ -228,13 +228,13 @@ Adrian entered from the man's uninjured side.
 
 The gauntlet turned. Adrian slipped inside its line of fire, caught the forearm and carried the motion upward. The discharge passed into empty sky. He pivoted behind the armor before the attacker could bring the damaged arm across, folded both weapon-bearing arms away from the crowd and lowered him to one knee.
 
-A short burst from the flight apparatus lifted dust beneath them. Adrian changed his stance with it rather than wrenching the metal backward. The man's feet returned to the road. His arms did not move.
+A short burst from the flight apparatus lifted dust beneath them. Adrian changed his stance with it rather than wrenching the metal backward. The man's feet returned to the road. His arms didn't move.
 
 “Stop,” Adrian said.
 
 The attacker tried again. Nothing useful happened.
 
-Across the lanes, Kara helped the final passenger clear the bus and set the vehicle down. When she looked up, the fight had become something else: a furious man held still by someone who had not needed to hit him.
+Across the lanes, Kara helped the final passenger clear the bus and set the vehicle down. When she looked up, the fight had become something else: a furious man held still by someone who hadn't needed to hit him.
 
 Alex's voice came through her earpiece. “Winn passed a clear image to James. He recognizes the armor. He says the name is Reactron.”
 
@@ -250,13 +250,13 @@ Kara crossed the road. Beneath the cracked plate on the gauntlet, light pulsed a
 
 “Then stop aiming at the people who aren't part of it,” Kara said.
 
-He looked at her, his face twisted by an anger that did not belong to this road or this morning.
+He looked at her, his face twisted by an anger that didn't belong to this road or this morning.
 
 “Ask your cousin about my wife.”
 
 ***
 
-Henshaw did not send the guards from Astra's corridor to the freeway.
+Henshaw didn't send the guards from Astra's corridor to the freeway.
 
 He sent the previous incident reports to Alex and put her in contact with the city's hazardous-materials commander. The attacker was human; responsibility for his arrest would go through the human authorities. An unknown energy system capable of injuring a Kryptonian was still something the DEO could help them understand.
 
@@ -268,7 +268,7 @@ On the road, Adrian had moved Reactron behind the empty bus, away from the gathe
 
 There was no need to pull the chest apart simply because they could.
 
-A technician talked them through the existing images of the suit. Adrian asked for a closer view of the undamaged side, then compared it with the mechanism in front of him. The design was unfamiliar; the distinction between a weapon feed and the housing that kept its power source contained was not.
+A technician talked them through the existing images of the suit. Adrian asked for a closer view of the undamaged side, then compared it with the mechanism in front of him. The design was unfamiliar; the distinction between a weapon feed and the housing that kept its power source contained wasn't.
 
 “Keep that section assembled,” he told Kara when she came back. “We want the power unit out without turning the man wearing it into the opening in its casing.”
 
@@ -276,7 +276,7 @@ Alex confirmed the danger from the old reports. Lead shielding was part of the a
 
 The offer arrived with a request to know who would acknowledge the company's contribution.
 
-“Tell them I will,” Kara said. “When the container is here.”
+“Tell them I'll,” Kara said. “When the container is here.”
 
 She went to meet the vehicle rather than wait for it to work through the stopped traffic. Adrian remained with the prisoner. The ambulance crews reported that the last passengers were clear. The containment team could now work without anyone trapped beside the damaged vehicles.
 
@@ -304,7 +304,7 @@ Without it, the man on the road looked abruptly smaller. The gloves and plates r
 
 The radiation team's readings fell. Only after the officers cleared the approach did the arrest team come forward.
 
-Kara stayed beside the ambulance while they examined the prisoner. Adrian stepped away from the officers' cameras and left masked, taking a route that did not point anyone toward his place of work.
+Kara stayed beside the ambulance while they examined the prisoner. Adrian stepped away from the officers' cameras and left masked, taking a route that didn't point anyone toward his place of work.
 
 A reporter called after Kara as she prepared to go.
 
@@ -324,7 +324,7 @@ Kara noticed it before the monitors. It sat on a cabinet beneath a stack of pape
 
 “Does Cat know you're using it?” Kara asked.
 
-“She knows I'm sorting the spare equipment. Which I am.”
+“She knows I'm sorting the spare equipment. Which I'm.”
 
 Kara looked at the screens. One showed public traffic reports; another held a map of the freeway. “Keep anything private off the shared systems.”
 
@@ -340,7 +340,7 @@ Kara studied the photograph. Without the armor, he looked like someone she could
 
 “The reports say he stopped a much larger disaster,” Alex said. “They don't say he could save every person inside it.”
 
-That distinction would not have brought a woman back to her husband. It also had not put any of the people on the freeway in his debt.
+That distinction wouldn't have brought a woman back to her husband. It also hadn't put any of the people on the freeway in his debt.
 
 James touched the watch on his wrist.
 
@@ -354,7 +354,7 @@ Kara looked up. “Were you going to use it?”
 
 “I know that now.” His hand left the watch. “I didn't know what help you already had.”
 
-Kara remembered Alex telling her that keeping someone uninformed did not keep them safe. “Then we should get better at telling each other. If someone is in danger, call for help. I just don't want to find out afterward that everyone made a plan around me except me.”
+Kara remembered Alex telling her that keeping someone uninformed didn't keep them safe. “Then we should get better at telling each other. If someone is in danger, call for help. I just don't want to find out afterward that everyone made a plan around me except me.”
 
 James nodded.
 
@@ -364,7 +364,7 @@ Winn looked between them. “I can put a contact list on the private machine. Nu
 
 “I heard the agreed part as I was saying it.”
 
-She smiled and took the cup he offered. The room was not impressive. Its chairs did not match, and one monitor needed a folded piece of cardboard under its stand. It was still a place where she could sit down without pretending none of this belonged to her life.
+She smiled and took the cup he offered. The room wasn't impressive. Its chairs didn't match, and one monitor needed a folded piece of cardboard under its stand. It was still a place where she could sit down without pretending none of this belonged to her life.
 
 ***
 
@@ -396,7 +396,7 @@ Kara had come prepared to argue against someone who refused to see any good in S
 
 “Could the headline at least begin with her?”
 
-For a moment Cat did not answer. Her eyes moved from the marked paragraph to Kara's face, staying there long enough to make Kara aware of the glasses against her nose.
+For a moment Cat didn't answer. Her eyes moved from the marked paragraph to Kara's face, staying there long enough to make Kara aware of the glasses against her nose.
 
 “You're very invested in this.”
 
@@ -406,7 +406,7 @@ Cat's mouth almost moved into a smile. “That was a better answer.”
 
 She crossed out two words in the headline, not the whole thing.
 
-“Now go make sure the reception has chairs. I would hate to lose a major advertising account because we were too busy having convictions to provide furniture.”
+“Now go make sure the reception has chairs. I'd hate to lose a major advertising account because we were too busy having convictions to provide furniture.”
 
 Outside, Adrian was sorting the final deliveries. He had changed privately and re-engaged the seal before returning to his desk; the closed case was back in his work bag. Kara handed him the revised page and let herself breathe.
 
@@ -438,15 +438,15 @@ For a few seconds Adrian looked at the papers without reading them.
 
 “I remember being more interested in who had failed me than in who was standing in front of me,” he said quietly.
 
-Kara did not pretend she had forgotten what he meant.
+Kara didn't pretend she had forgotten what he meant.
 
 “Does it help to know that now?”
 
 “It changes what I do next.”
 
-He picked up the delivery slips again. The answer did not make the earlier part of his life less terrible. It did make sense of the care with which he had held the damaged armor while people worked around him.
+He picked up the delivery slips again. The answer didn't make the earlier part of his life less terrible. It did make sense of the care with which he had held the damaged armor while people worked around him.
 
-Kara looked down at Cat's amended headline, then folded the page so the ink would not smudge.
+Kara looked down at Cat's amended headline, then folded the page so the ink wouldn't smudge.
 
 ***
 
@@ -470,7 +470,7 @@ Across the room, Maxwell Lord congratulated Cat on the issue and made certain sh
 
 “Then you'll be delighted that I named the technicians too.”
 
-Lord smiled as if she had done him a favor. He asked what she knew about the man in black.
+Lord smiled as if she had done him a favor. He asked what she knew about Wraith.
 
 “Less than I intend to.”
 
@@ -478,11 +478,11 @@ Lord smiled as if she had done him a favor. He asked what she knew about the man
 
 “I find your interest interesting.”
 
-Nearby, Adrian set a replacement microphone on the presentation desk and continued past them. Lord's gaze followed him only long enough to see that he was staff. The black case was not in the room, and nothing on Adrian's wrist had slipped beyond his cuff.
+Nearby, Adrian set a replacement microphone on the presentation desk and continued past them. Lord's gaze followed him only long enough to see that he was staff. The black case wasn't in the room, and nothing on Adrian's wrist had slipped beyond his cuff.
 
 James joined Kara after the dance and handed her a glass of water.
 
-“I talked to your cousin,” he said quietly. “After we knew it was over.”
+“I talked to your cousin,” he said quietly. “After we knew it'd over.”
 
 “About the freeway?”
 
@@ -518,15 +518,15 @@ Kara felt herself flush. “Sorry. That came out—”
 
 “Right. Of course.” Kara placed the magazine on the desk and left them to it.
 
-In the corridor, she heard Lucy say she did not like how they had left things. James's answer was quieter. It was still easy to hear when she did not turn her attention elsewhere.
+In the corridor, she heard Lucy say she didn't like how they had left things. James's answer was quieter. It was still easy to hear when she didn't turn her attention elsewhere.
 
 Kara made herself keep walking.
 
-Whatever had happened between them had begun before he came to National City. A few good conversations and a borrowed hope did not tell her what it was, or give her a claim on how it ended.
+Whatever had happened between them had begun before he came to National City. A few good conversations and a borrowed hope didn't tell her what it'd, or give her a claim on how it ended.
 
 Behind the closed office door, James asked Lucy whether she was staying in National City.
 
-“For now,” she said. “Would you have called if I hadn't come?”
+“For now,” she said. “Would you've called if I hadn't come?”
 
 He looked down at the magazine Kara had left. “I kept deciding it wasn't the right time.”
 
@@ -546,7 +546,7 @@ She sat down and typed back that she was. Then she told him what Krull had said,
 
 The answer took longer than the first message.
 
-He remembered her, he told Kara. He had tried to reach everyone. Knowing that did not make the people he could not reach stop being people he remembered.
+He remembered her, he told Kara. He had tried to reach everyone. Knowing that didn't make the people he couldn't reach stop being people he remembered.
 
 Kara rested her hands above the keyboard.
 
@@ -562,7 +562,7 @@ That evening, Alex brought food to Kara's apartment and found the magazine open 
 
 “She moved your answer up,” Alex said, pointing to the paragraph about staying.
 
-“I had to argue.”
+“I'd to argue.”
 
 “I'm shocked.”
 
@@ -570,7 +570,7 @@ Kara handed her a carton and sat beside her. They ate for a while without discus
 
 Alex listened without making a joke at James's expense or promising that his past would turn out to be unimportant.
 
-“Did you have a good time with him?” she asked.
+“Did you've a good time with him?” she asked.
 
 “Yes.”
 
@@ -586,4 +586,4 @@ She listened long enough to hear the direction, then picked up her phone and che
 
 Alex moved the food out of reach of the cape. “I'll keep this warm.”
 
-Kara left the magazine where it was. There would be another headline tomorrow. Somewhere below, someone needed help before it could be written.
+Kara left the magazine where it'd. There would be another headline tomorrow. Somewhere below, someone needed help before it could be written.

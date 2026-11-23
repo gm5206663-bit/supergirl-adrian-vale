@@ -4,343 +4,664 @@
 
 The night air over Lord Technologies still smelled of scorched concrete and ozone.
 
-Kara hit the parking lot hard enough to crack asphalt, boots skidding, cape snapping behind her, dust rising. Above, Non banked, supersonic, carrying Hank Henshaw under one arm like luggage, Hank's face tight, lip bleeding.
-
-Kara launched again, absorbing momentum, flight counter rotation, fists forward, super speed. Non met her mid-air, forearm to forearm, shockwave rippling out over the lot, car alarms going off from the pressure. They slammed into each other, lifted, slammed again, proper superpowered, no jokes, no one-liners, just weight and speed and anger.
-
-They came down together behind Lord Technologies, parking lot behind, asphalt cracking under feet, lines spiderwebbing.
-
-Hank Henshaw — J'onn J'onzz in Henshaw's form, because only Alex knew, because he had promised Jeremiah — ran out to help Kara, but Non took him hostage and flew off before Kara could get hands on him, before she could grab Non's cape.
-
-J'onn could have fought. Shapeshifting, flight, super-strength, telepathy, density control, phasing, but stayed human to keep promise to Jeremiah and to protect Alex and Kara, even when Non tried to get an alien with eyes on forehead to read Hank's mind, even when Non said we have a telepath. He let Non take him, because fighting would reveal.
-
-Adrian was already there, helping evacuate, because he had heard the alarm from CatCo, hearing from CatCo, work hearing, but now alarm from Lord Technologies, three miles away, but hearing.
-
-He did not fight Kryptonians head-on. Two Kryptonians plus prisoners, not fight he could win without revealing, and civilian identity protected, and also because this was Kara's family, not his, and because even stronger now, two Kryptonians plus prisoners not fight he could win without revealing.
-
-He lifted a beam that had trapped a guard, set down gently, not fighting, moving debris, lifting a car that had trapped guard, set down gently, not fighting Kryptonians head-on, because even stronger now, two Kryptonians plus prisoners not fight he could win without revealing, and civilian identity protected.
-
-He caught Kara when Non hit her through Lord lab wall, one arm around waist, absorbing momentum, setting her down, work, not breaking.
-
-"You okay?" he asked, quiet so only she heard, from across room but now close.
-
-"I am okay," she said, breathing hard, and flew again, supersonic.
-
-From downstairs, Cat's voice, distant, through phone: "Keira! Where is my coffee?"
-
-Adrian, back at desk later, mug next to small magnet Evelyn left after Thanksgiving, looked up and went back to work, ordinary, band at wrist, human-level again.
+A fire had burned in one of the storage buildings two nights ago. The fire department had put it out. The investigators had come. The investigators had left. The building was still warm in the places where the sun hadn't reached.
 
 ---
 
-DEO still did not know why Fort Rozz prisoners attacked Lord Technologies.
+Kara stood at the edge of the property line and looked at the building.
 
-Maxwell Lord told reporters last night incident was corporate espionage, liar, because he doesn't trust government or aliens, because he thinks aliens took nothing, because he is planning major move against Kryptonians.
+The windows on the second floor were black. The door on the ground floor had been replaced with a new one, steel and thick. The fire hadn't taken the structure, but it had left its mark on everything around it.
 
-Alex was put in charge, Director Danvers, badge, gun, jacket.
+She had been here two days ago. She had been here in the air, above the building, watching the fire burn and moving people away from it. She had been here after, when the smoke had cleared and the investigators had gone home and the building had been left alone.
 
-Kara tried getting answers out of Astra in holding cell, cuffs glowing Kryptonian script, Astra suit new sheen at wrists where shielding caught light, thin like DEO walls that weakened Kara when barged in to stop Lane torturing Astra but wearable, Astra suit immune to kryptonite, Kara not willing to cross torture line, not willing to use Kryptonite liquid.
+She was here now for a different reason.
 
-Astra smiled, thin, eyes tired. "Your mother used you to lure me out. Alura knew I would come for family."
+Alex stood beside her. She had a file in her hand. She didn't open it.
 
-Kara stared. "What?"
+"Maxwell Lord is pressing the fire department for answers," Alex said. "He wants to know why the fire started. He wants to know why it burned where it burned."
 
-"She knew I would come for you."
+"What does he think happened?"
 
-Later, Alex received message from Non, offer prisoner exchange: Hank for Astra. Tough position, Alex pacing, hands tight on console, Alex said we have to trade.
+"He thinks someone set it."
 
-Gen Sam Lane stormed DEO base with presidential order, taking over command because DEO needs someone not emotionally involved, because Alex is emotionally involved, because Hank is family. Director Danvers acquiesced, jaw tight, handed badge.
+"Did someone set it?"
 
-Maxwell Lord told reporters incident was corporate espionage, liar, so James decided to pay him a visit to find out why he lied. Conversation didn't go well because Maxwell takes issue with James close relationship with Supergirl and accuses media of obscuring real threat aliens, planning major move, says media obscuring real threat.
+Alex looked at the building. "We don't know. The investigators don't know. The fire burned clean. There was no accelerant. There was no signal. The fire started and it burned and it stopped."
 
-Kara tried and failed to convince Cat she was not Supergirl. Cat interrogated Kara about past, trivia tests, Titanic trivia, Lance Armstrong, how Cat caught Lance Armstrong lies, and Kara ability to answer every question correctly further confirmed suspicions, because Kara knows Titanic trivia.
+"That doesn't happen."
 
-Back at DEO base, Gen Lane decided to use Kryptonite liquid to torture answers out of Astra. Green liquid in syringe, hissing where it touched metal table, vapor.
+"It happened here."
 
-Kara barged into room to stop him but couldn't because weakened by Kryptonite-lined walls that lined DEO walls, that weakened Kara when barged in to stop Lane torturing Astra. She fell to knees, breathing hard, vision blurring, throat raw.
+Kara looked at the building again. The windows were black. The door was new. The air still carried the smell of the fire.
 
-"Geneva Accords do not apply to aliens," Lane said, cold.
+"Lord is going to use this," she said.
 
-Kara looked at Astra, strapped, eyes watering from vapor, but not burning because suit shielded, because Lord shielding.
+"He is already using it. He is calling it an attack on his company. He is calling it a threat to National City. He is calling it everything he can call it to get what he wants."
 
-"Stop," Kara said, voice raw, small.
+"What does he want?"
 
-Lane did not.
+"He wants attention. He wants the city to be afraid. He wants the city to ask for him and not ask questions about how he got there."
 
----
+Kara turned away from the building. "He is going to keep pushing."
 
-Unable at DEO, Kara returned to work where James lied about what found at Lord Technologies.
-
-Winn knew he was lying, because he knew James, because James said he went to Lord and found nothing, but Winn knew lying to protect her.
-
-James explained he did it to protect her and convinced Winn to help break into Lord Technologies, typing really quickly, bypassing outer cameras.
-
-Cat gave ultimatum: Either prove not Supergirl, or fired. Reasoning every minute assistant is minute not saving someone, every minute assistant is minute not saving someone, Cat unfazed.
-
-Astra gave up Non's position, and DEO decided to follow up on intel, and Kara accompanied them, against Lane's humans only mission nonsense, obvious trap. Instead of finding Hank, they found bomb and most of army died — because torture never works, because Astra gave up position that was trap, because torture never works.
-
-Alex watched feed, hands tight on console, eyes wet.
-
-Winn helped James infiltrate Lord Technologies by typing really quickly, really quickly, James found suspicious door with biometric scanner, but knocked out by Max and his men. Maxwell tied him to chair and punched him, breaking his camera, settling like men, like men settle.
-
-Kara's world falling apart. She went to Cat and tried to reason with her by saying she needs Cat because she's the one she turns to when confused and overwhelmed. But Cat unfazed, so Kara resigned, took glasses off, said I quit. She went down to their secret lair and found bloodied James and lost her chill when she realized they lied and Maxwell behind. She started to storm off to handle Max like Astra would, but Winn and James reminded her of humanity and that she's not completely powerless, that humanity not completely powerless.
-
-With their pep talk, Kara paid Astra another visit and said she's ready to hear about what happened between her and mother.
-
-Turns out, right before Alura sentenced her to Phantom Zone, she assured Astra that she believed Krypton was doomed. However, she planned to save planet through hope instead of fear and explained she's imprisoning Astra for crimes, which are unforgivable no matter intentions, but intentions believing still some good.
-
-Believing still some good in her, Kara agreed to go through trade. Astra surprised by Kara's faith, which makes you think she's going to betray her. But Astra doesn't, she goes, she keeps faith.
-
-After trading Hank for Astra in desert, wind, dust, Non summons Fort Rozz prisoners and prepares to attack DEO, but Astra orders them to stand down. Touching moment, further reveals show's optimism. Astra ended up showing more humanity than Gen Lane and Maxwell, which undercuts weak criteria for what distinguishes humans from Kryptonians, similar capacity evil good more alike.
-
-Once return DEO, Hank kicks Lane out and assures him Supergirl idealism will save planet, not doom, idealism will save planet.
-
-Then Hank comes clean to Kara about identity, which blows mind at first, Martian Manhunter, last son of Mars, hunted fifty years, but quickly realizes can use to save job. Posing as Supergirl, Hank pays Cat visit and Kara walks into office same time, convincing Cat she's not Supergirl. Slightly disappointing because liked possibilities Cat being in know, but necessary.
-
-While heroes rejoice and Kara, James, Winn make plans to stop Maxwell right way, Maxwell visits top-secret room, where woman Jane Doe strapped to table. Brain trauma, bracelet. Right before episode ends, she opens eyes, and they're black like demon, like Supernatural demon, holographic projection Red Tornado torn-off arm speculation Bizarro Supergirl Galatea.
-
-Adrian, at CatCo early, mug on desk next to magnet, saw James come in bloodied, camera broken, and knew because hearing. He had heard Lord's lab alarm from CatCo, three miles, but hearing.
-
-He said, quiet so only James could hear, "You went to Lord."
-
-James looked up, lip bleeding. "How—"
-
-"I heard alarm from CatCo," Adrian said. "And saw you leave with Winn."
-
-James said, "Don't tell Kara."
-
-"I won't if you tell me what you saw," Adrian said.
-
-James told him about biometric door, Max punching, camera broken.
-
-Adrian looked at magnet in pocket and said, "You should not go alone next time."
-
-Later, during exchange, Adrian was already there, helping evacuate, moving debris, lifting car that had trapped guard, set down gently, not fighting Kryptonians head-on, because even stronger now, two Kryptonians plus prisoners not fight he could win without revealing, and civilian identity protected, and also because this was Kara's family, not his.
-
-He caught Kara when Non hit her through Lord lab wall.
-
-"You okay?" he asked, quiet.
-
-"I am okay," Kara said, and flew again.
-
-From downstairs, Cat's voice: "Keira! Where is my coffee?"
-
-Adrian, back at desk, mug next to small magnet Evelyn left after Thanksgiving, looked up and went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady.
-
-There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes and Adrian helping evacuate and catching Kara and quiet you okay and Cat coffee.
-
-Adrian went back to work.
-
-Kara at desk, finger bandaged, looked at Adrian across bullpen, small smile, powers humming higher than ever after sun? No after trade, but baseline higher after sun still, cells remember overcompensate.
-
-She thought about what Astra said about mother using her to lure out, about Alura believing Krypton doomed but planned save through hope not fear, about Astra showing more humanity than Lane and Maxwell, about Hank being Martian Manhunter, about Jane Doe black eyes, about James bloodied, about Adrian hearing alarm from CatCo and coming to help evacuate and catching her.
-
-She thought maybe being able to bleed and being able to go to sun and being able to kiss and being able to trade prisoner and being able to trust are all sides same thing, vulnerability and strength choosing when to share either and with whom.
-
-Adrian picked up mug, placed back on desk next to magnet, went back to work, ordinary, human-level, as if not helped evacuate Lord Technologies and caught Kara through lab wall.
-
-There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes and Adrian helping.
+"He is going to keep pushing," Alex said. "That is what men like him do."
 
 ---
 
-The desert exchange was at dusk.
+The next day, Kara went to CatCo early.
 
-Kara stood with Astra, cuffs off, wrists still red where cuffs had glowed. Non stood with Hank, arm around Hank's throat, not tight, just enough.
+Cat was already at her desk. She had a newspaper open in front of her, and she was reading it with the kind of attention that meant she wasn't reading for pleasure.
 
-"Trade," Non said.
+"Lord is in the news again," Cat said, without looking up.
 
-Alex watched from DEO van, hands tight, rifle ready, but Alex knew rifle would not matter against Kryptonians, but hands tight anyway.
+"He is always in the news."
 
-Kara walked forward, Astra beside her, slow, dust under boots.
+"He is in the news in a different way. He isn't just being photographed at charity events. He is being quoted. He is being quoted about the fire at Lord Technologies. He is saying it'd an attack."
 
-Non pushed Hank forward, Hank stumbled, then walked, then ran toward Kara, then toward Alex.
+"It was a fire."
 
-Astra walked toward Non, slow, then stopped, looked back at Kara.
+"He is saying it'd an attack. The media is picking it up. The headlines are writing themselves."
 
-"Thank you for faith," Astra said, quiet, so only Kara heard, wind.
+Kara stood by the door. "What do you want me to do?"
 
-Kara nodded, eyes wet. "Thank you for not betraying."
+"I want you to find out what happened at that building." Cat looked up. "Not what Lord is saying happened. What actually happened."
 
-Astra almost smiled, then turned, walked to Non, Non put arm around her, flew off, Fort Rozz prisoners behind, dust.
+"I already know what happened. A fire started. It burned. It stopped."
 
-Hank — J'onn — fell to knees, breathing hard, Alex caught him.
+"That isn't an answer. That is a description. I want to know why. I want to know who was there. I want to know who was near it. I want to know who had a reason to be there and who didn't."
 
-Back at DEO, Lane said, "You traded? You traded prisoner for asset?"
+Kara nodded. "I'll look into it."
 
-Alex said, "We traded family for family."
+"Look into it without him seeing you look into it."
 
-Lane said, "Presidential order—"
+"I know how to do that."
 
-Hank stood, blood on lip, said, "Get out. Idealism will save planet, not doom. Your criteria for what distinguishes humans from Kryptonians is weak. Similar capacity evil good more alike."
-
-Lane left, slamming door.
+Cat looked at her. "I know you do. That is why I asked you."
 
 ---
 
-Hank came clean to Kara after, in lab, door closed.
+Kara went to the DEO first.
 
-"I am not Hank Henshaw," he said. "I am J'onn J'onzz. Martian Manhunter. Last son of Mars. Hunted fifty years because of how I look. I was Hank Henshaw? No, I took his form after he died, after Jeremiah..."
+She walked through the corridors and went to the tech room. Winn was at his desk, surrounded by monitors and cables and half-assembled equipment.
 
-Kara stared, mouth open, then hugged him, tight.
+"I need you to pull the security footage from Lord Technologies," she said.
 
-"You are family too," she said.
+"From the night of the fire?"
 
-J'onn hugged back, careful, super-strength controlled.
+"From the night of the fire and the night before. And the morning after."
 
-"We can use to save your job," he said. "Cat knows you are Supergirl."
+"That is a lot of footage."
 
-Kara said, "What?"
+"I know."
 
-"Cat figured out. Glasses removal Sherlock. She knows."
+Winn leaned back in his chair. "Lord Technologies has its own security. They aren't going to hand it over."
 
-Kara said, "Oh."
+"I'm not asking you to get it from them. I'm asking you to get it from the building. From the cameras on the outside. From the ones on the fence line."
 
-J'onn said, "I can pose as Supergirl. You walk into office same time, convincing Cat not Supergirl."
+"The ones on the fence line aren't good quality. They're there for insurance, not for investigation."
 
-They did. J'onn as Supergirl, red cape, shifted, green skin hidden, flight, hovered outside Cat office window, while Kara walked into office same time, glasses, cardigan, coffee.
+"Then they'll show me who was near the building and who wasn't."
 
-Cat looked at both, at Supergirl outside window and Kara inside office, disappointed and relieved, slightly disappointed because liked possibilities Cat being in know, but also relieved because she liked Kara.
+Winn looked at her for a moment. Then he turned to his monitors. "Give me an hour."
 
-"Fine," Cat said. "You are not Supergirl. Keira, where is my coffee?"
-
-Kara almost laughed, relieved.
+"I'll be at my desk."
 
 ---
 
-While heroes rejoiced and Kara, James, Winn made plans to stop Maxwell right way, not like Astra would, not punching, not killing, but right way, human way, journalism, DEO, idealism, Maxwell visited top-secret room, where woman strapped to table. Brain trauma, bracelet, IV.
+Adrian was at his desk when Kara came back to CatCo.
 
-Right before episode ends, she opened eyes, and they were black like demon, like Supernatural demon, like Bizarro.
+He was typing. He didn't look up when she sat down.
 
-Maxwell smiled, thin.
+"Lord is calling the fire an attack," she said.
 
-"Hello, Jane Doe," he said.
+"I heard."
 
-Jane Doe did not answer, eyes black.
+"He is pushing for attention. He is pushing for the city to be afraid."
 
-Red Tornado torn-off arm on table next to her, holographic projection, speculation Bizarro Supergirl Galatea, Jane Doe black eyes.
+"He is good at that."
+
+Kara looked at her screen. "I'm going to look into the fire. Cat asked me to."
+
+"She asked you to find out what happened."
+
+"She asked me to find out why it happened. Who was there. Who had a reason to be there."
+
+"And who didn't," Adrian said.
+
+"And who didn't."
+
+Adrian stopped typing. He looked at her. "Lord is a man who makes his own reasons. He doesn't need a fire to give him one."
+
+"He is using the fire."
+
+"He is using the fire because the fire gives him something to point at. Men like him need something to point at. They can't just stand in the middle of a room and say they're important. They need an event."
+
+Kara opened her email. "I'm going to the site tomorrow."
+
+"To the building?"
+
+"To the property line. To the ground around it. The investigators looked at the building. They didn't look at the ground outside the building."
+
+"What are you looking for?"
+
+"Someone who was there and didn't have a reason to be there."
+
+Adrian nodded. "Be careful. Lord watches his property."
+
+"I'm always careful."
+
+"You are careful when you're in the air. You are less careful when you're on the ground."
+
+Kara looked at him. "I'm careful on the ground too."
+
+"I know. I'm saying it because I'm here and I can say it."
+
+She went back to her work.
 
 ---
 
-Adrian, at CatCo early next morning, mug on desk next to magnet, saw James come in bloodied, camera broken, lip bleeding, and knew because hearing. He had heard Lord's lab alarm from CatCo, three miles, but hearing, baseline higher after sun? No after trade, but hearing still.
+The next morning, Kara went to the Lord Technologies property line.
 
-He said, quiet so only James could hear, "You went to Lord."
+She didn't fly. She drove. She parked two blocks away and walked the rest of the way. She wore ordinary clothes. She carried a coffee cup. She looked like she belonged on the street.
 
-James looked up, lip bleeding, eyes tired. "How—"
+The building was still warm in the places where the sun hadn't reached. The fire had left black streaks on the brick. The ground around the building was bare and grey.
 
-James said, "Don't tell Kara."
+She walked the property line. She looked at the fence. She looked at the gate. She looked at the ground on the other side of the fence.
 
-"I won't if you tell me what you saw," Adrian said, not threatening, just asking.
+There were footprints in the dirt. Several of them. They came from the direction of the road and went toward the building. They stopped at the fence. They went back.
 
-James told him about biometric door, Max punching, camera broken, settling like men, Max ties chair punches breaks camera.
+She crouched and looked at them.
 
-Adrian looked at magnet in pocket and said, "You should not go alone next time. You should not go alone next time to Lord Technologies. You should tell Kara."
+They were ordinary boots. Size eleven or twelve. They had a tread pattern that was common. They weren't the boots of a security guard. Security guards wore flat-soled shoes. These were work boots.
 
-James said, "I know. I was trying to protect her."
+She followed the prints along the fence line. They went around the building. They stopped at the far corner, where the fence met a row of trees.
 
-Adrian said, "Protecting by lying is what made Lane take over DEO. Protecting by telling is what made Astra stand down."
+There was a break in the fence. A section of wire had been cut and pulled back. The wire was new. Someone had cut it and then someone else had replaced it.
 
-James stared, then nodded.
+She looked at the ground on the other side of the break. There were more prints. They went into the trees and didn't come out on the other side.
 
-Later, during exchange, Adrian was already there, helping evacuate, moving debris, lifting car that had trapped guard, set down gently, not fighting Kryptonians head-on, because even stronger now, two Kryptonians plus prisoners not fight he could win without revealing, and civilian identity protected, and also because this was Kara's family, not his, and because this was Kara's family, not his, and because even stronger now.
+She stood up. She took out her phone and took a picture of the break in the fence. She took a picture of the prints. She took a picture of the trees.
 
-He caught Kara when Non hit her through Lord lab wall, one arm around waist, absorbing momentum, setting her down, light, not breaking.
+"You aren't supposed to be here."
 
-"You okay?" he asked, quiet.
+She turned.
 
-"I am okay," Kara said, and flew again, supersonic.
+A man stood at the corner of the building. He was in a security uniform. He was tall and he had his hand on the holster at his hip.
 
-From downstairs, Cat's voice, distant, through phone, through building: "Keira! Where is my coffee?"
+"I'm just walking," Kara said.
 
-Adrian, back at desk, mug next to small magnet Evelyn left after Thanksgiving, looked up and went back to work, ordinary, band at wrist, human-level again, ordinary clothes, but eyes steady, hearing still.
+"This is private property."
 
-There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes and Adrian helping evacuate and catching Kara and quiet you okay and Cat coffee and J'onn reveal and Cat knows and then not knows and idealism will save planet not doom.
+"I'm on the street."
 
-Kara at desk, finger bandaged, looked at Adrian across bullpen, small smile, powers humming higher than ever after sun? No after trade, but baseline higher after sun still, cells remember overcompensate, finger healed, heart faster baseline higher, thinks maybe being able to bleed and being able to go to sun and being able to kiss and being able to trade prisoner and being able to trust and being able to tell J'onn is Martian Manhunter and being able to see Jane Doe black eyes are all sides same thing, vulnerability and strength choosing when to share either and with whom.
+"You are on the property line. You have been walking the property line for five minutes. That isn't walking."
 
-Adrian picked up mug, placed back on desk next to magnet, went back to work, ordinary, human-level, as if not helped evacuate Lord Technologies and caught Kara through lab wall, as if not heard alarm from CatCo three miles away.
+Kara held up her coffee cup. "I'm drinking coffee."
 
-There would be another headline tomorrow. Tonight there was bloodied James and Astra trade and Jane Doe black eyes and Adrian helping and J'onn reveal and Cat knows then not knows.
+"You are looking at the fence."
 
-Adrian went back to work.
+"I'm looking at the fence because the fence is on the property line and I'm on the street."
 
-At the DEO, Alex reviewed the file for Chapter_15_Blood_Bonds.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+The security guard looked at her for a moment. "Your coffee is cold."
 
-Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+"It isn't cold. I just got it."
 
-Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+"You just got it and you're drinking it on the property line of a building that burned down two nights ago. That isn't normal."
 
-Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not the roof in November kiss but roof November cold since sun.
+Kara put the coffee down. "I'm leaving."
 
-There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+"You are leaving."
 
-At the DEO, Alex reviewed the file for Chapter_15_Blood_Bonds.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+"Yes."
 
-Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+She walked away. She didn't look back. She walked to her car, got in, and drove away.
 
-Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+The security guard stood at the corner of the building and watched her go.
 
-Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not the roof in November kiss but roof November cold since sun.
+---
 
-There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+That afternoon, Kara went back to the DEO.
 
-At the DEO, Alex reviewed the file for Chapter_15_Blood_Bonds.md. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+She went to the tech room. Winn was at his desk, and he had a monitor turned toward her.
 
-Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+"I pulled the footage from the fence-line cameras," he said.
 
-Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+Kara sat down in front of the monitor. Winn rewound the footage to the night of the fire.
 
-Kara, in the bullpen, typed, not hearing work as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun work work work blue not the roof in November kiss but roof November cold since sun.
+The images were grainy. The night was dark. The cameras showed the fence line, the gate, the corner of the building.
 
-There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+Winn played the footage.
 
-At CatCo the next morning, Adrian arrived at 8:50, band at wrist, chipped mug in hand, theater mask magnet on the filing cabinet, ordinary, and placed mug back next to magnet and went back to typing.
+At 11:47 p.m., a figure appeared at the far corner of the building. It walked along the fence line. It stopped at the break in the fence. It went through.
 
+The figure was tall. It was wearing a dark coat. It had a bag over its shoulder.
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+It went through the fence and into the trees. It didn't come out on the other side.
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+Kara watched the footage again. She watched the figure go through the fence. She watched the figure disappear into the trees.
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+"Can you enhance the image?" she asked.
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+"I can try. But the camera isn't good. The night isn't good. The image isn't good."
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+"Try."
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+Winn worked at his keyboard. The image on the screen enlarged and sharpened slightly. The figure became clearer. It was tall. It was wearing a dark coat. The bag on its shoulder was rectangular.
 
-Both had learned control shows strong willpower.
+"That isn't a security guard," Kara said.
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+"No," Winn said. "Security guards don't wear dark coats and carry bags over the fence at midnight."
 
-She asked, "Do you think we will always stay together?"
+"Who is it?"
 
-He said, "If you want. I want if you want."
+Winn leaned back. "I don't know. But I can tell you one thing. The figure went through the fence at 11:47. The fire was reported at 11:52. The figure was there five minutes before the fire started."
 
-"I want," she said.
+Kara stared at the screen. "Someone set the fire."
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+"Someone set the fire," Winn said. "And that someone came through the fence at 11:47 and went into the trees and didn't come out."
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+Kara stood up. "I need to show this to Alex."
 
-At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+"You need to show it to Cat," Winn said. "Cat asked you to find out what happened. This is what happened."
 
-J'onn read report and said, "You forgot to write they stayed together."
+Kara nodded. She went to her desk and copied the footage to a file. She sent it to Cat with a single line: "The fire was set. The footage is attached."
 
-Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+Cat replied in two minutes. "Bring it to my office."
 
-J'onn nodded. "Good."
+---
 
+Kara went to Cat's office with the file.
 
+Cat watched the footage on her computer. She watched it once. She watched it again. She didn't say anything while she watched.
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+When she finished, she closed the laptop.
 
+"Maxwell Lord is going to deny this," she said.
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"He will deny it because denying it's what he does," Kara said.
 
+"He will say the footage isn't clear. He will say the figure isn't identifiable. He will say the fire was an accident and the footage is a coincidence."
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"The footage isn't a coincidence. The figure was there five minutes before the fire started."
 
+"I know. But the footage will be argued. It will be disputed. It will be called a coincidence."
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+Kara stood by the desk. "What do you want me to do?"
 
+"I want you to find out who that figure is."
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"I've the footage. I've the prints. I've the break in the fence. I don't have a name."
+
+"Then find the name."
+
+Kara nodded. "I'll."
+
+"And be careful. Lord watches his property. He watches the people who look at his property."
+
+"I know."
+
+"I know you know. I'm saying it because I'm your boss and I'm allowed to say it."
+
+Kara left Cat's office.
+
+---
+
+That evening, Kara and Adrian sat on the sofa in her apartment.
+
+The television was on. The footage from the fence-line camera played on the screen, grainy and dark.
+
+"Someone set the fire," Kara said.
+
+"Someone set the fire," Adrian said.
+
+"The figure went through the fence at 11:47. The fire started at 11:52."
+
+"Five minutes," Adrian said.
+
+"Five minutes is enough time to start a fire in a building like that. The storage wing is full of materials that burn."
+
+"It is enough time," Adrian said.
+
+"Lord is going to deny it. He is going to call it a coincidence. He is going to call it an accident."
+
+"He will deny it because he's to deny it. If he admits someone set the fire, he's to explain why someone would set a fire at his company. And he can't explain that without explaining himself."
+
+Kara leaned back against the sofa. "I need to find who that figure is."
+
+"You have the footage. You have the prints. You have the break in the fence."
+
+"I don't have a name."
+
+"Then you look for the name. You look at who had a reason to be near that building. You look at who had a reason to be near Lord. You look at who doesn't want Lord to have what he's building."
+
+Kara looked at the screen. The grainy figure went through the fence and disappeared into the trees.
+
+"I'll look," she said.
+
+"I know you'll."
+
+Adrian reached across the space between them and put his hand on her wrist. The band was beneath his cuff. He was human-level. He was ordinary.
+
+Kara closed her eyes.
+
+The television played. The city went on outside the window.
+
+After a while, she said, "Do you think Lord knows who set the fire?"
+
+"I think Lord knows someone set the fire," Adrian said. "Whether he knows who, I don't know. But he knows someone set it. And he's using it."
+
+"Using it how?"
+
+"Using it to be important. Using it to be needed. Using it to make the city ask for him."
+
+Kara nodded. She didn't say anything else. She sat there with his hand on her wrist and the grainy footage playing on the screen and the city going on outside the window.
+
+The chipped mug sat on the desk beside the magnet, holding its corner the way it always did.
+
+---
+
+The next morning, Kara arrived at CatCo early.
+
+She went to her desk and checked her email. Cat hadn't sent anything. No new instructions. No new requests.
+
+She opened the file with the footage and looked at it again. The grainy image. The figure in the dark coat. The bag over the shoulder. The break in the fence.
+
+She looked at the prints. The ordinary work boots. Size eleven or twelve. The tread pattern that was common.
+
+She looked at the trees.
+
+She needed a name.
+
+She opened a search engine and typed in "Lord Technologies security incidents." The results were what she expected. News articles about Maxwell Lord. Articles about the company. Articles about the fire.
+
+She typed in "Lord Technologies former employees." The results were thin. Lord didn't keep his former employees in the news.
+
+She typed in "Maxwell Lord business partners." The results were full. Lord had partners. Lord had investors. Lord had connections.
+
+She looked at the list. She didn't know which of them had a reason to set a fire in a Lord Technologies storage building. She didn't know which of them had a reason to be near the fence at 11:47 at night.
+
+She closed the search engine. She went to Cat's office.
+
+Cat was at her desk. She was reading a document. She looked up when Kara came in.
+
+"I need more on Lord," Kara said.
+
+"More than the fire?"
+
+"More than the fire. I need to know who he works with. Who he's connected to. Who has a reason to be near his building and doesn't want him to succeed."
+
+Cat set the document down. "Lord has business partners. He has investors. He has people he owes money to. He has people who owe him money. He has people who have left him. He has people who have tried to leave him."
+
+"Which of them has a reason to set a fire?"
+
+"None of them. Setting a fire at his building gives him attention. It makes him look like a victim. It makes the city ask for him. No one who wants Lord to fail would set a fire at his building. They would set a fire at his reputation. They would write an article. They would make a phone call."
+
+Kara leaned against the doorframe. "So the figure wasn't someone who wanted Lord to fail."
+
+"No. The figure was someone who wanted Lord to be seen. The figure wanted the fire to happen. The figure wanted the building to burn. The figure wanted Lord to have something to point at."
+
+"Who would want that?"
+
+"Lord himself," Cat said. "Or someone working for Lord."
+
+Kara looked at Cat. "Lord set the fire at his own building?"
+
+"Lord set the fire at his own building to get what he wants. He is a man who manufactures events. He doesn't wait for things to happen. He makes them happen."
+
+Kara thought about the footage. The figure in the dark coat. The bag over the shoulder. The break in the fence. The ordinary work boots.
+
+"The boots weren't Lord's," she said.
+
+"Lord doesn't wear work boots. Lord wears suits. Lord sends someone else to wear the boots."
+
+Kara nodded. "I need to find who was near that building. Not Lord. Not his partners. The person who actually went through the fence."
+
+"You have the footage. You have the prints. Find the person."
+
+"I'll."
+
+---
+
+Kara went back to her desk. She opened the footage again. She watched the figure go through the fence. She watched the figure disappear into the trees.
+
+She rewound. She watched again. She stopped the footage at the point where the figure turned its head toward the camera.
+
+The face wasn't visible. The head was down. The coat was up. The figure kept its face away from the camera.
+
+She rewound further. She stopped at the point where the figure walked along the fence line before going through the break.
+
+The figure walked with its head down. It moved quickly. It didn't look at the building. It didn't look at the fence. It looked at the ground.
+
+It knew where the break was.
+
+It didn't have to search for it. It walked straight to it.
+
+Kara rewound the footage to the beginning. She watched the fence line from the start of the night. She watched the gate. She watched the corner of the building. She watched the trees.
+
+At 11:30, a car pulled up on the road near the trees. It stopped for a moment. It didn't turn into the property. It parked on the shoulder. The lights went off. The car sat in the dark.
+
+At 11:40, the driver's door opened. A figure got out. It looked at the building. It looked at the fence. It walked toward the trees.
+
+At 11:47, the figure went through the break in the fence.
+
+At 11:52, the fire started.
+
+At 11:58, the figure came back through the break, walked to the car, and got in.
+
+At 12:01, the car drove away.
+
+Kara watched the footage again. She focused on the car.
+
+It was a dark sedan. Common model. No visible plates in the footage. The windows were tinted.
+
+She rewound to the point where the car parked. She focused on the rear window. There was a sticker on it. A small sticker, hard to see in the dark.
+
+She enlarged the image. The sticker was a parking permit. A National City parking permit. It had a number.
+
+She wrote the number down.
+
+She opened her phone and sent a message to Winn. "I need you to run a plate. I've a parking permit number from a car near Lord Technologies on the night of the fire."
+
+Winn replied in five minutes. "It is a rental. Picked up two days before the fire. Returned the morning after."
+
+"Who rented it?"
+
+"The name on the rental is a shell. A company that doesn't exist. The credit card is a company card. The company is a front."
+
+"Who owns the front?"
+
+"I'm working on it. But the address on the company registration is a warehouse in the industrial district. I'm pulling the lease on the warehouse now."
+
+Kara stared at the screen. "A shell company rented a car, parked near the Lord Technologies property line, and someone went through the fence and set a fire and came back and drove away."
+
+"That is what the footage says," Winn said.
+
+"And the shell company is registered to a warehouse."
+
+"A warehouse that I'm pulling the lease on now."
+
+"Send me the address when you've it."
+
+"I'll."
+
+---
+
+Kara went to Cat's office with what she had.
+
+Cat listened. She didn't interrupt. She didn't look at her computer. She sat with her hands on the desk and let Kara finish.
+
+"The fire was set," Kara said. "The person who set it came in a rental car registered to a shell company. The shell company is registered to a warehouse. The person went through a break in the fence that they already knew about. They set the fire. They came back. They left."
+
+"And Lord is calling it an attack on his company."
+
+"Lord is calling it an attack on his company because that's what it looks like. But it wasn't an attack on Lord. It was done for Lord."
+
+Cat leaned back. "You think Lord arranged it."
+
+"I think Lord arranged it. Or someone in his company arranged it. The fire gives him what he wants. It makes him look like a victim. It makes the city afraid. It makes the city ask for him."
+
+Cat looked at her for a long moment. "You have footage. You have a rental car. You have a shell company. You have a warehouse. What you don't have is proof that Lord knew about it."
+
+"I don't have proof. I've a pattern."
+
+"A pattern isn't proof. A pattern is a place to start." Cat stood up. "Go to the warehouse. Find out who's using it. Find out who rented it. Find out who was in it. Bring me proof."
+
+"I'll."
+
+"And be careful. If Lord arranged the fire, he arranged it quietly. He didn't leave a trail. The trail you found is the trail he let you find."
+
+Kara stopped. "You think he let me find it."
+
+"I think the trail is too clean. A shell company with a warehouse, a rental car with a parking permit, a break in the fence. It is all there. It is all connected. It is all available to anyone who looks."
+
+"You think it's a trap."
+
+"I think it's a story. And Lord writes stories. He writes them so people can find them. He writes them so people can follow them. He writes them so people can get to the end and think they've found something."
+
+Kara stood at the door. "What is at the end?"
+
+"Him," Cat said. "At the end of the story, there's him. He is waiting there. And he's going to ask you what you found. And you're going to tell him. And he's going to nod and smile and say you did good work. And then he's going to use what you found."
+
+Kara didn't say anything.
+
+"Go to the warehouse," Cat said. "But don't tell him you're going. Don't let him see you find it. Find it quietly. Find it without the story he wrote. Find it on your own."
+
+Kara nodded. "I'll."
+
+---
+
+She didn't go to the warehouse that afternoon. She waited until the next morning.
+
+She drove to the industrial district at six. She parked two blocks from the address Winn had sent her and walked the rest of the way.
+
+The warehouse was a long, low building with a roll-up door on the front and a plain door on the side. The building was grey. The windows were dusty. There was a sign on the front that said the name of the shell company.
+
+The sign was new. The paint was fresh.
+
+She walked around the building. She looked at the doors. She looked at the windows. She looked at the ground around the building.
+
+There were tire tracks in the dirt. A car had been parked near the side door. It had been parked recently. The tracks weren't old.
+
+She looked at the side door. It was closed. It had a keypad lock. The keypad was new.
+
+She looked at the roll-up door. It was closed. It had a padlock. The padlock was new.
+
+Everything about the building was new. The sign, the paint, the locks, the keypad, the padlock. The shell company had set up here recently. They had set up here to do something. And they had set up here with new locks and new paint and a new sign.
+
+She took out her phone and took pictures. She walked back to her car.
+
+She didn't go back to CatCo. She went to the DEO.
+
+She went to the tech room. Winn was at his desk.
+
+"I need you to check the building," she said. "The warehouse. I need you to see if anyone is using it. I need you to see if there's power, if there's water, if there's anything inside."
+
+"I can't get inside. The locks are new."
+
+"You don't need to get inside. I need you to check the utilities. If someone is using the building, there will be a record. Power usage. Water usage. Anything."
+
+Winn turned to his monitors. "Give me a day."
+
+"I'll be at my desk."
+
+---
+
+The next day, Winn called her at CatCo.
+
+"The warehouse has power," he said. "It has been drawing power since the beginning of the month. Not much. A baseline amount. Enough to keep lights on and a few devices running."
+
+"What devices?"
+
+"I can't tell from the usage. It is a low amount. It could be lights. It could be a computer. It could be a server."
+
+"Does it have water?"
+
+"It has a water line. It has been used. The usage is low. It matches the power usage. Someone is there, but not often."
+
+"Someone is there. They come and go. They don't stay."
+
+"That is what the usage says."
+
+Kara thought about the footage. The car that parked at 11:30. The figure that went through the fence at 11:47. The fire that started at 11:52. The figure that came back and left at 11:58.
+
+"The person who set the fire uses this warehouse," she said.
+
+"That is the pattern," Winn said.
+
+"I need to know who uses it. I need a name."
+
+"I'm working on it. The lease is in the name of the shell company. The shell company is registered to a fake name. I'm going through the paperwork. It is going to take time."
+
+"I don't have time," Kara said. "Lord is using the fire right now. He is in the news. He is being quoted. He is being photographed. He is building his story. I need to break it before he finishes it."
+
+"I know. I'm working as fast as I can."
+
+"I know you're. I'm sorry. I'm not pushing you. I'm telling you what I need."
+
+"I know what you need. I'll get it."
+
+---
+
+That evening, Kara went to Cat's office.
+
+"The warehouse is being used," she said. "It has power. It has water. Someone goes there, but not often. It is the base for the person who set the fire."
+
+"You have the warehouse. You have the rental car. You have the footage. You have the prints," Cat said. "What you don't have is a name."
+
+"I'm waiting on the paperwork."
+
+"The paperwork will give you a fake name. A fake name will give you a fake address. A fake address will give you nothing."
+
+"Then what do I do?"
+
+"You wait. You let the paperwork run its course. You let the name come up. And when it comes up, you follow it. Not to the address. Not to the building. You follow it to the person."
+
+Kara stood by the door. "Lord is building his story right now."
+
+"Lord is building his story. And you're building yours. Your story has the fire, the footage, the car, the warehouse, the shell company. His story has a victim, a threat, a hero who will fix it. Your story is longer. Your story is slower. Your story takes time. But your story is true."
+
+Kara nodded. "I'll wait for the name."
+
+"And when you get it, you bring it to me. Before you go anywhere. Before you do anything. You bring it to me."
+
+"I'll."
+
+Kara left Cat's office.
+
+---
+
+She went back to her desk. Adrian was at his desk across the bullpen. He was typing. He didn't look up when she sat down.
+
+"The warehouse is being used," she said.
+
+"I heard you on the phone," Adrian said.
+
+"I'm waiting for a name."
+
+"You will get the name. It will be a fake name. It will lead to a fake address. You will need to go past the paperwork to find the person."
+
+"That is what Cat said."
+
+Adrian stopped typing. He looked at her. "Cat is right. The paperwork is a wall. The wall is there to stop you from getting to the person. You go around it."
+
+"How do I go around it?"
+
+"You watch the warehouse. You watch who comes and goes. You watch the car. You watch the person. You don't wait for the paperwork. You don't wait for the name. You find the person by watching."
+
+Kara opened her email. "I'll watch the warehouse."
+
+"You will watch it from a distance. You won't go near it. You won't be seen."
+
+"I know."
+
+"You are careful when you're in the air. You are less careful when you're on the ground. This is ground work. Be careful on the ground."
+
+Kara looked at him. "I'm always careful."
+
+"I know. I'm saying it because I'm here and I can say it."
+
+She went back to her work.
+
+The city went on outside the window. Lord's story was building. Her story was building. The truth was there, in the footage and the prints and the car and the warehouse. She didn't have a name yet. She would get one. She would get it by watching.
+
+She would get it quietly. She would get it without the story Lord wrote. She would get it on her own.

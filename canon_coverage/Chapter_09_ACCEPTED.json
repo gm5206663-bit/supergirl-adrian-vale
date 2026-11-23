@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 9,
-  "revision": "R8",
+  "revision": "R4",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_09_Red_Faced_and_Named_R8.md",
-  "draft_sha256": "ea5316751340f7a9e1662c13751577f9f2d401e27d859b2610cf980100218a8b",
+  "draft_path": "drafts/Chapter_09_Red_Faced_and_Named_R4.md",
+  "draft_sha256": "596be64f199e4547c51d3bdcae1d8f5e329bee0f4bc6abc32c4abdd82ed7cccd",
   "accepted": true,
   "claimed_episode": "S01E06-08 \u2014 Red Faced and Named Part1 clean no ticker spam no Cat private secrets",
   "span": "Red Faced and Named Part1 clean no ticker spam no Cat private secrets",
@@ -147,5 +147,7 @@
     "canon_title": "Red Faced",
     "chapter": 9,
     "chapter_title": "Red Faced and Named Part1 clean no ticker spam no Cat private secrets"
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R9"
 }

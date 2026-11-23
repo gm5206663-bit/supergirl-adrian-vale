@@ -1,0 +1,32 @@
+{
+  "chapter": 28,
+  "revision": "2",
+  "draft_path": "drafts/Chapter_28_Better_Angels_R2.md",
+  "draft_sha256": "e03ff21b4abb074189af5eedacbcc18ffb2945ada7975619a0c28a1bde884368",
+  "epoch": "v1",
+  "accepted": false,
+  "release_ready": false,
+  "continuity_conflicts": [],
+  "sources": [
+    {
+      "id": "PRESERVED_28_2",
+      "url": "internal",
+      "title": "Preserved draft Chapter 28 2 - superseded by R3",
+      "accessed": "2026-09-27",
+      "verification": "Preserved historical draft. R3 is the accepted revision for Chapter 28."
+    }
+  ],
+  "beats": [],
+  "reviews": {
+    "canon": "not_accepted",
+    "continuity": "not_accepted",
+    "power": "not_accepted",
+    "knowledge": "not_accepted",
+    "prose": "not_accepted"
+  },
+  "review_receipts": {},
+  "updated_on": "2026-09-27",
+  "draft_revision": "2",
+  "preserved": true,
+  "superseded_by": "R3"
+}

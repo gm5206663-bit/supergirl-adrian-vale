@@ -1,8 +1,8 @@
 {
   "chapter": 26,
-  "revision": "R1",
-  "draft_path": "drafts/Chapter_26_Worlds_Finest_R1.md",
-  "draft_sha256": "80712cd00933a1a47cffa58b4030473e145516546cfba7bc6bdd1bfbdf20b0dd",
+  "revision": "R4",
+  "draft_path": "drafts/Chapter_26_Worlds_Finest_R4.md",
+  "draft_sha256": "b6f3cb127373a6e4f849899bcde7d8563d61019b23b0eaec8643f90a7b72af71",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -95,5 +95,7 @@
       "path": "audits/CHAPTER_23_R1_REVIEW.md",
       "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
     }
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R2"
 }

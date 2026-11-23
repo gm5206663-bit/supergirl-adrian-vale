@@ -6,9 +6,9 @@ By morning, Kara had watched herself save the plane from four different angles.
 
 None of them showed how frightened she had been.
 
-On television, the aircraft descended, a small figure moved beneath it, and the impossible became something a presenter could discuss between a traffic report and the weather. One guest wanted to know whether she was connected to Superman. Another wanted to know who would pay for damage if her next attempt went wrong.
+On television, the aircraft descended, a small figure moved beneath it, and the impossible became something a presenter could discuss between a traffic report and the weather. One guest wanted to know whether she was connected to Superman. Another wanted to know who would pay for the damage if her next attempt went wrong.
 
-Kara turned the television off before the next attempt could become another reason she should not make one.
+Kara turned the television off before the next attempt could become another reason she shouldn't make one.
 
 Her phone held no new message from Alex.
 
@@ -18,195 +18,195 @@ She checked it once more before leaving.
 
 CatCo was considerably more excited about the woman from the plane than it had ever been about Kara Danvers.
 
-The footage played on screens across the floor. People who usually saved their enthusiasm for lunch plans were arguing about flight paths, photographs and whether the whole thing could possibly be real.
+The footage played on screens across the floor. People who usually saved their enthusiasm for lunch plans were arguing about flight paths, photographs, and whether the whole thing could possibly be real.
 
 Winn had a video open when Kara reached his desk.
 
-“You saw?” she asked.
+"You saw?" she asked.
 
-“Everyone saw.” He replayed the moment the figure rose from the aircraft. “That is either the best fake anyone has ever made, or National City just became a much more interesting place to live.”
+"Everyone saw." He replayed the moment the figure rose from the aircraft. "That is either the best fake anyone has ever made, or National City just became a much more interesting place to live."
 
-“It isn’t a fake.”
+"It isn't a fake."
 
 He glanced at her.
 
-“I mean, there were passengers. People were there.”
+"I mean, there were passengers. People were there."
 
-“Right.” He looked back at the screen. “She needs a costume, though.”
+"Right." He looked back at the screen. "She needs a costume, though."
 
-Kara stared at him. “She saved a plane.”
+Kara stared at him. "She saved a plane."
 
-“And I’m very much in favor of that.”
+"And I'm very much in favor of that."
 
-“Then why does it matter what she was wearing?”
+"Then why does it matter what she was wearing?"
 
-“Because this is the picture everyone’s going to use.” He indicated the screen. “People look at Superman and know what they’re seeing. She looks like somebody who left dinner in a hurry.”
+"Because this is the picture everyone's going to use." He indicated the screen. "People look at Superman and know what they're seeing. She looks like somebody who left dinner in a hurry."
 
 Kara adjusted the strap of her bag.
 
-“Well. Maybe she did.”
+"Well. Maybe she did."
 
 Before Winn could answer, Adrian approached with a folder beneath one arm and a bakery bag in his hand.
 
-“For your desk,” he said, offering her the bag.
+"For your desk," he said, offering her the bag.
 
 She looked inside. A glazed donut rested on a square of paper.
 
-“You’re establishing a dangerous expectation.”
+"You're establishing a dangerous expectation."
 
-“Then I should warn you that they were nearly sold out.”
+"Then I should warn you that they were nearly sold out."
 
-“You still got one?”
+"You still got one?"
 
-“I remembered which kind.”
+"I remembered which kind."
 
-She smiled up at him. He was looking at her rather than the television behind her, and for a moment it was a relief not to be discussing the woman on the screen.
+She smiled up at him. He was looking at her rather than the television behind her, and for a moment it'd a relief not to be discussing the woman on the screen.
 
-“Thank you.”
+"Thank you."
 
-“How was your evening?”
+"How was your evening?"
 
 The question caught her between several possible answers.
 
-“My date was terrible.”
+"My date was terrible."
 
-“I’m sorry.”
+"I'm sorry."
 
-“He asked a waitress for her number.”
+"He asked a waitress for her number."
 
-Adrian’s expression changed. Not amusement at her expense, which she appreciated.
+Adrian's expression changed. Not amusement at her expense, which she appreciated.
 
-“Then at least you found out quickly.”
+"Then at least you found out quickly."
 
-“Very quickly.”
+"Very quickly."
 
 Winn had tactfully become interested in another window on his computer.
 
-From across the floor came Cat’s voice.
+From across the floor came Cat's voice.
 
-“If this building contains a single person with something I haven’t already seen on my own television, I would like to meet them.”
+"If this building contains a single person with something I haven't already seen on my own television, I'd like to meet them."
 
-Adrian glanced toward her office. “That sounds like our invitation.”
+Adrian glanced toward her office. "That sounds like our invitation."
 
 Kara folded the top of the bag and went to get her notebook.
 
 ***
 
-Cat had the Tribune’s front page spread across her desk.
+Cat had the Tribune's front page spread across her desk.
 
-The photograph was poor. The headline was not much better. Adrian had already spoken to enough people that morning to know precisely how little sleep had gone into either.
+The photograph was poor. The headline wasn't much better. Adrian had already spoken to enough people that morning to know precisely how little sleep had gone into either.
 
-Cat was not inclined to make allowances.
+Cat wasn't inclined to make allowances.
 
-“We own a newspaper in the city where this happened,” she said. “A woman catches an aircraft practically on our doorstep, and somehow everyone has the same blurry picture.”
+"We own a newspaper in the city where this happened," she said. "A woman catches an aircraft practically on our doorstep, and somehow everyone has the same blurry picture."
 
-“The first video was licensed to multiple stations,” Adrian said. “We have requests out for original recordings, including passenger footage. The assignments desk is following up.”
+"The first video was licensed to multiple stations," Adrian said. "We have requests out for original recordings, including passenger footage. The assignments desk is following up."
 
-“I want something exclusive.”
+"I want something exclusive."
 
-“Legal is checking the offers as they arrive.”
+"Legal is checking the offers as they arrive."
 
-“I would prefer the woman herself to an invoice.”
+"I'd prefer the woman herself to an invoice."
 
 Kara stood beside the desk with her notebook open, trying to look like someone for whom that request presented only a scheduling problem.
 
 James entered carrying a tablet.
 
-Cat turned to him immediately. “Does your friend know her?”
+Cat turned to him immediately. "Does your friend know her?"
 
-“He hasn’t told me that he does.”
+"He hasn't told me that he does."
 
-“But you think there’s a connection.”
+"But you think there's a connection."
 
-“I think she helped people who needed it.” James glanced at the photograph. “If she’s anything like him, we’ll see her again.”
+"I think she helped people who needed it." James glanced at the photograph. "If she's anything like him, we'll see her again."
 
 Cat considered that, then tapped the newspaper.
 
-“This is what the Tribune has been missing. A reason for people to pick it up tomorrow.”
+"This is what the Tribune has been missing. A reason for people to pick it up tomorrow."
 
-Kara lowered her pen. “What about the letters?”
+Kara lowered her pen. "What about the letters?"
 
 Cat looked at her.
 
-“The termination letters.”
+"The termination letters."
 
-“Hold them.”
+"Hold them."
 
-“All of them?”
+"All of them?"
 
-“For now, Kara. Don’t make me regret saying something you like.”
+"For now, Kara. Don't make me regret saying something you like."
 
-Adrian drew the personnel folder away from the others. “I’ll confirm the hold with HR.”
+Adrian drew the personnel folder away from the others. "I'll confirm the hold with HR."
 
-“And then you can get back to finding me a story.”
+"And then you can get back to finding me a story."
 
 Kara was smiling when they left the office.
 
-James noticed. “Good news?”
+James noticed. "Good news?"
 
-“For a lot of people.”
+"For a lot of people."
 
-He nodded toward the image on the tablet. “Saving a plane was one of Superman’s first public appearances, too.”
+He nodded toward the image on the tablet. "Saving a plane was one of Superman's first public appearances, too."
 
 Kara looked at him, but he was already turning toward the art department.
 
 Beside her, Adrian checked the time on his phone.
 
-“Do you think she’ll do it again?” she asked.
+"Do you think she'll do it again?" she asked.
 
 He followed her glance to a nearby screen.
 
-“I don’t know.”
+"I don't know."
 
-“Would you want her to?”
+"Would you want her to?"
 
 For a moment he watched the aircraft descend through the same few seconds of footage.
 
-“I’m glad she was there last night,” he said.
+"I'm glad she was there last night," he said.
 
-Kara’s fingers tightened around her notebook.
+Kara's fingers tightened around her notebook.
 
 It was such a simple answer. No warning attached to it. No question about her clothes or her reasons or whether she had permission.
 
-“Me too,” she said.
+"Me too," she said.
 
-He went to call HR. Kara watched him for a second before turning toward Winn’s desk.
+He went to call HR. Kara watched him for a second before turning toward Winn's desk.
 
 ***
 
 Winn followed her onto the roof with several questions already in progress.
 
-“Is this about Cat? Because I didn’t say anything to her. About anything. If you’re about to ask whether I know how to delete—”
+"Is this about Cat? Because I didn't say anything to her. About anything. If you're about to ask whether I know how to delete—"
 
-“Winn.”
+"Winn."
 
 He stopped talking.
 
-Kara let the door close behind them. Up here, the office noise fell away beneath the wind and the distant traffic. There was nowhere to put her hands that did not make her look nervous, so she stopped trying.
+Kara let the door close behind them. Up here, the office noise fell away beneath the wind and the distant traffic. There was nowhere to put her hands that didn't make her look nervous, so she stopped trying.
 
-“I need to tell you something.”
+"I need to tell you something."
 
-“Okay.”
+"Okay."
 
-“And I need you to let me finish.”
+"And I need you to let me finish."
 
-His expression grew more serious. “Okay.”
+His expression grew more serious. "Okay."
 
-“The woman who saved the plane last night.”
+"The woman who saved the plane last night."
 
 He waited.
 
-“That was me.”
+"That was me."
 
 For a second he only looked at her. Then he laughed, uncertainly, because she had said it with such complete seriousness that there had to be another part coming.
 
-Kara did not laugh with him.
+Kara didn't laugh with him.
 
-“Right,” he said. “And this is a test of whether I’ll agree with absolutely anything you—”
+"Right," he said. "And this is a test of whether I'll agree with absolutely anything you—"
 
 She walked toward the edge.
 
-“Kara?”
+"Kara?"
 
 She turned back long enough to make sure he was watching, then stepped off.
 
@@ -218,61 +218,61 @@ He stopped so abruptly that his shoes scraped against the roof. Kara hovered bey
 
 For several seconds, Winn appeared to have forgotten that speech was possible.
 
-“You could have started smaller,” he finally said.
+"You could have started smaller," he finally said.
 
-Kara let out the breath she had been holding. “You didn’t believe me.”
+Kara let out the breath she had been holding. "You didn't believe me."
 
-“You jumped off a building.”
+"You jumped off a building."
 
-“I came back.”
+"I came back."
 
-“Yes. I noticed that part.”
+"Yes. I noticed that part."
 
 She smiled, and his astonishment began to turn into something warmer.
 
-“It was really you.”
+"It was really you."
 
 She nodded.
 
 He looked at her hands, then her face, then the sky behind her, as though the explanation might be written in one of those places.
 
-“How long have you been able to do that?”
+"How long have you been able to do that?"
 
-“A long time.”
+"A long time."
 
-“And yesterday—”
+"And yesterday—"
 
-“My sister was on the plane.”
+"My sister was on the plane."
 
-His expression changed. “Is she okay?”
+His expression changed. "Is she okay?"
 
-“She is.”
+"She is."
 
-“Good.” He said it with such immediate feeling that Kara had to look away for a moment.
+"Good." He said it with such immediate feeling that Kara had to look away for a moment.
 
 When she looked back, he was still trying to understand the person standing in front of him.
 
-“So what happens now?”
+"So what happens now?"
 
-“I want to keep helping.”
+"I want to keep helping."
 
 Winn glanced toward the city. Then he nodded, slowly at first, as if each part of the idea was arriving separately.
 
-“Okay. Then we should probably work out how you’re going to do that without everyone from accounting recognizing you.”
+"Okay. Then we should probably work out how you're going to do that without everyone from accounting recognizing you."
 
 Kara looked down at her clothes.
 
-“You’re going to bring up the costume again.”
+"You're going to bring up the costume again."
 
-“I was right before I knew I was right.”
+"I was right before I knew I was right."
 
 She laughed.
 
-For the first time since Alex had left her apartment, the thought of doing this again did not feel like an argument she would have to have alone.
+Kara picked up her phone. She dialed.
 
 ***
 
-At a diner beyond the busy center of National City, Vartox watched a waitress refill a customer’s coffee beneath a television showing the aircraft.
+At a diner beyond the busy center of National City, Vartox watched a waitress refill a customer's coffee beneath a television showing the aircraft.
 
 The footage had been on when he entered. It was still on when he finished eating.
 
@@ -286,19 +286,19 @@ Outside, he crossed the parking lot to the tanker truck and climbed into its con
 
 A face appeared on the communications display.
 
-“You’ve seen the reports.”
+"You've seen the reports."
 
-“She interfered.”
+"She interfered."
 
-“Then we deal with the interference.”
+"Then we deal with the interference."
 
 Vartox looked at the paused image beside the transmission. It was an imperfect picture, but the resemblance had been enough to bring an old name back into the conversation.
 
-“Alura Zor-El’s daughter,” he said.
+"Alura Zor-El's daughter," he said.
 
-The man on the screen did not soften at the name.
+The man on the screen didn't soften at the name.
 
-“The girl dies. Our work continues.”
+"The girl dies. Our work continues."
 
 Vartox reached for the axe secured against the wall.
 
@@ -310,9 +310,9 @@ Adrian confirmed the hold on the Tribune letters before anyone sent them.
 
 The woman in HR asked him to repeat the instruction, then asked whether Cat knew how much work had already gone into the process.
 
-“She gave the instruction herself.”
+"She gave the instruction herself."
 
-“Of course she did.”
+"Of course she did."
 
 He waited while the woman made the necessary note. The two internal vacancies he had found the previous day remained on his screen, no longer the only useful thing he could offer the people on the list.
 
@@ -322,7 +322,7 @@ Some were duplicates. One sender claimed to have an exclusive recording that Adr
 
 He marked the problems for the assignments desk rather than letting somebody pay to discover them later.
 
-A passenger’s response arrived early in the afternoon, following one of the calls he had arranged the night before. The message included an original phone recording and a request to discuss terms before any further use.
+A passenger's response arrived early in the afternoon, following one of the calls he had arranged the night before. The message included an original phone recording and a request to discuss terms before any further use.
 
 Adrian opened the file to check that it matched the description.
 
@@ -340,51 +340,51 @@ He played the moment again, this time without looking only at the movement.
 
 The face was familiar too.
 
-He looked through the glass partition toward Kara’s desk. She was speaking into her headset while searching beneath a folder for something she had put down a moment earlier. Winn leaned against the neighboring workstation, attempting to contribute to the conversation without being on the call.
+He looked through the glass partition toward Kara's desk. She was speaking into her headset while searching beneath a folder for something she had put down a moment earlier. Winn leaned against the neighboring workstation, attempting to contribute to the conversation without being on the call.
 
-Kara found the page, held it up triumphantly and smiled at him.
+Kara found the page, held it up triumphantly, and smiled at him.
 
 Adrian looked back at the recording.
 
-Glasses did not account for the whole difference. Neither did wet hair. He had first seen the woman on the television as an event taking place far away, something to understand and arrange coverage for. Now he was looking at a person he knew.
+Glasses didn't account for the whole difference. Neither did wet hair. He had first seen her on television. Now he was looking at a person he knew.
 
-That did not make a blurred recording proof.
+That didn't make a blurred recording proof.
 
 It did make pretending he saw no resemblance impossible.
 
 He checked the message again. The file had come to the footage mailbox he was helping manage, not to a private address known only to its owner and himself. Other people could open it. Other copies might already exist.
 
-He sent legal the request for terms and left the clip marked for review rather than approved for publication. He did not add a name to the woman in the image.
+He sent legal the request for terms and left the clip marked for review rather than approved for publication. He didn't add a name to the woman in the image.
 
 Then he sat back from the screen.
 
-Under his cuff, the band remained against his wrist. He had learned none of this through it, and it could not decide what he should do next.
+Under his cuff, the band remained against his wrist. He had learned none of this through it, and it couldn't decide what he should do next.
 
 ***
 
 Kara found Winn making notes during a gap between calls.
 
-“Please tell me that isn’t on the company network,” she said quietly.
+"Please tell me that isn't on the company network," she said quietly.
 
 He tipped the notebook toward her. Paper. Actual paper, with an untidy sketch and several words crossed out.
 
-“You have no faith in me.”
+"You have no faith in me."
 
-“I have enough faith in you to ask.”
+"I've enough faith in you to ask."
 
-“That’s a very flattering distinction.”
+"That's a very flattering distinction."
 
-She studied the sketch. “I need to be able to move.”
+She studied the sketch. "I need to be able to move."
 
-“I had gathered that.”
+"I'd gathered that."
 
-“And nothing that makes it look like I’m going to a costume party.”
+"And nothing that makes it look like I'm going to a costume party."
 
 Winn looked down at his drawing, then turned to a clean page.
 
 Kara smiled.
 
-“After work?” he asked. “We can look at some ideas properly.”
+"After work?" he asked. "We can look at some ideas properly."
 
 She agreed, then went back to her desk before Cat could turn their conversation into a new assignment.
 
@@ -396,19 +396,19 @@ Kara looked at it for a long moment before answering.
 
 *Yes. Later.*
 
-She had not worked out what she wanted to say. But she did not want yesterday’s argument to become the only conversation they were allowed to have about what happened next.
+She hadn't worked out what she wanted to say. But she didn't want yesterday's argument to become the only conversation they were allowed to have about what happened next.
 
 Adrian appeared beside her desk as she set the phone down.
 
-“Do you have a few minutes?”
+"Do you've a few minutes?"
 
-“Is it the Tribune?”
+"Is it the Tribune?"
 
-“No.” His voice was quiet. “Something I’d rather ask you privately.”
+"No." His voice was quiet. "Something I'd rather ask you privately."
 
-For a moment she thought of the date she had told him about that morning. Then she saw that he was holding his tablet without looking at it.
+Kara looked at the tablet. He wasn't reading it.
 
-“The small meeting room is empty,” she said.
+"The small meeting room is empty," she said.
 
 He let her lead the way.
 
@@ -420,151 +420,151 @@ Adrian set the tablet on the table with the screen facing her.
 
 A passenger cabin. A window. Herself on the wing.
 
-She did not need to see the clip reach the moment he had paused it to understand why they were here.
+She didn't need to see the clip reach the moment he had paused it to understand why they were here.
 
-“Where did you get this?”
+"Where did you get this?"
 
-“One of the passenger recordings. It came in through the requests Cat had us make.”
+"One of the passenger recordings. It came in through the requests Cat had us make."
 
 Kara touched the edge of the tablet without moving it.
 
-“Who else has seen it?”
+"Who else has seen it?"
 
-“I don’t know. I haven’t circulated it, but it’s in the shared mailbox. The owner may have sent it elsewhere.”
+"I don't know. I haven't circulated it, but it's in the shared mailbox. The owner may have sent it elsewhere."
 
 She looked toward the door.
 
-“I wanted to ask you before I made assumptions,” Adrian said.
+"I wanted to ask you before I made assumptions," Adrian said.
 
 Kara let the recording run for a few more seconds. The phone moved, and the wing disappeared behind a reflection from the cabin.
 
-There was not much of her face in it. There was enough.
+There wasn't much of her face in it. There was enough.
 
-“How did you know?”
+"How did you know?"
 
-“I recognized you. I wanted to know whether I was right.”
+"I recognized you. I wanted to know whether I was right."
 
 She took her hand away from the tablet.
 
-For years she had practiced looking ordinary. She had imagined discovery as a dramatic failure: lifting something she should not lift, moving too quickly, answering a question no one else had heard.
+For years she had practiced looking ordinary. She had imagined discovery as a dramatic failure: lifting something she shouldn't lift, moving too quickly, answering a question no one else had heard.
 
-She had not imagined it arriving through an email attached to Adrian’s ordinary work.
+She hadn't imagined it arriving through an email attached to Adrian's ordinary work.
 
-“Yes,” she said. “It was me.”
+"Yes," she said. "It was me."
 
 He nodded once.
 
-Then he asked, “Were you hurt?”
+Then he asked, "Were you hurt?"
 
 Kara blinked.
 
-“No.”
+"No."
 
-“You’re sure?”
+"You're sure?"
 
-“Yes. Just wet.”
+"Yes. Just wet."
 
-The corner of his mouth moved, but he did not turn it into a joke.
+The corner of his mouth moved, but he didn't turn it into a joke.
 
-She looked down at the paused recording. “I didn’t mean for everyone to see.”
+She looked down at the paused recording. "I didn't mean for everyone to see."
 
-“I don’t imagine you had much time to choose the audience.”
+"I don't imagine you had much time to choose the audience."
 
-“My sister was on that plane.”
+"My sister was on that plane."
 
-Adrian’s expression changed.
+Adrian's expression changed.
 
-“Alex?”
+"Alex?"
 
-Kara nodded. Her sister’s name was no secret; she had mentioned her often enough at work. It felt strange to hear it here, beside the thing she had spent so long concealing.
+Kara nodded. Her sister's name was no secret. She had mentioned her often enough at work. It felt strange to hear it here, beside the thing she had spent so long concealing.
 
-“She’s safe. She came over afterward.”
+"She's safe. She came over afterward."
 
-“Good.”
+"Good."
 
 That simple word made her throat tighten more than she expected.
 
-“What happens to the recording?” she asked.
+"What happens to the recording?" she asked.
 
-“It still has to go through the rights checks. That buys some time, not secrecy. I can’t promise that nobody else will recognize you.”
+"It still has to go through the rights checks. That buys some time, not secrecy. I can't promise that nobody else will recognize you."
 
-“Cat wants to find her.”
+"Cat wants to find her."
 
-“Yes.”
+"Yes."
 
-“Me.”
+"Me."
 
-“Yes.”
+"Yes."
 
 Kara drew a chair out and sat. Adrian stayed on the other side of the table until she gestured toward the chair opposite.
 
-“You can sit down.”
+"You can sit down."
 
 He did.
 
-“I haven’t put your name in the footage notes,” he said. “I’m not going to identify you to Cat as a reward for answering me honestly. But you need to know this isn’t the only way someone could find out.”
+"I haven't put your name in the footage notes," he said. "I'm not going to identify you to Cat as a reward for answering me honestly. But you need to know this isn't the only way someone could find out."
 
-“I know.” She took a breath. “I’m starting to.”
+"I know." She took a breath. "I'm starting to."
 
 For a moment she listened to the office beyond the door: footsteps, a telephone, someone asking for a number. The ordinary day was continuing on the other side of the glass.
 
-“You’re taking this very calmly.”
+"You're taking this very calmly."
 
-“I saw Superman on television before I met you.”
+"I saw Superman on television before I met you."
 
-“That isn’t quite the same thing.”
+"That isn't quite the same thing."
 
-“No,” he agreed. “It isn’t.”
+"No," he agreed. "It isn't."
 
-She searched his face. There was surprise there, but not the kind she had seen on Winn’s face when she rose over the edge of the roof.
+She searched his face. There was surprise there, but not the kind she had seen on Winn's face when she rose over the edge of the roof.
 
-“You can ask,” she said.
+"You can ask," she said.
 
-“Ask what?”
+"Ask what?"
 
-“What I am.”
+"What I'm."
 
 Adrian was quiet for a moment.
 
-“Are you from his world?”
+"Are you from his world?"
 
-“Yes.” The answer came more easily now that she had begun. “Krypton. He’s my cousin.”
+"Yes." The answer came more easily now that she had begun. "Krypton. He's my cousin."
 
-“What was your family name?”
+"What was your family name?"
 
-“Zor-El.” She hesitated, unused to saying it in this room. “Kara Zor-El.”
+"Zor-El." She hesitated, unused to saying it in this room. "Kara Zor-El."
 
 His attention sharpened.
 
 Kara noticed it immediately.
 
-“What?”
+"What?"
 
-“Did you grow up there?”
+"Did you grow up there?"
 
-“I was a child when I left.” She hesitated. “Getting here took longer than it was supposed to.”
+"I was a child when I left." She hesitated. "Getting here took longer than it'd supposed to."
 
 He looked at her for several seconds, no longer glancing between her and the image on the tablet.
 
 Then he pushed the device aside.
 
-“There’s something you should know about me.”
+"There's something you should know about me."
 
 Kara went still.
 
-“My father was Kryptonian,” he said. “My mother was Daxamite.”
+"My father was Kryptonian," he said. "My mother was Daxamite."
 
 At first, only the first half of the statement reached her.
 
-“You—”
+"You—"
 
 The second half followed.
 
-“Daxam?”
+"Daxam?"
 
-“Yes.”
+"Yes."
 
-She had not meant the word to come out that way. She heard it after she said it, with all the distance she had put between herself and a place she had never visited.
+She hadn't meant the word to come out that way. She heard it after she said it, with all the distance she had put between herself and a place she had never visited.
 
 Adrian heard it too.
 
@@ -572,81 +572,81 @@ Kara looked at the man across the table. Yesterday he had bought the pastries sh
 
 None of the stories she remembered about Daxam had included that man.
 
-“I didn’t know,” she said.
+"I didn't know," she said.
 
-“Neither did I.”
+"Neither did I."
 
-“Can you do what I can?”
+"Can you do what I can?"
 
-“Not while I’m wearing this.” He drew back his cuff far enough to show her the band. “It restricts my abilities. I made it.”
+"Not while I'm wearing this." He drew back his cuff far enough to show her the band. "It restricts my abilities. I made it."
 
-“You choose to wear it?”
+"You choose to wear it?"
 
-“Yes.”
+"Yes."
 
-“Why?”
+"Why?"
 
-“I wanted an ordinary life.”
+"I wanted an ordinary life."
 
-Kara looked through the glass toward Cat’s office, then back at him.
+Kara looked through the glass toward Cat's office, then back at him.
 
-“You chose an interesting place to try.”
+"You chose an interesting place to try."
 
-A small smile passed between them. It did not answer the larger questions, but it made them possible to ask.
+A small smile passed between them. It didn't answer the larger questions, but it made them possible to ask.
 
-Adrian covered the band again. He had not taken it off or changed anything about the room. Yet Kara was suddenly conscious of how much might have been beside her every day without her knowing it.
+Adrian covered the band again. He hadn't taken it off or changed anything about the room. Yet Kara was suddenly conscious of how much might have been beside her every day without her knowing it.
 
-“What was it like?” she asked.
+"What was it like?" she asked.
 
-“What?”
+"What?"
 
-“Your family. Krypton and Daxam.”
+"Your family. Krypton and Daxam."
 
-“People had opinions about it.”
+"People had opinions about it."
 
-“That wasn’t what I meant.”
+"That wasn't what I meant."
 
-“I know.” He looked down at his hands. “At home, it was my family.”
+"I know." He looked down at his hands. "At home, it'd my family."
 
-“Are they—”
+"Are they—"
 
-“No.”
+"No."
 
 She stopped.
 
-“I’m sorry.”
+"I'm sorry."
 
-“Thank you.”
+"Thank you."
 
 The office phone rang outside. Neither of them reached for it.
 
-Kara had more questions than she could arrange into words. Some came from the frightened child who had lost a world; others came from the adult who had thought she knew the person sitting opposite her. And beneath them were assumptions she had never had much reason to examine until they had appeared in her own voice.
+Kara had more questions than she could arrange into words. And beneath them were assumptions she had never had much reason to examine until they had appeared in her own voice.
 
-“I don’t know very much about Daxam,” she admitted.
+"I don't know very much about Daxam," she admitted.
 
-Adrian met her eyes. “You know me a little.”
+Adrian met her eyes. "You know me a little."
 
-She thought about that.
+She held that.
 
 Then she nodded.
 
-“A little,” she agreed. “I’d like to know more.”
+"A little," she agreed. "I'd like to know more."
 
-He did not answer immediately. Kara let him have the time.
+He didn't answer immediately. Kara let him have the time.
 
-“There is something I can tell you now,” he said. “Your mother’s work made enemies. Be careful with anyone who approaches you because of her name.”
+"There is something I can tell you now," he said. "Your mother's work made enemies. Be careful with anyone who approaches you because of her name."
 
-“You knew my mother?”
+"You knew my mother?"
 
-“I saw her at work.”
+"I saw her at work."
 
-Kara leaned forward. “On Krypton?”
+Kara leaned forward. "On Krypton?"
 
-“Yes.” His fingers rested against the edge of the tablet. “It isn’t a part of my life I can explain in a few minutes between calls.”
+"Yes." His fingers rested against the edge of the tablet. "It isn't a part of my life I can explain in a few minutes between calls."
 
 She studied him. He had answered her, but not quite the question she wanted to ask.
 
-“All right,” she said at last. “Not here, then.”
+"All right," she said at last. "Not here, then."
 
 On the table between them, the screen went dark.
 
@@ -654,56 +654,174 @@ On the table between them, the screen went dark.
 
 Adrian returned to his desk knowing exactly which question he had left unanswered.
 
-Alura Zor-El had not merely been someone whose work he knew. She had sat in judgment on him. He remembered her voice delivering the sentence that sent him to Fort Rozz, without triumph and without pretending that grief made the dead any less dead.
+Alura Zor-El hadn't merely been someone whose work he knew. She had sat in judgment on him. He remembered her voice delivering the sentence that sent him to Fort Rozz, without triumph and without pretending that grief made the dead any less dead.
 
 Her daughter had just asked him about his family.
 
-He knew that family from the other side of its history too. Astra was not simply a name in Kara’s childhood. He had spoken with her inside Fort Rozz, during the guarded intervals when the prisoners were awake. He had spoken with Non.
+He knew that family from the other side of its history too. Astra wasn't simply a name in Kara's childhood. He had spoken with her inside Fort Rozz, during the guarded intervals when the prisoners were awake. He had spoken with Non.
 
 Those conversations had never fitted comfortably into friendship or enmity. Astra could argue with him while keeping careful track of the restraint fields between them. Non could speak as if a common enemy made cooperation inevitable, then stop when Kael looked at him.
 
 They feared what he could do. They still wanted things from him. Neither fact had made them simple company.
 
-Kara knew him as the man who remembered her favorite pastries. He had told her his parents’ worlds and the purpose of the band. He had not told her the name her mother had read into the record, or who had sat on the other side of those prison conversations.
+Kara knew him as the man who remembered her favorite pastries. He had told her his parents' worlds and the purpose of the band. He hadn't told her the name her mother had read into the record, or who had sat on the other side of those prison conversations.
 
 He looked across the floor. Kara was speaking to Winn, one hand on the back of his chair, already being pulled into another part of her day.
 
 Adrian opened the next message on his screen.
 
-The omission was his choice. It would not stay without consequences.
+The omission was his choice. It wouldn't stay without consequences.
 
+***
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+Later, Kara brought Cat her coffee with both hands and didn't spill it.
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+Winn came over and put a bagel on her desk without comment. James left a contact sheet face-down, workers safe with their families.
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+Adam Foster came by with coffee for everyone because he had heard what happened and wanted to make sure Kara was okay. He was a friend, not a date, because Kara had told him clearly months ago that she had a boyfriend, and he had listened. He stayed ten minutes and left.
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+There would be another headline tomorrow. Tonight there was just coffee, and the quiet knowledge of how much control it takes to live under a red sun and still choose to be ordinary every day.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+That night, Kara went to the DEO.
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+Alex was at her desk. She had been going through the guard logs — the paper ones, not the digital ones. She looked up when Kara came in.
 
-Both had learned control shows strong willpower.
+"I found something," Alex said.
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+Kara sat across from her.
 
-She asked, "Do you think we will always stay together?"
+"The night Astra left," Alex said. "The corridor guard logged a walk-through at one-forty in the morning. The footage shows nothing. The log shows the walk. Someone walked that corridor and came back, and the video is clean."
 
-He said, "If you want. I want if you want."
+"Clean how?"
+
+"Like someone made it clean," Alex said. "Like someone in the tech room changed the footage. And when I went to the creation log for the ghost code, the log showed it'd created three months ago by someone who left the DEO. Miller. He had admin access. He created a code for a person who doesn't exist. And someone has been using it."
+
+Kara looked at the paper on the desk. The name. The time. The pattern.
+
+"And who's using it?"
+
+"That's what we're finding," Alex said. "The paper doesn't lie. The paper shows who was where and when. And someone is making a mistake."
+
+"And when we find them?"
+
+"We wait," Alex said. "We hold the pattern. We don't confront them. We wait for Lord to make his move. And when he does, we use the whole pattern."
+
+Kara leaned back. "And then?"
+
+"And then we stop him."
+
+Alex closed the guard log. Kara stood up.
+
+"I'll go home," she said.
+
+"Be careful."
+
+"I always am."
+
+"I know. That's what worries me."
+
+Kara left the DEO. The city went on outside. She drove to her apartment and sat on the sofa.
+
+The television was off. The city lights moved across the ceiling.
+
+She thought about the pattern. She thought about the paper. She thought about the person walking the corridor, feeding information to Lord, using a code that didn't exist for a person who didn't exist.
+
+She thought about the day she would stop waiting.
+
+Adrian came home later. He sat at the kitchen table with his hands on the surface. He looked at her across the space.
+
+"How was your day?" he asked.
+
+"I found a ghost," she said.
+
+"That sounds like a story."
+
+"It's a code," she said. "For a person who doesn't exist. Someone created it. Someone is using it. And it's in the building."
+
+Adrian was quiet for a moment.
+
+"Are you going to wait?" he asked.
+
+"Alex says to wait."
+
+"And what do you say?"
+
+Kara looked at him. "I say I'm tired of waiting. But I'm waiting."
+
+"Then wait," he said. "But write it down. The paper is the only thing the leak can't change."
+
+She nodded.
+
+"Do you think we'll always stay together?" she asked.
+
+"If you want," he said. "I want if you want."
 
 "I want," she said.
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+She closed her eyes. The city went on outside. The night went on.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+On the desk, the chipped mug sat beside the theater mask magnet. It had been there every morning since Evelyn left. It would be there tomorrow.
 
-At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+---
 
-J'onn read report and said, "You forgot to write they stayed together."
+The next morning, Kara arrived early and found Adrian already at his desk.
 
-Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+The bullpen was quiet. The receptionist was at the front desk. Winn's chair was empty. James's desk was empty. The only sounds were the hum of the ventilation and the clatter of a keyboard somewhere down the corridor.
 
-J'onn nodded. "Good."
+Kara set her bag down and looked across the floor at him.
 
+He was typing. He looked up, saw her, and stopped.
+
+"Good morning," he said.
+
+"Good morning."
+
+She stood there. Then she walked to his desk and leaned against the edge.
+
+"What are you thinking about?" she asked.
+
+Adrian looked at her for a moment. He set his pen down.
+
+"The recording," he said. "And what I didn't tell you yesterday."
+
+Kara pushed up her glasses. "The part about your mother?"
+
+"And the part about my mother's name." He looked at his hands. "And the part about the people I knew in Fort Rozz."
+
+She waited.
+
+"I didn't tell you I knew Astra," he said. "I didn't tell you I knew Non."
+
+Kara went quiet.
+
+"You didn't tell me," she said slowly.
+
+"No."
+
+"Why not?"
+
+Adrian leaned back in his chair. He looked at the window, at the city going on outside.
+
+"Because I didn't know what it meant for you," he said. "And because I didn't know if you would still talk to me if you knew the full picture."
+
+Kara looked at him. The band was at his wrist, beneath the cuff. He was human-level. He was ordinary. And he had been holding back the parts of himself that mattered most.
+
+"You should have told me," she said.
+
+"I know."
+
+"And you should tell me now."
+
+Adrian sat forward. He put his hands on the desk.
+
+"I'll tell you," he said. "But not in the bullpen, where anyone can walk past. At your apartment. Tonight. Where we can talk without someone stopping to ask me a question about the Tribune."
+
+Kara looked at him.
+
+Then she nodded.
+
+"Tonight," she said.
+
+She went back to her desk. She opened her email. She didn't look at him again, but she knew he was still looking at her.
+
+The morning went on. The city went on outside the window. And the thing they hadn't yet said to each other stayed between them, waiting for the night.

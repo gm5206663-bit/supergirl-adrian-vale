@@ -1,4 +1,4 @@
-<!-- GENERATED from codex/RELATIONSHIP_LEDGER.json; SHA256: a45a4998faa9204231742ddfd8ff76e40469ef57d8eeda7b0dde1735a99711fb -->
+<!-- GENERATED from codex/RELATIONSHIP_LEDGER.json; SHA256: a0125223b801c8fd0bbadf9a3eeb626906af1fe5d977c431e949bbd0cd5cf780 -->
 
 # Relationships — opening baselines and accepted changes
 

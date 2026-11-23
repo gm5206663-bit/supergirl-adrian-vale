@@ -2,205 +2,516 @@
 
 *Episode: S01E11 - Strange Visitor From Another Planet*
 
-Cat's emergency was not an emergency in the way DEO emergency is emergency. It was Cat emergency, which is different kind of emergency, the kind that involves mother and son and letter and Kara Danvers who finished discarded note and sent on behalf of boss.
+Astra wasn't in the DEO.
 
-The young man at Noonan's who had expressed condolences for working for Cat Grant and who had asked if she breathes fire and eats babies and who had said he heard she sat down with Vladimir Putin, Pope Francis, and Taylor Swift and was not worried about dinner with son, was Adam Foster. Blake Jenner, Glee co-star and then-husband of Melissa Benoist in real life, Casting Gag, Ship Tease obviously interested in Kara and openly flirts with her, Cat plays Shipper on Deck for them, they have a date by the end of the episode.
+She wasn't in the cell. She wasn't in the building. She wasn't in the city.
 
-Adam arrived in National City carrying a letter from Cat that Kara had finished and mailed under her name. The letter had been in Cat's trash, discarded, because Cat writes letters when she is angry and then throws them away because she is Cat and she does not send letters that are vulnerable. Kara had found it, read it, not because she was supposed to read Cat's trash but because she was looking for mug? No, because she was looking for file and found letter, and she had finished it, because she is Kara and she finishes things that are discarded, and she had mailed it under Cat's name, because she thought mother and son should reforge relationship.
-
-Cat's emergency involved untimely arrival of her son, Adam, who had arrived due to heartfelt letter sent by mother, truth is Kara is one who finished discarded note and sent on behalf of boss.
-
-The tense relationship between mother and estranged son causes rift that Kara is confident she has to fix. She steps in and convinces Adam to give Cat second chance, which he does, and mother and son reforge relationship. Cat is grateful for Kara's help, but soon learns Adam has more than passing interest in Kara.
-
-Cat's office, 1500, Cat behind desk, Adam in front of desk, Kara by door holding mug that is Evelyn's and magnet that is Evelyn's niece's, ordinary, human-level, as if not knowing Adam is flirting with Kara who is with Adrian.
-
-"Adam," Cat said, voice that is Cat but softer, because son, because estranged son, because she has not seen him in two years because she sent money but did not speak. "You came."
-
-"You wrote," Adam said, holding letter that Kara finished. "You wrote you miss me. You wrote you want to see me. You wrote... you wrote you are proud of me."
-
-Cat looked at letter, did not recognize handwriting at end because Kara finished it, because Kara's handwriting is different, because Kara writes like someone who learned English as second language and writes carefully. Cat said, "I... I did write. I did."
-
-Adam said, "You only talk about yourself and name dropping. You sat down with Vladimir Putin, Pope Francis, and Taylor Swift, and you are not worried about dinner with son? You are worried about dinner with son? You... you..."
-
-Kara stepped in, because she is Kara and she is family counselor now, adorkable, Melissa Benoist does best adorkable ever scene where she goes to Adam on Cat's behalf, Ha, and now Kara is family counselor.
-
-"Adam," Kara said, quiet, you okay? "Cat... Cat is tough but bad-ass. She is tough but she is good person deep down despite flaws. Jerk with a Heart of Gold. She... she wanted to write but did not know how. She wrote and threw away because she was afraid. I... I finished it because I thought you should know she misses you. She does miss you. She talks about you when you are not here. She has photo of you as child on desk that she hides when people come in."
-
-Cat looked at Kara, eyes wet, because Cat does not cry but when she does she hides.
-
-Adam looked at Kara, not at Cat, because Kara is beautiful and kind and finished letter.
-
-"I am Adam Foster," he said to Kara, not to Cat. "Cat's son. Estranged son. I... I am here because of letter. Are you... are you Kara Danvers? The one who works for my mother and breathes fire and eats babies? No, tough but bad-ass?"
-
-Kara laughed, bright, powers humming higher than ever after sun baseline higher, finger healed. "I'm Kara. I work for your mother. She does not breathe fire, she just... she just has strong opinions about coffee. Keira where is my coffee."
-
-Adam laughed, and Cat laughed, small, and for minute it was mother and son and assistant who finished discarded note.
-
-Later, Cat botched it by only talking about herself and name dropping Putin Pope Francis Taylor Swift, and Adam was about to give up on Cat, about to leave, about to say calling parents by name Adam's argument with Cat ends with him calling her by name, Cat not mother but Cat, because son calling mother by name is worst.
-
-Kara stepped in as mediator between two and manages to patch up relationship from awkward and bitter to pretty darn chummy. She told Adam about Cat's photo hidden, about Cat's money sent but not spoken years, about Cat's other son? No, Cat has another son? Actually Cat has another son? No, Cat has son Adam and... need check: Cat has another son? In canon, Cat has son Adam and... actually Cat has son Adam Foster and... maybe other? In Blood Bonds, Cat has another son she sends money hasn't spoken years. That is Adam? No, Blood Bonds says Cat has another son sends money hasn't spoken years - that is maybe second son? But here Adam is estranged son who visits. So Cat has at least Adam, maybe other son also. But here focus on Adam.
-
-Kara convinced Adam to give Cat second chance, which he does, and mother and son reforge relationship, chummy, pretty darn chummy.
-
-Cat grateful for Kara's help, but soon learns Adam has more than passing interest in Kara. Subplot offers nice scenes for Calista Flockhart, but burgeoning romance between Kara and Adam shows potential, real life spouses Melissa Benoist and Blake Jenner had chemistry as couple on Glee and show some real promise here as well. It also poses another kick to the nuts of Winn who just begins to recover from his unreciprocated kiss with Kara in previous episode Childish Things, Winn who kissed Kara knowing she is with Adrian and was told no with kindness and boundary and needs space not forever.
-
-Adam obviously interested in Kara and openly flirts with her. Cat plays Shipper on Deck for them. They have a date by the end of the episode. Ship Tease.
-
-At Noonan's again, after mediation, Adam asks Kara, "Do you want to get coffee? No, with me, not with Alex, with me, date?"
-
-Kara blushed, because she is with Adrian since the roof in November cold since the sun, since he put her mug back next to the magnet and texted from the hallway once to check her heartbeat, ordinary choice. She is with Adrian, not looking for a date with Adam, even though Adam is handsome and kind and Cat's son.
-
-"I... I have a boyfriend," Kara says, quiet, honest, because Alex said be honest. "I have a boyfriend, Adrian, he works at CatCo, he places mug back next to magnet ordinary human-level, he... he is my boyfriend since roof November cold since sun. I am with Adrian."
-
-Adam's face falls, but he recovers, because he is Adam Foster who has been estranged and knows about rejection. "Oh. Oh, okay. He... he is lucky. Very lucky. Your boyfriend places mugs back? Interesting. Does he... does he know you are Supergirl?"
-
-Kara says, "Yes. He knows. He knew before sun. He... he is... he is good for me."
-
-Adam says, "Okay. Then... friends? I am new in National City, I could use friend who knows where good coffee is that is not CatCo coffee always too hot."
-
-Kara says, "Friends. I can be friends. I have many friends who need space right now, Winn needs space, James needs space, but I can be friends."
-
-Adam smiles, small, not flirting now, friend.
-
-Cat watches from office, Shipper on Deck, but sees Kara say boyfriend, sees Kara smile different since sun since mug since roof November cold, sees Adrian at desk pen ordinary, and Cat says nothing, because Cat only says Keira where is my coffee, private means private, but Cat files away information that Kara has boyfriend Adrian who places mugs back, because Cat is Cat and she notices.
+The cell was empty. The door was open. The cuffs were gone. The Kryptonite dagger was gone.
 
 ---
 
-Back to main story, Alex and Hank descend into sewers to find White Martian and Senator Crane. Both encounter her at same time, only Alex's is really alien who takes her hostage, Wounded Gazelle Gambit after disguise blown goes back to lair pretends be Miranda Crane kept alive by White Martian, isn't until J'onn finds real one that realize been played and by then too late to stop White Martian from taking Alex.
+Alex found out at seven in the morning.
 
-Alex's is really alien who takes her hostage, Hank and Martian telepathically come to terms where he will sacrifice himself in exchange for Alex being set free, I Surrender Suckers J'onn pretends give himself up to White Martian to save Alex only for Supergirl to swoop in sucker punch White Martian when distracted.
+She walked into the DEO, went to the holding area, and looked through the glass at Astra's cell. The cell was empty. The bed was empty. The cuffs weren't on the floor. They were gone.
 
-They meet in desert to do battle but Kara arrives lends Hank hand battling alien, desert outside National City, sand and wind and sun that is not yellow sun that gives powers but white sun that is just hot, action pretty well done despite blatant CGI, ends with Hank using Kryptonite cuffs to hold Kara back so he can kill his foe, It's Personal J'onn had enough terrorizing city decide end it once and for all killing White Martian, Heroic BSoD J'onn twice freezes at sight White Martian remembering what they did to family planet.
+Alex stood in the corridor and called Kara.
 
-Kara talks Hank from doing something he would regret, If You Kill Him You Will Be Just Like Him Supergirl talks J'onn out of killing White Martian because then he'd be no better than their kind and what's more White Martian would then have effectively succeeded in destroying last of Green Martians, imprison White Martian who teases that millions of fellow aliens waiting to attack, Badass Boast When White Martian threatens millions kind will come for help Supergirl simply answers Let them come, J'onn 317 years old can wear any face speak languages your mouth can't even form you know nothing about me.
+"Astra is gone," she said.
 
-J'onn decides not to kill, imprisons White Martian in DEO, not kill, because Kara talked him from killing, because Alex is like daughter to him, Like a Daughter to Me J'onn calls both Danvers sisters this at end in memory of own two deceased daughters, in memory of wife and two daughters sent to Furnace burnt to death, Holocaust survivor.
+"What do you mean gone?"
 
-Back home, Kara and Alex discuss potential date with Adam when news broadcast shows Supergirl saving truck from crashing into river, only problem Kara is sitting right there on couch with Alex blankets pizza Game of Thrones, not flying, not saving truck, sitting.
+"I mean the cell is empty. The door is open. The cuffs are gone. The dagger is gone."
 
-Alex says, "Kara, look, Supergirl saving truck."
+"How long has she been gone?"
 
-Kara says, "I am here, I am not saving truck, I am sitting with you, blankets, pizza."
+"I don't know. The night shift said the door was locked at midnight. They didn't check again until morning. The door is open now. It wasn't open at midnight."
 
-Alex says, "Then who is saving truck?"
+"She couldn't have opened the door. The doors are electronic. They're controlled from the tech room."
 
-They look at television, and on television is Supergirl, same suit, same cape, same hair, but eyes black? No, eyes not black, eyes... eyes... but something wrong, something off, something like Jane Doe with black eyes but not black eyes, something like Bizarro.
+"She didn't open the door from the inside. Someone opened it from the outside. Someone in the tech room. Someone with a code."
 
-Evil Knockoff Lord's Lab 52 plan comes to fruition final scene revealing Supergirl copy that has her basic powerset, Debut Queue Bizarro's official outing as Supergirl, Bizarro Galatea Jane Doe black eyes, Lord's Lab 52, Room 52, Jane Doe strapped table brain trauma bracelet opens eyes black like Supernatural demon holographic projection Red Tornado torn-off arm speculation Bizarro Supergirl Galatea, Maxwell Lord top-secret room.
+"Who has the code?"
 
-Maxwell Lord in lab, watching Bizarro on screen, smiling Lex-like, because contingency just got bigger, because he planted camera on Alex purse and learned Supergirl is Alex sister and now he has Supergirl copy that has basic powerset and can save truck while real Supergirl sits with sister.
+"Hank. Me. Winn. The tech team. The guards on the night shift. That is everyone who has been in the building since the cell was built."
 
-There would be another headline tomorrow. Tonight there was forest fire camper saved, young man at Noonan's flirting who is actually Cat's son Adam Foster, White Martian arrives, Senator Crane anti-alien dome Trump, J'onn backstory Mars Holocaust wife daughters Furnace 317 years old, James photo realizes Crane is White Martian I Never Said It Was Poison, DEO fight finger Fingore This Was His True Form, sewers Alex hostage, desert battle, Kara talks J'onn from killing, Bizarro reveal truck river Kara sitting there, Adam date friends not date because Kara with Adrian, Cat Shipper on Deck.
+"Then we don't know who opened it."
 
-Adrian, at his desk next morning, ordinary, human-level, placed mug back next to magnet, went back to work, as if not heard forest fire and White Martian and J'onn 317 years old and young man at Noonan's is Cat's son Adam who flirted with Kara who is with Adrian and Cat played Shipper on Deck and Kara said I have boyfriend Adrian who places mugs back.
+"We don't know who opened it. But we know who was in the building. And we know who wasn't supposed to be."
 
-Kara, at her desk, typing, fingers not ache because baseline higher after sun, vision seeing individual dust motes in Cat office from bullpen, hearing Adrian pen, choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to trust her to handle Adam flirting.
+Alex was quiet for a moment. "Non was at Kara's apartment last night. He wasn't in the DEO."
 
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and forest fire and Adam who is Cat's son and date that is not date because Kara with Adrian and Bizarro who is Supergirl copy.
+"Non was at my apartment," Kara said. "He was there all night. He didn't leave."
 
-Adrian went back to work, ordinary, human-level, band at wrist, chipped mug next to theater mask magnet, toothbrusha apartment, jacket, book.
+"Do you know that for certain?"
 
-Kara at her desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and to trust.
+"I was there. I was awake. He didn't leave."
 
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son and forest fire and Adam and Bizarro.
+"Then Non didn't open the cell."
 
-Adrian went back to work.
+"Non didn't open the cell. Someone else did. Someone with a code. Someone who's in the building. Someone who has been in the building."
 
 ---
 
-At CatCo the next morning after Adam arrived and after White Martian sewers and after desert battle and after Bizarro truck river, ordinary was different because Cat had son who had stayed.
+Kara went to the DEO.
 
-Adam Foster had stayed in National City, not because Cat asked him to stay but because Kara had asked him to stay as friend, and because National City has good coffee that is not CatCo coffee always too hot, and because he had seen Kara save truck on television while Kara was sitting with Alex blankets pizza Game of Thrones and had thought who is saving truck if Kara is sitting here, and had thought maybe National City is interesting city where Supergirl saves truck while sitting.
+She walked through the lobby and went to the holding area. She stood in the corridor and looked through the glass at the empty cell.
 
-Kara arrived at 0845, coat that Adrian said looked nice once, mug in hand that was not Evelyn's but similar, because she had bought one like it after Evelyn left. Adrian arrived at 0850, band at wrist, mug in hand, magnet in pocket, ordinary. He placed mug back next to coffee machine, next to magnet, and went back to typing, pen audible to Kara but not to others, because Kara's hearing after sun baseline higher sees individual dust motes in Cat office from bullpen and hears Adrian pen.
+The bed was empty. The floor was clean. The walls were clean. There was no sign that anyone had been in the cell and left.
 
-Winn was still at home, playing Minecraft, building house destroying house, taking space not forever just for now, but he had texted Kara after forest fire camper rescue nice save you okay, and after White Martian sewers nice save you okay, and after desert battle nice save you okay, and Kara had texted back thanks you are my best friend when ready mug magnet will be here, and Winn had texted back need space not forever just for now but thanks.
+She looked at the door. The door was open. The locking mechanism was on the panel beside the door. The panel was open. The wires were exposed.
 
-James at desk, contact sheet from toy convention ice dome plus forest fire camper plus Senator Crane anti-alien rally plus Adam Foster plus Bizarro truck river, plus White Martian finger Fingore This Was His True Form, plus sewers Alex hostage, plus desert battle Let them come, plus Like a Daughter to Me.
+She crouched and looked at the wires.
 
-James knows Adrian is Wraith moves like someone who does not want to be seen advanced restraint light absorbing momentum will not tell Lucy private means private, will not tell Lucy because private means private and because James respects privacy and because James is still thinking about Kara and about Lucy and about Adrian who is with Kara and about Winn who kissed Kara knowing she is with Adrian and needs space and about Adam who flirted with Kara who is with Adrian.
+Someone had bypassed the locking mechanism. They hadn't picked the lock. They hadn't used a key. They had gone to the panel, opened it, and rewired the mechanism so the door would open without a code.
 
-Lucy by elevator with resume folder because Cat offered job as lawyer and she was deciding and she had JD-MBA from Harvard and West Point degree and Cat likes women who have done things and 90 percent of CatCo companies are run by women, and Lucy will accept Monday, will become Cat lawyer, will work with James, will make James reluctant, will make James think about Kara and about Adrian and about Winn and about Adam.
+"Winn," she said.
 
-Kara looks at Adrian mug smiles small, powers humming higher than ever finger healed heart faster baseline higher, mug magnet, no ticker, just city lights, just coffee, just forest fire saved and White Martian and son who is not son and son who is son and truck that is saved by Supergirl who is not Supergirl.
+Winn came down the corridor. He looked at the panel, then at Kara. "That isn't how we built it," he said.
 
-Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level, band at wrist, mug next to magnet, toothbrusha apartment, jacket, book, Evelyn's mug, magnet, second mug blue not pink.
+"I know. Someone rewired it."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and to text hallway when friend needed help and to trust her to handle Adam flirting and White Martian.
+"Someone who knows the system. Someone who knows the panel. Someone who has been in this building long enough to know where the panel is and how to open it."
 
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam who is Cat's son and date that is not date because Kara with Adrian and Bizarro who is Supergirl copy and toothbrushcket and book and mug and magnet and pen and text and light and ordinary was choice he made.
+"Who knows the panel?"
 
-Adrian went back to work, ordinary.
+"Me. Alex. Hank. The tech team. The maintenance crew. That is it."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history natural phrasing strong before stronger than Kara did something bad a city genuine responsibility caught because exhausted built device yourself because wanted ordinary parents murdered mixed union father Kryptonian influential house mother Daxamite collateral royal branch.
+"Hank knows it."
 
-Adrian went back to work.
+"Hank knows it. Alex knows it. I know it. The tech team knows it. The maintenance crew knows it." Winn looked at the panel. "Anyone of us could have done this. Anyone of us could have rewired the door. And none of us did."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss.
+"Then who?"
 
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam and Bizarro and toothbrushcket and book and mug and magnet and pen and text and light and ordinary was choice he made and he chose to trust and to share sun and kiss and history.
+"I don't know. But I know this. The person who did this didn't just rewire the door. They rewired it and then they put it back. They made it look like the door wasn't rewired. They made it look like the door was opened with a code. They didn't want us to know it'd rewired. They wanted us to think someone used a code."
 
-Adrian went back to work, ordinary.
+"So we would look for someone with a code. And everyone in the building has a code. So we would look at everyone and find nobody."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made.
+"That is what they wanted."
 
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son.
+Kara stood up. "Astra is gone. She took the dagger. She walked out of this building. And the person who let her out made it look like they used a code. So we would look at everyone and find nobody."
 
-Adrian placed mug back on desk next to magnet, went back to work, ordinary, human-level.
+"That is what happened."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss and history.
+"And Astra is a Kryptonian general who was in a cell and is now out. She has a Kryptonite dagger. She has a reason to be angry. And she's somewhere in this city."
 
-Adrian went back to work, ordinary.
+"And she isn't alone," Winn said. "Someone helped her out. Someone in this building. Someone who has access. Someone who knows the systems. Someone who's still here."
 
-Kara at desk typing fingers not ache vision sees individual dust motes Cat office from bullpen hearing hears Adrian pen ordinary was choice he made and he chose to share sun and kiss.
+Kara looked down the corridor. The holding area was quiet. The other cells were empty. The cameras were green. The status board was green.
 
-There would be another headline tomorrow. Tonight there was White Martian and Senator and son who is not son and son who is son and forest fire and Adam and Bizarro.
+Everything was green. Everything was fine. And Astra was gone.
 
-Adrian went back to work.
+"We need to find her," she said.
 
-At the DEO, Alex reviewed the file. She noted Kara's progress, her control, her agency. She noted that Kara had put her hand up gentle but firm before lean, that she had said I'm with Adrian because she wanted to, that Winn knew Kara was with Adrian since roof in November cold, that Adrian heard heartbeat irregular and texted hallway trusts, that agency was shown through events not told via repetitive paragraph.
+"We need to find her," Winn said. "And we need to find the person who let her out. Because the person who let her out is still here. And they're going to do it again."
 
-Alex said, "She is learning Torquasm Vo and Rao, closing mind projecting mind, H'ronmeer, thinking about sun, thinking about willpower."
+---
 
-Hank said, "Adrian is learning too. Red sun development harmed temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted built device himself ordinary shows strong willpower."
+Kara went to Alex's office.
 
-Kara, in the bullpen, typed, not hearing as background, but as choice. She typed about National City, about saving trucks properly supersonic absorbing momentum flight counter rotation quiet you okay, about being with Adrian not because canon says so but because she wanted to since sun.
+Alex was at her desk with the security footage pulled up on her monitor. She was going through the footage from the night, frame by frame.
 
-There would be another headline tomorrow. Tonight there was just work, and coffee, and the knowledge that ordinary is a choice made every day.
+"I'm going through the cameras," she said. "The corridor cameras. The lobby cameras. The entrance cameras. The parking lot cameras. Someone walked out of this building last night. Someone walked out with Astra. Or someone walked out and Astra walked behind them. Or Astra walked out on her own and nobody saw her."
 
+"Nobody saw her," Kara said. "If somebody saw her, they would have reported it. The night shift would have seen her. The guards would have seen her. The cameras would have seen her."
 
+"The cameras didn't see her. That is the problem. The cameras are green. The footage is clean. Nobody walked out of the building who wasn't supposed to walk out. Nobody walked out with a Kryptonian general in a cell. Nobody walked out at all."
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+"How is that possible?"
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+"It isn't possible. Unless the footage was changed. Unless the cameras were offline. Unless the person who let Astra out also knew how to make the cameras not see."
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+"Winn would know how to do that."
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+"Winn would know how to do that. Hank would know how to do that. The tech team would know how to do that. I'd know how to do that. Anyone in the tech room could do that."
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+"Then we can't trust the footage."
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+"We can't trust the footage. We can't trust the cameras. We can't trust the status board. We can't trust the locks. We can't trust anything in this building until we find the person who's inside."
 
-Both had learned control shows strong willpower.
+Kara leaned against the doorframe. "Non said there was a leak in the DEO. He said Astra found the path. She couldn't find the person."
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+"Non said that. And now Astra is gone. And the leak is still here. And we don't know who it's."
 
-She asked, "Do you think we will always stay together?"
+"We need to find the leak."
 
-He said, "If you want. I want if you want."
+"We need to find the leak. And we need to find Astra. And we need to do both before Lord uses either of them."
 
-"I want," she said.
+---
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+Kara went back to her apartment to talk to Non.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+He was still at the kitchen table. He hadn't moved. His hands were still on the surface. He looked up when she came in.
 
-At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+"Astra is gone," she said.
 
-J'onn read report and said, "You forgot to write they stayed together."
+Non didn't look surprised. "I expected that."
 
-Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+"You expected that."
 
-J'onn nodded. "Good."
+"I expected that Lord wouldn't keep her in the cell. He put her there to break her. When he realized she wouldn't break, he let her out. He let her out because he could use her differently outside the cell than inside it."
 
+"How?"
+
+"He can use her as bait. He can use her as a messenger. He can use her as a weapon. He can use her as a distraction. He can use her in any way that's more useful outside the cell than inside it."
+
+"And the dagger?"
+
+"She took the dagger. She walked out of the DEO with a Kryptonite dagger. She didn't need to. She could have left it. She took it because she wanted it. She took it because she's a plan."
+
+"What plan?"
+
+"I don't know. I know Astra. I know how she thinks. She doesn't act without a reason. She doesn't leave a cell without a reason. She doesn't take a weapon without a reason. She has a reason. And the reason isn't to run."
+
+"Then what's it?"
+
+"It is to come back. She left the cell to come back with something. She left the DEO to come back with something that will get her what she wants."
+
+"What does she want?"
+
+"She wants to be free. She wants to be herself. She wants to not be Lord's. She wants to not be a prisoner. She wants to not be a weapon. She wants to be a person who made bad choices and is trying to make different ones."
+
+"She killed people."
+
+"She killed people. She isn't a child. She isn't a monster. She is a person who made bad choices. And she's trying to make different ones."
+
+Kara sat down across from Non. "You knew she would leave."
+
+"I knew she would leave. I didn't know when. I didn't know how. I knew she would."
+
+"You didn't tell us."
+
+"I didn't know when. I didn't know how. I knew she would. I didn't think it'd useful to tell you something I couldn't specify. You needed to know about the leak. You needed to know about Lord. You needed to know that someone in the DEO is working for him. That was the useful information. The fact that Astra would leave wasn't useful. It was inevitable."
+
+"And now she's out. And she's a dagger. And she's somewhere in the city. And we don't know where."
+
+"We will find her. She isn't good at hiding. She is a general. She is used to moving in the open and letting people see her and not being able to stop her. She isn't a spy. She won't disappear. She will make a move. And when she makes a move, we'll see her."
+
+"And the leak?"
+
+"The leak is still here. The person who let Astra out is still here. They're in the DEO. They're walking through the corridors. They're sitting at their desk. They're doing their job. And they're feeding information to Lord. And they're going to do it again."
+
+"We need to find them."
+
+"You need to find them. You and Alex. You have the building. You have the people. You have the systems. I don't have any of those things. I've a warning. And the warning is this: the leak isn't someone who just walks out with a file. The leak is someone who's inside. Someone who has access. Someone who knows the systems. Someone who can change the footage. Someone who can open a door and make it look like nobody opened it."
+
+Kara stood up. "I need to go back to the DEO."
+
+"Go. Find the leak. Find Astra. Stop Lord."
+
+"And what about you?"
+
+"I'll stay here. I'll stay at your apartment. I won't leave. I won't go to the DEO. I won't go to Lord. I'll stay here and wait for Alex to come back and tell me what you found."
+
+Kara looked at Non. He was calm. He was ordinary. He was a Kryptonian general sitting at her kitchen table, telling her that the leak was inside the DEO and that Astra was out and that Lord was building something.
+
+She didn't know if she could trust him. She didn't know if he was telling the truth. She knew that Astra was gone. She knew the leak was inside. She knew Non was sitting at her table with information she needed.
+
+"Stay here," she said. "Don't leave. Don't answer the door. Don't do anything. I'll come back."
+
+"I'll stay here."
+
+Kara turned and walked out.
+
+---
+
+She went back to the DEO.
+
+She went to the tech room. Winn was at his desk, going through the system logs.
+
+"I need you to check something," she said. "I need you to check the system logs for the night. I need you to see who accessed the holding area door, who accessed the camera system, who accessed the tech room, and who accessed anything that could have let Astra out."
+
+"I'm already going through the logs," Winn said. "I've been going through them since Alex called me. The logs are clean. Nobody accessed the door. Nobody accessed the cameras. Nobody accessed the tech room. Everything is clean."
+
+"Everything is clean. And Astra is gone. And the footage is clean. And the logs are clean. And the door is open. And the locks are fine. And nobody did anything."
+
+"That is what the logs say."
+
+"The logs are wrong. Or the logs were changed. Or the person who changed them also changed the logs."
+
+"The person who changed the footage could change the logs. They have the same access. They're in the tech room. They're in the system. They can change anything."
+
+"Then we can't trust the logs either."
+
+"We can't trust the logs. We can't trust the footage. We can't trust the cameras. We can't trust the door. We can't trust the locks. We can't trust the system."
+
+Kara stood by Winn's desk. "Who has been in the tech room in the last two days?"
+
+"Me. The tech team. Hank. Alex. That is it."
+
+"Has anyone been in the tech room who isn't supposed to be in the tech room?"
+
+"No. The tech room is restricted. Only the tech team and Hank and Alex can get in. And I've been here the whole time. The tech team has been here. Hank has been here. Alex has been here. Nobody else."
+
+"Then the leak is one of you. Or the leak is Hank. Or the leak is Alex."
+
+Winn looked at her. "I'm not the leak. The tech team isn't the leak. Hank isn't the leak. Alex isn't the leak."
+
+"How do you know?"
+
+"Because I've been in this room for two days. I've been watching the screens. I've been watching the logs. I've been watching the cameras. And I've seen nobody do anything that they weren't supposed to do."
+
+"You have been watching the screens. And the screens are clean. And the person who's the leak is the person who made the screens clean. You were watching the screens that the leak changed. You wouldn't see the leak because the leak is the one who changed the screens."
+
+Winn was quiet for a moment. "That is possible."
+
+"It is possible. And it's the only explanation that fits. The leak is in the tech room. The leak has access. The leak changed the footage. The leak changed the logs. The leak opened the door. And the leak is still here. Still sitting at their desk. Still doing their job. Still feeding information to Lord."
+
+"And we don't know who it's."
+
+"We don't know who it's. And we can't trust the systems to find them. Because the systems are the thing they control."
+
+"Then how do we find them?"
+
+"We find them the way Non said. Not through the systems. Through the people. We watch the people. We watch who comes in and who goes out. We watch who does what they aren't supposed to do. We watch who's in the building when they shouldn't be. We watch who isn't in the building when they should be."
+
+"We watch without the cameras."
+
+"We watch without the cameras. We watch with our eyes. We watch with our ears. We watch the way we watched the convention. We watch without looking like we're watching."
+
+Winn nodded. "I'll watch. I'll watch the tech room. I'll watch the corridor. I'll watch who comes in and who goes out. I'll watch without the cameras. I'll watch with my eyes."
+
+"And I'll watch the DEO. I'll watch the corridors. I'll watch the lobby. I'll watch the entrance. I'll watch without the cameras."
+
+"And Alex will watch the people. She will watch who has been in the building and who hasn't. She will watch who has access and who has used it. She will watch without the logs."
+
+"We all watch. We watch without the systems. We watch with our eyes. And when the leak does something, we'll see it. Because the leak is a person. And people make mistakes. And the leak will make a mistake. And when they do, we'll be watching."
+
+Kara turned and walked out of the tech room.
+
+She walked down the corridor. She looked at the holding area. She looked at the empty cell. She looked at the open door. She looked at the panel with the exposed wires.
+
+The building was quiet. The cameras were green. The logs were clean. The footage was clean. The door was open. The cell was empty. Astra was gone. The dagger was gone.
+
+And somewhere in this building, someone was sitting at their desk, doing their job, feeding information to Lord, and waiting for the next time they would open a door.
+
+Kara walked down the corridor and went to the lobby. She stood by the door and looked at the city outside.
+
+The city was the same. The traffic moved in the same direction. The people walked the same streets. The buildings stood the same way.
+
+And somewhere in this city, Astra was walking with a Kryptonite dagger. And somewhere in this building, someone was working for Lord. And somewhere in this city, Lord was building something.
+
+Kara stood by the door and watched the city.
+
+She didn't know where Astra was. She didn't know who the leak was. She didn't know what Lord was building.
+
+She knew one thing. She was going to find them. All of them. Astra, the leak, Lord. She was going to find them without the cameras. She was going to find them without the logs. She was going to find them with her eyes and her ears and the people she trusted.
+
+She stood there. The city went on outside the window.
+
+And she watched.
+
+---
+
+The next morning, Kara arrived at the DEO at seven.
+
+She walked through the lobby. She looked at the receptionist. The receptionist was reading her book. She looked at the guards. The guards were at their posts. She looked at the corridor. The corridor was empty.
+
+Everything looked normal. Everything was normal. And Astra was gone. And the leak was still here.
+
+She went to the tech room. Winn was at his desk. He was going through the system logs again. He looked up when she came in.
+
+"Nothing," he said. "The logs are still clean. Nobody accessed anything. Nobody did anything. The system says everything is fine."
+
+"The system is wrong."
+
+"The system is what the leak wants it to say. The system is the tool. The leak is the hand that holds it."
+
+Kara stood by Winn's desk. "We need to do this differently. We can't use the systems to find the leak. The leak is the one who controls the systems."
+
+"What do we use?"
+
+"We use paper. We use lists. We use names. We write down who's in the building, who has access, who was here when Astra left, and who wasn't. We write it on paper. The leak can't change paper. The leak can't change a list that exists on a piece of paper in my hand."
+
+Winn looked at her. "Paper."
+
+"Paper. Write down the names. Write down the shifts. Write down the access logs by hand. Go to the guard station. Ask the guards who was on duty. Ask them who walked through the corridor. Ask them who was in the tech room. Write it down. Don't use the computer. Use a notebook."
+
+"I've a notebook," Winn said. He reached under his desk and pulled out a spiral notebook. He set it on the desk and opened it. "I'll start with the night shift. I'll go to the guard station and ask who was on duty. I'll write down the names. I'll write down the times. I'll write down what they saw."
+
+"And I'll go to the lobby. I'll talk to the receptionist. I'll ask who came in and who went out. I'll write it down."
+
+"And Alex will talk to the staff. She will ask who was in the building. She will ask who had access. She will write it down."
+
+"We write it on paper. The leak can't change it. The leak can't erase it. The leak doesn't know we're writing it. And when we've the paper, we'll see the pattern. We will see who was in the building when Astra left. We will see who wasn't supposed to be there. We will see who was there and didn't need to be."
+
+Winn nodded. "I'll start now. I'll go to the guard station."
+
+"Go. I'll go to the lobby."
+
+---
+
+Kara went to the lobby.
+
+The receptionist was at the front desk, reading her book. Kara walked up to the desk and leaned on it.
+
+"Can I ask you something?" she said.
+
+The receptionist looked up. "If it's about the Wi-Fi, the password is on the sign."
+
+"It isn't about the Wi-Fi."
+
+"Then what's it about?"
+
+"It is about the night Astra was here. The night she left. I need to know who came in and who went out that night."
+
+The receptionist closed her book. "I wasn't here that night. I work days."
+
+"Who works nights?"
+
+"The guards. There are two of them. They rotate. I don't know which two were on that night."
+
+"Can you tell me who's on the night shift today? I can ask them who was on that night."
+
+"The guards are in the security room. Down the corridor, past the holding area, second door on the left."
+
+Kara nodded. "Thank you."
+
+She walked down the corridor, past the holding area, to the second door on the left. She knocked.
+
+"Come in," a voice said.
+
+She went in. The security room was small. It had a desk with monitors, a chair, and a counter with a coffee machine. Two guards sat at the desk. One was watching the monitors. One was reading a magazine.
+
+"I need to ask you about the night Astra left," Kara said.
+
+The guard watching the monitors looked at her. "I wasn't on that night."
+
+The guard reading the magazine looked up. "I was. I was on the night shift the night she left."
+
+"What time did you start?"
+
+"Eleven. I came in at eleven. I relieved the day guard. I was here until seven in the morning."
+
+"Did you see anything unusual that night?"
+
+"No. Everything was normal. The corridor was quiet. The holding area was quiet. I checked the cameras at midnight. Everything was green. I checked again at two. Everything was green. I checked again at four. Everything was green. I checked again at six. Everything was green."
+
+"Did anyone come into the building that night?"
+
+"Nobody came in. Nobody went out. The lobby was empty. The corridor was empty. The doors were locked. The cameras were green. I didn't see anything."
+
+"Did anyone call the tech room? Did anyone ask for access? Did anyone ask you to open a door?"
+
+"No. Nobody called. Nobody asked. Nobody opened anything. I was alone in the security room the whole night. The other guard was in the corridor. I didn't see him after midnight. He was checking the corridors. He came back at six. He said everything was fine."
+
+"What is his name?"
+
+"Which one? The one who was on the night shift with me, or the one who was checking the corridors?"
+
+"Both."
+
+"The one in the corridor was Marcus. The one at the desk was me. My name is Dana."
+
+"And Marcus. Where was he checking?"
+
+"He was checking the corridors. The holding area. The tech room. The lobby. The parking lot. He walked the building. He came back at six and said everything was fine."
+
+"Did you see him on the cameras while he was walking?"
+
+"I did. I saw him on the cameras. He walked the corridor. He walked the holding area. He walked the tech room. He walked the lobby. He walked the parking lot. He came back. I saw him on the cameras the whole time."
+
+"And the cameras were green the whole time?"
+
+"The cameras were green the whole time."
+
+Kara stood in the security room and thought.
+
+The cameras were green. The logs were clean. The footage was clean. The guards saw nothing. The receptionist saw nothing. Nobody came in. Nobody went out. And Astra was gone.
+
+"Thank you," Kara said. "Can you write down your name and Marcus's name and the times you were on duty? On a piece of paper."
+
+Dana looked at her. "You want me to write it on paper?"
+
+"Yes. Write it on paper. I'll take it with me."
+
+Dana pulled a notebook from under the counter. She wrote down her name, Marcus's name, and the times. She tore out the page and handed it to Kara.
+
+Kara took the paper. "Thank you."
+
+She walked out of the security room and went back to the tech room.
+
+---
+
+Winn was at his desk with his notebook open. He had written two pages of names and times.
+
+"I went to the guard station," he said. "I talked to the guards. I wrote down who was on duty, who was in the corridor, who was in the tech room, and who came in and went out. I've the names. I've the times."
+
+"I've the names too," Kara said. She set Dana's paper on Winn's desk. "The night guard saw nothing. The cameras were green. The logs were clean. Nobody came in. Nobody went out. And Astra is gone."
+
+"And the person who let her out is one of the people on this paper. Or the person who let her out is the person who wasn't on this paper and should have been."
+
+"Or the person who let her out is the person who made the cameras green and the logs clean and the footage clean. And that person is sitting at a desk in this building, doing their job, and doesn't know we're writing things on paper."
+
+Winn looked at the paper. "The paper is the only thing the leak can't change. The leak can change the computer. The leak can change the cameras. The leak can change the logs. The leak can't change a piece of paper in my hand."
+
+"And when we've enough paper, we'll see the pattern. We will see who was in the building when Astra left. We will see who wasn't supposed to be there. We will see who was there and didn't need to be."
+
+"And when we see the pattern, we'll know who the leak is."
+
+"And when we know who the leak is, we'll stop them."
+
+Kara looked at the paper. The names were written in neat handwriting. The times were written next to them. It was ordinary. It was simple. It was the kind of thing anybody could do.
+
+And it'd the thing the leak couldn't stop.
+
+---
+
+That evening, Kara went back to her apartment.
+
+Non was still at the kitchen table. He hadn't moved. His hands were still on the surface.
+
+"You found anything?" he asked.
+
+"We're writing things on paper," Kara said. "We're going through the guards, the staff, the people in the building. We're writing names and times on paper. The leak can't change paper."
+
+"The leak can't change paper. The leak can change everything else. The leak can change the computer, the cameras, the logs, the footage. The leak can't change a piece of paper in your hand. And the paper will show you the truth."
+
+"How do you know?"
+
+"Because I've been on both sides. I've been the person who controls the systems. I know what the systems can do. I know what they can hide. I also know what they can't hide. They can't hide a person. They can't hide a pattern. They can hide the record of a person. They can't hide the person themselves. You find the person by watching, not by reading. You find the pattern by writing it down, not by looking at a screen."
+
+Kara sat down across from Non. "You were a general. You controlled systems."
+
+"I did. And I used them. And I knew they weren't enough. A system is a tool. A tool is only as good as the person who holds it. And the person who holds the system can always be found by watching the person, not the system."
+
+"And you're sitting at my kitchen table telling me this."
+
+"I'm sitting at your kitchen table because your mother asked me to watch over you. And because I've been watching. And because I know what it's to be on the wrong side of a system. I know what it's to be hunted by the tools you built. And I know that the only way to find the person behind the tools is to step away from the tools and watch the people."
+
+Kara looked at Non. The lamp was on. The city lights were on outside the window. The apartment was quiet.
+
+"I don't trust you," she said.
+
+"I know."
+
+"I don't know if you're telling the truth. I don't know if you're working for Lord. I don't know if you're working for yourself. I don't know what you want."
+
+"I want to stop Lord. I want to stop him before he finishes building what he's building. I want to do what your mother asked me to do. I want to watch over you. I want to be useful instead of sitting in a forest fire waiting for you to come down."
+
+"And if I don't trust you?"
+
+"Then you don't trust me. And you watch me the same way you're watching the leak. You watch me with your eyes. You watch me with your ears. You watch me without the systems. And if I do something that isn't right, you'll see it. And if I don't, you'll see that too."
+
+Kara stood up. "I'm going to keep you here. I'm going to keep you here until I know the truth. And I'm going to find the leak. And I'm going to find Astra. And I'm going to stop Lord."
+
+"I'll stay here," Non said. "I'll wait. I'll be here when you come back."
+
+Kara turned and walked out of the kitchen. She went to the sofa and sat down.
+
+The television was off. The city lights came through the window and moved across the ceiling.
+
+She sat there. She thought about the paper on Winn's desk. She thought about the names and the times. She thought about the guards who saw nothing and the cameras that were green and the logs that were clean.
+
+She thought about Astra, walking out of the DEO with a Kryptonite dagger, into a city that didn't know she was there.
+
+She thought about the leak, sitting at a desk in the DEO, doing their job, feeding information to Lord, not knowing that somebody was writing things on paper.
+
+She thought about Lord, building something, using people, using systems, using Kryptonians, waiting for the right moment.
+
+And she thought about Non, sitting at her kitchen table, a Kryptonian general who fought against her mother, telling her to watch the people instead of the screens.
+
+She didn't know who to trust. She didn't know who the leak was. She didn't know where Astra was. She didn't know what Lord was building.
+
+She knew one thing. She was going to find them. All of them. With paper and with her eyes and with the people she trusted.
+
+She sat there. The night went on. The city went on outside the window.'''

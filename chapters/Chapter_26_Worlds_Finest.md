@@ -1,378 +1,497 @@
-# Chapter 23: Worlds Finest
+# Chapter 26: Worlds Finest
 
 *Episode: S01E18 - Worlds Finest*
 
 The morning after they spent all night together, Kara woke up before Adrian.
 
-His apartment was quiet in a way CatCo never is. No Keira where is my coffee, no Siobhan typing loud to prove she is typing, no James with contact sheets, no Winn with bagel that is actually peace offering. Just city through window open a little, tea from yesterday still on desk, and Adrian asleep on his side with band at wrist frayed.
+The sun came through the window and fell across the floor. The city had been going on outside since before she was awake. The traffic moved in the same direction it always moved.
 
-She watched him for a minute. Not as Supergirl watching a city, but as Kara watching someone who chooses ordinary every day. He had stayed awake while she slept safe, listening to city not using, pen not used, light not used. At 5 a.m. he had made tea. At 6 a.m. she had woken to tea waiting and book about sun closed again and mug back where it belonged next to magnet.
+She lay there. She looked at the ceiling. She listened to Adrian's breathing beside her. She listened to the city outside.
 
-She put on second jacket that was too big because it was there and because it was hers now, not because canon said so, but because she left it here two weeks after sun and he kept it.
-
-She made tea. She put chipped mug next to theater mask magnet, because that was where it belonged.
-
-He woke up at 7:12 a.m. to smell of tea and to her sitting at his small desk in his jacket too big, typing CatCo copy because Cat had texted at 6:45 a.m. "Keira where is my coffee and where is my second in command who spent all night somewhere else?"
-
-Kara showed him phone. He laughed, quiet.
-
-"You want to tell her you spent all night sharing and talking?" he asked.
-
-"I want to tell her I was with you," she said, clear. "I'm with Adrian. All night. We shared. Ordinary. If she asks, I will tell her. If she doesn't ask, I will still put mug back."
-
-He nodded. "Ordinary choice."
-
-They flew to work separately, because CatCo has eyes, but they walked in together, because CatCo also has eyes and they were not hiding anymore.
+She didn't move. She let the morning come.
 
 ---
 
-At CatCo, Siobhan was not at her desk.
+Adrian woke up. He opened his eyes. He looked at the window. He looked at Kara.
 
-Winn was. He looked at Kara, then at Adrian, then at Kara again in jacket that was not hers but was his, and his jaw did that thing it did since roof in November cold since sun since they leave together since magnet since text. He had told Kara he needed space. He was taking space, but space still hurts.
+"You are up," he said.
 
-"Hey," he said to Kara. "You okay after... after Falling? After bar? After peanuts?"
+"I'm up," Kara said.
 
-"I'm okay," Kara said. "Red Kryptonite. Synthetic. Max Lord made it trying to trap Non. Gone Horribly Wrong, doesn't weaken, affects minds, makes you progressively more aggressive. I nearly destroyed riverfront. Did I kill anyone? No. J'onn stopped me. Ice dome."
+"You woke up early."
 
-Winn nodded. "I heard. Alex told me. You spent all night... you were at Adrian's?"
+"I always wake up early."
 
-"Yes," Kara said, because agency shown via events, not hidden. "We shared and spent all night together. Talking. Sleeping. Ordinary. All night."
+"You woke up before me. That isn't the same as early."
 
-Winn looked at Adrian. Adrian looked at Winn. Adrian had texted Winn from hallway once before when Winn's heartbeat was irregular and Winn was bottling like his father bottled. He didn't text now. He just said, "If you want to talk, I'm in hallway if you need."
+"I woke up. That is all."
 
-Winn said, "Okay."
+Adrian sat up. He looked at the city through the window. "You are thinking about it."
 
-Cat came out at 9:30 a.m. and said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat, not second jacket, because second jacket was at Adrian's and would stay there.
+"I'm thinking about it."
 
-Cat looked at Kara and Adrian and said nothing about night. Cat knows when not to ask. She said, "We have a problem. Siobhan Smythe."
+"The parking lot. The figure. The tech room. The paper."
 
-Siobhan had been fired the day before, after trying to send a story about Supergirl being drunk at Noonan's to Daily Planet and after Cat had said "No, we keep her copy, she will be back." Siobhan had screamed, had thrown a plant, had said Cat would regret it.
+"The parking lot. The figure. The tech room. The paper. And the pattern. And Lord."
 
-Now Siobhan was on roof of CatCo, screaming, but not with voice. With something else.
+"You are going to watch again tonight."
 
-Kara heard it first. Not with super hearing, but with window rattling. She went to window. Siobhan was floating, in a new suit, white and black, hair wild, mouth open, and sound coming out that made glass crack.
+"I'm going to watch again tonight. At the same time. And I'll write it on paper."
 
-"Silver Banshee," Winn whispered, because Winn knows comics.
+"And you'll see who the figure meets. And you'll see who's in the tech room."
 
-Adrian was already moving, not as Wraith, as Adrian, putting mug down, because he had learned that sometimes putting mug down is first step of fight.
+"I'll see who the figure meets. And I'll see who's in the tech room. And I'll write it on paper."
 
-Kara said, "I got this," and went to roof.
+Adrian leaned back against the headboard. "You are close."
 
----
+"I'm close. I've the pattern. I've the paper. I've the names. I've the time and the description and the direction and the car. And I'm watching. And when I've enough, I'll use it. And I'll stop him."
 
-The fight was not like train or truck or bridge. It was sound.
+"And when you use it?"
 
-Siobhan — Banshee — screamed and Kara felt it in her teeth. She had learned to absorb momentum on takeoff after Fort Rozz, to roll shoulders and counter-rotate so windows below didn't shudder, but sound doesn't have momentum you can absorb. It has frequency.
+"And when I use it, I use all of it. The pattern. The paper. The names. Marcus. The ghost code. The parking lot. The figure. All of it. And I stop him."
 
-Kara tried freeze breath. Banshee screamed and ice shattered.
+"And I'll be with you," Adrian said.
 
-Kara tried to get close. Banshee screamed and Kara's ears rang and she had to cover them, and covering ears means not covering city.
+Kara looked at him. "You don't need to be with me. This is my work. This is my pattern. This is my fight."
 
-Adrian came up behind, not flying, running up stairs because stairs are ordinary and ordinary is sometimes faster than flying when you want to not be seen as Wraith.
+"I know. And I won't be in it. But I'll be with you before it and after it. And I'll be here when you come back. And I'll be here when you need to talk about it."
 
-He had brought ear protection, two pairs, because he had heard pen and not used it but had heard Siobhan's voice changing for weeks and had thought about it.
+Kara looked at him. He was ordinary. He was human-level. The band was at his wrist. He was the man who had built the seal to be ordinary. And he was sitting in her bed, telling her he would be here when she came back.
 
-He tossed one pair to Kara. She put them on. He put his on.
+"I know," she said. "I know you'll be here."
 
-Banshee screamed again. This time Kara could move through it. She got under Banshee, set feet, breathed once, and lifted her like beam at chemical plant, not to hurt, to hold.
+"I'll be here."
 
-"Stop," Kara said, but Banshee couldn't hear, or didn't want to.
+"Then I'll go. I'll go to the DEO. I'll watch the parking lot. I'll watch the back gate. I'll watch the tech room. And I'll write it on paper. And I'll come back."
 
-Then wind.
+"Come back when you've something."
 
-Not Kara's freeze breath. Different wind. Fast, red, with lightning.
-
-A man in red suit with lightning bolt ran up side of building, literally ran up side of building, and stopped next to Kara and said, "Hi! I'm Barry. Barry Allen. I'm The Flash. Are you Supergirl? Cool! I have heard about you. From... from somewhere else. Multiverse is weird. Anyway, you need help with screaming lady?"
-
-Kara stared. Adrian stared. Winn, from window below, stared and said, "Whoa."
-
-Barry Allen was fast. Not supersonic fast like Kara, but different fast. He vibrated. He talked fast. He thought fast.
-
-"Okay, so sound is vibration, right? So if we vibrate opposite, we cancel? Like noise cancelling headphones but with people?" Barry said, already moving. "I can run around her really fast and create vacuum? Or you can clap really hard? Supersonic clap?"
-
-Kara said, "I can try."
-
-Adrian said, "Don't clap near building, windows will shatter. Absorb momentum, counter rotate, aim up."
-
-Kara nodded. She had learned that since Fort Rozz mess, since train, since bridge. She set feet, rolled shoulders, and clapped, not at Banshee, but above Banshee, aiming up, absorbing momentum into own frame so city below didn't feel it, counter rotation so building didn't sway.
-
-The clap was loud. Louder than Banshee. Air bent. Light bent around edge of clap, light ordinary choice share but now used because needed.
-
-Banshee's scream cancelled for a second. In that second, Barry ran, fast, around Banshee, creating wind that pushed her back, not hurt, just pushed.
-
-Kara caught her. Not as Supergirl catching villain, but as Kara catching coworker who had been fired and was angry and had found something that made anger loud.
-
-She set Siobhan down on roof, gentle, and held her wrists, not hard, just there.
-
-"Hey," Kara said, taking ear protection off one ear. "It's me. Kara. From CatCo. You don't have to scream."
-
-Siobhan screamed again, but smaller. Tears now.
-
-"I was good," Siobhan said, voice raw. "I was good and she fired me and you were always good and you got to stay and you got boyfriend and I got nothing."
-
-Kara said, "I know. I was angry too. Just Red Kryptonite made me so angry I nearly destroyed riverfront. I wore awful dress and demanded awe and worship and shattered bottles with peanuts. I know angry."
-
-Siobhan cried. The suit flickered. The scream stopped.
-
-Barry Allen stood there, vibrating slightly, saying, "Wow, that worked. Teamwork! Worlds finest!"
-
-Adrian came over, still with ear protection around neck, and put hand on Kara's shoulder, not big, not showy, just there.
-
-"You okay?" he asked, quiet you okay at end, because he asks that after fights, not because he has to, but because he wants to.
-
-"Yes," Kara said. "We are okay. All of us."
+"I'll come back when I've something."
 
 ---
 
-Later, at DEO, Barry Allen explained multiverse. He had come through breach, chasing someone, ended up here, National City but not his National City, Earth-38 but not Earth-1, tachyon device, etc. He talked fast. Alex tried to keep up. J'onn, still not as Hank, now as himself openly since Manhunter, listened and said, "You are fast. But not as fast as you think."
+She drove to the DEO. She went to Alex's office.
 
-Barry laughed. "I get that a lot."
+Alex was at her desk with her notebook open. She had written six pages of names and times. She looked up when Kara came in.
 
-Kara and Adrian sat together in back, because they had stayed together sharing and now they sat together in briefing room sharing again, ordinary.
+"You are going to watch again tonight," Alex said.
 
-Barry looked at them and said, "Oh, you two are together? Cool! You look good together. Like... like you share and stayed together kind of good. I can tell. I am fast, I notice fast."
+"I'm going to watch again tonight," Kara said. "At the same time. And I'll write it on paper."
 
-Kara blushed, because she is with Adrian since roof in November cold since sun since mug since magnet since text, and she is not hiding.
+"And you'll see who the figure meets. And you'll see who's in the tech room."
 
-"Yes," she said. "We are with each other. All night. We shared."
+"I'll see who the figure meets. And I'll see who's in the tech room. And I'll write it on paper."
 
-Adrian said, "We are."
+"And you'll be careful."
 
-Barry said, "Awesome! My girlfriend is Iris. She is... she is great. She makes me want to be ordinary too sometimes. Even though I can run up buildings."
+"I'll be careful. I'll watch from the corridor. I'll watch from the dark. I won't be seen by the person who comes to the parking lot. Because the person who comes to the parking lot comes at one-forty in the morning. And at one-forty in the morning, the building is quiet. And I'll be in the corridor, watching. And the person won't know I'm watching."
 
-Adrian nodded. "choice."
+"Good. Go to the tech room first. Check who's in the tech room. Write down who's there and who isn't. Then go to the corridor. Watch the parking lot. Watch the back gate. Write it on paper. And come back."
 
-Later, Barry helped them with Livewire and Banshee team-up, because Siobhan, after being caught, had been put in cell next to Leslie Willis who was still angry about being Livewire and they had decided to team up because angry women teaming up is not new, but two superpowered angry women teaming up is problem.
+"I'll."
 
-The fight was at power plant. Livewire with electricity, Banshee with sound, together making something that could hurt city.
+Kara turned and walked out. She went to the tech room.
 
-Kara and Barry ran and flew together. Barry fast, Kara supersonic absorbing momentum counter rotate, Adrian on ground as Wraith this time because public naming fallout while civilian ID protected, masked anonymous after freeway train requires public naming fallout while civilian ID protected, Wraith light evac lift beam car choice share catch Kara quiet you okay.
+---
 
-They won. Not because they were strongest, but because Barry ran around Livewire creating vacuum so electricity had nowhere to go, and Kara clapped above Banshee again, aiming up, absorbing momentum, and Adrian lifted beam car choice share to evac workers.
+She walked through the door of the tech room and looked at the desks.
 
-After, Barry had to go back to his Earth. He hugged Kara, fast, and said, "You are good Supergirl. You nearly destroyed city after Red Kryptonite and you asked Did I kill anyone first thing. That shows who you are. Thou Shalt Not Kill."
+Winn was at his desk. Two tech team members were at their desks. The fourth desk was empty.
 
-Kara said, "Thank you. You are good Flash. You run up buildings."
+She walked to the fourth desk. She looked at the computer. She looked at the monitor. She looked at the keyboard.
 
-Barry laughed and vibrated and was gone, breach closing.
+"Miller sat here," she said.
 
-At CatCo next morning, Cat said, "Keira, where is my coffee?" and Kara brought it and Cat said, "I saw news. Worlds finest. You and fast boy. Good. You looked less angry than when you were in slinky dress demanding worship. You looked like you spent all night somewhere good."
+"Miller sat here," Winn said. "For three years. He knew the systems. He had admin access. He created codes. He changed codes. He deleted codes. And he left three months ago."
 
-Kara said, "I spent all night with Adrian. We shared. Talking. Sleeping. Ordinary."
+"And the ghost code is still in the system."
 
-Cat said, "Good. Keep him. He puts mug back."
+"And the ghost code is still in the system. And the figure has been using it to open the back gate."
 
-Kara smiled, because Cat doesn't give compliments often, and when she does they are about mug.
+"And the figure comes at one-forty in the morning."
 
-At night, they shared again. Not because they had to, but because they wanted to. Talking. Sleeping. Ordinary. All night. Second night in a row.
+"And the figure comes at one-forty in the morning. And the figure goes through the back gate. And the figure walks to the corridor. And the figure walks toward the tech room. And the figure comes back at two-fifteen. And the figure leaves."
 
-He asked, "Do you want light or dark?"
+"And tonight I'll watch. And I'll see who the figure meets. And I'll see who's in the tech room when the figure comes."
 
-She said, "Dark but with window open a little. I like hearing city."
+"And you'll write it on paper," Winn said.
 
-He opened window a little. City came in, distant, not demanding worship.
+"And I'll write it on paper. The paper is the only thing the leak can't change. The leak created the ghost code. The leak changed the creation log. The leak can't change a piece of paper in my hand."
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, pen not used, light not used, choice every day.
+"And when you've enough, you'll use it."
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged next to magnet, book closed again, jacket behind door, blue toothbrush by sink, ordinary, all night shared again.
+"And when I've enough, I'll use it. I'll use the pattern. I'll use the paper. I'll use the names. I'll use all of it. And I'll stop him."
 
+"And I'll be here," Winn said. "When you come back. I'll be here. And Alex will be here. And we'll use it together."
 
+"I know," Kara said. "I know you'll be here."
 
-The next day, Barry was still there, because breach didn't open right away. He stayed at DEO, because DEO has cots, and he talked fast even in sleep.
+She turned and walked out of the tech room.
 
-Alex liked him because he was fast and didn't pretend to be slow. J'onn liked him because he was fast and still chose to sit and listen. Kara liked him because he was fast and still asked before hugging.
+She walked down the corridor. She stopped at the holding area. She looked through the glass at the empty cell. The bed was empty. The floor was clean. The door was open. The panel was open.
 
-Adrian liked him because Barry asked about tea.
+Miller had sat at the desk in the tech room. Miller had created the ghost code. The figure used the ghost code to open the back gate. Marcus walked the corridor. And Astra walked out.
 
-"Do you make tea?" Barry asked Adrian at 2 a.m. when everyone else was trying to sleep and Barry was still vibrating.
+And Miller was gone. And Marcus was still here. And the figure was still coming. And we didn't know who the figure was.
 
-"Yes," Adrian said. "I make tea. I put mug back."
+Kara walked past the holding area and went to the corridor that overlooked the parking lot.
 
-"Cool! I make coffee but I make it too fast and it spills. Iris says I need to learn to be slow," Barry said. "How do you be slow when you can be fast?"
+She sat on the bench. She turned off the light. She sat in the dark. She looked through the window at the parking lot below.
 
-Adrian thought. He had destroyed city after parents died even though affected red sun completely. He had been caught exhausted. He had built device himself ordinary. He had learned to hear pen and not use it, to feel light bend and choose to lift like person.
+The parking lot was empty. The back gate was closed. The street beyond the gate was quiet. The city was a few blocks away, its lights visible in the distance.
 
-"You choose," Adrian said. "Every day. You choose ordinary. Even when you can be more. That shows strong willpower."
+She sat there. She waited.
 
-Barry nodded fast. "I like that. choice. I will tell Iris."
+---
 
-At 3 a.m., Livewire and Banshee broke out. Not because DEO is bad at cells, but because Livewire is electricity and electricity finds way, and Banshee is sound and sound finds crack.
+The corridor was quiet. The building was quiet. The parking lot was quiet. The clock on the wall said one-fifteen.
 
-Alarm went. Kara was already moving, but she was in jacket, not suit, because she had spent all night with Adrian and was still in his apartment when alarm came.
+She waited.
 
-She flew, supersonic, absorbing momentum so building didn't shake, counter rotation so windows didn't shudder, ninety seconds to power plant where Livewire and Banshee were standing on roof holding hands like they were worlds finest too but evil.
+At one-thirty, a car pulled up on the street beyond the back gate. It stopped. It didn't turn into the parking lot. It parked on the shoulder. The lights went off. The car sat in the dark.
 
-Barry ran, fast, up side of building, literal, and said, "Hi again! We need to stop meeting like this!"
+Kara watched. She didn't move. She didn't look away from the window.
 
-Livewire shot electricity. Barry dodged, because fast.
+At one-forty, the driver's door opened. A figure got out. It looked at the back gate. It walked toward it. It took out a key or a code and the gate opened.
 
-Banshee screamed. Kara covered ears for second, then remembered ear protection Adrian had brought yesterday, still in pocket, put them on, tossed other pair to Barry who put them on fast.
+The figure went through the gate and into the parking lot. It walked to the door to the corridor. It stopped at the door. It looked at the door. It looked at the corridor.
 
-Kara clapped above, aiming up, absorbing momentum, air bent, light bent, sound cancelled for second. In that second, Barry ran around Livewire creating vacuum, electricity nowhere to go, Livewire sputtered.
+Kara sat in the dark. She didn't move. She didn't breathe loudly. She watched.
 
-Adrian, as Wraith, masked anonymous after freeway train requires public naming fallout while civilian ID protected, came from side, not flying, running, because choice share catch quiet you okay, and lifted beam that Livewire had thrown, choice, to evac workers below.
+The figure went to the door. It opened it. It went in. It walked down the corridor, away from Kara. It walked toward the tech room.
 
-They caught them. Not by being strongest, but by being team. Worlds finest means two worlds, two speeds, one choice to not hurt if not needed.
+Kara waited. She waited until the figure was gone. She wrote down the time. She wrote down the description. She wrote down the direction.
 
-After, at DEO, Barry said, "You two are good team. You share and stayed together and then you fight together. That's cool. That's like... that's like you trust each other."
+She waited.
 
-Kara said, "We do. We spent all night sharing. Talking. Sleeping. Ordinary. Two nights now."
+She waited ten minutes. The corridor was quiet. The building was quiet. The tech room was quiet.
 
-Adrian said, "Three if you count night after Falling."
+She stood up. She walked to the tech room. She looked through the window in the door.
 
-Kara smiled. "Three."
+The tech room was dark. The desks were empty. The monitors were off. The fourth desk was empty.
 
-Barry said, "I want three nights with Iris but I have to go back and stop Zoom. Zoom is... Zoom is bad. Like Non bad but fast."
+The figure wasn't in the tech room.
 
-J'onn said, "You will stop him. You are fast. But you will need to choose ordinary after."
+Kara went back to the corridor. She sat on the bench. She turned off the light. She sat in the dark. She looked through the window at the parking lot below.
 
-Barry hugged everyone fast and vibrated and opened breach with tachyon device and was gone.
+She waited.
 
-That night, Kara and Adrian shared again. Fourth night.
+At two-fifteen, the figure came back. It walked down the corridor, toward the parking lot. It went to the door. It went out. It walked to the car. It got in. It drove away.
 
-She asked, "Do you ever get tired of me spending all night?"
+Kara watched. She wrote down the time. She wrote down the direction. She wrote down the car.
 
-He said, "No. I want you to stay if you want to stay."
+She sat in the dark. She looked at the paper in her hand.
 
-"I want," she said.
+The time. The description. The direction. The car.
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day, tea waiting at 6 a.m., mug back, ordinary, all night shared.
+And the figure went to the tech room. And the tech room was dark. And the tech room was empty. And the figure didn't go into the tech room. And the figure came back and left.
 
-At CatCo next morning, Cat said, "Keira, where is my coffee?" and Kara brought it and Cat said, "Worlds finest yesterday. You and fast boy and screaming girl and electric girl. Good. You looked less tired than after Falling. You looked like you slept somewhere good."
+And the figure went to the tech room and didn't go in.
 
-"I slept at Adrian's," Kara said, clear, agency via events. "We shared all night. Talking. Sleeping. Ordinary. Four nights now."
+And the figure met someone.
 
-Cat said, "Good. Keep him. He puts mug back next to magnet. I noticed."
+And Kara didn't see who.
 
-Kara smiled, because Cat noticing mug is Cat noticing love.
+---
 
-At night, fifth night, they shared again. Talking. Sleeping. Ordinary. All night.
+She went to Alex's office.
 
+Alex was at her desk. She looked up when Kara came in.
 
-At DEO, Alex was filing report about worlds finest. She wrote: Barry Allen alias Flash from Earth-1 breach tachyon device fast runs up buildings vibrates opposite sound cancellation vacuum Livewire electricity nowhere, Supergirl supersonic absorbing momentum counter rotation clap above aiming up air bent light bent, Wraith evac lift beam choice share catch quiet you okay, teamwork not strongest but team.
+"I watched again," Kara said. "The figure came at one-forty. It went through the back gate. It walked toward the tech room. It went to the tech room. The tech room was dark. The tech room was empty. The figure didn't go in. The figure came back at two-fifteen. It left."
 
-J'onn read it and said, "You forgot to write they stayed together."
+"And the figure met someone," Alex said.
 
-Alex said, "I didn't forget. I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back next to magnet. Four nights now. Five tonight."
+"And the figure met someone. In the corridor. Or at the door. Or somewhere between the parking lot and the tech room. And I didn't see who. Because I was in the corridor watching the parking lot. And the figure was in the corridor walking toward the tech room. And I couldn't see both at the same time."
 
-J'onn nodded. "Good. You will need that notes when Lane comes back."
+"And you'll watch again."
 
-Lane did come back, next day, with papers. He wanted J'onn. He wanted Flash. He wanted Supergirl's boyfriend who works at CatCo and makes tea and puts mug back.
+"I'll watch again. Tomorrow night. At the same time. And I'll watch the parking lot and the corridor and the tech room door. And I'll see who the figure meets."
 
-Kara stood in front of Adrian at DEO, not because Adrian needed protecting, but because she wanted to stand in front, because agency shown via events, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because she chooses who to stand in front of.
+"And you'll write it on paper."
 
-She said to Lane, "He works at CatCo. He makes tea. He puts mug back. He is not your paper."
+"And I'll write it on paper. The paper is the only thing the leak can't change. The leak created the ghost code. The leak changed the creation log. The leak can't change a piece of paper in my hand."
 
-Lane said, "We have reports he is Wraith."
+Alex leaned back. "You are close. You have the pattern. You have the paper. You have the names. You have the time and the description and the direction and the car. You have the figure going to the tech room and coming back. You are one step from finding out who the figure meets. And when you find out who the figure meets, you'll have the person behind Marcus. And you'll have the person behind the leak. And you'll have the person behind Lord."
 
-Adrian said, "Wraith is masked anonymous after freeway train requires public naming fallout while civilian ID protected. Civilian ID protected. You don't have proof."
+"And when I've them, I use it. I use all of it. And I stop him."
 
-It was true. Wraith light evac lift beam car choice share, but masked, anonymous, public naming fallout while civilian ID protected. Cat didn't know private monitor nor James secret, private means private, only Keira where is coffee allowed. Same for Adrian.
+"And you use all of it. You use the pattern. You use the paper. You use the names. You use Marcus. You use the ghost code. You use the parking lot. You use the figure. You use the person the figure meets. You use all of it. And you stop him."
 
-Lane left with no papers signed.
+Kara looked at the paper in her hand. The time. The description. The direction. The car. It was all there. It was all on paper. And the leak couldn't stop it.
 
-That night, sixth night, they shared again. Talking about Lane, about J'onn, about Barry, about Siobhan who was now in cell but not screaming, about Leslie who was still angry but less, about Cat who noticed mug.
+"I'll watch again tomorrow," she said.
 
-Kara said, "Do you think we will always spend all night together?"
+"Watch again tomorrow. At the same time. And write it on paper. And come back."
 
-Adrian said, "If you want. I want if you want."
+"I'll."
 
-"I want," she said.
+Kara turned and walked out.
 
-She fell asleep first, in jacket too big that was his but now hers, with toothbrush blue by sink that was hers but now his, with mug back, with book about sun closed again, with window open a little hearing city distant not demanding worship.
+---
 
-He stayed awake a little longer, listening to city not using, choosing ordinary every day, because just Red Kryptonite made Kara so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone, vs he destroyed city after parents death even though affected red sun completely built device himself ordinary shows strong willpower.
+She went back to her apartment.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back, ordinary, all night shared sixth night.
+Non was at the kitchen table. He looked up when she came in.
 
-At CatCo, Winn came over and put bagel on her desk without comment. James left contact sheet face-down of Barry running up building, not of her in black suit, but of worlds finest teamwork.
+"You watched again," he said.
 
-Adam Foster came by with coffee for everyone because he heard about worlds finest and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+"I watched again," Kara said. She sat down across from him. "The figure came at one-forty. It went through the back gate. It walked toward the tech room. It went to the tech room. The tech room was dark. The tech room was empty. The figure didn't go in. The figure came back at two-fifteen. It left."
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day, and how much stronger that made Adrian's willpower than any synthetic red dust ever could, and how good it feels to share and spend all night together ordinary talking sleeping.
+"And the figure met someone."
 
-Kara texted Alex at 10 p.m.: "Staying at Adrian's again. Sixth night. We shared all night. Ordinary."
+"And the figure met someone. In the corridor. Or at the door. Or somewhere between the parking lot and the tech room. And I didn't see who. Because I was in the corridor watching the parking lot. And the figure was in the corridor walking toward the tech room. And I couldn't see both at the same time."
 
-Alex texted back: "Good. Stay. You get to have ordinary. Tomorrow Myriad."
+"And you'll watch again."
 
-Kara texted James: "Sorry again about wrist. Red. Not me."
+"I'll watch again. Tomorrow night. At the same time. And I'll watch the parking lot and the corridor and the tech room door. And I'll see who the figure meets."
 
-James texted back: "I know. You spent all night with Adrian. Good. You look better."
+"Good. The paper is the tool that the leak can't control. The leak created the ghost code. The leak changed the creation log. The leak can't change a piece of paper in your hand."
 
-Kara texted Winn: "Thank you for bagel."
+Kara leaned back in her chair. "I'm one step from finding out who the figure meets. And when I find out, I'll have the person behind Marcus. And the person behind the leak. And the person behind Lord."
 
-Winn texted back: "You welcome. You and Adrian share all night. Good. I am learning to be okay."
+"And when you've them, you use it. You use all of it. And you stop him."
 
-Kara put phone down and looked at Adrian typing at small desk, soft shirt, band at wrist frayed, lean and balanced not bulky bulk is not power, control is power.
+"And when I use it, I use all of it. The pattern. The paper. The names. Marcus. The ghost code. The parking lot. The figure. The person the figure meets. All of it. And I stop him."
 
-"Are you coming?" she asked.
+"And you aren't alone," Non said. "You have Alex. You have Winn. You have Adrian. You have the paper. You have the pattern. You have the names. You aren't alone."
 
-"Yes," he said. "If you want."
+"I know," Kara said. "I know I'm not alone."
 
-"I want," she said.
+"And I'm here," Non said. "I'm at your table. I'm not going to Lord. I'm not going to the DEO. I'm staying here. And I'll stay here until you and Alex tell me to leave. And then I'll go the way I came. I'll go to you first. I'll tell you where I'm going. And I'll wait there until you need me again."
 
-They shared seventh night. All night. Ordinary.
+"I know," Kara said. "I know you're here."
 
+"I'm here."
 
-Later, when city was quiet and DEO was quiet and CatCo was quiet and even Winn's games were quiet, Kara and Adrian sat on floor of his apartment, because couch too soft and table too hard and floor just right for talking all night.
+Kara went to the sofa and sat down.
 
-She told him about Krypton again, not big story, small story, about how her cousin Clark used to try to make tea and always forgot water, like she does at CatCo, and how her aunt used to laugh and say forgetting water is family trait.
+The television was off. The city lights moved across the ceiling.
 
-He told her about his father, not influential house part, but part where father used to try to fix things and break them more and mother would hum and fix both.
+She sat there. She thought about the figure in the parking lot. She thought about the tech room. She thought about the person the figure met. She thought about the paper in her hand.
 
-She told him about beautiful actress mother/sister figure who helped her when she arrived, sealed power visits, Kara misunderstands romantic but actually mother/sister figure, Earth friend who helped Adrian arrival sealed power.
+She thought about Lord, building his story, waiting for his moment.
 
-He told her about arriving, about being scared power would slip and hurt someone, about building device himself choice not because someone told him but because he wanted to.
+She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
 
-At midnight, she said, "Do you think Barry will be okay with Zoom?"
+She knew one thing. She had the pattern. She had the paper. She had the names. She was one step from finding out who the figure met. And when she found out, she would have the person behind Marcus. And the person behind the leak. And the person behind Lord. And she would use all of it. And she would stop him.
 
-He said, "Yes. He chooses ordinary after fast. That shows strong willpower."
+She sat there. The night went on. The city went on outside the window.
 
-At 1 a.m., she said, "Do you think J'onn will be okay with Lane?"
+---
 
-He said, "Yes. He has been Hank for ten years. He knows how to be ordinary when needed. 317 years old can wear any face speak languages your mouth can't form you know nothing about me, but chooses to be Hank."
+The next night, Kara went back to the corridor that overlooked the parking lot.
 
-At 2 a.m., she said, "Do you think Siobhan will be okay?"
+She sat on the bench. She turned off the light. She sat in the dark. She looked through the window at the parking lot below.
 
-He said, "She was good and got fired and got loud. She needs to learn to be ordinary after loud. Like you after Red."
+The parking lot was empty. The back gate was closed. The street beyond the gate was quiet. The city was a few blocks away, its lights visible in the distance.
 
-At 3 a.m., she fell asleep on floor, head on his shoulder, jacket too big as blanket, toothbrush blue waiting by sink for morning, mug back for morning, book closed for morning, window open a little hearing city distant for morning.
+She waited.
 
-He stayed awake a little longer, listening to city not using, choosing ordinary every day, tea waiting at 6 a.m., all night shared seventh night.
+At one-thirty, the car pulled up on the street beyond the back gate. It parked on the shoulder. The lights went off. The car sat in the dark.
 
+At one-forty, the driver's door opened. The figure got out. It walked to the back gate. It went through. It walked to the door to the corridor. It stopped at the door. It looked at the door. It looked at the corridor.
 
+Kara sat in the dark. She watched.
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+The figure went to the door. It opened it. It went in. It walked down the corridor, away from Kara. It walked toward the tech room.
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+Kara waited. She wrote down the time. She wrote down the description. She wrote down the direction.
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+She stood up. She walked to the end of the corridor. She looked down the corridor toward the tech room.
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+The figure was ahead of her. It was walking toward the tech room. And in front of the figure, at the door to the tech room, someone was standing.
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+Kara stopped. She stood in the dark. She watched.
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+The figure reached the door to the tech room. The person standing there opened the door. The figure went in. The person went in after it. The door closed.
 
-Both had learned control shows strong willpower.
+Kara stood in the dark. She watched the door. She wrote down the time. She wrote down the description of the person standing at the door.
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+She waited. She waited ten minutes. She waited fifteen.
 
-She asked, "Do you think we will always stay together?"
+The door to the tech room opened. The figure came out. The person came out after it. They walked down the corridor, toward the parking lot. They went to the door. They went out.
 
-He said, "If you want. I want if you want."
+Kara watched. She wrote down the time. She wrote down the direction. She wrote down the description of the person.
 
-"I want," she said.
+She sat on the bench. She looked at the paper in her hand.
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+The figure. The person at the door. The description of the person.
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+And the person at the door was someone Kara knew.
 
-At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+---
 
-J'onn read report and said, "You forgot to write they stayed together."
+She went to Alex's office.
 
-Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+Alex was at her desk. She looked up when Kara came in.
 
-J'onn nodded. "Good."
+"I saw who the figure met," Kara said. She set the paper on Alex's desk.
 
+Alex read it. She read it again. She looked up at Kara.
+
+"You saw who it'd," she said.
+
+"I saw who it'd," Kara said. "The figure met someone at the door to the tech room. The person opened the door. The figure went in. The person went in after it. And I saw the person. And I know who the person is."
+
+"And who's it?"
+
+"It is someone in the building. Someone who has access to the tech room. Someone who has admin access. Someone who can create a code and change a log. Someone who has been in the building the whole time. Someone who has been doing their job and feeding information to Lord."
+
+"And who?"
+
+"It is someone we trusted. Someone who has been part of this from the beginning. Someone who has been sitting at a desk in the tech room, doing their job, and working for Lord."
+
+Alex looked at the paper. She looked at Kara. "You have the name."
+
+"I've the name. And I've it on paper. And the leak can't change paper."
+
+"And you'll use it," Alex said. "You will use the pattern. You will use the paper. You will use the names. You will use Marcus. You will use the ghost code. You will use the parking lot. You will use the figure. You will use the person at the door. You will use all of it. And you'll stop him."
+
+"And we'll use it together," Kara said. "You. Me. Winn. Adrian. The paper. The pattern. The names. All of it. Together. And we'll stop him."
+
+"We will stop him," Alex said.
+
+Kara turned and walked out.
+
+She went back to her apartment.
+
+Non was at the kitchen table. He looked up when she came in.
+
+"You found who the figure met," he said.
+
+"I found who the figure met," Kara said. She sat down across from him. "The figure met someone at the door to the tech room. And I saw the person. And I know who the person is. And the person is someone in the building. Someone who has access. Someone who has admin access. Someone who has been working for Lord the whole time."
+
+"And the person is the leak."
+
+"And the person is the leak. And I've the name. And I've it on paper. And the leak can't change paper."
+
+"And you'll use it," Non said. "You will use the pattern. You will use the paper. You will use the names. You will use all of it. And you'll stop him."
+
+"And I'll use it with Alex and Winn and Adrian. Together. And we'll stop him."
+
+"You aren't alone," Non said. "You have Alex. You have Winn. You have Adrian. You have the paper. You have the pattern. You have the names. You aren't alone. And you'll stop him."
+
+"I know," Kara said. "I know I'm not alone. And I'll stop him."
+
+She went to the sofa and sat down.
+
+The television was off. The city lights moved across the ceiling.
+
+She sat there. She thought about the figure. She thought about the person at the door. She thought about the name on the paper. She thought about the pattern. She thought about the paper. She thought about the names.
+
+She thought about Lord, building his story, waiting for his moment.
+
+She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
+
+She knew one thing. She had the pattern. She had the paper. She had the names. She had the name of the leak. And she had the people she trusted. And she would use all of it. And she would stop him.
+
+She sat there. The night went on. The city went on outside the window.
+
+The chipped mug sat on the desk beside the magnet, holding its corner the way it always did.
+
+---
+
+The next morning, Kara arrived at CatCo at eight.
+
+She walked through the lobby. The bullpen was quiet. Winn was at his desk. James was at his desk. The receptionist was at the front desk. Adrian was at his desk.
+
+She sat down and opened her email.
+
+At nine, Cat called her into the office.
+
+"You have something," Cat said.
+
+"I've something," Kara said. "I watched the parking lot again last night. The figure came at one-forty. It went through the back gate. It walked toward the tech room. And at the door to the tech room, someone was standing. That person opened the door. The figure went in. The person went in after it. And I saw the person. And I know who the person is."
+
+"And who's it?"
+
+"It is someone in the building. Someone who has access to the tech room. Someone who has admin access. Someone who can create a code and change a log. Someone who has been in the building the whole time. Someone who has been doing their job and feeding information to Lord."
+
+"And the name is on paper."
+
+"And the name is on paper. And the leak can't change paper."
+
+"And you'll use it," Cat said. "You will use the pattern. You will use the paper. You will use the names. You will use all of it. And you'll stop him."
+
+"And I'll use it with Alex and Winn and Adrian. Together. And we'll stop him."
+
+"Good. Go to the DEO. Talk to Alex. Talk to Winn. Make the plan. And when you're ready, you use it. And you stop him."
+
+"I'll."
+
+Kara left Cat's office and went to the elevator.
+
+---
+
+She drove to the DEO. She went to Alex's office.
+
+Alex was at her desk with her notebook open. The notebook had the names and the times and the pattern. She looked up when Kara came in.
+
+"You have the name," Alex said.
+
+"I've the name," Kara said. She sat down. "The figure met someone at the door to the tech room. I saw the person. I know who the person is. And the person is the leak. And the person has been working for Lord the whole time."
+
+"And the name is on paper."
+
+"And the name is on paper. And the leak can't change paper."
+
+"And we'll use it," Alex said. "We will use the pattern. We will use the paper. We will use the names. We will use Marcus. We will use the ghost code. We will use the parking lot. We will use the figure. We will use the person at the door. We will use all of it. And we'll stop him."
+
+"And we'll use it together," Kara said. "You. Me. Winn. Adrian. The paper. The pattern. The names. All of it. Together. And we'll stop him."
+
+"We will stop him," Alex said. "And we'll do it carefully. We won't go to Lord. We won't go to the person. We won't make a move that lets them know we know. We will hold the pattern. We will hold the paper. We will hold the names. And we'll wait for the right moment. And then we'll use it. All of it. And we'll stop him."
+
+"And when is the right moment?"
+
+"The right moment is when Lord makes his move. He has been building his story. He has been building the pressure. He has been building the attention. He will act when he's ready. And when he acts, he'll leave a trail. And we'll have the pattern. We will have the paper. We will have the names. And we'll use all of it. And we'll stop him."
+
+Kara looked at the notebook on Alex's desk. The names. The times. The pattern. The name of the leak. It was all there. It was all on paper. And the leak couldn't stop it.
+
+"I'll hold," she said. "I'll hold the pattern. I'll hold the paper. I'll hold the names. And I'll wait for the right moment. And then I'll use it. All of it. And I'll stop him."
+
+"We will hold," Alex said. "We will hold together. And when the moment comes, we'll use it together. And we'll stop him together."
+
+"We will stop him together."
+
+Kara turned and walked out.
+
+---
+
+That evening, Kara went back to her apartment.
+
+Non was at the kitchen table. He looked up when she came in.
+
+"You have the name," he said.
+
+"I've the name," Kara said. She sat down across from him. "The figure met someone at the door to the tech room. I saw the person. I know who the person is. And the person is the leak. And I've the name on paper. And the leak can't change paper."
+
+"And you'll use it," Non said. "You will use the pattern. You will use the paper. You will use the names. You will use all of it. And you'll stop him."
+
+"And I'll use it with Alex and Winn and Adrian. Together. And we'll stop him."
+
+"You aren't alone," Non said. "You have Alex. You have Winn. You have Adrian. You have the paper. You have the pattern. You have the names. You aren't alone. And you'll stop him."
+
+"I know," Kara said. "I know I'm not alone. And I'll stop him."
+
+"And you'll wait for the right moment," Non said. "You will hold the pattern. You will hold the paper. You will hold the names. And you'll wait for Lord to make his move. And when he does, you'll use all of it. And you'll stop him."
+
+"And I'll wait," Kara said. "I'll hold. And I'll wait. And when the moment comes, I'll use it. All of it. And I'll stop him."
+
+"And I'll stay here," Non said. "I'll wait with you. I won't leave. I won't call. I won't go out. I'll stay here until you and Alex tell me to leave. And then I'll go the way I came. I'll go to you first. I'll tell you where I'm going. And I'll wait there until you need me again."
+
+"I know," Kara said. "I know you're here."
+
+Kara went to the sofa and sat down.
+
+The television was off. The city lights moved across the ceiling.
+
+She sat there. She thought about the figure. She thought about the person at the door. She thought about the name on the paper. She thought about the pattern. She thought about the paper. She thought about the names.
+
+She thought about Lord, building his story, waiting for his moment.
+
+She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
+
+She knew one thing. She had the pattern. She had the paper. She had the names. She had the name of the leak. And she had the people she trusted. And she would use all of it. And she would stop him.
+
+She sat there. The night went on. The city went on outside the window.'''

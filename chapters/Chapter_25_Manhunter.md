@@ -1,347 +1,419 @@
-# Chapter 22: Manhunter
+# Chapter 25: Manhunter
 
 *Episode: S01E17 - Manhunter*
 
 Kara didn't go back to her apartment right after the DEO let her go.
 
-The med bay had been quiet, the blanket too thin, the lights too white. Alex had filed the report about synthetic red Kryptonite, J'onn had gone back to being Hank because the DEO still needed Hank, and Maxwell Lord was still talking about lattice structures to a guard who didn't understand. She had texted James and Winn and Adam and gotten back careful answers, the kind people give when they are not sure if you are still you.
+She drove to CatCo. She walked through the lobby and went to her desk. She sat down and opened her email. She looked at the screen. She didn't read any of it.
 
-She called Adrian from the hallway outside the med bay. The same hallway where he had texted her from at 3:04 p.m. during the worst of it, heartbeat irregular, are you okay, I'm in hallway if you need.
+Adrian was at his desk across the bullpen. He was typing. He didn't look up.
 
-"Can you come get me?" she said. "Not fly. Just... come get me. I want ordinary."
+"You did a hard thing today," he said.
 
-He was there in twenty minutes. Not as Wraith. As Adrian, soft shirt, band at his wrist, coat that was too big for him but not bulky, lean and balanced. He didn't ask if she was okay. He just held out his hand and said, "We can walk if you want. Or we can sit."
+"I did a hard thing," Kara said. "I went into a burning building. I got three people out. I went back in. I came out through a vent."
 
-"I want to go home," she said. "But not alone. Not tonight."
+"And you're tired."
 
-She said it clear. She had learned since the roof in November cold, since the sun, that saying what you want out loud is not small. It is agency. She wanted him to stay. She wanted to share and spend all night together, not because she was scared, but because she wanted to.
+"I'm tired."
 
-"Do you want to stay at mine or yours?" he asked.
+"Then go home."
 
-"Yours is quieter," she said. "Mine has too many people looking today."
+"I'll go home. But first I need to do something."
 
-He nodded. "Mine then. If you want."
+"What?"
 
-"I want," she said.
+"I need to go to the DEO. I need to talk to Alex. I need to tell her that we need to move. We have been holding the pattern for too long. We have been waiting for Lord to make his move. And he isn't making his move. And I don't know if he's going to make his move. And I don't know how long we can keep holding."
 
----
+"You can hold as long as you need to. The waiting is the work."
 
-His apartment was not big. It was ordinary on purpose. The kind of ordinary he had built the device himself to have.
+"I know the waiting is the work. But I'm tired of the work. And I'm tired of holding. And I think we need to do something."
 
-There was a small kitchen with a chipped mug next to a theater mask magnet on the filing cabinet, same as at CatCo. He had brought the habit home. There was a couch that was too soft, a table that was too hard, a window that looked at another window, and a bedroom with a toothbrush that was blue and a second jacket that was too big hanging behind the door.
+"What do you think we need to do?"
 
-Kara stopped when she saw the toothbrush.
+"I think we need to find the person who uses the ghost code. Not Marcus. Not Miller. The person who uses the ghost code. The person who's in the parking lot at two, three, and one in the morning. The person who opens the back gate. We need to find that person. And we need to find them today. Not tomorrow. Not next week. Today."
 
-"You kept it," she said.
+"We're watching for them. We're watching without the cameras. We're watching with our eyes. And we're writing it on paper."
 
-"I kept it because you left it," he said. "I didn't know if you wanted it back or wanted it here. So I left it here."
+"I'm going to the DEO. I'm going to watch the parking lot. I'm going to watch the back gate. I'm going to watch who comes and who goes. And I'm going to write it on paper. And I'm going to do it today."
 
-She picked it up. It was blue, ordinary plastic, not Kryptonian, not Martian, not engineered. She had left it here two weeks after the sun, after her finger healed and her baseline came up higher and her heart beat faster and she started hearing more. She had left it here because she had started staying over sometimes after late DEO calls, after Cat kept her late, after she wanted to not be Supergirl for a few hours.
+"You are going to sit in the parking lot at two, three, and one in the morning."
 
-"You could have thrown it away," she said.
+"I'm going to sit in the parking lot. Or I'm going to watch it from above. Or I'm going to watch it from the corridor. I'm going to watch it. And I'm going to write down who comes and who goes."
 
-"I could have," he said. "I didn't want to."
+"And what if Lord sees you watching?"
 
-She put it back. She took off her boots, the ones she had worn to the chemical plant, the ones that still had a little red dust in the tread that Alex had told her to leave for analysis. She left them by the door, neat, because his apartment was neat in a way that wasn't Cat neat, but chosen neat.
+"Lord isn't in the parking lot. Lord is in his office. Lord is on the news. Lord is building his story. Lord isn't in the parking lot at two in the morning. The person who's in the parking lot at two in the morning is the person we're looking for. And I'm going to find them."
 
-"Can I make tea?" she asked.
+Adrian stopped typing. He looked at her. "You are going to do this now."
 
-"You know where everything is," he said.
+"I'm going to do this now."
 
-She did. She made tea the way he made it, not the way she made it at CatCo where she always forgot the water and Winn reminded her. She put the kettle on and watched it, because watching a kettle is ordinary, and ordinary was what she wanted after wanting to be worshipped for a day.
+"Then do it. Go to the DEO. Watch the parking lot. Watch the back gate. Write it on paper. And come back when you've something."
 
-While the kettle heated, he sat at his small desk and opened a book about the sun. It was open to a page about red dwarfs, the kind that never let you be steady. He had been reading it since before Fort Rozz, since before he told her about his father from an influential house and his mother from a collateral royal branch and the Daxamite attackers who murdered them because of the mixed union and the city he destroyed in rage and grief under a red sun that harmed temperament and emotional stability.
+"I'll come back when I've something."
 
-He closed the book when she brought the tea.
-
-"You don't have to talk about yesterday if you don't want to," he said.
-
-"I want to," she said. "But not all of it. I want to talk about the part I understood today."
-
-She sat on the couch. He sat next to her, not close enough to crowd, close enough that she could lean if she wanted. She leaned.
-
-"Just Red Kryptonite made me so angry," she said, same words she had said to Alex and J'onn in the med bay, but quieter now, not a report. "So malicious. So dangerous. I wore that awful dress and I gripped James too hard and I stood on a bar and shattered bottles with peanuts because I thought it was funny. Superman III scene. I demanded awe and worship. I said no one on Earth can stop me and then J'onn did, with ice dome and H'ronmeer and Torquasm Vo. I thought I was honest for the first time. I wasn't. I was just loud."
-
-He listened. He didn't fix.
-
-"And you destroyed a city after your parents died even though you were affected by a red sun completely," she said. "Not just a day. Your whole life. Red sun development does harm temperament. It did harm yours. And you control it anyway. Every day. You hear a pen across the room and you don't use it. You feel a field bend light around a car and you choose to lift it like a person would. You built device yourself to be ordinary. That shows strong willpower. How much you are controlling all the time."
-
-Adrian looked at his hands. The band at his wrist was frayed. He had had it since before Earth.
-
-"I didn't control it then," he said. "I didn't. They caught me because I was exhausted. Advanced technology had to bring me in. No nerf to make capture make sense. I was that strong even under a red sun. Genuine mass-killing culpability. Not framed."
-
-"I know," she said. "Alex told me you told her. You told her genuine. You didn't hide."
-
-"I didn't want to hide anymore," he said. "After I built it. After I came here."
-
-She took his hand. Under the desk at CatCo, over the desk here, it was the same hand. Not big, not showy, just there.
-
-"Can I stay tonight?" she asked again, because asking twice is not weakness, it is choosing twice. "Can we share and spend all night together? Not... I just want to stay. Talk. Sleep. Ordinary."
-
-He said, "If you want. I want you to stay if you want to stay."
-
-"I want," she said.
+Kara stood up. She walked out of the bullpen and went to the elevator.
 
 ---
 
-They ate. He had soup, because he always had soup when he was tired. She had soup because she wanted soup. They didn't talk about Supergirl. They talked about Cat's coffee order and how Keira always gets it wrong when Kara is not there and how Siobhan had tried to rewrite Kara's copy while Kara was in the black suit and Cat had said "No, we keep her copy, she will be back."
+She drove to the DEO. She went to the tech room.
 
-At 9 p.m., Alex called. Kara put her on speaker.
+Winn was at his desk. Alex was at her desk. The two tech team members were at their desks. The fourth desk was empty.
 
-"You okay?" Alex said.
+"I'm going to watch the parking lot," Kara said. "I'm going to watch the back gate. I'm going to watch who comes and who goes at two, three, and one in the morning. And I'm going to write it on paper."
 
-"I'm at Adrian's," Kara said. "I'm staying tonight. We are sharing and spending all night together. Talking. Ordinary. Is that okay with DEO?"
+"You are going to watch without the cameras," Winn said.
 
-Alex was quiet for a second. Then, "Are you safe?"
+"I'm going to watch without the cameras. With my eyes. And I'm going to write it on paper."
 
-"Yes."
+"And you're going to watch from where?"
 
-"Do you want me to come?"
+"From the corridor. The corridor has a window that looks down on the parking lot. I'll sit in the corridor. I'll watch the parking lot. I'll watch the back gate. And I'll write down who comes and who goes."
 
-"No. I want to stay here. I want ordinary tonight. Tomorrow I will come in. J'onn okay?"
+"And you'll be seen," Alex said.
 
-"J'onn is... Hank is dealing with something," Alex said, which was Alex for "something big happened and I can't say over phone." "There's a story going around. About Hank Henshaw. Real Hank. We found him."
+"I'll be seen by whoever is in the building. The guards. The staff. The tech team. But I won't be seen by the person who uses the ghost code. Because the person who uses the ghost code comes to the parking lot at two, three, and one in the morning. And at two, three, and one in the morning, the building is quiet. The guards are at their posts. The staff is gone. The tech team is gone. And I'll be in the corridor, watching. And the person won't know I'm watching."
 
-Kara sat up. Adrian looked at her.
+"And what if the person sees you?"
 
-"What story?" she said.
+"Then I'll see them first. Because I'll be watching. And I'll write down what I see. And I'll bring it to you. And we'll use it."
 
-"Come tomorrow," Alex said. "Tonight, stay. You had Red Kryptonite yesterday. You nearly destroyed riverfront. You get to have ordinary tonight."
+Alex leaned back. "You are going to sit in a corridor at two, three, and one in the morning and watch a parking lot."
 
-Kara said, "Okay. Tomorrow."
+"I'm going to sit in a corridor at two, three, and one in the morning and watch a parking lot."
 
-She hung up. She told Adrian what Alex said, not the classified parts, just "they found real Hank Henshaw."
+"That is ground work. That is the work that doesn't use your power. That is the work that uses your eyes and your ears and a piece of paper."
 
-Adrian frowned. "J'onn has been Hank for a long time."
+"I know. That is why I'm doing it. Because the pattern is on paper. And the paper is the only thing the leak can't change. And I'm going to add to the paper. I'm going to write down who comes to the parking lot. And I'm going to write down when. And I'm going to write down what they do. And I'm going to bring it to you."
 
-"I know," she said. "Alex sounded worried."
+"Go," Alex said. "Watch. Write it on paper. And come back."
 
-They washed the soup bowls together. She washed, he dried, because that was how they did it when she stayed. She put the mug back next to the magnet, because that was where it belonged. He didn't tell her where to put it. She knew.
+Kara turned and walked out of the tech room.
 
-At 10:30 p.m., she went to the bedroom to change. He had left the second jacket that was too big hanging behind the door for her. It was too big on purpose, because she liked too big when she was tired, because it made her feel small in a good way, not small like Cat made her feel small when Cat said "Keira, where is my coffee?" and meant "where is my world?"
+---
 
-She put it on. It smelled like him and like tea.
+She went to the corridor that overlooked the parking lot.
 
-He came in with two glasses of water and put one on each side of the bed. He didn't assume. He asked.
+The corridor was narrow. It had a window on one side that looked down on the parking lot below. It had a bench on the other side. It had a light that could be turned off.
 
-"Do you want light or dark?"
+She sat on the bench. She turned off the light. She sat in the dark. She looked through the window at the parking lot below.
 
-"Dark but with window open a little," she said. "I like hearing city."
+The parking lot was empty. The back gate was closed. The street beyond the gate was quiet. The city was a few blocks away, its lights visible in the distance.
 
-He opened window a little. City came in, distant, not demanding worship.
+She sat there. She waited.
 
-They lay down. Not as Supergirl and Wraith. As Kara and Adrian. She on her side, him on his, with space between them that she closed when she wanted to, not when he decided. She closed it. She put her head on his shoulder.
+The corridor was quiet. The building was quiet. The parking lot was quiet. The clock on the wall said one-fifteen.
 
-"Is this okay?" she asked.
+She waited.
 
-"Yes," he said. "If you want."
+At one-thirty, a car pulled up on the street beyond the back gate. It stopped. It didn't turn into the parking lot. It parked on the shoulder. The lights went off. The car sat in the dark.
 
-"I want," she said.
+Kara watched. She didn't move. She didn't look away from the window.
 
-They talked. They shared.
+At one-forty, the driver's door opened. A figure got out. It looked at the back gate. It walked toward it. It took out a key or a code and the gate opened.
 
-She told him about Krypton, not the parts she tells everyone, but the part about her mother teaching her to make a kind of tea that only grew in one valley and how she had tried to make it on Earth with Earth plants and it never tasted right. He told her about his mother, not the royal branch part, but the part about how she used to hum when she fixed things, and how his father used to watch her and smile in a way that made Adrian think love was a kind of fixing.
+The figure went through the gate and into the parking lot. It walked to the door to the corridor. It stopped at the door. It looked at the door. It looked at the corridor.
 
-She told him about the day she arrived, about beautiful actress mother/sister figure who helped her when she arrived, sealed power visits, Kara misunderstands romantic but actually mother/sister figure, Earth friend who helped Adrian arrival. He told her about arriving, about being scared that his power would slip and he would hurt someone, about building device himself choice, not because someone told him, but because he wanted to.
+Kara sat in the dark. She didn't move. She didn't breathe loudly. She watched.
 
-At midnight, she cried a little, not about Red Kryptonite, but about James's wrist and how she had gripped too hard and he had winced.
+The figure went to the door. It opened it. It went in. It walked down the corridor, away from Kara. It walked toward the tech room.
 
-"I didn't mean to hurt him," she said.
+Kara waited. She waited until the figure was gone. She wrote down the time. She wrote down the description. She wrote down the direction.
 
-"I know," Adrian said. "You told him. He knows. Winn knows you are with me since the roof in November cold since the sun, since you smiled different since you and I leave together since magnet since text. He knows."
+She waited.
 
-She nodded against his shoulder. "I told Adam too. I'm with Adrian. Friends still. Thank you. He listened."
+At two-fifteen, the figure came back. It walked down the corridor, toward the parking lot. It went to the door. It went out. It walked to the car. It got in. It drove away.
 
-"Good," Adrian said.
+Kara watched. She wrote down the time. She wrote down the direction. She wrote down the car.
 
-At 1 a.m., they were still awake, but quiet. She listened to his heartbeat, irregular in a way that was his, not Kryptonian, not Martian, just his. He listened to hers, fast since the sun, faster since yesterday, but steady now.
+She sat in the dark. She looked at the paper in her hand.
 
-"Can I ask you something?" she said.
+The time. The description. The direction. The car.
 
-"Yes."
+She had it.
 
-"Do you ever want to not be ordinary? Do you ever want to be... what you were?"
+---
 
-He thought for a long time.
+She went to Alex's office.
 
-"Sometimes," he said. "When I hear something I can't help. When I feel field bend light. When I want to lift beam car without pretending. But then I think about city I destroyed. And I think about you putting mug back next to magnet ordinary. And I want ordinary more."
+Alex was at her desk. She looked up when Kara came in.
 
-She squeezed his hand under the blanket.
+"I watched the parking lot," Kara said. "I watched the back gate. I watched who came and who went. And I wrote it on paper."
 
-"Thank you for controlling," she said. "Every day."
+She set the paper on Alex's desk.
 
-"Thank you for noticing," he said.
+Alex read it. "A car parked on the shoulder at one-thirty. A figure got out at one-forty. It went through the back gate. It walked to the door. It went into the corridor. It walked toward the tech room. It came back at two-fifteen. It went out. It got in the car. It drove away."
 
-At 2 a.m., she fell asleep first. He stayed awake a little longer, because he always stays awake a little longer, because he listens for pen and doesn't use it, because he feels light and chooses not to, because choice he made every day and tonight he was choosing to stay awake while she slept safe.
+"And the car," Kara said.
 
-At 3 a.m., she woke up and found him still awake.
+"The car. I wrote down the make and the color. A dark sedan. A common model. No visible plates in the dark."
 
-"Are you okay?" she asked, voice sleepy.
+"And the figure. I wrote down the description. Tall. Dark coat. Rectangular bag over the shoulder. The same bag as the man in the DEO lobby. The same bag as the figure in the footage from Lord Technologies."
 
-"Yes," he said. "Just listening to city. Not using."
+"The same person. Or the same kind of person. Or the same employer."
 
-She smiled, sleepy, and pulled second jacket tighter and said, "Stay?"
+"The same employer. Lord."
 
-"I'm staying," he said. "All night."
+"And the figure went into the corridor and walked toward the tech room. And the figure came back and left. And the figure was here at one-forty in the morning. And the ghost code was used at one in the morning. And Marcus was in the corridor at two in the morning. And the figure was in the parking lot at one-forty. And the ghost code was used at one. And Marcus was in the corridor at two."
 
-She fell back asleep. He stayed.
+"They weren't there at the same time. The figure was there at one-forty. Marcus was there at two. The ghost code was used at one. They weren't there at the same time. But they were there on the same night. And they were there in the same building. And they were doing the same work. And they were working for the same employer."
 
-At 5 a.m., light started coming in. He got up first, quiet, so she could sleep more. He made tea. He put mug back next to magnet, because that was where it belonged. He opened book about sun to page about red dwarfs and closed it again.
+"And the figure went into the tech room," Kara said.
 
-At 6 a.m., she woke up and found tea waiting and him at desk, typing, not as Wraith, not as headline, just Adrian.
+"The figure went into the corridor and walked toward the tech room. And the tech room is locked. Only Winn, Hank, Alex, and the tech team have keys. And the figure doesn't have a key. And the figure went toward the tech room. And the figure didn't go into the tech room. And the figure came back."
 
-"Did we spend all night together?" she asked, teasing, sleepy, hair messy.
+"Then the figure didn't go into the tech room. The figure went to the tech room. And the figure didn't go in. And the figure came back. And the figure left."
 
-"We shared and spent all night together," he said, matching her words from yesterday, because he remembered what she asked for. "Talking. Sleeping. Ordinary. If you want to call it that."
+"And the figure went to the tech room to meet someone. Or to get something. Or to give something. And the figure met someone in the corridor, or the figure met someone at the door, or the figure didn't meet anyone and the figure just went to the tech room and came back. And we don't know what happened."
 
-"I want to call it that," she said. She came over and sat next to him, in jacket, with blue toothbrush still by sink, with mug back where it belonged, with book closed again.
+"And we find out by watching again."
 
-She kissed him. Not because canon said to, not because Winn leaned, but because she wanted to, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events.
+"We find out by watching again. Tomorrow night. At the same time. And we watch who comes and who goes. And we watch who the figure meets. And we watch who's in the tech room. And we write it on paper."
 
-He kissed her back because he wanted to.
+"And we write it on paper," Kara said.
 
-At 7 a.m., her phone rang. Alex.
+"And we write it on paper. The paper is the only thing the leak can't change. The leak created the ghost code. The leak changed the creation log. The leak can't change a piece of paper in your hand."
 
-"You need to come in," Alex said. "It's J'onn. They know."
+Kara looked at the paper on Alex's desk. The time. The description. The direction. The car. It was all there. It was all on paper. And the leak couldn't stop it.
 
-Kara looked at Adrian. Adrian looked at Kara.
+"I'll watch again tomorrow," she said.
 
-"We spent all night together," Kara said to Alex, not as excuse, but as fact. "We shared all night. Ordinary. Now we come."
+"Watch again tomorrow. At the same time. And write it on paper. And come back."
 
-"We?" Alex said.
+"I'll."
 
-"Yes," Kara said. "We."
+Kara turned and walked out.
 
-They flew to DEO together, but not as Supergirl and Wraith. As Kara and Adrian, supersonic, absorbing momentum so building didn't shake, flight counter rotation, quiet you okay at end, because they wanted to, because choice even when you can be more.
+---
 
-At DEO, J'onn was waiting in Hank's office, not as Hank, as himself, seven feet tall, white eyes, because real Hank Henshaw had been found and story was out and he couldn't hide anymore. He looked tired in a way that was not human tired, but 317 years old tired.
+She went back to her apartment.
 
-Alex was there. So was real Hank Henshaw in a med bed, thin, angry, alive.
+Non was at the kitchen table. He looked up when she came in.
 
-Kara and Adrian walked in holding hands, not hiding, because they had stayed together sharing and talking and they were not hiding anymore.
+"You found the person," he said.
 
-J'onn looked at them and said, "You stayed together."
+"I found the person," Kara said. She sat down across from him. "I watched the parking lot. I watched the back gate. A figure came at one-forty in the morning. It went through the back gate. It walked to the corridor. It walked toward the tech room. It came back at two-fifteen. It left. I wrote it all on paper."
 
-"Yes," Kara said. "All night. We shared."
+"And the figure has the same bag as the man in the DEO lobby. And the same bag as the figure in the footage from Lord Technologies."
 
-J'onn nodded, slow. "Good. You will need that. Tonight will be hard. They know I am Martian. They know I have been Hank. They will try to take me."
+"The same bag. The same person. Or the same kind of person. Or the same employer."
 
-Kara said, "Then we don't let them."
+"And the figure went to the tech room."
 
-Adrian said nothing, but his hand tightened around hers, not hard, just there. Lean and balanced, not bulky, bulk is not power, control is power, choice is power.
+"The figure went toward the tech room. And the figure didn't go in. And the figure came back. And the figure left."
 
-And for the first time since Red Kryptonite, since riverfront, since bar at Noonan's and peanuts and black suit and slinky dress and gripping James too hard, Kara felt ordinary again, not because she was small, but because she had chosen to spend all night sharing with someone who chooses ordinary every day, and that showed strong willpower more than any synthetic red dust ever could.
+"And you'll watch again tomorrow."
 
+"I'll watch again tomorrow. At the same time. And I'll write it on paper. And I'll see who the figure meets. And I'll see who's in the tech room."
 
+"Good. The paper is the tool that the leak can't control. The leak created the ghost code. The leak changed the creation log. The leak can't change a piece of paper in your hand."
 
-The DEO briefing room was cold. Not the cold of the ice dome J'onn had made to stop Kara, but the cold of too much air conditioning and too many people who had not slept.
+Kara leaned back in her chair. "I'm getting closer."
 
-J'onn stood in the center, not as Hank. He had chosen to stand as himself because hiding was over. He was seven feet tall, green, white eyes, and he looked at the room like he had looked at Mars once, before furnace.
+"You are getting closer. You have the pattern. You have the paper. You have the names. You have the time and the description and the direction and the car. And you're watching. And when you've enough, you'll use it. And you'll stop him."
 
-Alex stood next to him, hand on her sidearm, not because she thought J'onn would hurt anyone, but because she knew others might.
+"And when we use it?"
 
-Real Hank Henshaw was in the med bay, thin, angry, alive, asking for a lawyer and for someone to explain why he had been in a desert for years and why his face had been worn by someone else.
+"And when you use it, you use all of it. You use the pattern. You use the paper. You use the names. You use Marcus. You use the ghost code. You use the parking lot. You use the figure. You use all of it. And you stop him."
 
-Kara and Adrian sat in the back, because Kara had spent all night sharing and talking and she was tired in a good way, and Adrian was tired in a way that was his, not Kryptonian.
+Kara looked at Non. The lamp was on. The city lights were on outside the window. The apartment was quiet.
 
-General Lane was on screen. He was saying words like security risk and alien infiltration and we need to take him into custody.
+"I'm tired," she said.
 
-J'onn listened. He had listened for 317 years. He had worn many faces, spoken languages your mouth can't form, seen his people put into camps, body pits, furnaces. He had told Kara once, let them come. He said it again now, quiet.
+"I know. But you're close. You are closer than you were yesterday. And you'll be closer tomorrow. And when you've enough, you'll use it. And you'll stop him."
 
-"Let them come," he said.
+"And until then?"
 
-Alex stepped forward. "He has served this country for ten years as Hank Henshaw. He has saved more lives than everyone in this room combined. He is not a risk. He is our risk manager."
+"And until then, you hold. You hold the pattern. You hold the paper. You hold the names. You watch the parking lot. You watch the back gate. You watch the tech room. You watch without the cameras. You watch with your eyes. And you wait."
 
-Lane said, "Alex Danvers, you are compromised. You knew."
+"And you stay here," Kara said.
 
-"I knew," Alex said. "And I trust him more than I trust you."
+"And I stay here. I wait with you. I don't leave. I don't call. I don't go out. I stay here until you and Alex tell me to leave. And then I go the way I came. I go to you first. I tell you where I'm going. And I wait there until you need me again."
 
-Kara stood. She was still in second jacket, not her Supergirl suit, but everyone in room knew who she was. She had been on bar at Noonan's three days ago demanding worship, and now she was here saying, "Did I kill anyone? No. Nearly destroyed riverfront, but no. And J'onn stopped me. Martian Manhunter stopped me after I said no one on Earth can stop me. Tempting Fate. He did."
+Kara went to the sofa and sat down.
 
-Adrian didn't stand. He sat, because he had learned that sometimes sitting is more powerful than standing, that absorbing momentum is not just for fights, but for rooms.
+The television was off. The city lights moved across the ceiling.
 
-He said, "You want to take him into custody. You want to study him. You want to put him in cell like Fort Rozz. You have tried that before with others. It doesn't work. It makes things worse."
+She sat there. She thought about the figure in the parking lot. She thought about the bag. She thought about the tech room. She thought about the paper in her hand.
 
-Lane said, "Who are you?"
+She thought about Lord, building his story, waiting for his moment.
 
-"Adrian," Adrian said. "I work at CatCo. I make tea. I put mug back."
+She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
 
-It was not a joke. It was true. He worked at CatCo. He made tea. He put mug back. That was his ordinary choice, and ordinary choice was a kind of power Lane didn't understand.
+She knew one thing. She had the pattern. She had the paper. She had the names. She was getting closer. And she would be ready.
 
-J'onn looked at Kara and Adrian, at how they sat close but not crowding, at how Kara had chosen to spend all night sharing and talking instead of patrolling, at how Adrian had chosen to stay awake while she slept safe, at how they had chosen ordinary.
+She sat there. The night went on. The city went on outside the window.
 
-"You stayed together," J'onn said, low, not as accusation, as observation. "Sharing."
+---
 
-"Yes," Kara said. "All night. We shared."
+The next morning, Kara arrived at CatCo at eight.
 
-"Good," J'onn said. "You will need that. Tonight will be hard."
+She walked through the lobby. The bullpen was quiet. Winn was at his desk. James was at his desk. The receptionist was at the front desk. Adrian was at his desk.
 
-Later, after Lane cut the feed and after DEO decided to not hand J'onn over and after real Henshaw was moved to a more secure med bay because he kept shouting, Kara and Adrian went back to Adrian's apartment, because DEO had said go home, rest, tomorrow will be hard.
+She sat down and opened her email.
 
-They made tea again. She put mug back, because that was where it belonged. He didn't tell her. She knew.
+At nine, Cat called her into the office.
 
-At night, they shared again. Not because they had to, but because they wanted to. Talking. Sleeping. Ordinary. All night.
+"The chemical plant fire is still in the news," Cat said. "The workers are telling their story. They're saying a woman flew them out. The story is building. And Lord is building with it."
 
-She asked him, "Do you ever get tired of controlling?"
+"He is using it," Kara said.
 
-"Yes," he said. "Every day. But then I think about city I destroyed after my parents died even though I was affected by red sun completely. And I think about you nearly destroying riverfront after just Red Kryptonite. Just that. Just one exposure. And I think about how you control now. How you choose to be ordinary even though you can lift train and absorb momentum and fly supersonic and counter rotate. And I want to control more."
+"He is using it. He is calling it a miracle. He is calling it a tragedy that was averted. He is calling it a reason to build something. He is calling it a story that proves the city needs him. And the story is getting bigger."
 
-She kissed his forehead, because she is Kara who chooses who to kiss, because she had told Adam on roof in November cold hand up gentle but firm boundary clear I'm with Adrian BEFORE lean, because agency shown via events not told via repetitive paragraph.
+"And we're holding the pattern."
 
-He kissed her back because he wanted to.
+"We're holding the pattern. We hold the paper. We hold the names. We watch the parking lot. We watch the back gate. We watch the tech room. And we wait."
 
-At midnight, city was quiet. At 1 a.m., city was quiet. At 2 a.m., city was quiet. At 3 a.m., city was quiet. At 5 a.m., light came in.
+"I watched the parking lot last night. I watched the back gate. A figure came at one-forty in the morning. It went through the back gate. It walked toward the tech room. It came back at two-fifteen. I wrote it all on paper."
 
-At 6 a.m., they woke up together, tea waiting, book closed, mug back where it belonged, ordinary, all night shared.
+"And you'll watch again tonight."
 
+"I'll watch again tonight. At the same time. And I'll write it on paper."
 
+"And you'll be careful."
 
-At CatCo, Cat said, "Keira, where is my coffee?" and Kara brought it with both hands and didn't spill, back in her own coat.
+"I'll be careful. I'll watch from the corridor. I'll watch from the dark. I won't be seen by the person who comes to the parking lot. Because the person who comes to the parking lot comes at one-forty in the morning. And at one-forty in the morning, the building is quiet. And I'll be in the corridor, watching. And the person won't know I'm watching."
 
-Winn came over and put bagel on her desk without comment. James left contact sheet face-down of workers safe with families.
+"Good. Go to the DEO. Watch. Write it on paper. And come back when you've something."
 
-Adam Foster came by with coffee for everyone because he heard about episode and wanted to make sure Kara was okay. He was friends, not date, because Kara had told him clearly months ago that she had boyfriend, and he had listened. He stayed ten minutes and left.
+Kara left Cat's office and went to the elevator.
 
-There would be another headline tomorrow. Tonight there was just coffee, and mug put back where it belonged next to magnet, and quiet knowledge of how much control it takes to live under red sun and still choose to be ordinary every day.
+---
 
-Kara and Adrian had learned since roof in November cold since sun that ordinary is choice. Adrian had learned under red sun that red sun power development does harm temperament emotional stability, father influential house mother collateral royal branch Daxamite attackers murdered parents over mixed union rage destroyed city genuine culpability caught exhausted advanced technology captured no nerf built device himself ordinary choice.
+She drove to the DEO. She went to Alex's office.
 
-Kara had learned just Red Kryptonite made her so angry malicious dangerous nearly destroys city demanding awe worship slinky dress peanut scene no one can stop me Did I kill anyone Thou Shalt Not Kill.
+Alex was at her desk with her notebook open. She had written five pages of names and times. She looked up when Kara came in.
 
-Both had learned control shows strong willpower.
+"I've been going through the paper again," Alex said. "I've been going through the names. I've been going through the times. I've been looking for the pattern in the pattern."
 
-At night, they shared again. Talking. Sleeping. Ordinary. All night.
+"What have you found?"
 
-She asked, "Do you think we will always stay together?"
+"I've found that the ghost code was used on the night Astra left, on the night of the fire at Lord Technologies, on the night the files were taken, and on the night the figure came to the parking lot. Four times. Four nights. Four uses."
 
-He said, "If you want. I want if you want."
+"And the figure was there on the fourth night."
 
-"I want," she said.
+"And the figure was there on the fourth night. And the figure went through the back gate. And the figure walked toward the tech room. And the figure came back and left."
 
-She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day.
+"And we don't know what the figure did in the tech room."
 
-At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"We don't know what the figure did. The figure went toward the tech room. The tech room is locked. The figure doesn't have a key. The figure didn't go into the tech room. The figure came back. And we don't know what happened between the figure going to the tech room and coming back."
 
-At DEO, Alex filed report with sources, beats, reviews, receipts, continuity.
+"And we find out by watching again."
 
-J'onn read report and said, "You forgot to write they stayed together."
+"We find out by watching again. Tonight. At the same time. We watch who comes and who goes. We watch who the figure meets. We watch who's in the tech room. And we write it on paper."
 
-Alex said, "I wrote it in personal notes. Kara and Adrian stayed together ordinary talking sleeping tea soup mug back."
+"And we write it on paper," Kara said.
 
-J'onn nodded. "Good."
+"And we write it on paper. The paper is the only thing the leak can't change. The leak created the ghost code. The leak changed the creation log. The leak can't change a piece of paper in your hand."
 
+Kara looked at the notebook on Alex's desk. The names. The times. The pattern. It was all there. It was all on paper. And the leak couldn't stop it.
 
+---
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+That afternoon, Kara went to the tech room.
 
+She walked through the door and looked at the desks. Winn was at one. Two tech team members were at two others. The fourth desk was empty.
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+She walked to the fourth desk. She looked at the computer. She looked at the monitor. She looked at the keyboard.
 
+"Miller sat here," she said.
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"Miller sat here," Winn said. "For three years. He knew the systems. He had admin access. He created codes. He changed codes. He deleted codes."
 
+"And he left."
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"And he left. Three months ago. He said he got a better job. He turned in his badge. He walked out."
 
+"And he created the ghost code before he left."
 
-At night, they stayed together. Talking. Sleeping. Ordinary. All night. She fell asleep first. He stayed awake a little longer, listening to city not using, choosing ordinary every day. At 5 a.m., light came in. At 6 a.m., tea waiting, mug back where it belonged, ordinary, all night shared.
+"He could have created the ghost code before he left. He had the access. He had the knowledge. He had the opportunity. And he left. And the ghost code stayed in the system. And someone has been using it."
+
+"And that someone is the figure who comes to the parking lot at one-forty in the morning."
+
+"And that someone is the figure who comes to the parking lot at one-forty in the morning. And that someone uses the ghost code to open the back gate. And that someone walks to the corridor. And that someone walks toward the tech room. And that someone comes back and leaves."
+
+"And that someone isn't Marcus."
+
+"And that someone isn't Marcus. Marcus is in the corridor. Marcus is the person who opens the door. The figure is in the parking lot. The figure is the person who uses the ghost code. They're different people. They're working together. And they're working for the same employer."
+
+"And we don't know who the figure is."
+
+"We don't know who the figure is. But we know the figure comes at one-forty in the morning. And we know the figure goes through the back gate. And we know the figure walks toward the tech room. And we know the figure comes back at two-fifteen. And we'll watch again tonight. And we'll see who the figure meets. And we'll see who's in the tech room. And we'll write it on paper."
+
+"And we write it on paper," Kara said.
+
+She turned and walked out of the tech room.
+
+She walked down the corridor. She stopped at the holding area. She looked through the glass at the empty cell. The bed was empty. The floor was clean. The door was open. The panel was open.
+
+Miller had sat at the desk in the tech room. Miller had created the ghost code. The figure used the ghost code to open the back gate. Marcus walked the corridor. And Astra walked out.
+
+And Miller was gone. And Marcus was still here. And the figure was still coming. And we didn't know who the figure was.
+
+Kara walked past the holding area and went to the lobby.
+
+She stood by the door and looked at the city outside.
+
+The city was the same. The traffic moved in the same direction. The people walked the same streets. The buildings stood the same way.
+
+And somewhere in this city, the figure was doing the job, feeding the information, waiting for the next door to open. And somewhere in this city, Lord was reading what he had been given, and building his story, and deciding who to name next.
+
+She stood by the door and watched the city.
+
+She didn't go to the tech room. She didn't go to Marcus. She didn't go to anyone. She held the pattern. She held the paper. She held the names.
+
+And she waited.
+
+The city went on outside the window.
+
+And she watched.
+
+---
+
+That evening, Kara went back to her apartment.
+
+Non was at the kitchen table. He looked up when she came in.
+
+"You are going to watch again tonight," he said.
+
+"I'm going to watch again tonight," Kara said. She sat down across from him. "I watched last night. I saw the figure. I wrote it on paper. And I'm going to watch again tonight. At the same time. And I'll write it on paper."
+
+"And you'll see who the figure meets. And you'll see who's in the tech room."
+
+"I'll see who the figure meets. And I'll see who's in the tech room. And I'll write it on paper."
+
+"Good. The paper is the tool that the leak can't control. The leak created the ghost code. The leak changed the creation log. The leak can't change a piece of paper in your hand."
+
+Kara leaned back in her chair. "I'm getting closer."
+
+"You are getting closer. You have the pattern. You have the paper. You have the names. You have the time and the description and the direction and the car. And you're watching. And when you've enough, you'll use it. And you'll stop him."
+
+"And when we use it?"
+
+"And when you use it, you use all of it. You use the pattern. You use the paper. You use the names. You use Marcus. You use the ghost code. You use the parking lot. You use the figure. You use all of it. And you stop him."
+
+"I'm tired," she said.
+
+"I know. But you're close. You are closer than you were yesterday. And you'll be closer tomorrow. And when you've enough, you'll use it. And you'll stop him."
+
+"And until then?"
+
+"And until then, you hold. You hold the pattern. You hold the paper. You hold the names. You watch the parking lot. You watch the back gate. You watch the tech room. You watch without the cameras. You watch with your eyes. And you wait."
+
+"And you stay here," Kara said.
+
+"And I stay here. I wait with you. I don't leave. I don't call. I don't go out. I stay here until you and Alex tell me to leave. And then I go the way I came. I go to you first. I tell you where I'm going. And I wait there until you need me again."
+
+Kara went to the sofa and sat down.
+
+The television was off. The city lights moved across the ceiling.
+
+She sat there. She thought about the figure in the parking lot. She thought about the bag. She thought about the tech room. She thought about the paper in her hand.
+
+She thought about Lord, building his story, waiting for his moment.
+
+She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
+
+She knew one thing. She had the pattern. She had the paper. She had the names. She was getting closer. And she would be ready.
+
+She sat there. The night went on. The city went on outside the window.'''

@@ -2,7 +2,7 @@
   "chapter": 24,
   "revision": "R3",
   "draft_path": "drafts/Chapter_24_Falling_R3.md",
-  "draft_sha256": "8a47565661915fda2e674fab047420bdbbc5487a1c6ae3afe583d11654ab0a52",
+  "draft_sha256": "b6cf5cb116b34d5c7c28ee9e5125f5efc8fd6c2a85a94dede77c8c9403e177a5",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -144,5 +144,7 @@
       "path": "audits/CHAPTER_21_R2_REVIEW.md",
       "sha256": "b30596d987b9cf34d2865fd510a8ed271df90be155c437aeba08c3adb16250df"
     }
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R4"
 }

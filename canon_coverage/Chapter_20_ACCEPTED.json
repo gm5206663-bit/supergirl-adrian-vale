@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 20,
-  "revision": "R2",
+  "revision": "R3",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_20_Bizarro_R2.md",
-  "draft_sha256": "d474809003eafe0d523c878cdf647fb4247f1386a5e9ca6c289d6e64ed2aeaa9",
+  "draft_path": "drafts/Chapter_20_Bizarro_R3.md",
+  "draft_sha256": "494a31afc0c4aeea7efbab5c43c660680d91a636912ba035dad91dd3a81be34d",
   "accepted": true,
   "claimed_episode": "S01E12 Bizarro",
   "span": "Bizarro events actually happening full 3000+ natural butterfly",
@@ -169,5 +169,7 @@
     "canon_title": "Bizarro",
     "chapter": 20,
     "chapter_title": "Bizarro events actually happening"
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R3"
 }

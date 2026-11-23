@@ -1,8 +1,8 @@
 {
   "chapter": 22,
-  "revision": "R1",
-  "draft_path": "drafts/Chapter_22_Truth_Justice_R1.md",
-  "draft_sha256": "8f6ca93f06025436c742460c7a7945d289b2c7e1b9ad3ca43664bb84147888f1",
+  "revision": "R4",
+  "draft_path": "drafts/Chapter_22_Truth_Justice_R4.md",
+  "draft_sha256": "81918ced138c1276634031a53d9c01387369e4f0a69af00c5ca0ca1a42fa6988",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -67,5 +67,7 @@
       "path": "audits/CHAPTER_22_R1_REVIEW.md",
       "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
     }
-  }
+  },
+  "updated_on": "2026-09-27",
+  "draft_revision": "R2"
 }

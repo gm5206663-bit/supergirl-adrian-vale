@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 1,
-  "revision": "R3",
+  "revision": "R4",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_01_Adrian_Vale_R3.md",
-  "draft_sha256": "44b36dbfc1404bac2d482fbf9dbbf3be91aa4e612d5bcb0d54238d1b814d3510",
+  "draft_path": "drafts/Chapter_01_Adrian_Vale_R4.md",
+  "draft_sha256": "8002ab86e7abccca0fd2c947fd3a01186f4f43c1267e5509c426107cb938a624",
   "accepted": true,
   "claimed_episode": "S01E01 \u2014 Pilot",
   "span": "opening through first post-rescue Kara/Alex disagreement; SG-P01\u2013SG-P08, not full episode",
@@ -179,5 +179,7 @@
   ],
   "accepted_path": "chapters/Chapter_01_Adrian_Vale.md",
   "acceptance_receipt": "audits/CONTINUATION_Chapter_01.md \u2014 U13 continuation authorization",
-  "accepted_on": "2026-09-28"
+  "accepted_on": "2026-09-28",
+  "draft_revision": "R4",
+  "updated_on": "2026-09-27"
 }

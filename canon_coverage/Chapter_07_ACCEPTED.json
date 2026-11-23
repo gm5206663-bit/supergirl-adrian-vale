@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "chapter": 7,
-  "revision": "R1",
+  "revision": "R4",
   "epoch": "v1",
-  "draft_path": "drafts/Chapter_07_How_Does_She_Do_It_R1.md",
-  "draft_sha256": "f58dab418c803ac3635f0ad42a02a6cdd54c9238f364fb6355899fc212480f54",
+  "draft_path": "drafts/Chapter_07_How_Does_She_Do_It_R4.md",
+  "draft_sha256": "3ad0623b3f5c07b216f51929fb798aaf2122b51fdb52759b3a1cb75823c97fa7",
   "accepted": true,
   "claimed_episode": "S01E04 intended \u2014 How Does She Do It?",
   "span": "S01E04 intended How Does She Do It? \u2014 bombings, Carter babysitting, train/airport threats; drone surveillance and Lord testing",
@@ -275,5 +275,7 @@
     "chapter_title": "How Does She Do It?"
   },
   "accepted_path": "chapters/Chapter_07_How_Does_She_Do_It.md",
-  "acceptance_receipt": "audits/CONTINUATION_Chapter_07.md"
+  "acceptance_receipt": "audits/CONTINUATION_Chapter_07.md",
+  "draft_revision": "R2",
+  "updated_on": "2026-09-27"
 }
