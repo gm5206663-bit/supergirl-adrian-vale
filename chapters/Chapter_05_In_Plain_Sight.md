@@ -26,7 +26,7 @@ At home, he closed the seal himself.
 
 Distant traffic faded into the ordinary sounds of his apartment.
 
-On the desk beside his work bag sat the theater mask magnet Evelyn had left behind — a small thing, but the only piece of her that had stayed.
+On the desk beside his work bag sat the theater mask magnet Evelyn had left behind — a small thing, but the only piece of her that had stayed. A chipped mug held pencils beside it, the one Kara had teased him about keeping.
 
 He checked the fitted case he kept ready for emergencies and set it beside the magnet.
 
