@@ -2,7 +2,7 @@
   "chapter": 27,
   "revision": "R4",
   "draft_path": "drafts/Chapter_27_Myriad_R4.md",
-  "draft_sha256": "de93093188f66b79f7b0a9fe888159452f4be16803cbbb7c488242583b399229",
+  "draft_sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -192,8 +192,14 @@
     "prose": {
       "path": "audits/CHAPTER_27_R4_REVIEW.md",
       "sha256": "876757f2f56417701110ba8e6f3d93d5db7d7c4331d3efb9ef42657e55b70760"
+    },
+    "chapter": {
+      "path": "chapters/Chapter_27_Myriad.md",
+      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8"
     }
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R4"
+  "draft_revision": "R4",
+  "chapter_sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
+  "chapter_word_count": 5305
 }

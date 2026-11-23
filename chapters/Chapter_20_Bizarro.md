@@ -10,7 +10,9 @@ The driver had been asleep for two seconds after twelve hours behind the wheel. 
 
 Kara heard the crash from above.
 
-She was flying over the river on her way back from a DEO run when the sound came up through the air. It was a metallic crunch, followed by the long, low sound of metal tearing and water taking over.
+She was flying over the river on her way back from a DEO run when the sound came up through the air.
+
+Adrian had been at the console when she'd left, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd told her to call if anything spiked. She'd call when she could. It was a metallic crunch, followed by the long, low sound of metal tearing and water taking over.
 
 She turned. She saw the truck in the water below. The cab was half submerged. The wheels were still turning. The driver was inside, banging on the window.
 
@@ -46,7 +48,17 @@ Someone had taken the guardrail out.
 
 ---
 
-She reported the crash to the DEO. She landed at the DEO and went to Alex's office.
+She reported the crash to the DEO.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she came in.
+
+"The pattern's still holding," he said. "The ghost code hasn't spiked. I'll keep watching." She landed at the DEO and went to Alex's office.
+
+Adrian was at the console beside Alex's desk, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when Kara came in.
+
+"The pattern's still holding," he said. "The ghost code hasn't spiked. I'll keep watching."
+
+Adrian was at the console beside Alex's desk, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when Kara came in.
 
 "The truck that went into the river," she said. "The guardrail was taken out. Someone removed it before the truck got there."
 
@@ -72,7 +84,15 @@ Alex stood up. "I'll send a team to the scene. They will look at the posts. They
 
 The next morning, Kara went to CatCo.
 
-She walked through the lobby and went to her desk. Adrian was at his desk across the bullpen. He was typing. He didn't look up when she sat down.
+Adrian was at his desk across the bullpen. He was typing. The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code.
+
+The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she came in.
+
+"The pattern's still holding," he said. "The ghost code hasn't spiked. I'll keep watching."
+
+She walked through the lobby and went to her desk. Adrian was at his desk across the bullpen. He was typing. The paper was open on his desk — the pattern, the names, the times. He didn't look up when she sat down.
+
+"The pattern's still running," he said, without looking up. "The ghost code hasn't spiked. If she moves, I'll see it."
 
 "There was a truck crash yesterday," she said.
 
@@ -133,6 +153,8 @@ Kara stood up. "I need to go to the DEO."
 "I'll look."
 
 Kara walked out of the bullpen and went to the elevator.
+
+Adrian was at his desk across the bullpen. He was typing. The paper open. The pattern. The names. He didn't look up. He kept the ghost code log running.
 
 ---
 
@@ -213,6 +235,12 @@ Alex nodded. "And when we've the pattern, we use it."
 ---
 
 That evening, Kara went back to her apartment.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+He didn't look up when she called in.
+
+"The code is steady," he said. "The pattern holds. I'll keep watching the back gate."
 
 Non was at the kitchen table. He looked up when she came in.
 
@@ -430,6 +458,10 @@ She stood by the door and watched the city.
 
 She didn't go to Marcus. She didn't go to Astra. She didn't go to Lord. She held the pattern. She held the paper. She held the names.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He was holding the same pattern.
+
+The same paper. The same names. They'd been holding it together for three weeks. The paper didn't change.
+
 And she waited.
 
 The city went on outside the window.
@@ -489,6 +521,8 @@ The television was off. The city lights moved across the ceiling.
 She sat there. She thought about Marcus, walking the corridor, not knowing his name was on paper. She thought about Astra, walking the city with a dagger, not knowing someone was looking for her. She thought about Lord, building his story, not knowing someone was holding the pattern.
 
 She thought about the paper. The names. The times. The marks. The prints. The pattern.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
 
 She didn't know when Lord would make his move. She didn't know what it would look like. She didn't know what would happen.
 

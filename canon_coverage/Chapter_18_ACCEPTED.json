@@ -4,7 +4,7 @@
   "revision": "R3",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_18_Strange_Visitor_Part1_R3.md",
-  "draft_sha256": "6c4c224f244e5897a9e43e11ccf4f2a570ec1f4b8ab8f978132775d3924dc4a9",
+  "draft_sha256": "e1297d1c033868a747996fea59725b838d18e1b3ea2fdbf4ba0563896a43c815",
   "accepted": true,
   "claimed_episode": "S01E11 Strange Visitor From Another Planet Part1",
   "span": "Strange Visitor Part1 White Martian full 3000+ natural butterfly",
@@ -166,6 +166,10 @@
     "prose": {
       "path": "audits/CHAPTER_18_R1_REVIEW.md",
       "sha256": "6ba2146d45062ff1fe15aa98792858c9c54007d83eb380a6f25db4778f98e4b1"
+    },
+    "chapter": {
+      "path": "chapters/Chapter_18_Strange_Visitor_Part1.md",
+      "sha256": "e1297d1c033868a747996fea59725b838d18e1b3ea2fdbf4ba0563896a43c815"
     }
   },
   "release_ready": true,
@@ -181,5 +185,7 @@
     "chapter_title": "Strange Visitor Part1 White Martian"
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R4"
+  "draft_revision": "R4",
+  "chapter_sha256": "e1297d1c033868a747996fea59725b838d18e1b3ea2fdbf4ba0563896a43c815",
+  "chapter_word_count": 5054
 }

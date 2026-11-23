@@ -12,7 +12,11 @@ Kara was at her desk at CatCo when her phone buzzed.
 
 She looked at the screen. The DEO alert. She read it in two seconds and stood up.
 
-Adrian was at his desk across the bullpen. He was typing. He didn't look up.
+Adrian was at his desk across the bullpen. He was typing. The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+"I'll keep the pattern running," he said, without looking up. "If the ghost code spikes, I'll know. I'll call Winn." The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up.
+
+"I'll keep the pattern running," he said. "If the ghost code spikes, I'll know. I'll call Winn."
 
 "There is a fire at the chemical plant," she said.
 
@@ -42,6 +46,8 @@ Kara walked out of the bullpen and went to the elevator.
 
 She drove to the DEO. She went to Alex's office.
 
+Adrian was at the console beside Alex's desk, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
 Alex was at her desk with a map spread out in front of her. The map showed the chemical plant. The storage wing. The catwalk. The river.
 
 "There you're," Alex said. "I was about to call you."
@@ -66,13 +72,21 @@ Alex looked at her. "This is a rescue. Not a fight. Get the workers out. Get out
 
 Kara turned and walked out. She went to the vehicle bay and got into the DEO aircraft.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up when she passed.
+
+"The code's steady," he said. "I'll watch the back gate while you're at the plant."
+
 ---
 
 She took the aircraft up. She climbed above the clouds and turned toward the chemical plant.
 
+Adrian was on the radio. "I'm watching the parking lot. The code is running. I'll let you know if anything changes."
+
 The plant was on the edge of the city, near the river. It was a large complex of buildings and pipes and storage tanks. The storage wing was on the north side, near the river.
 
 She brought the aircraft down. She landed on the south side of the complex, in an open area away from the buildings.
+
+Adrian was on the radio. "I'm watching the parking lot. The code is running. I'll let you know if anything changes."
 
 She went in on foot.
 
@@ -122,6 +136,8 @@ The air outside was clear.
 
 She led them away from the building. She took them to the aircraft. She got them in.
 
+Adrian was on the radio. "The back gate is clear. No movement. The pattern holds."
+
 "Are you okay?" she asked.
 
 The first worker was coughing. He nodded. "We're okay."
@@ -138,9 +154,15 @@ The first worker was coughing. He nodded. "We're okay."
 
 She got out of the aircraft. She ran back to the building.
 
+Adrian was on the radio. "The ghost code log is running. I'll watch the back gate. If anything moves, I'll call."
+
 ---
 
 She went back into the storage wing. She moved through the corridors. She checked each room. She called out. She listened.
+
+Adrian was on the radio. "The code is steady. No movement at the back gate. The pattern holds."
+
+Adrian was still on the radio. "The code is steady. No movement at the back gate. The pattern holds."
 
 Nobody answered.
 
@@ -184,6 +206,10 @@ She flew the aircraft toward the city.
 
 She landed at the DEO and went to Alex's office.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she came in.
+
+"The code didn't spike," he said. "The pattern held while you were at the plant."
+
 "All three workers are out," she said. "They're at the medical station. They're okay. They're coughing. They will be fine."
 
 "Good," Alex said. "You did the assignment. You got them out."
@@ -209,6 +235,10 @@ Kara turned and walked out. She went to her car and drove home.
 ---
 
 That evening, Kara went back to her apartment.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. He didn't look up when she called in.
+
+"The pattern's still holding," he said. "The names are the same. I'll keep watching."
 
 Non was at the kitchen table. He looked up when she came in.
 
@@ -266,13 +296,26 @@ She didn't know when he would make his move. She didn't know what it would look 
 
 She knew one thing. She had the pattern. She had the paper. She had the names. And she would be ready.
 
-She sat there. The night went on. The city went on outside the window. The pattern was there. The paper was there. The names were there. And she would be ready when the moment came. She would hold. She would wait. And she wouldn't let go.
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
 
+He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
+
+She sat there. The night went on. The city went on outside the window. The pattern was there.
+
+The paper was there. The names were there. And she would be ready when the moment came. She would hold.
+
+She would wait. And she wouldn't let go.
 ---
 
 The next morning, Kara arrived at CatCo at eight.
 
-She walked through the lobby. The bullpen was quiet. Winn was at his desk. James was at his desk. The receptionist was at the front desk. Adrian was at his desk.
+She walked through the lobby. The bullpen was quiet. Winn was at his desk. James was at his desk.
+
+The receptionist was at the front desk. Adrian was at his desk. The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor.
+
+The theater mask magnet beside it.
+
+"The code is steady," he said, without looking up. "The pattern held. I'll keep watching the back gate."
 
 She sat down and opened her email.
 
@@ -394,6 +437,10 @@ She stood by the door and watched the city.
 
 She didn't go to the tech room. She didn't go to Marcus. She didn't go to anyone. She held the pattern. She held the paper. She held the names.
 
+Adrian was at his console in the bullpen, the paper open, the ghost code log running. He didn't look up.
+
+He was holding the same pattern. The same paper. The same names. They'd been holding it together for three weeks. The paper didn't change.
+
 And she waited.
 
 The city went on outside the window.
@@ -403,6 +450,10 @@ And she watched.
 ---
 
 That evening, Kara went back to her apartment.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up when she called in.
+
+"The pattern's still holding," he said. "The names are the same. I'll keep watching."
 
 Non was at the kitchen table. He looked up when she came in.
 
@@ -448,4 +499,8 @@ She didn't know when he would make his move. She didn't know what it would look 
 
 She knew one thing. She had the pattern. She had the paper. She had the names. And she would be ready.
 
-She sat there. The night went on. The city went on outside the window. The pattern was there. The paper was there. The names were there. And she would be ready when the moment came. She would hold. She would wait. And she wouldn't let go.'''
+She sat there. The night went on. The city went on outside the window. The pattern was there.
+
+The paper was there. The names were there. And she would be ready when the moment came. She would hold.
+
+She would wait. And she wouldn't let go.'''

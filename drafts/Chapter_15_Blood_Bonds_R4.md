@@ -50,6 +50,8 @@ Kara turned away from the building. "He is going to keep pushing."
 
 The next day, Kara went to CatCo early.
 
+Adrian was at his desk across the bullpen. He was typing. The paper was open. The pattern. The names. He didn't look up when she came in.
+
 Cat was already at her desk. She had a newspaper open in front of her, and she was reading it with the kind of attention that meant she wasn't reading for pleasure.
 
 "Lord is in the news again," Cat said, without looking up.
@@ -81,6 +83,12 @@ Cat looked at her. "I know you do. That is why I asked you."
 ---
 
 Kara went to the DEO first.
+
+Adrian was at his desk across the bullpen. The paper open. The pattern. The names.
+
+The ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she walked past.
+
+"The pattern's still holding," he said. "The ghost code hasn't spiked. I'll keep watching."
 
 She walked through the corridors and went to the tech room. Winn was at his desk, surrounded by monitors and cables and half-assembled equipment.
 
@@ -630,11 +638,11 @@ Kara left Cat's office.
 
 ---
 
-She went back to her desk. Adrian was at his desk across the bullpen. He was typing. He didn't look up when she sat down.
+She went back to her desk. Adrian was at his desk across the bullpen. He was typing. The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up when she sat down.
 
 "The warehouse is being used," she said.
 
-"I heard you on the phone," Adrian said.
+"I heard you on the phone," Adrian said. He didn't look up from the paper. The ghost code log was running. He'd been holding the pattern for weeks. He'd keep holding it.
 
 "I'm waiting for a name."
 

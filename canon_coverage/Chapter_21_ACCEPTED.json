@@ -2,7 +2,7 @@
   "chapter": 21,
   "revision": "R4",
   "draft_path": "drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R4.md",
-  "draft_sha256": "a1dcf4b366077eb6083ca61d146e2c531ffd83f91e70aca5955c985c3224618c",
+  "draft_sha256": "84c1ee9b4804470ba72cde1aeba66f682e57145aa6620ae3b1952e8d5d15d56f",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -66,8 +66,14 @@
     "prose": {
       "path": "audits/CHAPTER_21_R1_REVIEW.md",
       "sha256": "d184cff5ade9af9df85a1d995c898d034fe04d809f338080a6bc28387b9ad57a"
+    },
+    "chapter": {
+      "path": "chapters/Chapter_21_For_the_Girl_Who_Has_Everything.md",
+      "sha256": "84c1ee9b4804470ba72cde1aeba66f682e57145aa6620ae3b1952e8d5d15d56f"
     }
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R2"
+  "draft_revision": "R2",
+  "chapter_sha256": "84c1ee9b4804470ba72cde1aeba66f682e57145aa6620ae3b1952e8d5d15d56f",
+  "chapter_word_count": 5380
 }

@@ -2,342 +2,542 @@
 
 *Episode: S01E19 - Myriad*
 
-The building was too quiet.
+The paper on Kara's desk had three weeks of coffee stains on the edges and a crease down the middle where she had folded it and unfolded it too many times. She had the DEO logs pulled up on her second monitor. The guard log and the ghost code log, side by side.
 
-Kara looked up from her screen and noticed it in the way she noticed things now — not as a feeling, but as a fact. The bullpen had a hum. The phones. The keyboards. The conversations that drifted over the partitions. Winn complaining about something. James asking a question. The receptionist laughing at something on her phone. That hum was the ordinary, and the ordinary was the thing that made CatCo feel like a place where people worked and lived and were real.
+Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
 
-That hum was gone.
+He'd been holding the pattern for three weeks, writing it down because the leak couldn't change paper. They'd been watching together. The paper didn't change.
 
-Winn was at his desk. His hands were on the keyboard. His fingers were moving. But he was not typing. He was not reading. He was moving in a rhythm. The same rhythm. The same pattern. Not words. Not data. Something else. His eyes were on the screen but his eyes were not seeing the screen.
+Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for three weeks, writing it down because the leak couldn't change paper.
 
-Kara stood up. She walked to his desk. She put her hand on the edge of the monitor.
+She had been doing this every night for so long that the late hours had become a kind of rhythm of their own.
+
+She watched the parking lot.
+
+She watched the back gate.
+
+She wrote down the times — two in the morning, three, one — the descriptions, the direction the figure went, the make of the car if she could catch it.
+
+She wrote it on paper and not on the computer because the leak could edit the cameras and the logs and the creation records, but the leak couldn't edit a piece of paper in her hand.
+
+Adrian wrote it on paper too. He had his own paper. The same pattern. The same names. The same times. They'd been holding it together for three weeks. The paper didn't change.
+
+She had learned that the hard way, in the first week, when the guard log she had been reading one night showed a completely different entry the next morning.
+
+After that, it'd paper.
+
+Always paper.
+
+Marcus was on the paper.
+
+The ghost code was on the paper.
+
+She had written down the times the figure showed up in the parking lot. And the times the code was used at the back gate.
+
+She had noticed they were different times. She had noticed they were the same night.
+
+She had sat with that. Because she didn't know who the leak was. And she didn't know who Marcus was working for.
+
+She had promised Alex she would hold it.
+
+She had promised she would watch and write it down and come back.
+
+And she had.
+
+Every single night.
+
+Adrian had been holding it too. At the console beside her. The paper open. The pattern running.
+
+The same paper. The same pattern. The same names. They'd been holding it together for three weeks.
+
+The paper didn't change.
+
+The chipped mug Winn had given her sat next to the keyboard, the one with the little chip out of the rim.
+
+The theater mask magnet from Adrian's desk was beside it, the one Evelyn had left behind — a small thing that had been sitting on that desk since the day Evelyn left.
+
+Kara's fingers found the cartoon bandage in her pocket without looking, the dog with the cape, the dumb little thing that reminded her she could bleed.
+
+She looked up.
+
+Winn was at his desk across the bullpen. His hands were on the keyboard. His fingers were moving. But he wasn't typing. He wasn't reading. He wasn't looking at his screen at all. His eyes were open, but they were fixed on nothing, and his fingers were tapping out a pattern that was the same pattern on every screen in the room.
+
+Kara stood up. She walked over and put her hand on the edge of his monitor.
 
 "Winn."
 
-He did not look at her. His fingers kept moving.
+Nothing. His fingers kept going.
 
-She looked at James. Same thing. Same rhythm. Same blank.
+She looked at James. Same thing. Same blank stare, same rhythm, same hands moving on nothing.
 
-She looked at the receptionist. Same thing.
+The receptionist at the front desk. Same.
 
-She went to the window.
+Kara went to the window.
 
-Below, the streets were full. People were walking. Not running. Not stopping. Not looking around. Walking. All of them. In the same rhythm. The same pace. The same direction. The city was a river that had been given a single current and was following it.
+Below, the streets were full. People were walking. Not running, not stopping, not looking around. Just walking.
 
-Kara grabbed her phone. She called Alex. No answer. She called the DEO. No answer. She called Hank. No answer. She tried every number in her contacts and every number came back the same way — not busy, not dropped, just empty. Like the person on the other end was not there.
+All of them. In the same rhythm. The same pace. The same direction.
 
-She looked at the city. The people walked. The cars drove. The lights changed. The city went on. And every person in it was somewhere else.
+Like the city had been given a current and every person was just following it.
+
+She grabbed her phone. Alex didn't answer. The DEO didn't answer. Hank didn't answer. She tried every number in her contacts and every one came back the same way — not busy, not dropped, just empty. Like the person on the other end simply wasn't there anymore.
+
+She looked down at the paper.
+
+The names.
+
+The times.
+
+The pattern.
+
+The parking lot, the back gate, the ghost code, Marcus.
+
+All of it written in her own hand, all of it held because she had promised Alex she would hold it.
+
+Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding it for three weeks. He'd keep holding it. The paper didn't change.
+
+And now the city was gone, the DEO was gone, and the people she had been watching the parking lot for were walking in a rhythm that wasn't theirs.
+
+Three weeks of watching and writing and holding, and it meant nothing against something that could just take every mind at once.
+
+She folded the paper and put it in her pocket.
 
 ***
 
 The barricades were already up.
 
-Kara flew above the city and saw them — the trucks, the barriers, the checkpoints. The military had sealed National City. No one in. No one out. General Lane's men had done it fast, the way men do things when they are scared and they have the resources to act on the fear.
+Kara flew above the city and saw them — trucks, barriers, checkpoints every few blocks. General Lane's men had sealed National City fast, the way men do when they're scared and they've the resources to act on the fear.
 
-She dropped lower. The DEO was below. The building was there. The lights were on. The guards at the gates were at their posts. They were doing their job. Their faces were calm. Their minds were gone.
+She dropped lower. The DEO was below. The building was there, the lights were on, the guards were at their posts. They were doing their jobs. Their faces were calm. Their minds were gone.
 
-She flew over the holding area. Astra's cell was empty. The door was open. The cuffs were gone. The dagger was gone. Astra was gone. And so was every other prisoner who had been in that corridor. The cells were open. The corridor was empty. The thing that had been keeping the prisoners in the building had let them out, and the thing that had been doing the letting was not human.
+She flew over the holding area. Astra's cell was empty. The door was open. The cuffs, the dagger — gone. Every cell in the corridor was open. The corridor was empty. Whatever had let the prisoners out hadn't used a key.
 
-Kara flew higher. She scanned the whole city. Every street. Every building. Every person. The pattern was everywhere. The rhythm was everywhere. And the thing that was running the rhythm was coming from somewhere.
+Kara climbed higher and scanned the whole city. Every street. Every building. Every person. The rhythm was everywhere. The pattern was everywhere. And whatever was running it'd coming from somewhere.
 
 ***
 
-The Fortress of Solitude was cold and it was quiet and it was the only place Kara could think to go.
+The Fortress of Solitude was cold and silent, and at that point it'd the only place Kara could think to go.
 
-She landed. She went inside. Kelex was there, standing in the corridor, the way it always stood, the way a machine stands when it is waiting to be told what to do.
+She landed and went inside. Kelex was in the corridor, standing there the way it always stood — patient, impassive, like a machine waiting for instructions that would never come.
 
-"I need my cousin," Kara said.
+"I need to talk to my cousin," Kara said.
 
 "Superman is off-world," Kelex said.
 
-"I need to know what is happening to the city," Kara said. "The people. The thing that is controlling them. I need the name of it. I need what it does. I need how to stop it."
+"Then I need answers," she said. "About the city. About the people. About what's happening to them. I need the name of it, what it does, and how to stop it."
 
-"I cannot answer that question," Kelex said.
+"I can't answer that question."
 
-"You know," Kara said. "You are a Kryptonian database. You know what this is. You were built to know what this is."
+"You can," Kara said. "You're a Kryptonian database. You know what this is. That's what you were built for."
 
-"My programming does not permit me to answer that question," Kelex said.
+"My programming doesn't permit me to answer that question."
 
-Kara stood there. She looked at the droid. She looked at the fortress — the maps, the data, the displays, the legacy of a family she had never known and a world she had never seen. And she felt the thing that had been sitting under everything, the thing that had always been there and had always been kept from her.
+Kara stood there, looking at the droid, looking past it at the fortress — the maps, the data, the displays, all the legacy of a family she'd never known and a world she'd never seen. The thing that had been sitting under everything, the thing that had always been there and had always been kept from her, was right there behind the words.
 
-"I am alone," she said. Not to the droid. To the fortress. To the cold. To the empty space where her cousin should have been. "I am alone in a city of people who are not people, and I need someone to help me."
+"I'm alone," she said. Not to the droid. To the fortress. To the cold. "I'm alone in a city full of people who aren't people anymore, and I need someone to help me."
 
-A light activated. A projection formed. A woman, standing in the center of the room, looking at her daughter.
+A light activated. A projection formed in the center of the room — a woman, standing there, looking at her daughter.
 
 "Myriad," Alura said.
 
-Kara did not move.
+Kara didn't move.
 
-"Myriad is a device," Alura said. "A mind-control device. Astra and Non designed it. They built it to force every mind on Krypton into one pattern. They believed that if everyone thought as one, the planet would be saved. They believed the argument was the problem. That disagreement was the problem. That if there was only one mind, there would be only one solution, and the solution would be the one that saved the world."
+"Myriad is a device," Alura said. "A mind-control device. Astra and Non designed it. They built it to force every mind on Krypton into a single pattern. They believed that if everyone thought as one, the planet would be saved. That the argument was the problem. That disagreement was the problem. If there was only one mind, there would be only one solution."
 
-"And the High Council?" Kara said.
+"And the High Council?"
 
-"The High Council saw what it could do," Alura said. "Not on Krypton. On any world. They saw that a device that could force a mind to think as one could force a mind to think as one of yours. Or as one of mine. Or as one of anyone's. They saw enslavement. They banned it. They tried to destroy it. Astra and Non were arrested. They were sent to Fort Rozz. The device was not destroyed. It was hidden. And now it has been found."
+"The High Council saw what it could do," Alura said. "Not on Krypton. On any world. A device that forces a mind to think as one can force a mind to think as yours. Or mine. Or anyone's. They saw enslavement. They banned it. They tried to destroy it. Astra and Non were arrested. They were sent to Fort Rozz. The device wasn't destroyed. It was hidden. And now it's been found."
 
-"Can it be stopped?" Kara said.
+"Can it be stopped?"
 
-"Once it is running," Alura said, "it cannot be stopped. It can be disrupted. It can be overloaded. But the signal is already in the city. The minds are already taken. The only thing that can reach them is hope. A signal sent on the same frequency, louder than the control, carrying the thing that Myriad cannot replicate."
+"Once it's running," Alura said, "it can't be stopped. It can be disrupted. It can be overloaded. But the signal is already in the city. The minds are already taken. The only thing that can reach them is hope. A signal on the same frequency, louder than the control, carrying the one thing Myriad can't replicate."
 
-"I do not know how to send that," Kara said.
+"I don't know how to send that."
 
-"You already know," Alura said. "You have always known. That is what you are. That is what your cousin could not be. That is what the House of El has always been. Not strength. Not speed. Hope. And hope is the one thing that a control device cannot replicate, because hope is not a pattern. Hope is a choice."
+"You already know," Alura said. "You've always known. That's what you're. That's what your cousin couldn't be. That's what the House of El has always been. Not strength. Not speed. Hope. And hope is the one thing a control device can't replicate, because hope isn't a pattern. Hope is a choice."
 
 The projection faded.
 
-Kara stood in the empty fortress. The cold surrounded her. She flew back to National City.
+Kara stood in the empty fortress.
+
+Adrian was at the DEO. The paper open. The names. The times.
+
+The parking lot. The back gate. The ghost code. The chipped mug on the corner of the monitor.
+
+The theater mask magnet beside it. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
+
+She thought about the paper in her pocket — the names, the times, the pattern.
+
+She thought about Adrian, at the DEO console, holding the same pattern. The same paper. The same code. They had been watching together for three weeks. The paper didn't change. The pattern held.
+
+She had held all of it because the leak couldn't change paper.
+
+She had held it because she didn't know who the leak was.
+
+She had held it because it'd the work.
+
+And now the work was different.
+
+The work was a device that had taken the whole city. The people she'd been watching the parking lot for were gone.
+
+Adrian was at the console. The paper open. The names. The times.
+
+The pattern. He didn't look up from it. The work was the work. The paper was the paper.
+
+And the paper didn't change.
+
+Three weeks of holding the pattern was nothing against something that could take every mind at once.
+
+She flew back to National City.
 
 ***
 
-CatCo was a room of people who were not there.
+CatCo was a room full of people who weren't there.
 
-Kara landed on the roof and went inside. Winn was at his desk, moving in the rhythm. James was at his desk, moving in the rhythm. The receptionist was at the front desk, moving in the rhythm. The whole floor was moving. The whole building. The whole city. And none of them were in it.
+Kara landed on the roof and went inside. Winn at his desk, moving in the rhythm. James at his desk, moving in the rhythm.
 
-Kara walked through the bullpen. She put her hand on Winn's desk. She spoke his name. She told him who she was. She told him what was happening. She told him that she was going to stop it and that when she stopped it he would be back.
+Adrian was at the console by the door, the paper open, the ghost code log running. His mind was gone. His hands were moving in the rhythm. But the paper was still there.
 
-He did not look up.
+The pattern was still there. The names were still there. The paper didn't change. The receptionist at the front desk, moving in the rhythm.
 
-She went to her desk. She sat down. She looked at the screen. She did not type.
+The whole floor. The whole building. The whole city. Moving, moving, moving, and none of them were in it.
 
-She looked at the things on her desk. The mug Winn had given her, the one with the small chip. The theater mask magnet from Adrian's desk, the one that had been sitting there since the day Evelyn left it. The cartoon bandage she had kept in her pocket, the dog with the cape, the small ordinary thing that had reminded her she could bleed.
+Kara walked through the bullpen. She put her hand on Winn's desk again. She said his name. She told him who she was, what was happening, that she was going to fix it and when she did he'd be back.
 
-All of it was here. All of it was real. And none of it mattered, because the person who had given her the mug was not himself, and the person who had left the magnet was somewhere in the city, possibly gone, possibly still himself, and the bandage was just a piece of paper with a drawing on it.
+Adrian was at the console by the door, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. His mind was gone too.
 
-She picked up the bandage. She looked at it. She put it back.
+His hands were moving in the rhythm. But the paper was still there. The pattern was still there. The names were still there.
 
-And then the door opened.
+The paper didn't change.
 
-Cat walked in. She was carrying her tablet. She was walking at her normal pace. She was not in the rhythm. She was the one person in the building who was still a person, and she did not know it.
+He didn't look up.
 
-She stopped when she saw Kara. She looked at the bullpen. She looked at Winn. At James. At the receptionist. At the people moving in the pattern. She looked back at Kara.
+She sat at her own desk and looked at the things on it.
 
-"Something is wrong," Cat said.
+The chipped mug.
 
-"Everything is wrong," Kara said.
+The theater mask magnet.
+
+The cartoon bandage in her pocket.
+
+All of it'd real.
+
+All of it'd here.
+
+And none of it mattered.
+
+The person who'd given her the mug wasn't himself anymore. The person who'd left the magnet was somewhere in the city — maybe gone, maybe still himself. She didn't know.
+
+And the bandage was just a piece of paper with a dog on it.
+
+She picked up the bandage. Looked at it. Put it back.
+
+Then the door opened.
+
+Cat walked in with her tablet, at her normal pace, completely untouched by whatever was happening.
+
+Adrian was at the console by the door, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. His mind was gone.
+
+But the paper was still there. The pattern. The names. The paper didn't change.
+
+She stopped when she saw Kara. She looked at the bullpen. At Winn. At James.
+
+At the receptionist. At the people moving in the pattern. She looked back at Kara.
+
+"Something's wrong," Cat said.
+
+"Everything's wrong," Kara said.
 
 ***
 
-Maxwell Lord arrived ten minutes later. He came through the lobby with his hands in his pockets and his eyes sharp. He was not in the rhythm. He was the same man he had always been — the man who built things, who had a plan, who had a reason for everything.
+Maxwell Lord showed up ten minutes later, hands in his pockets, eyes sharp, completely untouched by the rhythm. The man who built things, who had a plan, who always had a reason for everything.
 
-"The city is under a mind-control device," he said. He did not sit. He did not waste time. "It is Kryptonian. Non and Indigo are running it. They have turned every person in National City into a drone. And they are using my satellites to broadcast the signal."
+"The city is under a mind-control device," he said. He didn't sit. He didn't waste time. "It's Kryptonian. Non and Indigo are running it. They've turned every person in National City into a drone. And they're using my satellites to broadcast the signal."
 
 "Your satellites," Kara said.
 
-"They hijacked my communication infrastructure," Max said. "Every device in this city that can receive a signal is receiving theirs. That is how they reached everyone. And I did not know until the city went quiet and my own people stopped calling me."
+"They hijacked my communication infrastructure," Max said. "Every device in this city that can receive a signal is receiving theirs. That's how they reached everyone. I didn't know until the city went quiet and my own people stopped calling me."
 
-"How are you not affected?" Kara said.
+"How are you not affected?"
 
-"I built an ion blocker," Max said. "When I learned what the Kryptonians had, I built a device to block the signal. I wear it. And I sent a pair of earrings to Cat. She is wearing them. That is why she is not affected."
+"I built an ion blocker," Max said. "When I learned what the Kryptonians had, I built a device to block the signal. I wear one. And I sent a pair of earrings to Cat." He nodded at Cat. "She's wearing them. That's why she's unaffected."
 
-Cat touched her ear. The diamond earrings. The gift. The plan.
+Cat touched her ear. The diamond earrings. The gift. She looked at them like she was seeing them for the first time.
 
-"You sent me earrings," Cat said.
+"You sent me earrings," she said.
 
-"I sent you earrings that would keep your mind your own," Max said. "I hoped you would wear them. I hoped you would be safe."
+"I sent you earrings that would keep your mind your own," Max said. "I hoped you'd wear them. I hoped you'd be safe."
 
-Kara looked at the city through the window. The people walked. The rhythm went on.
+Kara looked out at the city. People walking. Rhythm going on.
 
 "We need to stop it," she said.
 
-"I have a way," Max said.
+"I've a way," Max said.
 
-"I do not want to hear it," Kara said.
+"I don't want to hear it," Kara said.
 
-"You need to hear it," Max said. "Because you are the only person in this city who can carry it out. And because the alternative is watching every person in this city die."
+"You need to hear it," Max said. "Because you're the only person in this city who can carry it out. And because the alternative is watching every person in this city die."
 
 ***
 
-Non did not knock. He walked through the lobby and into the bullpen, and the drones did not look at him. They kept moving. They were doing what they were doing for him. And they did not know he was there.
+Non didn't knock. He walked through the lobby and into the bullpen, and the drones didn't look at him. They kept moving. They were doing what they were doing for him, and they didn't even know he was there.
 
-He stood in the middle of the floor. He looked at Kara the way he had always looked at her — not as a nephew, not as an enemy, but as a person he had been trying to reach for a long time and had never been able to.
+He stood in the middle of the floor. He looked at Kara the way he'd always looked at her.
 
-"You cannot stop Myriad," he said. His voice was old. Direct. The voice of a man who had been carrying something for a very long time and had decided to put it down. "You have been told that hope can disrupt the signal. That is true. But hope does not change the fact that Myriad is already running. And the city is already mine."
+Not as a nephew. Not as an enemy. But as someone he'd been trying to reach for a very long time and had never been able to.
 
-"The city is not yours," Kara said.
+"You can't stop Myriad," he said. His voice was old, direct, the voice of a man who had been carrying something for a long time and had decided to put it down. "You've been told hope can disrupt the signal. That's true. But hope doesn't change the fact that Myriad is already running. And the city is already mine."
 
-"The people are mine," Non said. "Their minds are mine. Their hands are mine. They are doing what I need them to do, and what I need them to do is work. All of them. Together. As one. Solving problems. Processing data. Building. Thinking. And they are better at it than they were when they were alone. Because alone, they argued. Alone, they hesitated. Alone, they feared. Together, they do none of those things. Together, they are a mind that does not need to rest."
+"The city isn't yours," Kara said.
+
+"The people are," Non said. "Their minds are. Their hands are. They're doing what I need them to do, and what I need them to do is work. All of them. Together. As one. Solving problems. Processing data. Building. Thinking. And they're better at it than they were alone. Because alone, they argued. Alone, they hesitated. Alone, they feared. Together, they do none of that. Together, they're a mind that doesn't need to rest."
 
 "You took them," Kara said.
 
-"I gave them purpose," Non said. "I gave them meaning. They are no longer alone. They are no longer afraid. They are part of something that is larger than them, and that is more than they had before."
+"I gave them purpose," Non said. "I gave them meaning. They're not alone anymore. They're not afraid. They're part of something larger than them, and that's more than they had before."
 
-"You took them," Kara said. "You took their minds. And you call that giving them meaning. And you call the woman who fell off the balcony a cost of the meaning. And you call yourself the one who is doing this for Astra. And Astra is dead. She was killed by a sword. She is gone. And you are carrying a dead woman's dream and destroying a living city, and you are calling that finishing what she started. And she would not have wanted this. She would not have wanted the city. She would not have wanted the dead. She would have wanted the living to be free."
+"You took them," Kara said. "You took their minds. And you call that giving them purpose. And the woman who fell off the balcony — that was the cost of the purpose. And you call yourself the one doing this for Astra. And Astra is dead. She was killed by a sword. She's gone. And you're carrying a dead woman's dream and destroying a living city, and you call that finishing what she started. She wouldn't have wanted this. She wouldn't have wanted the city. She wouldn't have wanted the dead. She would have wanted the living to be free."
 
-Non did not answer to that. The thing behind his eyes shifted. The calm cracked.
+Non didn't answer. The thing behind his eyes shifted. The calm cracked.
 
-Non went quiet. The calm behind his eyes shifted. The directness became something harder.
+"She would have wanted the world saved," he said. "She would have wanted the people united. She would have wanted the mission completed. And I'm completing it."
 
-"She would want the world saved," he said. "She would want the people united. She would want the mission completed. And I am completing it."
+He looked at Winn. At James. At the receptionist.
 
-He looked at Winn. At James. At the receptionist. At the people moving in the rhythm.
+"Show her," he said.
 
-"Show her," Non said.
+Winn stood up. Walked to the window. Looked down. Then walked to the balcony and climbed onto the railing.
 
-Winn stood up. He walked to the window. He looked down. Then he walked to the balcony and climbed onto the railing.
+James stood up. Walked to the window. Looked down. Then walked to the balcony and climbed onto the railing.
 
-James stood up. He walked to the window. He looked down. Then he walked to the balcony and climbed onto the railing.
+The receptionist stood up. Walked to the window. Looked down. Then walked to the balcony and climbed onto the railing.
 
-The receptionist stood up. She walked to the window. She looked down. Then she walked to the balcony and climbed onto the railing.
+Kara moved. She was fast — she was Supergirl, the fastest thing in the city. But she was one person and there were three of them, and they were all falling.
 
-Kara moved. She was fast. She was Supergirl. She was the fastest thing in the city. But she was one person, and there were three of them, and they were falling.
-
-She caught Winn. She caught James. She could not catch the receptionist.
+She caught Winn. She caught James. She couldn't catch the receptionist.
 
 The receptionist fell.
 
-Kara stood on the balcony with Winn in one arm and James in the other. She looked down at the street. The woman was there. She was still.
+Kara stood on the balcony with Winn in one arm and James in the other, looking down at the street. The woman was there. She was still.
 
-"I am sorry," Kara said.
+"I'm sorry," Kara said.
 
-She did not say it to Winn. She did not say it to James. She said it to the street. To the air. To the woman whose name she had never learned.
+Not to Winn. Not to James. To the street. To the air. To the woman whose name she'd never learned.
 
 She looked at Non.
 
-Non was not gloating. He was watching. The way a man watches a thing he has planned. The way a man watches a test.
+He wasn't gloating. He was watching. The way a man watches a test he's already run.
 
-"This is what happens when you are alone," Non said.
-
-***
-
-Max took her aside.
-
-"I have a bomb," he said. "Filled with Kryptonite dust. Detonated over the city. It will kill every Kryptonian in National City. You and Superman will be gone before it detonates. And it will keep Kryptonians away from this city for fifty years."
-
-"And the humans," Kara said.
-
-"Approximately eight percent of the human population," Max said. "Three hundred thousand people. As a consequence. And I know what that means. I know what you will say. But the alternative is every person in this city under Non's control forever. And three hundred thousand is a smaller number than that."
-
-Kara looked at him. Three hundred thousand was not a smaller number. Three hundred thousand was three hundred thousand. But she did not say it, because saying it did not change it.
-
-"I will not do it," she said.
-
-"I will build it without you," Max said. "And the result will be the same. And you will have refused to be part of it. And the three hundred thousand will die without you having tried to stop it."
-
-Kara did not say anything. She stood there with Winn and James behind her, still holding them, still the only awake person in a city of drones. She thought about the three hundred thousand. She thought about what three hundred thousand meant. It meant a city. It meant a country. It meant every person who had gone to work that morning, who had kissed their family, who had drunk their coffee, who had lived an ordinary life, and who would not be coming home.
-
-And she thought about the alternative. A city of drones. Forever. Not dead. Not dying. Just gone. Minds taken. Bodies walking. A city that was alive and was not alive, and would stay that way, and no one would ever be able to fix it, because the device could not be stopped once it was running.
-
-Three hundred thousand was not a smaller number. But standing in a city where every mind was already gone, three hundred thousand was the only number she could count.
-
-"There is another way," she said.
-
-"There is no other way," Max said.
-
-"There is always another way," Kara said.
-
-She looked at Cat.
-
-Cat was at the edge of the bullpen. She had not intervened. She had let Kara make the choice. That was what Cat did. She let people decide. And then she was there when they needed her.
-
-"What would you do?" Kara asked.
-
-Cat looked at her. "I would not bomb my city. I would find the thing he does not have."
-
-"What is that?"
-
-"Me," Cat said. "And you. And the fact that we are not him. Fear is what he uses. Hope is what we have. And I do not know the mechanism. But I know that you are hope. And I would send it. I would put it on the signal. And I would see if it works."
-
-"It might not," Kara said.
-
-"It might not," Cat said. "But three hundred thousand people will die if you do the bomb. And they will not die if you try the hope first. So you try the hope. And if it fails, you do the bomb. And if it fails and you do the bomb, you will have tried first. And that will matter."
-
-Kara looked at Cat. Then at the city. Then at Max.
-
-"I am going to the broadcasting station," she said.
+"This is what happens when you're alone," he said.
 
 ***
 
-Alex was at her mother's house in Midvale.
+Max spread the bomb plan out on the conference room table. Laptop, printout, diagram. He had the numbers. He always had the numbers.
 
-She had been on the run with J'onn for days. They had escaped National City before Myriad activated. They had been heading to Eliza's for supplies, for a plan, for a way to find Jeremiah. And then Kara had called. And Alex had heard what was happening. And Alex had made the decision that Alex always made.
+"Kryptonite bomb," he said. "It will make National City uninhabitable for Kryptonians for fifty years. It will kill every Kryptonian in the city — Supergirl, the prisoners, any Kryptonian within range. It will also kill roughly eight percent of the human population. Casualties estimated at approximately three hundred thousand."
 
-"I am going back," she said.
+Kara looked at the diagram. She looked at the numbers. Three weeks of watching the DEO. Writing names on paper. Holding the pattern because the leak couldn't change paper.
 
-J'onn looked at her. "You cannot go back."
+And now she was being asked to choose a bomb that would kill three hundred thousand people.
 
-"I am not Kryptonian," Alex said. "My mind is human. I will not be affected."
+Adrian was at the console. The paper open. The names. The times.
 
-"Myriad is Kryptonian technology," J'onn said. "And it is designed to control minds. And human minds are not immune to a device that is designed to control minds. You will be affected. And you will be used against your sister."
+The parking lot. The back gate. The ghost code. The chipped mug on the corner of the monitor.
 
-"I will not be," Alex said. "Because I am determined. And my determination is stronger than any device."
+The theater mask magnet beside it. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
 
-J'onn argued. He lost. Because when Alex decided, Alex decided.
+"I can't do that," she said.
 
-They took a bus. J'onn disguised himself as a young boy. Alex wore a blonde wig. They got past the checkpoint. They made it back to National City.
+"You can," Max said. "Because if you don't, the device runs. And the device doesn't just control. It uses the combined brainpower of every human in the city as a supercomputer. Non is building something. Indigo is guiding him. And they're not building it for the people. They're building it for themselves. For galaxy domination. And the only thing that stops it's the bomb."
+
+"The bomb kills three hundred thousand people," Kara said.
+
+"The bomb kills three hundred thousand people and saves the rest," Max said. "That's the math. That's the cost. And it's your decision."
+
+Kara looked at Cat, who was at the edge of the room with her arms folded, her earrings catching the light. Cat had watched Kara for a year — save the city, save the plane, save the building, save the people. Cat had watched her hold the pattern on paper, watch the parking lot at two in the morning, do the work no one saw. And now Cat was watching her decide whether to drop a bomb.
+
+"There's another way," Cat said.
+
+"There's no other way that works," Max said.
+
+"There's hope," Cat said. "Alura said hope is the counter. A signal on the same frequency. The House of El symbol. The choice. You can't force a mind to choose. But you can give it something to choose. And you can make that choice louder than the control."
+
+"Hope isn't a weapon," Max said.
+
+"Hope is the only thing that works," Cat said. "Because the bomb is a weapon. And a weapon kills. And hope doesn't."
+
+Kara looked at the diagram. At the numbers. At the city through the window. People walking. Rhythm going on.
+
+She stood up.
+
+"I'm going to broadcast," she said.
+
+"You don't know if it'll work," Max said.
+
+"I don't know," Kara said. "But I'm going to try. And I'm going to try before I drop a bomb that kills three hundred thousand people."
+
+She left the conference room and went to the broadcasting station.
+
+***
+
+The broadcasting station was empty. The technician was at his desk, moving in the rhythm. Kara moved him gently aside and sat at the console. Found the microphone. Checked the feed. Found the frequency Max had identified as the one Myriad was using.
+
+She looked at the microphone and thought about the paper in her pocket. The names. The times. The pattern.
+
+The parking lot, the back gate, the ghost code, the leak, Marcus. She had held all of it because the leak couldn't change it. She had held it because she didn't know who the leak was. She had held it because it'd the work.
+
+And now the work was different. The work was hope.
+
+She didn't know if hope was a signal. She didn't know if what Alura had told her was real. She didn't know if the people on the other side of the microphone could hear her, or if they were too far gone to hear anything at all.
+
+But she had no bomb. She had no plan. She had to try.
+
+"My name is Kara Danvers," she said into the microphone. "And I'm standing here, in this city, with the people I love, and I need you to hear me. You're not alone. There is hope. Fear is what they want. But hope is already in you, and it's stronger than any device."
+
+She didn't give a speech. She didn't lay out a plan. She just said the thing she knew — the thing she'd known since the day she arrived on Earth, the thing that had been the reason she'd put on the cape in the first place. She said it the way she'd say it to Winn, or James, or Alex. The way a person says the thing they believe when there's nothing left to say except the truth.
+
+The House of El symbol appeared on the monitor behind her. She hadn't put it there. The system had found it. The frequency had picked it up. The thing from her cape, from the pod that brought her to Earth, from her mother, her aunt, her cousin — all of it riding the signal.
+
+It wasn't a pattern. It wasn't a signal. It was a choice. And it'd the one thing a control device couldn't replicate, because a control device could force a mind to think as one, but it couldn't force a mind to choose.
+
+***
+
+Adrian had been reading at his apartment when the city went quiet.
+
+The band was at his wrist, the seal holding, the powers held back.
+
+The ordinary — the thing he'd chosen, the thing he'd built his whole life around.
+
+He'd chosen it on purpose.
+
+He'd chosen it because the powers had been a threat. The ordinary had been a safety.
+
+He'd put the band on and become the man he wanted to be. The one who sat at a desk. Who read. Who lived a life that didn't end in flames.
+
+He felt the shift when it happened. Not a pressure. Not a signal. Nothing.
+
+That was the thing.
+
+He felt nothing.
+
+He stood up and walked to the window. The people were walking. The rhythm was there. And he wasn't in it. The hybrid biology, the mixed blood, the thing he'd been born with — it made him immune. The device couldn't reach him.
+
+And the device couldn't reach him, and that wasn't a relief. It was a problem.
+
+Because if the device was running and every mind in the city was being taken, if the people on the street weren't people anymore — then what was the ordinary?
+
+What was the life he'd chosen?
+
+The ordinary existed because the city existed.
+
+Because the people on the street were still themselves, still making their own choices, still living their own lives.
+
+The ordinary was the texture of a world where minds were still free.
+
+And the device was taking that away.
+
+Not just taking minds.
+
+Taking the thing that made the ordinary *ordinary*.
+
+The choice to be ordinary meant nothing if there was no one left to be ordinary for.
+
+He'd built his whole life around the band on his wrist. Sealed himself off from what he'd been born as. Become the man he wanted to be. And now the thing he'd sealed himself off from was running the city, and the man he'd become was standing at a window watching the world that made his choice real disappear.
+
+He thought about Kara.
+
+She was somewhere in the rhythm.
+
+She'd been holding the pattern for three weeks — watching the parking lot, writing on paper, watching the back gate, doing the work no one saw.
+
+And he'd been at CatCo, ordinary, sealed, the man he'd chosen to be.
+
+And now the city was gone and Kara was somewhere in it, and he couldn't fly.
+
+He couldn't catch three people falling from three balconies.
+
+He couldn't stop a mind-control device with his hands.
+
+He couldn't stop the device. But the device was the thing that made his life meaningless. If he stayed ordinary, if he kept the band on, if he sat at his desk and read — then what? The ordinary would be a corpse. A life without the world it lived in. A choice without a context. He'd be the only mind left in a city of drones, wearing a band he'd put on to protect a thing that no longer existed.
+
+He looked at the band. The seal. The metal. The thing he'd put on to become ordinary.
+
+He didn't take it off.
+
+Not because he couldn't.
+
+Not because he'd changed his mind.
+
+Because taking it off was the wrong kind of answer.
+
+The powers wouldn't stop the device.
+
+They wouldn't catch the people falling from the balconies.
+
+They wouldn't reach the minds in the rhythm.
+
+Taking the band off wouldn't save the city.
+
+It would just be a different kind of surrender — surrendering the choice he'd made, at the moment when the choice itself was what mattered.
+
+The ordinary wasn't the absence of power. The ordinary was the presence of a world where ordinary mattered. And that world was being taken. The only thing he could do was hold what was left of it — the paper, the pattern, the names, the watch, the work no one saw. The only thing he could do was keep the ordinary alive in the one place it still had meaning: in the mind that was still his.
+
+He put the band back on his wrist. Grabbed his jacket. Ran out the door.
+
+The streets were full of people walking in the rhythm. They didn't see him. They didn't stop him. He ran through them — the ordinary man running through a city that had no room for ordinary anymore — and he went to the DEO.
+
+The guards at the gate were at their posts. Doing their job. Minds gone. Adrian walked past them, not breaking the rhythm, not being seen, and went inside.
+
+The tech room was empty. The console was dark. The logs were frozen. He looked at the screen.
+
+The guard log. The ghost code log. The pattern Kara had been holding for three weeks was still there. The paper she'd been writing was still somewhere.
+
+The names were still on it. The parking lot. The back gate. The ghost code.
+
+Marcus. All of it'd still there, frozen, waiting.
+
+He sat at the console. Opened the guard log. Pulled the ghost code log. Started reading.
+
+The device couldn't take the paper. It couldn't take the pattern. It couldn't take the names written in Kara's hand on a piece of paper that no signal could reach. He could hold that. He could hold the one thing the device couldn't destroy.
+
+He couldn't stop Myriad. But the device could take every mind in the city, and it couldn't take this. It couldn't take the paper. It couldn't take the pattern. It couldn't take the names written in Kara's hand on a piece of paper that no signal could reach. He could hold that. He could hold the one thing the device couldn't destroy.
+
+He did.
+
+***
+
+Kara was at the microphone when Alex walked in.
+
+Alex was out of breath, and J'onn was with her — leaning on her, bleeding, the two of them having come back from Midvale the moment they'd heard.
+
+"Alex," Kara said, standing up.
+
+"We came back," Alex said. "As soon as we heard."
+
+"The broadcast—"
+
+"It's going out," J'onn said. His voice was low, measured, the voice of a man who'd been fighting for three hundred years and wasn't done yet. "I heard it. It's reaching them. The city is starting to wake."
 
 And then Indigo was there.
 
-She came out of the alley. Smooth. Fast. The thing that had been waiting.
+She came through the door behind Alex. She didn't walk — she moved, smooth and liquid, the thing that had been working from the inside, manipulating Non, playing her own game. She slipped past Alex and went for J'onn. Not for Kara. For the wounded Martian.
 
-J'onn fought her. He threw her into a building. The building exploded. Indigo came out of the flames. She reformed. She was the thing that could not be killed by fire.
+The blade came from somewhere. Kryptonite. Sharp. It went into J'onn's chest.
 
-She stabbed J'onn through the chest.
+J'onn fell. Alex caught him, turned, saw Indigo, saw the blade — saw the thing that had stabbed the man who'd been her partner, her friend, the man who'd been protecting her for months.
 
-J'onn fell. His mental protection over Alex dropped. And Myriad took Alex.
+And then Alex fell.
 
-***
+Not from the blade. From the signal. The Myriad signal, still running, still reaching into every mind in the city — and Alex, exhausted and wounded and desperate, let it in.
 
-At the broadcasting station, Kara was setting up the equipment.
+Kara saw her sister's eyes go blank. The rhythm took her. The pattern closed around her.
 
-Cat was there. Max was there. The old analog broadcast facility — the equipment Cat had used years ago, before she built CatCo. The room was small. The equipment was old. The wires were visible on the walls. The whole place had the feel of a thing that had been built for a purpose and had been left behind when the purpose had changed.
+And then Alex stood up. Walked to the armory. Took the Kryptonite suit. Put it on. Took the sword. Came back.
 
-The signal was primitive. But it was enough. Enough to ride the Myriad signal. Enough to try. And trying was the only thing Kara had left.
+She walked to Kara and raised the sword.
 
-Kara stood at the microphone. She looked at the screen. The city was there. The people were there. The drones were there. And she was going to talk to them. She was going to send hope. And she did not know if hope was a signal. She did not know if it would reach them. But she was standing at the microphone, and she had no bomb, and she had no plan, and she had to try.
-
-And then she heard it.
-
-A sound from outside. A sound she knew. A sound she had been trying not to hear since the moment she realized what was happening.
-
-She went to the door. She looked out.
-
-Alex was there.
-
-Alex in a Kryptonite-powered battle suit. Alex holding the Kryptonite sword. The sword that had killed Astra. The sword that was supposed to be gone. Alex's eyes were not Alex's eyes. Alex's face was not Alex's face.
-
-"Non sends his regards," Alex said. Her voice was not her voice. It was Non's voice, coming through her mouth. "He has found your weakness. And he would like you to join Astra."
-
-Kara looked at her sister. She did not raise her hands. She did not ready herself for the fight. She just stood there and looked at the person she loved, the person who was gone, the person who was standing in front of her with a sword and a suit and a mind that was not her own.
-
-"I am not going to fight you," Kara said.
-
-"You will fight me," Alex said. "Or you will die."
-
-Kara did not move. She looked at Alex. She looked at the sword. She looked at the eyes. And she thought about the city, the drones, the dead woman, Max's bomb, Cat's hope, and the woman in front of her who was her sister and was not her sister.
-
-"I am not going to fight you," she said.
+Kara didn't move. Didn't raise her hands. Didn't block. She stood there with the Kryptonite blade aimed at her chest, and the person holding it'd her sister and wasn't her sister.
 
 And Alex moved.
 
-They jumped into the air toward each other, and the sword was coming, and the city was behind them, and the rhythm was still running through every screen and every phone and every mind in the city, and Kara did not raise her hands.
-
-***
-
-Adrian was at the back gate of the DEO.
-
-He had been there since the city went quiet. He had watched the people walk past the gate in the rhythm. He had watched the guards at their posts. He had watched the city from the alley, and he had felt the thing that was running through it — the signal, the control, the thing that had taken every mind in National City and turned them into one.
-
-And he was not affected.
-
-He did not know why. He had not been affected by the traffic device the day before — that had been a different thing, a control device for vehicles, not for minds. But Myriad was different. Myriad was the thing that had been designed to control Kryptonians. And he was Kryptonian-Daxamite. And whatever it was in his hybrid biology — whatever combination of Kryptonian and Daxamite made him what he was — it had kept his mind his own. Or the seal had. Or something about the device he had built himself, the thing that had kept him ordinary, had kept the signal out.
-
-He did not know. He just knew he was awake. And the city was not. And Kara was somewhere in the city, alone, with a controlled sister and a dead woman and a Kryptonite bomb plan and a broadcasting station that might not work.
-
-He looked at the band on his wrist.
-
-He could unseal. He could go to her. He could be there. He was Kryptonian-Daxamite. He had the strength. He had the speed. He could fight.
-
-But he was one person. And the city was a city. And Kara was the one who could fly. And the one who could broadcast. And the one who had to choose between the bomb and the hope. And he was Adrian. And he was sealed. And being sealed meant he could not fly across the city in seconds. And being sealed meant he could not catch three people falling from three balconies.
-
-He could be at the broadcasting station. He could be at the DEO. He could be somewhere that mattered.
-
-He thought about Kara. He thought about the way she had looked when she had told him she was going to move — the pattern, the paper, the names, the leak. She had been tired. She had been holding. And she had been doing it alone, in the way that Kara always did, the way she always took the thing onto herself and carried it, because she did not know how to do it any other way, and because she did not think she had a choice.
-
-She had a choice now. She had a choice that she did not know about. Because he was here. And he was awake. And he could move.
-
-He could not fly. He could not catch three people falling from three balconies. He could not stop a mind-control device with his hands. But he could be at the broadcasting station. He could be at the DEO. He could stand in a place where Kara needed someone to stand, and he could be that person.
-
-He started running.
-
-The alley was dark. The city lights moved above him. The people walked past the gate in the rhythm, not seeing him, not knowing he was there. He ran the way he had always run — steady, even, the way a man runs when he has decided something and is going to do it.
-
-He ran toward the DEO. And the city went on around him, and the rhythm went on, and the thing that had taken the city went on running, and he ran against it, one man in a city of drones, and he was going to be there when Kara needed him to be there.
+They jumped into the air toward each other. The sword was coming. The city was behind them. The rhythm was still running through every screen and every phone and every mind in the city. And Kara didn't raise her hands.

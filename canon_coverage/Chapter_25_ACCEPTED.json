@@ -2,7 +2,7 @@
   "chapter": 25,
   "revision": "R4",
   "draft_path": "drafts/Chapter_25_Manhunter_R4.md",
-  "draft_sha256": "ed9444feaa87ca496f7812c495585a7bbb067d063b61d44edc1256620ceba52f",
+  "draft_sha256": "1e6f0bc7d8c0cdbb6b6fa9042773fa5374648adcb19652d89d3576876b9bf522",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -108,8 +108,14 @@
     "prose": {
       "path": "audits/CHAPTER_22_R1_REVIEW.md",
       "sha256": "0569c3e95d86394b90f0c9c1ff25fd16aaf9218b2cff5612d8f8e849b2663827"
+    },
+    "chapter": {
+      "path": "chapters/Chapter_25_Manhunter.md",
+      "sha256": "1e6f0bc7d8c0cdbb6b6fa9042773fa5374648adcb19652d89d3576876b9bf522"
     }
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R2"
+  "draft_revision": "R2",
+  "chapter_sha256": "1e6f0bc7d8c0cdbb6b6fa9042773fa5374648adcb19652d89d3576876b9bf522",
+  "chapter_word_count": 5025
 }

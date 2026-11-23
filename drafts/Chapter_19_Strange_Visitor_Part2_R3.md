@@ -16,6 +16,10 @@ She walked into the DEO, went to the holding area, and looked through the glass 
 
 Alex stood in the corridor and called Kara.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+He didn't look up. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
+
 "Astra is gone," she said.
 
 "What do you mean gone?"
@@ -54,6 +58,12 @@ Alex was quiet for a moment. "Non was at Kara's apartment last night. He wasn't 
 
 Kara went to the DEO.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+He looked up when she walked past. "The pattern's still holding," he said. "The ghost code hasn't spiked since the cell was opened. I'll keep watching." The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she walked past.
+
+"The pattern's still holding," he said. "The ghost code hasn't spiked since the cell was opened. I've been watching. I'll keep watching."
+
 She walked through the lobby and went to the holding area. She stood in the corridor and looked through the glass at the empty cell.
 
 The bed was empty. The floor was clean. The walls were clean. There was no sign that anyone had been in the cell and left.
@@ -65,6 +75,8 @@ She crouched and looked at the wires.
 Someone had bypassed the locking mechanism. They hadn't picked the lock. They hadn't used a key. They had gone to the panel, opened it, and rewired the mechanism so the door would open without a code.
 
 "Winn," she said.
+
+Adrian was at the console by the door, the paper open, the ghost code log running. He didn't look up. He was holding the pattern. He was writing it on paper because the leak couldn't change it.
 
 Winn came down the corridor. He looked at the panel, then at Kara. "That isn't how we built it," he said.
 
@@ -89,6 +101,8 @@ Winn came down the corridor. He looked at the panel, then at Kara. "That isn't h
 "That is what they wanted."
 
 Kara stood up. "Astra is gone. She took the dagger. She walked out of this building. And the person who let her out made it look like they used a code. So we would look at everyone and find nobody."
+
+Adrian was at the console by the door, the paper open. He didn't look up. The pattern held. The names were the same. The paper didn't change.
 
 "That is what happened."
 
@@ -204,6 +218,8 @@ Kara stood up. "I need to go back to the DEO."
 
 Kara looked at Non. He was calm. He was ordinary. He was a Kryptonian general sitting at her kitchen table, telling her that the leak was inside the DEO and that Astra was out and that Lord was building something.
 
+She thought about Adrian. At his console in the bullpen, the paper open, the ghost code log running. Holding the pattern. Writing it down because the leak couldn't change paper. He'd been doing it for three weeks. He'd be doing it now.
+
 She didn't know if she could trust him. She didn't know if he was telling the truth. She knew that Astra was gone. She knew the leak was inside. She knew Non was sitting at her table with information she needed.
 
 "Stay here," she said. "Don't leave. Don't answer the door. Don't do anything. I'll come back."
@@ -216,11 +232,13 @@ Kara turned and walked out.
 
 She went back to the DEO.
 
-She went to the tech room. Winn was at his desk, going through the system logs.
+She went to the tech room. Winn was at his desk, going through the system logs. Adrian was at the console beside him, the pattern open on the screen, the paper beside the keyboard with the names and times he'd been writing down for weeks. He looked up when Kara came in.
 
 "I need you to check something," she said. "I need you to check the system logs for the night. I need you to see who accessed the holding area door, who accessed the camera system, who accessed the tech room, and who accessed anything that could have let Astra out."
 
 "I'm already going through the logs," Winn said. "I've been going through them since Alex called me. The logs are clean. Nobody accessed the door. Nobody accessed the cameras. Nobody accessed the tech room. Everything is clean."
+
+"The logs are clean," Adrian said, without looking up from the paper. His voice was steady, the voice of someone who had been watching clean logs for weeks and knew what they meant. "And Astra is gone. And the footage is clean. And the door is open. Clean doesn't mean safe. Clean means someone made it clean."
 
 "Everything is clean. And Astra is gone. And the footage is clean. And the logs are clean. And the door is open. And the locks are fine. And nobody did anything."
 
@@ -270,7 +288,7 @@ Winn was quiet for a moment. "That is possible."
 
 Winn nodded. "I'll watch. I'll watch the tech room. I'll watch the corridor. I'll watch who comes in and who goes out. I'll watch without the cameras. I'll watch with my eyes."
 
-"And I'll watch the DEO. I'll watch the corridors. I'll watch the lobby. I'll watch the entrance. I'll watch without the cameras."
+"And I'll watch the DEO," Adrian said. He closed the paper and set it beside the chipped mug on the desk. The theater mask magnet was on the corner of the monitor. The things he carried because they were the texture of his life. "I'll watch the corridors. I'll watch the lobby. I'll watch the entrance. I'll watch the bullpen. I'll watch who's at their desk when they shouldn't be. I'll watch who's walking through the building when they don't need to be. I'll watch without the cameras."
 
 "And Alex will watch the people. She will watch who has been in the building and who hasn't. She will watch who has access and who has used it. She will watch without the logs."
 
@@ -278,13 +296,31 @@ Winn nodded. "I'll watch. I'll watch the tech room. I'll watch the corridor. I'l
 
 Kara turned and walked out of the tech room.
 
+Adrian stayed at the console. He picked up the paper and looked at the names again. The pattern was the same. The times were the same.
+
+The parking lot, the back gate, the ghost code — all the same. But now there was a new name on the list, and it wasn't Astra. It was the person who'd let her out. And they were still here.
+
+Still sitting at their desk. Still doing their job.
+
+He set the paper down. The ghost code log was still running on the screen. The pattern was still open. The work wasn't done.
+
+He watched.
+
 She walked down the corridor. She looked at the holding area. She looked at the empty cell. She looked at the open door. She looked at the panel with the exposed wires.
 
-The building was quiet. The cameras were green. The logs were clean. The footage was clean. The door was open. The cell was empty. Astra was gone. The dagger was gone.
+The building was quiet. The cameras were green. The logs were clean. The footage was clean.
+
+The door was open. The cell was empty. Astra was gone. The dagger was gone.
 
 And somewhere in this building, someone was sitting at their desk, doing their job, feeding information to Lord, and waiting for the next time they would open a door.
 
 Kara walked down the corridor and went to the lobby. She stood by the door and looked at the city outside.
+
+Adrian was at his console in the bullpen behind her. The paper open. The names. The times.
+
+The parking lot. The back gate. The ghost code. The chipped mug on the corner of the monitor.
+
+The theater mask magnet beside it. He was watching. He was holding the work.
 
 The city was the same. The traffic moved in the same direction. The people walked the same streets. The buildings stood the same way.
 
@@ -306,11 +342,13 @@ The next morning, Kara arrived at the DEO at seven.
 
 She walked through the lobby. She looked at the receptionist. The receptionist was reading her book. She looked at the guards. The guards were at their posts. She looked at the corridor. The corridor was empty.
 
+Adrian was already at his console in the bullpen. The paper was open. The ghost code log was running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been there since six.
+
 Everything looked normal. Everything was normal. And Astra was gone. And the leak was still here.
 
-She went to the tech room. Winn was at his desk. He was going through the system logs again. He looked up when she came in.
+She went to the tech room. Winn was at his desk. He was going through the system logs again. Adrian was at the console beside him, the paper open, the pattern running. He looked up when she came in.
 
-"Nothing," he said. "The logs are still clean. Nobody accessed anything. Nobody did anything. The system says everything is fine."
+"Nothing," Winn said. "The logs are still clean. Nobody accessed anything. Nobody did anything. The system says everything is fine."
 
 "The system is wrong."
 
@@ -334,9 +372,19 @@ Winn looked at her. "Paper."
 
 "We write it on paper. The leak can't change it. The leak can't erase it. The leak doesn't know we're writing it. And when we've the paper, we'll see the pattern. We will see who was in the building when Astra left. We will see who wasn't supposed to be there. We will see who was there and didn't need to be."
 
+"I've been doing that," Adrian said. He tapped the paper on his desk. "Three weeks. The pattern, the names, the times. The parking lot, the back gate, the ghost code. I've been writing it down because the leak can't change paper. I'll keep doing it. I'll add what you find."
+
 Winn nodded. "I'll start now. I'll go to the guard station."
 
 "Go. I'll go to the lobby."
+
+Adrian picked up his pen. He opened the notebook he'd been keeping at the console — the pattern, the names, the times, the parking lot, the back gate, the ghost code. He'd been writing it on paper for weeks because the leak couldn't change paper. He added a new column. The night Astra left. Who was in the building. Who wasn't.
+
+"I'll stay here," he said. "I'll keep the pattern running. I'll add the names as we get them. When you and Alex and Winn come back with what you've found, I'll write it down. On paper. The leak can't change it."
+
+Kara looked at him. The paper on his desk, the chipped mug beside it, the theater mask magnet on the corner of the monitor. The things that had been the texture of his life for months, alive and real, because he was here, holding the work.
+
+"Okay," she said.
 
 ---
 
@@ -416,7 +464,9 @@ The guard reading the magazine looked up. "I was. I was on the night shift the n
 
 Kara stood in the security room and thought.
 
-The cameras were green. The logs were clean. The footage was clean. The guards saw nothing. The receptionist saw nothing. Nobody came in. Nobody went out. And Astra was gone.
+The cameras were green. The logs were clean. The footage was clean. The guards saw nothing.
+
+The receptionist saw nothing. Nobody came in. Nobody went out. And Astra was gone.
 
 "Thank you," Kara said. "Can you write down your name and Marcus's name and the times you were on duty? On a piece of paper."
 
@@ -480,6 +530,8 @@ Kara sat down across from Non. "You were a general. You controlled systems."
 
 Kara looked at Non. The lamp was on. The city lights were on outside the window. The apartment was quiet.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. He didn't look up. He was holding the pattern. He was writing it on paper because the leak couldn't change it.
+
 "I don't trust you," she said.
 
 "I know."
@@ -513,5 +565,7 @@ And she thought about Non, sitting at her kitchen table, a Kryptonian general wh
 She didn't know who to trust. She didn't know who the leak was. She didn't know where Astra was. She didn't know what Lord was building.
 
 She knew one thing. She was going to find them. All of them. With paper and with her eyes and with the people she trusted.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
 
 She sat there. The night went on. The city went on outside the window.'''

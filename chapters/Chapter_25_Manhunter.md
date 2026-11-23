@@ -4,6 +4,8 @@
 
 Kara didn't go back to her apartment right after the DEO let her go.
 
+Adrian was at his desk across the bullpen. He was typing. The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she came in.
+
 She drove to CatCo. She walked through the lobby and went to her desk. She sat down and opened her email. She looked at the screen. She didn't read any of it.
 
 Adrian was at his desk across the bullpen. He was typing. He didn't look up.
@@ -22,7 +24,15 @@ Adrian was at his desk across the bullpen. He was typing. He didn't look up.
 
 "What?"
 
-"I need to go to the DEO. I need to talk to Alex. I need to tell her that we need to move. We have been holding the pattern for too long. We have been waiting for Lord to make his move. And he isn't making his move. And I don't know if he's going to make his move. And I don't know how long we can keep holding."
+"I need to go to the DEO. I need to talk to Alex. I need to tell her that we need to move. We have been holding the pattern for too long.
+
+Adrian was at his desk across the bullpen. The paper was open. The names. The times.
+
+The parking lot. The back gate. The ghost code. The chipped mug on the corner of the monitor.
+
+The theater mask magnet beside it. He'd been holding the pattern for three weeks. He'd keep holding it. We have been waiting for Lord to make his move.
+
+And he isn't making his move. And I don't know if he's going to make his move. And I don't know how long we can keep holding."
 
 "You can hold as long as you need to. The waiting is the work."
 
@@ -54,9 +64,17 @@ Adrian stopped typing. He looked at her. "You are going to do this now."
 
 Kara stood up. She walked out of the bullpen and went to the elevator.
 
+Adrian was at his desk across the bullpen. He was typing. The paper open. The pattern. The names. He didn't look up when she left. He kept the ghost code log running.
+
 ---
 
 She drove to the DEO. She went to the tech room.
+
+Adrian was at the console by the door, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she came in.
+
+"The pattern's still holding," he said. "The ghost code hasn't spiked. I'll keep watching."
+
+Adrian was at the console by the door, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
 
 Winn was at his desk. Alex was at her desk. The two tech team members were at their desks. The fourth desk was empty.
 
@@ -136,11 +154,15 @@ She had it.
 
 She went to Alex's office.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up. The pattern held. The paper didn't change.
+
 Alex was at her desk. She looked up when Kara came in.
 
 "I watched the parking lot," Kara said. "I watched the back gate. I watched who came and who went. And I wrote it on paper."
 
 She set the paper on Alex's desk.
+
+Adrian was at the console by the door, the paper open, the ghost code log running. He didn't look up. The pattern held. The paper didn't change.
 
 Alex read it. "A car parked on the shoulder at one-thirty. A figure got out at one-forty. It went through the back gate. It walked to the door. It went into the corridor. It walked toward the tech room. It came back at two-fifteen. It went out. It got in the car. It drove away."
 
@@ -174,7 +196,9 @@ Alex read it. "A car parked on the shoulder at one-thirty. A figure got out at o
 
 "And we write it on paper. The paper is the only thing the leak can't change. The leak created the ghost code. The leak changed the creation log. The leak can't change a piece of paper in your hand."
 
-Kara looked at the paper on Alex's desk. The time. The description. The direction. The car. It was all there. It was all on paper. And the leak couldn't stop it.
+Kara looked at the paper on Alex's desk. The time. The description. The direction.
+
+The car. It was all there. It was all on paper. And the leak couldn't stop it.
 
 "I'll watch again tomorrow," she said.
 
@@ -218,6 +242,8 @@ Kara leaned back in her chair. "I'm getting closer."
 
 Kara looked at Non. The lamp was on. The city lights were on outside the window. The apartment was quiet.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up. He was holding the pattern. He was writing it on paper because the leak couldn't change it.
+
 "I'm tired," she said.
 
 "I know. But you're close. You are closer than you were yesterday. And you'll be closer tomorrow. And when you've enough, you'll use it. And you'll stop him."
@@ -242,13 +268,19 @@ She didn't know when he would make his move. She didn't know what it would look 
 
 She knew one thing. She had the pattern. She had the paper. She had the names. She was getting closer. And she would be ready.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
+
 She sat there. The night went on. The city went on outside the window.
 
 ---
 
 The next morning, Kara arrived at CatCo at eight.
 
-She walked through the lobby. The bullpen was quiet. Winn was at his desk. James was at his desk. The receptionist was at the front desk. Adrian was at his desk.
+She walked through the lobby. The bullpen was quiet. Winn was at his desk. James was at his desk.
+
+The receptionist was at the front desk. Adrian was at his desk, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+He was holding the pattern. He was writing it on paper because the leak couldn't change it.
 
 She sat down and opened her email.
 
@@ -362,6 +394,14 @@ She stood by the door and watched the city.
 
 She didn't go to the tech room. She didn't go to Marcus. She didn't go to anyone. She held the pattern. She held the paper. She held the names.
 
+Adrian was at his console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+He was holding the pattern. He was writing it on paper because the leak couldn't change it. He'd been doing it for three weeks. He'd keep doing it.
+
+Adrian was at his console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+He was holding the pattern. He was writing it on paper because the leak couldn't change it. He'd been doing it for three weeks. He'd keep doing it.
+
 And she waited.
 
 The city went on outside the window.
@@ -371,6 +411,10 @@ And she watched.
 ---
 
 That evening, Kara went back to her apartment.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up when she called in.
+
+"The pattern's still holding," he said. "I'll keep watching."
 
 Non was at the kitchen table. He looked up when she came in.
 

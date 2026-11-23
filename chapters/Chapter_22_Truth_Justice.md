@@ -8,6 +8,10 @@ A news report was playing in the break room at CatCo. Kara heard it as she walke
 
 The names were DEO names.
 
+Adrian was at his desk across the bullpen. He was typing. The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for weeks.
+
+"These names," he said, without looking up. "They're on the paper. I've been writing them down. The leak can't change paper." The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for weeks, writing it down because the leak couldn't change paper.
+
 ---
 
 Kara stopped in the doorway of the break room.
@@ -32,6 +36,12 @@ Kara looked at the television. The commercial was playing. A car insurance ad. A
 
 She walked out of the break room and went to her desk.
 
+Adrian was at his desk across the bullpen. He was typing. The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code.
+
+The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she sat down.
+
+"The names are on the paper," he said. "I've been holding them for weeks. The pattern holds. The leak can't change paper."
+
 Adrian was at his desk across the bullpen. He was typing. He didn't look up.
 
 "A man was arrested at Lord Technologies," she said.
@@ -41,6 +51,10 @@ Adrian was at his desk across the bullpen. He was typing. He didn't look up.
 "He had files. The files had names. The names were from a government agency."
 
 "The DEO is a government agency."
+
+Adrian looked up from the paper. "And someone was arrested at Lord Technologies with files that had DEO names on them. Those names are on my paper. I've been holding them for weeks. The pattern holds. The leak can't change paper."
+
+Adrian looked up from the paper. "And someone was arrested at Lord Technologies with files that had DEO names on them. Those names are on my paper. I've been holding them for weeks. The pattern holds."
 
 "The DEO is a government agency. And someone was arrested at Lord Technologies with files that had DEO names on them."
 
@@ -64,6 +78,12 @@ Kara sat down. "We need to tell Alex."
 
 Kara stood up. "I'm going to the DEO."
 
+Adrian looked up from the paper. "I'll keep the pattern running. If the ghost code spikes while you're there, I'll know. I'll call Winn."
+
+Kara nodded. "Okay."
+
+Kara nodded. "Okay."
+
 "Go to the DEO. Tell Alex. Tell her what we know. Tell her the files were taken by Marcus and given to Lord. Tell her the files have names. Tell her the names are in the hands of a man who works for Lord. Tell her to do whatever she needs to do to protect the people whose names are in those files."
 
 "I'll."
@@ -73,6 +93,10 @@ Kara walked out of the bullpen and went to the elevator.
 ---
 
 She drove to the DEO. She walked through the lobby and went to Alex's office.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she walked past.
+
+"The pattern's still holding," he said. "The names are the same. I'll keep the log running."
 
 Alex was at her desk. She had the television on. The report was playing again. Alex was watching it with the same attention Kara had.
 
@@ -101,6 +125,10 @@ Alex stood up. "I'm going to the tech room. I'm going to pull the access logs by
 "I'll tell her."
 
 Kara turned and walked out of Alex's office.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she walked past.
+
+"The pattern's still holding," he said. "The names are the same. I'll keep the log running."
 
 ---
 
@@ -135,6 +163,8 @@ Cat stood up. "I know who to call. I know what to say. I know when to say it. I'
 "I'll."
 
 Kara left Cat's office and went to her desk. She picked up her bag and walked out.
+
+Adrian was at his desk across the bullpen. He was typing. The paper open. The pattern. The names. He didn't look up. He kept the ghost code log running.
 
 ---
 
@@ -216,6 +246,10 @@ And it'd the thing the leak couldn't stop.
 
 That evening, Kara went back to her apartment.
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up when she called to check in.
+
+"The code's the same," he said. "The pattern hasn't changed. I'll keep watching."
+
 Non was at the kitchen table. He looked up when she came in.
 
 "The files are out," Kara said. She sat down across from him.
@@ -273,6 +307,8 @@ She sat there. She thought about the files. She thought about the names. She tho
 She didn't know when he would make his move. She didn't know what it would look like. She didn't know what would happen.
 
 She knew one thing. She had the pattern. She had the paper. She had the names. And she would be ready.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
 
 She sat there. The night went on. The city went on outside the window.
 
@@ -392,9 +428,15 @@ She wrote it all on paper.
 
 The leak could change the cameras. The leak could change the logs. The leak could change the footage. The leak couldn't change a piece of paper in her hand.
 
+Adrian was at his desk across the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+He was writing it on paper too. The same pattern. The same names. The paper didn't change.
+
 She wrote until the notebook was full.
 
 She looked at the paper. The names. The times. The pattern. It was all there. It was all on paper. And the leak couldn't stop it.
+
+Adrian was at the console across the bullpen, the ghost code log running. He had the paper open. The same pattern. The same names. He'd been holding it for weeks. He'd keep holding it. The paper didn't change.
 
 ---
 

@@ -24,7 +24,13 @@ Another Kryptonian. Another one who had been through the same thing. Another one
 
 "Bring him in," J'onn had said.
 
-They had brought him to the DEO. The new facility — a skyscraper in National City, a floor of glass and steel, a place that didn't feel like the old underground bunker. Winn was at his desk with the scanners running, the displays flickering, the readouts scrolling. Alex was beside him, watching the numbers, watching the man on the bed.
+They had brought him to the DEO. The new facility — a skyscraper in National City, a floor of glass and steel, a place that didn't feel like the old underground bunker.
+
+Adrian was at the console across the room, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for weeks, writing it down because the leak couldn't change paper.
+
+Adrian was at the console across the room, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for weeks, writing it down because the leak couldn't change paper. Winn was at his desk with the scanners running, the displays flickering, the readouts scrolling. Alex was beside him, watching the numbers, watching the man on the bed.
+
+Adrian was at the console across the room, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for weeks, writing it down because the leak couldn't change paper. He looked up when Kara came in.
 
 The man didn't wake up.
 
@@ -39,6 +45,8 @@ The small thing that had been sitting there since the day Evelyn left it.
 The cartoon bandage was in her pocket.
 
 The paper with the pattern was folded in her desk drawer.
+
+Adrian was at his desk across the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for weeks. He'd keep holding it.
 
 The names. The times. The parking lot. The back gate. The ghost code Marcus.
 
@@ -60,7 +68,11 @@ And now there was someone else.
 
 Someone who might understand.
 
-Cat walked in with her tablet, her earrings catching the light. The ion blockers from Max were still in her ears, a habit she had kept even though the device was gone. She stopped at Kara's desk.
+Cat walked in with her tablet, her earrings catching the light.
+
+Adrian was at his desk across the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up.
+
+The pattern held. The paper didn't change. The ion blockers from Max were still in her ears, a habit she had kept even though the device was gone. She stopped at Kara's desk.
 
 "You have two days," Cat said.
 
@@ -80,7 +92,17 @@ She looked at the theater mask magnet.
 
 She thought about the man in the pod. The two days. The job.
 
+Adrian was at his desk across the bullpen, the paper open, the ghost code log running. He didn't look up. The pattern held. The paper didn't change.
+
 She had spent the last three weeks holding a pattern on paper because the leak couldn't change it. Now the leak was somewhere she couldn't reach. The pattern was in a drawer.
+
+Adrian was at the DEO. The paper open. The names. The times. The parking lot. The back gate. The ghost code.
+
+The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for weeks. He'd keep holding it. The paper didn't change.
+
+Adrian was at the DEO. The paper open. The names. The times. The parking lot. The back gate. The ghost code.
+
+The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for weeks. He'd keep holding it. The paper didn't change.
 
 And she had two days to decide what to do with the rest of her life.
 
@@ -91,6 +113,8 @@ James came by that evening with pizza and pot stickers.
 It was supposed to be their first real date. Not the rushed thing they'd had before, not the interruptions and the near-kisses and the things that had always been interrupted. Just the two of them, in her apartment, with food and a movie and no emergencies. Kara had put on a dress. She had fixed her hair. She had told herself that this was going to be normal.
 
 They were watching the launch of the Venture on TV.
+
+Adrian had come by with pizza and the paper open beside the monitor. The pattern. The names. The ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He sat in the corner, ordinary, holding the pattern because the leak couldn't change paper.
 
 The first commercial spacecraft. A private company's rocket heading into orbit. The kind of thing that used to only happen with government programs. James had his arm around her on the couch, and Kara was leaning into him, and it was almost normal.
 
@@ -120,6 +144,8 @@ She flew.
 
 ***
 
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up. The pattern held. The paper didn't change.
+
 Superman was already there.
 
 Kara arrived at the Venture's trajectory and saw him — the red and blue, the cape, the S-shield, the thing she had been waiting her whole life to see. He was holding the rocket, steering it away from the buildings, guiding it down to a clear space, the way she would have done it if she had been alone.
@@ -134,11 +160,15 @@ She had a cousin. She had a team. She wasn't alone.
 
 She brought him to the DEO.
 
-The new facility was bright and clean, a floor of glass in a skyscraper, and everyone was there — Winn at his console, Alex at the scanners, the receptionist at the front desk, the bullpen humming. They looked up when Superman walked in, and Winn's face went wide, and Alex smiled, and the receptionist said something Kara didn't hear because the sound was lost in the buzz of the room.
+The new facility was bright and clean, a floor of glass in a skyscraper, and everyone was there — Winn at his console, Alex at the scanners, Adrian at his console with the paper open and the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. the receptionist at the front desk, the bullpen humming. They looked up when Superman walked in, and Winn's face went wide, and Alex smiled, and the receptionist said something Kara didn't hear because the sound was lost in the buzz of the room.
 
 J'onn was less enthusiastic.
 
 He was standing at the back, near the holding room where the man from the pod was still unconscious.
+
+Adrian was at the console across the room, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He was watching the back gate.
+
+The pattern. The names. He'd been holding them for weeks. He'd keep holding them.
 
 When Superman approached, the two of them stood apart. The way two men stand apart when there's something between them that neither of them wants to say out loud.
 
@@ -224,7 +254,25 @@ She didn't kill him. She didn't kill anyone.
 
 But she stopped him. The helicopter went down safe. Lena was out of it. The city was safe.
 
-Kara flew back to the DEO with the thing she had been carrying all day. The reason she had become Supergirl. The reason she had watched the parking lot at two in the morning. The reason she had held the pattern on paper.
+Kara flew back to the DEO with the thing she had been carrying all day.
+
+Adrian was at his console in the bullpen. The paper open. The names. The times.
+
+The parking lot. The back gate. The ghost code. The chipped mug on the corner of the monitor.
+
+The theater mask magnet beside it. He looked up when she came in.
+
+"The pattern's still holding," he said. "The names are the same. The paper doesn't change."
+
+"The pattern's still holding," he said. "The names are the same. The paper doesn't change." The reason she had become Supergirl. The reason she had watched the parking lot at two in the morning. The reason she had held the pattern on paper.
+
+Adrian was at his console in the bullpen. The paper open. The names. The times.
+
+The parking lot. The back gate. The ghost code. The chipped mug on the corner of the monitor.
+
+The theater mask magnet beside it.
+
+He looked up when she came in. "The pattern's still holding," he said. "The names are the same. The paper doesn't change."
 
 She was doing the work. The work was real. And she had a cousin beside her.
 

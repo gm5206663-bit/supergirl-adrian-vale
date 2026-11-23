@@ -12,7 +12,9 @@ She set it on the corner of her desk and looked at it.
 
 ---
 
-"Another box," Adrian said from across the bullpen. He didn't look up from his work.
+"Another box," Adrian said from across the bullpen. He didn't look up from his work. The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+"I'll keep the pattern running," he said. "If the ghost code spikes, I'll know. I'll call Winn." The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
 
 "Another box," Kara said.
 
@@ -50,6 +52,8 @@ Kara looked at the box. She didn't open it.
 
 Kara picked up the box. She carried it to the front desk and set it on the counter.
 
+Adrian was at his desk across the bullpen. He was typing. The paper open. The pattern. The names. He didn't look up. He watched the box the way he watched the ghost code — with the steady, focused attention of someone holding a pattern.
+
 The receptionist looked at it. "Is this yours?"
 
 "It came to my desk. I'm putting it back here. Don't open it. Don't touch it. Just leave it."
@@ -63,6 +67,10 @@ The receptionist looked at the box. "It is just a box."
 "It is just a box. And I don't want it opened. So leave it alone."
 
 Kara went back to her desk and called Cat.
+
+Adrian was at his desk across the bullpen. He was typing. The paper open. The pattern.
+
+The names. The ghost code log running. He didn't look up. He kept watching.
 
 "Another box," she said.
 
@@ -110,6 +118,10 @@ The receptionist hadn't opened it. The mail system hadn't moved it. It sat on th
 
 Kara walked past it in the morning and didn't look at it. She went to her desk and started working.
 
+Adrian was at his desk across the bullpen. He was typing. The paper open. The pattern. The names. The ghost code log running.
+
+He didn't look up. He watched the front desk the way he watched the ghost code — with the steady, focused attention of someone holding a pattern.
+
 At noon, she went to the front desk to get coffee from the machine in the break room. The box was still on the counter.
 
 "It is still here," the receptionist said.
@@ -121,6 +133,12 @@ At noon, she went to the front desk to get coffee from the machine in the break 
 "Good. That is what you should do."
 
 Kara went back to her desk.
+
+Adrian was at his desk across the bullpen. He was typing. The paper was open. The pattern. The names. He didn't look up. "The box is still on the counter. I saw it when I came in."
+
+"I saw it too," Kara said. "Leave it."
+
+"I'll leave it." He kept typing. The ghost code log ran. He watched it the way he always watched it, the way he had watched it for three weeks.
 
 ---
 
@@ -140,11 +158,17 @@ Kara stood at the front desk. "The box is gone."
 
 "The box is gone."
 
+Adrian came up behind her. He didn't look at the counter. He looked at Kara. "The pattern hasn't changed," he said. "The ghost code is the same. If the box mattered, it would show in the code. It hasn't."
+
 "And we don't know who took it."
 
 "We don't know who took it. But we know who sent it. And we know the person who sent it also sent the person who took it. Or the person who sent it took it themselves. Or the person who sent it told someone to take it. The box was a test. Lord sent the box. Lord watched whether Kara would open it. Kara didn't open it. So Lord had the box taken. He didn't need it anymore. He got what he wanted from the test."
 
 "He learned that I didn't open it."
+
+Adrian was at his desk across the bullpen. The paper open. The names. The times. The ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up from the work. "And now he'll change his pattern," he said. "And we'll watch it change. On paper. The leak can't change paper."
+
+Adrian was at his desk across the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up. The pattern held.
 
 "He learned that you didn't open it. And he learned that you put it back on the front desk. And he learned that you told Cat. And he learned that you did nothing else. He learned your pattern. And now he knows you've changed it. And he'll change his."
 
@@ -169,6 +193,10 @@ It wasn't a box. It wasn't a yo-yo. It wasn't a courier delivery.
 It was a person.
 
 Kara was at her desk when a man walked into the bullpen. He was ordinary. He was unremarkable. He was the kind of man you wouldn't notice if you didn't look twice.
+
+Adrian was at his desk across the bullpen. He was typing. The paper open. He didn't look up.
+
+But he was watching. The way he always watched. The way he watched the ghost code, the parking lot, the back gate. The way he held the pattern.
 
 He walked to her desk and stood in front of it.
 
@@ -229,6 +257,8 @@ Adrian was at his desk across the bullpen. He was typing. He didn't look up when
 "And then we use it. We use the pattern. We use the paper. We use the names. We use the marks and the prints and the places. We use all of it. And we stop him."
 
 Kara looked at Adrian. "He said he's something I want."
+
+Adrian didn't look up from the paper. The ghost code log was running. The pattern held. The names were the same. "Then he's a test," he said. "Like the box. He's a test. And the pattern will tell us what kind."
 
 "He said that because he knows what you want. He knows you want to stop him. He knows you want to protect the city. He knows you want to keep the people you care about safe. He is offering you what you want in exchange for what he wants. And what he wants is you, in his story, making his choices, doing his work."
 
@@ -350,6 +380,18 @@ Kara left Cat's office and went back to her desk.
 
 The next day, Kara went to the DEO.
 
+Adrian was at his desk across the bullpen. The paper was open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+"The pattern's still holding," he said, without looking up. "The names are the same. The times are the same. I'll keep watching."
+
+"The pattern's still holding," he said, without looking up. "The names are the same. The times are the same. I'll keep watching."
+
+Kara nodded. "Good. I need to talk to Alex."
+
+Adrian was at his desk across the bullpen. He was typing. The paper was open, the ghost code log running on the screen. He looked up when she came in.
+
+"The pattern's still holding," he said. "The names are the same. The times are the same. I'll keep watching."
+
 She went to Alex's office. Alex was at her desk with her notebook open. The notebook had the names written in it.
 
 "I'm going through the paper again," Alex said. "I'm going through the names. I'm going through the times. I'm looking for a pattern in the pattern. I'm looking for who's behind Marcus."
@@ -423,6 +465,8 @@ And somewhere in this city, Astra was holding the dagger and thinking about what
 She stood by the door and watched the city.
 
 She didn't go to Marcus. She didn't go to Astra. She didn't go to Lord. She held the pattern. She held the paper. She held the names.
+
+Adrian was at his console in the bullpen, the paper open, the ghost code log running. He was holding the same pattern. The same paper. The same names. They'd been holding it together for three weeks. The paper didn't change.
 
 And she waited.
 
@@ -501,5 +545,7 @@ She sat there. She thought about the man at her desk. She thought about the mess
 She didn't know when Lord would make his move. She didn't know what it would look like. She didn't know what would happen.
 
 She knew one thing. She had the pattern. She had the paper. She had the people. And she would be ready.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
 
 She sat there. The night went on. The city went on outside the window.'''

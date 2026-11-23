@@ -2,7 +2,7 @@
   "chapter": 23,
   "revision": "R4",
   "draft_path": "drafts/Chapter_23_Solitude_R4.md",
-  "draft_sha256": "9c8714b6f6843b078e56e440388d12d752a1fe68ccd42ca311ca785d634379b3",
+  "draft_sha256": "9d8e780e945f5ad77de2e822e2d4e9ea4554da544b957990a25a713819720a06",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -66,8 +66,14 @@
     "prose": {
       "path": "audits/CHAPTER_23_R1_REVIEW.md",
       "sha256": "597c8b5b219d08249cbe4bfa51d6553aeb408052947819dbda24fe9254f88f82"
+    },
+    "chapter": {
+      "path": "chapters/Chapter_23_Solitude.md",
+      "sha256": "9d8e780e945f5ad77de2e822e2d4e9ea4554da544b957990a25a713819720a06"
     }
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R2"
+  "draft_revision": "R2",
+  "chapter_sha256": "9d8e780e945f5ad77de2e822e2d4e9ea4554da544b957990a25a713819720a06",
+  "chapter_word_count": 5540
 }

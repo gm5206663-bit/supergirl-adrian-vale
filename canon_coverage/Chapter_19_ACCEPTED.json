@@ -4,7 +4,7 @@
   "revision": "R3",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_19_Strange_Visitor_Part2_R3.md",
-  "draft_sha256": "7a338c11006e98b3f0a794c17d0e24c94441f9073d85c639f64f133f7a78a023",
+  "draft_sha256": "07999aca98475b7bebb7fbe992a3668f498b1d1f708b4161bb2a16ac12132206",
   "accepted": true,
   "claimed_episode": "S01E11 Strange Visitor From Another Planet Part2",
   "span": "Strange Visitor Part2 Adam Bizarro full 3000+ natural butterfly",
@@ -158,6 +158,10 @@
     "prose": {
       "path": "audits/CHAPTER_19_R2_REVIEW.md",
       "sha256": "eaa432071c9fa624da8f4fef534d0d1717f9ab1f8bacad3cdcc7ea1290e4e1c0"
+    },
+    "chapter": {
+      "path": "chapters/Chapter_19_Strange_Visitor_Part2.md",
+      "sha256": "07999aca98475b7bebb7fbe992a3668f498b1d1f708b4161bb2a16ac12132206"
     }
   },
   "release_ready": true,
@@ -173,5 +177,7 @@
     "chapter_title": "Strange Visitor Part2 Adam Bizarro"
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R4"
+  "draft_revision": "R4",
+  "chapter_sha256": "07999aca98475b7bebb7fbe992a3668f498b1d1f708b4161bb2a16ac12132206",
+  "chapter_word_count": 6272
 }

@@ -14,6 +14,10 @@ Kara was at her desk when the alert came through.
 
 She looked at her phone. The DEO had sent a general alert. A forest fire on the north side. Evacuation in progress. All available personnel on standby.
 
+Adrian was at his desk across the bullpen. He was typing. The paper was open on his desk — the pattern, the names, the times, the parking lot, the back gate, the ghost code. The chipped mug on the corner of the monitor.
+
+The theater mask magnet beside it. He didn't look up. He didn't need to. He knew what the alert meant.
+
 She stood up.
 
 Adrian was at his desk across the bullpen. He was typing. He didn't look up.
@@ -25,6 +29,8 @@ Adrian was at his desk across the bullpen. He was typing. He didn't look up.
 "I'm going."
 
 "You are going to the DEO."
+
+Adrian stopped typing. He looked at her. His eyes were the steady, focused kind that came from three weeks of holding a pattern on paper. "Get the assignment. Get the authorization. Then go. I'll keep the ghost code log running here. If it spikes while you're in the field, I'll call Winn."
 
 "I'm going to the fire."
 
@@ -52,9 +58,17 @@ Kara stood at her desk. Her hands were on the edge of the desk.
 
 "Go to the DEO," Adrian said. "Get the assignment. Then go."
 
+He looked up from the paper then. His eyes were steady, the way they got when the work was real. "I'll keep the pattern running here. If the ghost code spikes while you're in the field, I'll know. I'll call Winn. He'll get to you."
+
+Kara nodded. "Okay."
+
 ---
 
 She drove to the DEO. She walked through the lobby and went to Alex's office.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He looked up when she walked past.
+
+"The pattern's still holding," he said. "I'll keep the log running while you're at the fire."
 
 Alex was at her desk with a map spread out in front of her. The map showed the north side of the city. The ridge of trees. The fire. The evacuation zones.
 
@@ -80,6 +94,10 @@ Alex looked at her. "This isn't a rescue. This is a watch. Watch and report. Don
 
 Kara turned and walked out. She went to the vehicle bay and got into the DEO aircraft.
 
+Adrian was at his desk across the bullpen. He was typing. The paper was open. The pattern. The names.
+
+He didn't look up when she left. He kept the ghost code log running.
+
 ---
 
 She took the aircraft up. She climbed above the clouds and turned north.
@@ -93,6 +111,8 @@ The trees were burning. The fire moved through the dry grass and into the canopy
 The evacuation roads were below. Cars moved along them in a slow, steady line. People were leaving. The fire was coming. The people were going.
 
 Kara watched the fire. She watched the wind. She watched the smoke. She reported the movement to the DEO radio.
+
+Adrian was on the radio. "I'm watching the ghost code. It hasn't spiked. The pattern holds. I'll tell you if it does."
 
 "Fire is moving south. Speed is increasing. Wind is from the north. The fire is feeding on the canopy."
 
@@ -130,9 +150,13 @@ Kara looked at the figure. The fire was moving toward it. The smoke was thickeni
 
 Kara looked at the figure again. The fire was closer now. The figure was still standing. It wasn't moving. It wasn't running. It was standing in the smoke.
 
+Adrian was on the radio. "I'm watching the ghost code. It hasn't spiked. I'll tell you if it does."
+
 "I'm going down," she said.
 
 "Kara. No."
+
+"Adrian is watching the ghost code from here," Alex said. "If it spikes, he'll call."
 
 "I'm going down. I'll get him and bring him up. I won't leave him in the fire."
 
@@ -145,6 +169,8 @@ Kara looked at the figure again. The fire was closer now. The figure was still s
 "I'm already going down."
 
 Kara brought the aircraft down. She went below the smoke and into the burned area. She brought the aircraft to the ground beside the figure.
+
+Adrian was on the radio. "I'm watching the ghost code. It hasn't spiked. I'll keep watching."
 
 The figure turned toward her.
 
@@ -302,7 +328,9 @@ She sat down across from him. "Talk."
 
 Non told her about the Phantom Zone.
 
-He told her about the years in the dark. The void. The nothing. The place where there was no time and no light and no sound and no hope. He told her about the other prisoners. The ones who screamed. The ones who went quiet. The ones who stopped being people and became shapes in the dark.
+He told her about the years in the dark. The void. The nothing. The place where there was no time and no light and no sound and no hope.
+
+He told her about the other prisoners. The ones who screamed. The ones who went quiet. The ones who stopped being people and became shapes in the dark.
 
 He told her about the release. Not a release. A transfer. Someone had opened the Zone. Someone had selected Astra first. Someone had selected him second. Someone had sent them both to Earth.
 
@@ -452,7 +480,9 @@ She came through the door with her DEO folder in her hand and the look on her fa
 
 "Talk."
 
-Non told her. He told her everything. He told her about the Phantom Zone. He told her about the release. He told her about Lord. He told her about the leak in the DEO. He told her about Astra. He told her about the plan.
+Non told her. He told her everything. He told her about the Phantom Zone. He told her about the release.
+
+He told her about Lord. He told her about the leak in the DEO. He told her about Astra. He told her about the plan.
 
 Alex stood by the door and listened. She didn't interrupt. She didn't sit down. She held her folder and she listened.
 
@@ -506,7 +536,13 @@ Alex closed her folder. "I'm not calling the DEO. I'm not having you picked up. 
 
 Alex turned and walked out. The door closed behind her.
 
+Adrian was at the console in the bullpen when Kara came back. The paper open. The ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up from the work.
+
+"The fire's still burning," he said. "I'll keep watching the code. If it spikes, I'll call Winn."
+
 Non sat at the kitchen table. He looked at the door. Then he looked at Kara.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. He didn't look up from the work. "The fire's still burning," he said. "I'll keep watching the code. If it spikes, I'll call Winn."
 
 "Your sister is angry," he said.
 
@@ -519,6 +555,8 @@ Non sat at the kitchen table. He looked at the door. Then he looked at Kara.
 Non nodded. He put his hands back on the table.
 
 The lamp was on. The city lights were on outside the window. The apartment was quiet.
+
+Adrian was at the console in the bullpen, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He didn't look up. He was holding the pattern. He was writing it on paper because the leak couldn't change it.
 
 Kara sat in the chair across from Non. She looked at the man who had fought against her mother. She looked at the man who had waited in a forest fire for her to come down. She looked at the man who had information that could stop Lord.
 

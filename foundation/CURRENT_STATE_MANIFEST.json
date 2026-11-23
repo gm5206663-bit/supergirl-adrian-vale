@@ -476,14 +476,14 @@
       "number": 15,
       "epoch": "v1",
       "path": "chapters/Chapter_15_Blood_Bonds.md",
-      "sha256": "04627aba01a8f56b114ddcfbabfbb6bfe6f62789c014d0c1788a16854b2b5f65",
+      "sha256": "cb4570aa21c108761d3d707fbe5663669f883caa60b8323782c19f77440e65dc",
       "coverage": "canon_coverage/Chapter_15_ACCEPTED.json",
       "accepted_on": "2026-10-07",
       "acceptance_receipt": "audits/CONTINUATION_Chapter_15.md \u2014 Blood Bonds 2957w proper prose full not rushing per user 3000+ request",
       "acceptance_basis": "continuation_authorization",
       "revision": "R5",
       "canon_style_approved": true,
-      "word_count": 5313
+      "word_count": 5458
     },
     {
       "number": 16,
@@ -516,7 +516,7 @@
     {
       "number": 18,
       "path": "chapters/Chapter_18_Strange_Visitor_Part1.md",
-      "sha256": "6c4c224f244e5897a9e43e11ccf4f2a570ec1f4b8ab8f978132775d3924dc4a9",
+      "sha256": "e1297d1c033868a747996fea59725b838d18e1b3ea2fdbf4ba0563896a43c815",
       "revision": "R3",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_18_ACCEPTED.json",
@@ -525,12 +525,12 @@
       "epoch": "v1",
       "title": "Strange Visitor Part1 White Martian + Torquasm Vo Rao",
       "canon_style_approved": true,
-      "word_count": 4581
+      "word_count": 5054
     },
     {
       "number": 19,
       "path": "chapters/Chapter_19_Strange_Visitor_Part2.md",
-      "sha256": "7a338c11006e98b3f0a794c17d0e24c94441f9073d85c639f64f133f7a78a023",
+      "sha256": "07999aca98475b7bebb7fbe992a3668f498b1d1f708b4161bb2a16ac12132206",
       "revision": "R3",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_19_ACCEPTED.json",
@@ -539,12 +539,12 @@
       "epoch": "v1",
       "title": "Strange Visitor Part2 Adam Bizarro + Torquasm Vo Rao",
       "canon_style_approved": true,
-      "word_count": 5368
+      "word_count": 6272
     },
     {
       "number": 20,
       "path": "chapters/Chapter_20_Bizarro.md",
-      "sha256": "494a31afc0c4aeea7efbab5c43c660680d91a636912ba035dad91dd3a81be34d",
+      "sha256": "30b148ecaea18ef0f5873aa661fec038823ef5288d612d02f786513035b8acae",
       "revision": "R2",
       "accepted_on": "2026-10-08",
       "coverage": "canon_coverage/Chapter_20_ACCEPTED.json",
@@ -552,68 +552,68 @@
       "acceptance_basis": "continuation_authorization",
       "epoch": "v1",
       "title": "Bizarro events actually happening",
-      "word_count": 4854,
+      "word_count": 5315,
       "canon_style_approved": true
     },
     {
       "number": 21,
       "epoch": "v1",
       "path": "chapters/Chapter_21_For_the_Girl_Who_Has_Everything.md",
-      "sha256": "a1dcf4b366077eb6083ca61d146e2c531ffd83f91e70aca5955c985c3224618c",
+      "sha256": "84c1ee9b4804470ba72cde1aeba66f682e57145aa6620ae3b1952e8d5d15d56f",
       "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_21_R1_REVIEW.md \u2014 U60: Chapter 21 For_the_Girl_Who_Has_Everything",
       "acceptance_basis": "continuation_authorization",
       "canon_style_approved": true,
-      "word_count": 4642
+      "word_count": 5380
     },
     {
       "number": 22,
       "epoch": "v1",
       "path": "chapters/Chapter_22_Truth_Justice.md",
-      "sha256": "81918ced138c1276634031a53d9c01387369e4f0a69af00c5ca0ca1a42fa6988",
+      "sha256": "926cedebe8c6448c6395129c3772aa2da65be1e8f3a9bc61aebf307807ccf1f2",
       "coverage": "canon_coverage/Chapter_22_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_22_R1_REVIEW.md \u2014 U60: Chapter 22 Truth_Justice",
       "acceptance_basis": "continuation_authorization",
       "canon_style_approved": true,
-      "word_count": 4797
+      "word_count": 5422
     },
     {
       "number": 23,
       "epoch": "v1",
       "path": "chapters/Chapter_23_Solitude.md",
-      "sha256": "9c8714b6f6843b078e56e440388d12d752a1fe68ccd42ca311ca785d634379b3",
+      "sha256": "9d8e780e945f5ad77de2e822e2d4e9ea4554da544b957990a25a713819720a06",
       "coverage": "canon_coverage/Chapter_23_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_23_R1_REVIEW.md \u2014 U60: Chapter 23 Solitude",
       "acceptance_basis": "continuation_authorization",
       "canon_style_approved": true,
-      "word_count": 4874
+      "word_count": 5540
     },
     {
       "number": 24,
       "epoch": "v1",
       "path": "chapters/Chapter_24_Falling.md",
-      "sha256": "b6cf5cb116b34d5c7c28ee9e5125f5efc8fd6c2a85a94dede77c8c9403e177a5",
+      "sha256": "ec46889788fb99eb7820c13b05822771ef5a219ae7553a530bc0e7c80110728f",
       "coverage": "canon_coverage/Chapter_24_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_24_R3_REVIEW.md \u2014 U60: Chapter 24 Falling",
       "acceptance_basis": "continuation_authorization",
-      "word_count": 4316,
+      "word_count": 4919,
       "canon_style_approved": true
     },
     {
       "number": 25,
       "epoch": "v1",
       "path": "chapters/Chapter_25_Manhunter.md",
-      "sha256": "ed9444feaa87ca496f7812c495585a7bbb067d063b61d44edc1256620ceba52f",
+      "sha256": "1e6f0bc7d8c0cdbb6b6fa9042773fa5374648adcb19652d89d3576876b9bf522",
       "coverage": "canon_coverage/Chapter_25_ACCEPTED.json",
       "accepted_on": "2026-10-09",
       "acceptance_receipt": "audits/CHAPTER_25_R1_REVIEW.md \u2014 U60: Chapter 25 Manhunter",
       "acceptance_basis": "continuation_authorization",
       "canon_style_approved": true,
-      "word_count": 4443
+      "word_count": 5025
     },
     {
       "number": 26,
@@ -631,8 +631,8 @@
       "title": "Myriad",
       "episode": "S01E19 - Myriad",
       "path": "chapters/Chapter_27_Myriad.md",
-      "sha256": "de93093188f66b79f7b0a9fe888159452f4be16803cbbb7c488242583b399229",
-      "word_count": 4719,
+      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
+      "word_count": 5305,
       "canon_style_approved": true,
       "number": 27,
       "acceptance_receipt": "audits/CHAPTER_27_R4_REVIEW.md \u2014 U73: canon style, butterfly carry-through, Adrian existential arc",
@@ -662,8 +662,8 @@
       "title": "The Adventures of Supergirl",
       "episode": "S02E01 - The Adventures of Supergirl",
       "path": "chapters/Chapter_29_The_Adventures_of_Supergirl.md",
-      "sha256": "c1ebe1d2d1811633c1f65c090dd628ca021e2e44f79e392a74d3c1c3dd391c6e",
-      "word_count": 3747,
+      "sha256": "d2a7ac73b43ded3dbf783c1083a2e24ede5818c6faba25579ce5e736cd5bfbef",
+      "word_count": 4419,
       "canon_style_approved": true,
       "acceptance_receipt": "audits/CHAPTER_29_R1_REVIEW.md \u2014 U73: canon style, butterfly carry-through",
       "epoch": "v1",
@@ -805,9 +805,10 @@
       "chapter": 15,
       "revision": "R4",
       "path": "drafts/Chapter_15_Blood_Bonds_R4.md",
-      "sha256": "04627aba01a8f56b114ddcfbabfbb6bfe6f62789c014d0c1788a16854b2b5f65",
+      "sha256": "cb4570aa21c108761d3d707fbe5663669f883caa60b8323782c19f77440e65dc",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_15_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_15_ACCEPTED.json",
+      "word_count": 5458
     },
     {
       "chapter": 16,
@@ -829,65 +830,73 @@
       "chapter": 18,
       "revision": "R3",
       "path": "drafts/Chapter_18_Strange_Visitor_Part1_R3.md",
-      "sha256": "6c4c224f244e5897a9e43e11ccf4f2a570ec1f4b8ab8f978132775d3924dc4a9",
+      "sha256": "e1297d1c033868a747996fea59725b838d18e1b3ea2fdbf4ba0563896a43c815",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_18_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_18_ACCEPTED.json",
+      "word_count": 5054
     },
     {
       "chapter": 19,
       "revision": "R3",
       "path": "drafts/Chapter_19_Strange_Visitor_Part2_R3.md",
-      "sha256": "7a338c11006e98b3f0a794c17d0e24c94441f9073d85c639f64f133f7a78a023",
+      "sha256": "07999aca98475b7bebb7fbe992a3668f498b1d1f708b4161bb2a16ac12132206",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_19_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_19_ACCEPTED.json",
+      "word_count": 6272
     },
     {
       "chapter": 20,
       "revision": "R3",
       "path": "drafts/Chapter_20_Bizarro_R3.md",
-      "sha256": "494a31afc0c4aeea7efbab5c43c660680d91a636912ba035dad91dd3a81be34d",
+      "sha256": "30b148ecaea18ef0f5873aa661fec038823ef5288d612d02f786513035b8acae",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_20_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_20_ACCEPTED.json",
+      "word_count": 5315
     },
     {
       "chapter": 21,
       "revision": "R4",
       "path": "drafts/Chapter_21_For_the_Girl_Who_Has_Everything_R4.md",
-      "sha256": "a1dcf4b366077eb6083ca61d146e2c531ffd83f91e70aca5955c985c3224618c",
+      "sha256": "84c1ee9b4804470ba72cde1aeba66f682e57145aa6620ae3b1952e8d5d15d56f",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_21_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_21_ACCEPTED.json",
+      "word_count": 5380
     },
     {
       "chapter": 22,
       "revision": "R4",
       "path": "drafts/Chapter_22_Truth_Justice_R4.md",
-      "sha256": "81918ced138c1276634031a53d9c01387369e4f0a69af00c5ca0ca1a42fa6988",
+      "sha256": "926cedebe8c6448c6395129c3772aa2da65be1e8f3a9bc61aebf307807ccf1f2",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_22_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_22_ACCEPTED.json",
+      "word_count": 5422
     },
     {
       "chapter": 23,
       "revision": "R4",
       "path": "drafts/Chapter_23_Solitude_R4.md",
-      "sha256": "9c8714b6f6843b078e56e440388d12d752a1fe68ccd42ca311ca785d634379b3",
+      "sha256": "9d8e780e945f5ad77de2e822e2d4e9ea4554da544b957990a25a713819720a06",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_23_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_23_ACCEPTED.json",
+      "word_count": 5540
     },
     {
       "chapter": 24,
       "revision": "R3",
       "path": "drafts/Chapter_24_Falling_R3.md",
-      "sha256": "b6cf5cb116b34d5c7c28ee9e5125f5efc8fd6c2a85a94dede77c8c9403e177a5",
+      "sha256": "ec46889788fb99eb7820c13b05822771ef5a219ae7553a530bc0e7c80110728f",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_24_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_24_ACCEPTED.json",
+      "word_count": 4919
     },
     {
       "chapter": 25,
       "revision": "R4",
       "path": "drafts/Chapter_25_Manhunter_R4.md",
-      "sha256": "ed9444feaa87ca496f7812c495585a7bbb067d063b61d44edc1256620ceba52f",
+      "sha256": "1e6f0bc7d8c0cdbb6b6fa9042773fa5374648adcb19652d89d3576876b9bf522",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_25_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_25_ACCEPTED.json",
+      "word_count": 5025
     },
     {
       "chapter": 26,
@@ -900,10 +909,11 @@
     {
       "chapter": 27,
       "path": "drafts/Chapter_27_Myriad_R2.md",
-      "sha256": "c3c7f52c80f03b7e20dbca5d09db1214d53436dfa2529d69684c36a282f8aea2",
+      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
       "revision": "2",
       "status": "preserved",
-      "coverage": "canon_coverage/Chapter_27_PRESERVED_R2.json"
+      "coverage": "canon_coverage/Chapter_27_PRESERVED_R2.json",
+      "word_count": 5305
     },
     {
       "chapter": 1,
@@ -924,10 +934,11 @@
     {
       "chapter": 27,
       "path": "drafts/Chapter_27_Myriad_R1.md",
-      "sha256": "1c24de052ac9fe1c6dde04acb972517ace1d135941eb424d06e405732199978d",
+      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
       "revision": "1",
       "status": "preserved",
-      "coverage": "canon_coverage/Chapter_27_PRESERVED_R1.json"
+      "coverage": "canon_coverage/Chapter_27_PRESERVED_R1.json",
+      "word_count": 5305
     },
     {
       "chapter": 28,
@@ -940,10 +951,11 @@
     {
       "chapter": 27,
       "path": "drafts/Chapter_27_Myriad_R4.md",
-      "sha256": "de93093188f66b79f7b0a9fe888159452f4be16803cbbb7c488242583b399229",
+      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
       "revision": "R4",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_27_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_27_ACCEPTED.json",
+      "word_count": 5305
     },
     {
       "chapter": 28,
@@ -959,7 +971,8 @@
       "revision": "R3",
       "status": "superseded",
       "coverage": "canon_coverage/Chapter_27_PRESERVED_R3.json",
-      "sha256": "2d87b7b2c62c49af6f2babd90f6a8298d02340f2e2b958e47828da63001635f9"
+      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
+      "word_count": 5305
     },
     {
       "chapter": 28,
@@ -972,10 +985,11 @@
     {
       "chapter": 29,
       "path": "drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md",
-      "sha256": "c1ebe1d2d1811633c1f65c090dd628ca021e2e44f79e392a74d3c1c3dd391c6e",
+      "sha256": "d2a7ac73b43ded3dbf783c1083a2e24ede5818c6faba25579ce5e736cd5bfbef",
       "revision": "R1",
       "status": "latest_candidate",
-      "coverage": "canon_coverage/Chapter_29_ACCEPTED.json"
+      "coverage": "canon_coverage/Chapter_29_ACCEPTED.json",
+      "word_count": 4419
     },
     {
       "chapter": 30,

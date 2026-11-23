@@ -4,7 +4,7 @@
   "revision": "R4",
   "epoch": "v1",
   "draft_path": "drafts/Chapter_15_Blood_Bonds_R4.md",
-  "draft_sha256": "04627aba01a8f56b114ddcfbabfbb6bfe6f62789c014d0c1788a16854b2b5f65",
+  "draft_sha256": "cb4570aa21c108761d3d707fbe5663669f883caa60b8323782c19f77440e65dc",
   "accepted": true,
   "claimed_episode": "S01E09 Blood Bonds",
   "span": "Blood Bonds clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen",
@@ -158,6 +158,10 @@
     "prose": {
       "path": "audits/CHAPTER_15_R2_REVIEW.md",
       "sha256": "8d0cf77cf5c4994149a086f078cf6194e3fff2b3c380683fda0606f8e639a129"
+    },
+    "chapter": {
+      "path": "chapters/Chapter_15_Blood_Bonds.md",
+      "sha256": "cb4570aa21c108761d3d707fbe5663669f883caa60b8323782c19f77440e65dc"
     }
   },
   "release_ready": true,
@@ -173,5 +177,7 @@
     "chapter_title": "Blood Bonds clean no meta no ticker spam no Cat private secrets natural butterfly alive Adrian seen"
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R6"
+  "draft_revision": "R6",
+  "chapter_sha256": "cb4570aa21c108761d3d707fbe5663669f883caa60b8323782c19f77440e65dc",
+  "chapter_word_count": 5458
 }

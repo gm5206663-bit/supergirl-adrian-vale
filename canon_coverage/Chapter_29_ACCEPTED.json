@@ -2,7 +2,7 @@
   "chapter": 29,
   "revision": "R1",
   "draft_path": "drafts/Chapter_29_The_Adventures_of_Supergirl_R1.md",
-  "draft_sha256": "c1ebe1d2d1811633c1f65c090dd628ca021e2e44f79e392a74d3c1c3dd391c6e",
+  "draft_sha256": "d2a7ac73b43ded3dbf783c1083a2e24ede5818c6faba25579ce5e736cd5bfbef",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -234,8 +234,14 @@
     "prose": {
       "path": "audits/CHAPTER_29_R1_REVIEW.md",
       "sha256": "2197d205041ddfc2dd1c9a90c048b70730b6308f7b7a7e8b971b66824a96ad6c"
+    },
+    "chapter": {
+      "path": "chapters/Chapter_29_The_Adventures_of_Supergirl.md",
+      "sha256": "d2a7ac73b43ded3dbf783c1083a2e24ede5818c6faba25579ce5e736cd5bfbef"
     }
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R1"
+  "draft_revision": "R1",
+  "chapter_sha256": "d2a7ac73b43ded3dbf783c1083a2e24ede5818c6faba25579ce5e736cd5bfbef",
+  "chapter_word_count": 4419
 }

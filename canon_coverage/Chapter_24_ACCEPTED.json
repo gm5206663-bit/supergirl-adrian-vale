@@ -2,7 +2,7 @@
   "chapter": 24,
   "revision": "R3",
   "draft_path": "drafts/Chapter_24_Falling_R3.md",
-  "draft_sha256": "b6cf5cb116b34d5c7c28ee9e5125f5efc8fd6c2a85a94dede77c8c9403e177a5",
+  "draft_sha256": "ec46889788fb99eb7820c13b05822771ef5a219ae7553a530bc0e7c80110728f",
   "epoch": "v1",
   "accepted": true,
   "release_ready": true,
@@ -143,8 +143,14 @@
     "prose": {
       "path": "audits/CHAPTER_21_R2_REVIEW.md",
       "sha256": "b30596d987b9cf34d2865fd510a8ed271df90be155c437aeba08c3adb16250df"
+    },
+    "chapter": {
+      "path": "chapters/Chapter_24_Falling.md",
+      "sha256": "ec46889788fb99eb7820c13b05822771ef5a219ae7553a530bc0e7c80110728f"
     }
   },
   "updated_on": "2026-09-27",
-  "draft_revision": "R4"
+  "draft_revision": "R4",
+  "chapter_sha256": "ec46889788fb99eb7820c13b05822771ef5a219ae7553a530bc0e7c80110728f",
+  "chapter_word_count": 4919
 }

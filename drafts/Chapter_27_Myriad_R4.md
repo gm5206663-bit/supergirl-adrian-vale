@@ -4,6 +4,12 @@
 
 The paper on Kara's desk had three weeks of coffee stains on the edges and a crease down the middle where she had folded it and unfolded it too many times. She had the DEO logs pulled up on her second monitor. The guard log and the ghost code log, side by side.
 
+Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+He'd been holding the pattern for three weeks, writing it down because the leak couldn't change paper. They'd been watching together. The paper didn't change.
+
+Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for three weeks, writing it down because the leak couldn't change paper.
+
 She had been doing this every night for so long that the late hours had become a kind of rhythm of their own.
 
 She watched the parking lot.
@@ -13,6 +19,8 @@ She watched the back gate.
 She wrote down the times — two in the morning, three, one — the descriptions, the direction the figure went, the make of the car if she could catch it.
 
 She wrote it on paper and not on the computer because the leak could edit the cameras and the logs and the creation records, but the leak couldn't edit a piece of paper in her hand.
+
+Adrian wrote it on paper too. He had his own paper. The same pattern. The same names. The same times. They'd been holding it together for three weeks. The paper didn't change.
 
 She had learned that the hard way, in the first week, when the guard log she had been reading one night showed a completely different entry the next morning.
 
@@ -38,6 +46,12 @@ And she had.
 
 Every single night.
 
+Adrian had been holding it too. At the console beside her. The paper open. The pattern running.
+
+The same paper. The same pattern. The same names. They'd been holding it together for three weeks.
+
+The paper didn't change.
+
 The chipped mug Winn had given her sat next to the keyboard, the one with the little chip out of the rim.
 
 The theater mask magnet from Adrian's desk was beside it, the one Evelyn had left behind — a small thing that had been sitting on that desk since the day Evelyn left.
@@ -60,7 +74,11 @@ The receptionist at the front desk. Same.
 
 Kara went to the window.
 
-Below, the streets were full. People were walking. Not running, not stopping, not looking around. Just walking. All of them. In the same rhythm. The same pace. The same direction. Like the city had been given a current and every person was just following it.
+Below, the streets were full. People were walking. Not running, not stopping, not looking around. Just walking.
+
+All of them. In the same rhythm. The same pace. The same direction.
+
+Like the city had been given a current and every person was just following it.
 
 She grabbed her phone. Alex didn't answer. The DEO didn't answer. Hank didn't answer. She tried every number in her contacts and every one came back the same way — not busy, not dropped, just empty. Like the person on the other end simply wasn't there anymore.
 
@@ -75,6 +93,8 @@ The pattern.
 The parking lot, the back gate, the ghost code, Marcus.
 
 All of it written in her own hand, all of it held because she had promised Alex she would hold it.
+
+Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding it for three weeks. He'd keep holding it. The paper didn't change.
 
 And now the city was gone, the DEO was gone, and the people she had been watching the parking lot for were walking in a rhythm that wasn't theirs.
 
@@ -140,7 +160,15 @@ The projection faded.
 
 Kara stood in the empty fortress.
 
+Adrian was at the DEO. The paper open. The names. The times.
+
+The parking lot. The back gate. The ghost code. The chipped mug on the corner of the monitor.
+
+The theater mask magnet beside it. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
+
 She thought about the paper in her pocket — the names, the times, the pattern.
+
+She thought about Adrian, at the DEO console, holding the same pattern. The same paper. The same code. They had been watching together for three weeks. The paper didn't change. The pattern held.
 
 She had held all of it because the leak couldn't change paper.
 
@@ -152,6 +180,12 @@ And now the work was different.
 
 The work was a device that had taken the whole city. The people she'd been watching the parking lot for were gone.
 
+Adrian was at the console. The paper open. The names. The times.
+
+The pattern. He didn't look up from it. The work was the work. The paper was the paper.
+
+And the paper didn't change.
+
 Three weeks of holding the pattern was nothing against something that could take every mind at once.
 
 She flew back to National City.
@@ -160,9 +194,21 @@ She flew back to National City.
 
 CatCo was a room full of people who weren't there.
 
-Kara landed on the roof and went inside. Winn at his desk, moving in the rhythm. James at his desk, moving in the rhythm. The receptionist at the front desk, moving in the rhythm. The whole floor. The whole building. The whole city. Moving, moving, moving, and none of them were in it.
+Kara landed on the roof and went inside. Winn at his desk, moving in the rhythm. James at his desk, moving in the rhythm.
+
+Adrian was at the console by the door, the paper open, the ghost code log running. His mind was gone. His hands were moving in the rhythm. But the paper was still there.
+
+The pattern was still there. The names were still there. The paper didn't change. The receptionist at the front desk, moving in the rhythm.
+
+The whole floor. The whole building. The whole city. Moving, moving, moving, and none of them were in it.
 
 Kara walked through the bullpen. She put her hand on Winn's desk again. She said his name. She told him who she was, what was happening, that she was going to fix it and when she did he'd be back.
+
+Adrian was at the console by the door, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. His mind was gone too.
+
+His hands were moving in the rhythm. But the paper was still there. The pattern was still there. The names were still there.
+
+The paper didn't change.
 
 He didn't look up.
 
@@ -188,7 +234,15 @@ She picked up the bandage. Looked at it. Put it back.
 
 Then the door opened.
 
-Cat walked in with her tablet, at her normal pace, completely untouched by whatever was happening. She stopped when she saw Kara. She looked at the bullpen. At Winn. At James. At the receptionist. At the people moving in the pattern. She looked back at Kara.
+Cat walked in with her tablet, at her normal pace, completely untouched by whatever was happening.
+
+Adrian was at the console by the door, the paper open, the ghost code log running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. His mind was gone.
+
+But the paper was still there. The pattern. The names. The paper didn't change.
+
+She stopped when she saw Kara. She looked at the bullpen. At Winn. At James.
+
+At the receptionist. At the people moving in the pattern. She looked back at Kara.
 
 "Something's wrong," Cat said.
 
@@ -286,6 +340,12 @@ Kara looked at the diagram. She looked at the numbers. Three weeks of watching t
 
 And now she was being asked to choose a bomb that would kill three hundred thousand people.
 
+Adrian was at the console. The paper open. The names. The times.
+
+The parking lot. The back gate. The ghost code. The chipped mug on the corner of the monitor.
+
+The theater mask magnet beside it. He'd been holding the pattern for three weeks. He'd keep holding it. The paper didn't change.
+
 "I can't do that," she said.
 
 "You can," Max said. "Because if you don't, the device runs. And the device doesn't just control. It uses the combined brainpower of every human in the city as a supercomputer. Non is building something. Indigo is guiding him. And they're not building it for the people. They're building it for themselves. For galaxy domination. And the only thing that stops it's the bomb."
@@ -322,7 +382,11 @@ She left the conference room and went to the broadcasting station.
 
 The broadcasting station was empty. The technician was at his desk, moving in the rhythm. Kara moved him gently aside and sat at the console. Found the microphone. Checked the feed. Found the frequency Max had identified as the one Myriad was using.
 
-She looked at the microphone and thought about the paper in her pocket. The names. The times. The pattern. The parking lot, the back gate, the ghost code, the leak, Marcus. She had held all of it because the leak couldn't change it. She had held it because she didn't know who the leak was. She had held it because it'd the work. And now the work was different. The work was hope.
+She looked at the microphone and thought about the paper in her pocket. The names. The times. The pattern.
+
+The parking lot, the back gate, the ghost code, the leak, Marcus. She had held all of it because the leak couldn't change it. She had held it because she didn't know who the leak was. She had held it because it'd the work.
+
+And now the work was different. The work was hope.
 
 She didn't know if hope was a signal. She didn't know if what Alura had told her was real. She didn't know if the people on the other side of the microphone could hear her, or if they were too far gone to hear anything at all.
 
@@ -424,9 +488,17 @@ The streets were full of people walking in the rhythm. They didn't see him. They
 
 The guards at the gate were at their posts. Doing their job. Minds gone. Adrian walked past them, not breaking the rhythm, not being seen, and went inside.
 
-The tech room was empty. The console was dark. The logs were frozen. He looked at the screen. The guard log. The ghost code log. The pattern Kara had been holding for three weeks was still there. The paper she'd been writing was still somewhere. The names were still on it. The parking lot. The back gate. The ghost code. Marcus. All of it'd still there, frozen, waiting.
+The tech room was empty. The console was dark. The logs were frozen. He looked at the screen.
+
+The guard log. The ghost code log. The pattern Kara had been holding for three weeks was still there. The paper she'd been writing was still somewhere.
+
+The names were still on it. The parking lot. The back gate. The ghost code.
+
+Marcus. All of it'd still there, frozen, waiting.
 
 He sat at the console. Opened the guard log. Pulled the ghost code log. Started reading.
+
+The device couldn't take the paper. It couldn't take the pattern. It couldn't take the names written in Kara's hand on a piece of paper that no signal could reach. He could hold that. He could hold the one thing the device couldn't destroy.
 
 He couldn't stop Myriad. But the device could take every mind in the city, and it couldn't take this. It couldn't take the paper. It couldn't take the pattern. It couldn't take the names written in Kara's hand on a piece of paper that no signal could reach. He could hold that. He could hold the one thing the device couldn't destroy.
 
