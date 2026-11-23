@@ -6,9 +6,11 @@ The paper on Kara's desk had three weeks of coffee stains on the edges and a cre
 
 Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
 
-He'd been holding the pattern for three weeks, writing it down because the leak couldn't change paper. They'd been watching together. The paper didn't change.
+He tapped the paper. "Look," he said. "The ghost code was used at one-twenty on the nights Marcus walked the corridor. You were watching the parking lot. I was watching the code. They're the same night, but the times are different. Whoever's in the parking lot and whoever's in the corridor aren't the same person."
 
-Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding the pattern for three weeks, writing it down because the leak couldn't change paper.
+Kara looked at the paper. She hadn't seen the split. She'd been watching the parking lot. He'd been watching the code. Together, they'd caught what neither of them would have caught alone.
+
+He'd been holding the pattern for three weeks, writing it down because the leak couldn't change paper. They'd been watching together. The paper didn't change.
 
 She had been doing this every night for so long that the late hours had become a kind of rhythm of their own.
 
@@ -94,13 +96,19 @@ The parking lot, the back gate, the ghost code, Marcus.
 
 All of it written in her own hand, all of it held because she had promised Alex she would hold it.
 
-Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it. He'd been holding it for three weeks. He'd keep holding it. The paper didn't change.
+Adrian was at the console beside her, the paper open, the pattern running. The chipped mug on the corner of the monitor. The theater mask magnet beside it.
+
+"The paper's still here," he said. His voice was the only steady thing in the room. "The device took the city. It can't take this."
+
+He held the pattern. He'd been holding it for three weeks. He'd keep holding it. The paper didn't change. And the act of holding it — the decision to keep writing, to keep watching, to keep the names in his own hand when every screen in the building had gone blank — was the one thing the device couldn't reach.
 
 And now the city was gone, the DEO was gone, and the people she had been watching the parking lot for were walking in a rhythm that wasn't theirs.
 
 Three weeks of watching and writing and holding, and it meant nothing against something that could just take every mind at once.
 
 She folded the paper and put it in her pocket.
+
+Adrian stayed at the console. He didn't leave. The city was gone, the DEO was gone, and the pattern was still on the desk. He put his hand on the paper. He'd hold it. He'd hold it until she came back.
 
 ***
 

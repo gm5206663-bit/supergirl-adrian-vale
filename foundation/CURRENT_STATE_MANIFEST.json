@@ -631,8 +631,8 @@
       "title": "Myriad",
       "episode": "S01E19 - Myriad",
       "path": "chapters/Chapter_27_Myriad.md",
-      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
-      "word_count": 5305,
+      "sha256": "b7a3d92a0a9fc3c7aa2029ebcab73ccb4723aa8179cc7d46ad68b684bb8f713a",
+      "word_count": 5458,
       "canon_style_approved": true,
       "number": 27,
       "acceptance_receipt": "audits/CHAPTER_27_R4_REVIEW.md \u2014 U73: canon style, butterfly carry-through, Adrian existential arc",
@@ -909,11 +909,11 @@
     {
       "chapter": 27,
       "path": "drafts/Chapter_27_Myriad_R2.md",
-      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
+      "sha256": "b7a3d92a0a9fc3c7aa2029ebcab73ccb4723aa8179cc7d46ad68b684bb8f713a",
       "revision": "2",
       "status": "preserved",
       "coverage": "canon_coverage/Chapter_27_PRESERVED_R2.json",
-      "word_count": 5305
+      "word_count": 5458
     },
     {
       "chapter": 1,
@@ -934,11 +934,11 @@
     {
       "chapter": 27,
       "path": "drafts/Chapter_27_Myriad_R1.md",
-      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
+      "sha256": "b7a3d92a0a9fc3c7aa2029ebcab73ccb4723aa8179cc7d46ad68b684bb8f713a",
       "revision": "1",
       "status": "preserved",
       "coverage": "canon_coverage/Chapter_27_PRESERVED_R1.json",
-      "word_count": 5305
+      "word_count": 5458
     },
     {
       "chapter": 28,
@@ -951,11 +951,11 @@
     {
       "chapter": 27,
       "path": "drafts/Chapter_27_Myriad_R4.md",
-      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
+      "sha256": "b7a3d92a0a9fc3c7aa2029ebcab73ccb4723aa8179cc7d46ad68b684bb8f713a",
       "revision": "R4",
       "status": "latest_candidate",
       "coverage": "canon_coverage/Chapter_27_ACCEPTED.json",
-      "word_count": 5305
+      "word_count": 5458
     },
     {
       "chapter": 28,
@@ -971,8 +971,8 @@
       "revision": "R3",
       "status": "superseded",
       "coverage": "canon_coverage/Chapter_27_PRESERVED_R3.json",
-      "sha256": "23ba2881511759f8e800168d9bd103fde9bb91d578cf867b44ba349b98e2eea8",
-      "word_count": 5305
+      "sha256": "b7a3d92a0a9fc3c7aa2029ebcab73ccb4723aa8179cc7d46ad68b684bb8f713a",
+      "word_count": 5458
     },
     {
       "chapter": 28,
